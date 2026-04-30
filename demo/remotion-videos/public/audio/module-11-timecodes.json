@@ -1,0 +1,96 @@
+{
+  "moduleNum": 11,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 28160,
+      "durationMs": 28160,
+      "audioFile": "module-11/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 28160,
+      "endMs": 56080,
+      "durationMs": 27920,
+      "audioFile": "module-11/01-objectives.wav"
+    },
+    {
+      "id": "security-planner--stride-threat-modeling",
+      "index": 2,
+      "type": "content",
+      "title": "Security Planner — STRIDE Threat Modeling",
+      "startMs": 56080,
+      "endMs": 272720,
+      "durationMs": 216640,
+      "audioFile": "module-11/02-security-planner--stride-threat-modeling.wav"
+    },
+    {
+      "id": "rai-planner--nist-ai-rmf-assessment",
+      "index": 3,
+      "type": "content",
+      "title": "RAI Planner — NIST AI RMF Assessment",
+      "startMs": 272720,
+      "endMs": 481760,
+      "durationMs": 209040,
+      "audioFile": "module-11/03-rai-planner--nist-ai-rmf-assessment.wav"
+    },
+    {
+      "id": "sssc-planner--supply-chain-security",
+      "index": 4,
+      "type": "content",
+      "title": "SSSC Planner — Supply Chain Security",
+      "startMs": 481760,
+      "endMs": 670240,
+      "durationMs": 188480,
+      "audioFile": "module-11/04-sssc-planner--supply-chain-security.wav"
+    },
+    {
+      "id": "shared-workflow-architecture",
+      "index": 5,
+      "type": "content",
+      "title": "Shared Workflow Architecture",
+      "startMs": 670240,
+      "endMs": 851520,
+      "durationMs": 181280,
+      "audioFile": "module-11/05-shared-workflow-architecture.wav"
+    },
+    {
+      "id": "dual-format-backlog-handoff",
+      "index": 6,
+      "type": "content",
+      "title": "Dual-Format Backlog Handoff",
+      "startMs": 851520,
+      "endMs": 999640,
+      "durationMs": 148120,
+      "audioFile": "module-11/06-dual-format-backlog-handoff.wav"
+    },
+    {
+      "id": "the-security-reviewer",
+      "index": 7,
+      "type": "content",
+      "title": "The Security Reviewer",
+      "startMs": 999640,
+      "endMs": 1064480,
+      "durationMs": 64840,
+      "audioFile": "module-11/07-the-security-reviewer.wav"
+    },
+    {
+      "id": "outro",
+      "index": 8,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 1064480,
+      "endMs": 1121440,
+      "durationMs": 56960,
+      "audioFile": "module-11/08-outro.wav"
+    }
+  ],
+  "totalDurationMs": 1121440
+}

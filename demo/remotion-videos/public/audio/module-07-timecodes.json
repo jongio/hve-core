@@ -1,0 +1,76 @@
+{
+  "moduleNum": 7,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 29240,
+      "durationMs": 29240,
+      "audioFile": "module-07/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 29240,
+      "endMs": 50040,
+      "durationMs": 20800,
+      "audioFile": "module-07/01-objectives.wav"
+    },
+    {
+      "id": "the-prompt-file-format",
+      "index": 2,
+      "type": "content",
+      "title": "The Prompt File Format",
+      "startMs": 50040,
+      "endMs": 201560,
+      "durationMs": 151520,
+      "audioFile": "module-07/02-the-prompt-file-format.wav"
+    },
+    {
+      "id": "slash-command-invocation",
+      "index": 3,
+      "type": "content",
+      "title": "Slash Command Invocation",
+      "startMs": 201560,
+      "endMs": 306680,
+      "durationMs": 105120,
+      "audioFile": "module-07/03-slash-command-invocation.wav"
+    },
+    {
+      "id": "prompt-families",
+      "index": 4,
+      "type": "content",
+      "title": "Prompt Families",
+      "startMs": 306680,
+      "endMs": 489560,
+      "durationMs": 182880,
+      "audioFile": "module-07/04-prompt-families.wav"
+    },
+    {
+      "id": "input-variables-and-parameterization",
+      "index": 5,
+      "type": "content",
+      "title": "Input Variables and Parameterization",
+      "startMs": 489560,
+      "endMs": 645360,
+      "durationMs": 155800,
+      "audioFile": "module-07/05-input-variables-and-parameterization.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 645360,
+      "endMs": 682720,
+      "durationMs": 37360,
+      "audioFile": "module-07/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 682720
+}

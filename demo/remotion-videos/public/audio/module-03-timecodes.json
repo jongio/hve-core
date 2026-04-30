@@ -1,0 +1,76 @@
+{
+  "moduleNum": 3,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 33400,
+      "durationMs": 33400,
+      "audioFile": "module-03/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 33400,
+      "endMs": 60160,
+      "durationMs": 26760,
+      "audioFile": "module-03/01-objectives.wav"
+    },
+    {
+      "id": "the-four-phases",
+      "index": 2,
+      "type": "content",
+      "title": "The Four Phases",
+      "startMs": 60160,
+      "endMs": 80160,
+      "durationMs": 20000,
+      "audioFile": "module-03/02-the-four-phases.wav"
+    },
+    {
+      "id": "the-agent-files-and-handoff-contracts",
+      "index": 3,
+      "type": "content",
+      "title": "The Agent Files and Handoff Contracts",
+      "startMs": 80160,
+      "endMs": 229720,
+      "durationMs": 149560,
+      "audioFile": "module-03/03-the-agent-files-and-handoff-contracts.wav"
+    },
+    {
+      "id": "prompt-shortcuts-and-the-rpi-agent",
+      "index": 4,
+      "type": "content",
+      "title": "Prompt Shortcuts and the RPI Agent",
+      "startMs": 229720,
+      "endMs": 239720,
+      "durationMs": 10000,
+      "audioFile": "module-03/04-prompt-shortcuts-and-the-rpi-agent.wav"
+    },
+    {
+      "id": "when-to-use-full-rpi",
+      "index": 5,
+      "type": "content",
+      "title": "When to Use Full RPI",
+      "startMs": 239720,
+      "endMs": 310560,
+      "durationMs": 70840,
+      "audioFile": "module-03/05-when-to-use-full-rpi.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 310560,
+      "endMs": 347840,
+      "durationMs": 37280,
+      "audioFile": "module-03/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 347840
+}

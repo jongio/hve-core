@@ -1,0 +1,76 @@
+{
+  "moduleNum": 12,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 29720,
+      "durationMs": 29720,
+      "audioFile": "module-12/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 29720,
+      "endMs": 54960,
+      "durationMs": 25240,
+      "audioFile": "module-12/01-objectives.wav"
+    },
+    {
+      "id": "the-linter-inventory",
+      "index": 2,
+      "type": "content",
+      "title": "The Linter Inventory",
+      "startMs": 54960,
+      "endMs": 271280,
+      "durationMs": 216320,
+      "audioFile": "module-12/02-the-linter-inventory.wav"
+    },
+    {
+      "id": "frontmatter-schema-validation",
+      "index": 3,
+      "type": "content",
+      "title": "Frontmatter Schema Validation",
+      "startMs": 271280,
+      "endMs": 461280,
+      "durationMs": 190000,
+      "audioFile": "module-12/03-frontmatter-schema-validation.wav"
+    },
+    {
+      "id": "the-lintall-pipeline",
+      "index": 4,
+      "type": "content",
+      "title": "The lint:all Pipeline",
+      "startMs": 461280,
+      "endMs": 471280,
+      "durationMs": 10000,
+      "audioFile": "module-12/04-the-lintall-pipeline.wav"
+    },
+    {
+      "id": "preventing-structural-entropy",
+      "index": 5,
+      "type": "content",
+      "title": "Preventing Structural Entropy",
+      "startMs": 471280,
+      "endMs": 603920,
+      "durationMs": 132640,
+      "audioFile": "module-12/05-preventing-structural-entropy.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 603920,
+      "endMs": 669320,
+      "durationMs": 65400,
+      "audioFile": "module-12/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 669320
+}

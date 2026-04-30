@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "code": "S1E01",
+    "semester": 1,
+    "title": "What Is HVE Core?",
+    "duration": "~9 min",
+    "description": "GitHub Copilot ships as a general-purpose assistant. HVE Core transforms it into a constraint-based engineering workflow engine with specialized agents, auto-applied instructions, reusable prompts, and validated skills.",
+    "objectives": [
+      "Identify the problem HVE Core solves for teams using GitHub Copilot",
+      "Distinguish the four artifact types that compose the HVE Core library",
+      "Describe collection-driven architecture and how it organizes artifacts into distributable products",
+      "Recognize the range of teams and workflows HVE Core supports"
+    ],
+    "talkingPoints": [
+      "The Problem HVE Core Solves: Copilot alone has no memory of team conventions, no enforcement of standards, and no structured workflows",
+      "The Four Artifact Types: agents, instructions, prompts, and skills each serve a distinct role",
+      "Collection-Driven Architecture: the collection is the organizational and distribution unit",
+      "Who Uses HVE Core: from solo developers to enterprise platform teams"
+    ]
+  },
+  {
+    "id": 2,
+    "code": "S1E02",
+    "semester": 1,
+    "title": "Installation and First Workflow",
+    "duration": "~8 min",
+    "description": "Three installation modes cover every deployment scenario — full marketplace install, selective collection install, and direct repo clone. This module walks through each option and runs a first agent conversation.",
+    "objectives": [
+      "Compare the three installation modes and select the appropriate one for your team",
+      "Execute a complete installation from the VS Code Marketplace",
+      "Launch a first agent conversation in Copilot Chat and observe artifact activation",
+      "Verify the installation using the validation checklist"
+    ],
+    "talkingPoints": [
+      "Three Installation Modes: HVE Core All for full library, HVE Installer for selective collections, repo clone for contributors",
+      "Step-by-Step Marketplace Install: one-click install from the VS Code Marketplace",
+      "First Agent Conversation: select an agent from the picker and start a task",
+      "Verification: confirm agents, instructions, and prompts are active"
+    ]
+  },
+  {
+    "id": 3,
+    "code": "S1E03",
+    "semester": 1,
+    "title": "The RPI Methodology",
+    "duration": "~10 min",
+    "description": "Research, Plan, Implement is the structured methodology that turns Copilot from a freeform assistant into an evidence-first engineering workflow. Each phase has a dedicated agent, a defined output, and a clear handoff contract.",
+    "objectives": [
+      "Define the three phases of the RPI methodology and the output each phase produces",
+      "Trace the data flow between the Task Researcher, Task Planner, and Task Implementor agents",
+      "Explain how the Task Reviewer closes the feedback loop and enables iterative refinement",
+      "Identify when to use the full RPI cycle versus individual phase agents"
+    ],
+    "talkingPoints": [
+      "The Research Phase: evidence gathering before planning prevents the most common AI failure mode — acting on assumptions",
+      "The Plan Phase: transforms research findings into an actionable implementation plan",
+      "The Implement Phase: executes the plan with constraint enforcement from instructions",
+      "The Review Phase: the Task Reviewer closes the loop with structured feedback"
+    ]
+  },
+  {
+    "id": 4,
+    "code": "S1E04",
+    "semester": 1,
+    "title": "Collections — The Product Boundary",
+    "duration": "~9 min",
+    "description": "Collections are the organizational and distribution unit in HVE Core. Each collection groups related artifacts into a distributable product with manifest metadata, maturity levels, and packaging rules.",
+    "objectives": [
+      "Define what a collection is and identify its two required files",
+      "Map the 13 collections to their functional domains",
+      "Distinguish stable, preview, and experimental maturity levels and their distribution implications",
+      "Explain how the packaging pipeline uses collection manifests to build extensions"
+    ],
+    "talkingPoints": [
+      "What a Collection Is: a manifest YAML plus a description markdown that define a distributable bundle",
+      "The 13 Collections: from hve-core and coding-standards to design-thinking and security",
+      "The Maturity Model: stable ships to production, preview is opt-in, experimental is internal",
+      "Packaging Pipeline: collections drive extension builds through artifact discovery and dependency closure"
+    ]
+  },
+  {
+    "id": 5,
+    "code": "S2E05",
+    "semester": 2,
+    "title": "Agents — Specialized AI Assistants",
+    "duration": "~10 min",
+    "description": "Agents are markdown files with YAML frontmatter that give Copilot persistent personas, scoped capabilities, and tool access. HVE Core ships 49 agents organized across 10 collection groupings.",
+    "objectives": [
+      "Describe the agent file format including frontmatter fields and system prompt body",
+      "Identify the agent taxonomy across collection groupings — RPI, planning, review, generators, and platforms",
+      "Explain the subagent architecture and how parent agents reference child agents through glob-based resolution",
+      "Use the Copilot Chat agent picker to select and invoke specialized agents"
+    ],
+    "talkingPoints": [
+      "Agent File Format: a .agent.md file with YAML frontmatter declaring description, tools, model, and subagents",
+      "Agent Taxonomy: 49 agents across RPI workflow, planning, review, code generation, and platform integration",
+      "Subagent Architecture: parent agents delegate to specialized child agents via glob-based references",
+      "Agent Picker: VS Code surfaces installed agents in the Copilot Chat picker for direct invocation"
+    ]
+  },
+  {
+    "id": 6,
+    "code": "S2E06",
+    "semester": 2,
+    "title": "Instructions — Auto-Applied Guidelines",
+    "duration": "~9 min",
+    "description": "Instructions are markdown files that Copilot loads automatically based on which files are open in the editor. They enforce coding standards, architectural constraints, and team conventions without explicit invocation.",
+    "objectives": [
+      "Explain how instructions auto-apply through applyTo glob patterns matched against open files",
+      "Map the instruction hierarchy from shared guidelines to language-specific coding standards",
+      "Describe how multiple instruction files can match a single open file and how they compose",
+      "Trace how frontmatter schema validation enforces structural correctness"
+    ],
+    "talkingPoints": [
+      "The Auto-Apply Mechanism: instructions activate when open files match their applyTo glob pattern",
+      "Directory Organization: 102 instruction files organized into shared and language-specific layers",
+      "Pattern Composition: multiple instructions can match the same file, building a layered context",
+      "Schema Validation: every instruction file's frontmatter is validated against a JSON Schema in CI"
+    ]
+  },
+  {
+    "id": 7,
+    "code": "S2E07",
+    "semester": 2,
+    "title": "Prompts — Reusable Task Templates",
+    "duration": "~8 min",
+    "description": "Prompts are reusable task templates that surface as slash commands in Copilot Chat. They encode multi-step workflows, onboarding sequences, and standardized procedures into invocable templates.",
+    "objectives": [
+      "Define prompts as reusable task templates and distinguish their role from agents and instructions",
+      "Identify the prompt file format including frontmatter fields and the agent delegation field",
+      "Map prompt families across functional domains — onboarding, git workflows, security, and platform integrations",
+      "Invoke prompts via slash commands in Copilot Chat"
+    ],
+    "talkingPoints": [
+      "Prompts vs Agents vs Instructions: agents carry personas, instructions carry constraints, prompts carry task workflows",
+      "Prompt File Format: a .prompt.md file with description, mode, and optional agent delegation",
+      "Prompt Families: 63 prompts organized by domain — onboarding, git, ADO, security, and more",
+      "Slash Command Invocation: prompts surface as /prompt-name in Copilot Chat for direct use"
+    ]
+  },
+  {
+    "id": 8,
+    "code": "S2E08",
+    "semester": 2,
+    "title": "Skills — Self-Contained Packages",
+    "duration": "~9 min",
+    "description": "Skills bundle domain expertise with executable scripts, reference documents, test suites, and cross-platform tooling into self-contained packages that agents and Copilot load on demand.",
+    "objectives": [
+      "Describe skill anatomy including the SKILL.md entry point, scripts, references, tests, and assets",
+      "Explain Python skill requirements including pyproject.toml, ruff configuration, and pytest integration",
+      "Trace the cross-platform scripting pattern with Bash and PowerShell implementations validated by CI",
+      "Identify the 11 skills shipped with HVE Core and their domain coverage"
+    ],
+    "talkingPoints": [
+      "Skill Anatomy: a directory anchored by SKILL.md with optional scripts, references, tests, and assets",
+      "Python Requirements: pyproject.toml, ruff linting, fuzz harness, and pytest integration for Python skills",
+      "Cross-Platform Scripts: both Bash and PowerShell implementations validated by CI for every scripted skill",
+      "The 11 Skills: coding-standards, security, experimental, and platform-specific skill packages"
+    ]
+  },
+  {
+    "id": 9,
+    "code": "S3E09",
+    "semester": 3,
+    "title": "Writing Custom Artifacts",
+    "duration": "~10 min",
+    "description": "This module covers the complete lifecycle of authoring custom instructions, agents, and prompts — from file creation through frontmatter configuration, collection manifest updates, and validation.",
+    "objectives": [
+      "Construct instruction files with valid frontmatter and targeted applyTo patterns",
+      "Define agent files with system prompts that produce consistent, scoped behavior",
+      "Create prompt files with correct frontmatter and optional agent delegation",
+      "Integrate new artifacts into collection manifests and run the validation pipeline"
+    ],
+    "talkingPoints": [
+      "Custom Instructions: frontmatter schema, applyTo targeting, layered composition",
+      "Custom Agents: system prompt authoring, subagent references, tool declarations",
+      "Custom Prompts: slash command creation, agent field delegation, mode configuration",
+      "Validation Pipeline: lint:all checks, collection manifest updates, plugin regeneration"
+    ]
+  },
+  {
+    "id": 10,
+    "code": "S3E10",
+    "semester": 3,
+    "title": "The Design Thinking Framework",
+    "duration": "~10 min",
+    "description": "The Design Thinking collection implements a nine-method coaching framework as an AI-assisted workflow. A DT Coach agent guides teams through structured problem discovery and solution development, loading method-specific knowledge on demand.",
+    "objectives": [
+      "Trace the nine-method sequence through Problem Space, Solution Space, and Implementation Space",
+      "Distinguish method-tier and deep-tier instruction architecture for on-demand knowledge loading",
+      "Apply industry context files to adapt coaching for different domains",
+      "Describe the DT-to-RPI handoff that bridges design thinking into implementation"
+    ],
+    "talkingPoints": [
+      "Nine-Method Coaching System: three spaces with three methods each guide structured problem solving",
+      "Two-Tier Instruction Architecture: method-tier for overview, deep-tier for detailed guidance loaded on demand",
+      "Industry Adaptation: context files for Manufacturing, Healthcare, Energy, and other domains",
+      "DT-to-RPI Handoff: design thinking outputs feed directly into the RPI implementation workflow"
+    ]
+  },
+  {
+    "id": 11,
+    "code": "S3E11",
+    "semester": 3,
+    "title": "Security Planning Agents",
+    "duration": "~10 min",
+    "description": "HVE Core ships three planning agents that transform security and Responsible AI assessment from ad-hoc review into structured, repeatable workflows — STRIDE threat modeling, NIST AI RMF assessment, and OpenSSF supply chain scoring.",
+    "objectives": [
+      "Trace the Security Planner's six-phase STRIDE-based threat modeling workflow",
+      "Describe the RAI Planner's Responsible AI assessment against NIST AI RMF 1.0",
+      "Explain the SSSC Planner's supply chain security assessment using OpenSSF Scorecard and SLSA",
+      "Map the shared phased workflow architecture with state persistence and backlog handoff"
+    ],
+    "talkingPoints": [
+      "Security Planner: six-phase STRIDE threat modeling with structured finding output",
+      "RAI Planner: Responsible AI assessment against NIST AI Risk Management Framework",
+      "SSSC Planner: supply chain security scoring using OpenSSF Scorecard, SLSA, and Sigstore",
+      "Shared Architecture: phased workflows with state persistence, dual-format backlog handoff"
+    ]
+  },
+  {
+    "id": 12,
+    "code": "S4E12",
+    "semester": 4,
+    "title": "The Validation Infrastructure",
+    "duration": "~9 min",
+    "description": "HVE Core contains over 500 artifacts validated by 15-plus specialized linters. The lint:all pipeline chains frontmatter validation, markdown linting, YAML checking, PowerShell analysis, dependency pinning, and collection metadata verification.",
+    "objectives": [
+      "Enumerate the specialized linters and describe what each validates across the artifact library",
+      "Explain the frontmatter schema validation system including JSON Schema mapping and the validation script",
+      "Describe how lint:all chains validation passes into a comprehensive quality gate",
+      "Identify how the validation infrastructure prevents structural entropy in a large prompt library"
+    ],
+    "talkingPoints": [
+      "The Linter Inventory: 15-plus validation passes covering markdown, YAML, PowerShell, Python, and frontmatter",
+      "Frontmatter Schema Validation: JSON Schemas mapped to artifact types enforce structural correctness",
+      "The lint:all Pipeline: chained validation from formatting through security pinning checks",
+      "Preventing Structural Entropy: automated validation keeps 500-plus artifacts consistent as the library grows"
+    ]
+  },
+  {
+    "id": 13,
+    "code": "S4E13",
+    "semester": 4,
+    "title": "Extension Packaging and CI/CD",
+    "duration": "~9 min",
+    "description": "The extension packaging pipeline transforms collection manifests into distributable VS Code extensions. The CI/CD architecture uses 48 GitHub Actions workflows organized by concern — validation, security, testing, release, and maintenance.",
+    "objectives": [
+      "Describe the two-step Prepare and Package pipeline for extension builds",
+      "Explain collection-scoped versus full builds and how maturity filtering controls what ships",
+      "Map the CI/CD workflow categories and the orchestrator pattern that coordinates them",
+      "Trace the release pipeline from release-please through SBOM generation and marketplace publishing"
+    ],
+    "talkingPoints": [
+      "Prepare and Package: artifact discovery with dependency closure, then VSIX bundling",
+      "Collection-Scoped Builds: HVE Core All includes everything, individual collections ship subsets",
+      "CI/CD Architecture: 48 workflows in five categories orchestrated by three top-level dispatchers",
+      "Release Automation: release-please, extension packaging, SBOM, attestation, marketplace publishing"
+    ]
+  },
+  {
+    "id": 14,
+    "code": "S4E14",
+    "semester": 4,
+    "title": "Enterprise Adoption and Contributing",
+    "duration": "~9 min",
+    "description": "Scaling HVE Core across enterprise teams requires collection-scoped deployment, governance alignment, and contributor onboarding. This module covers adoption strategy, the governance model, and the contribution workflow.",
+    "objectives": [
+      "Design a collection-scoped deployment strategy for teams with different technology stacks",
+      "Apply the governance model — maintainer roles, decision tiers, inactivity policies",
+      "Execute the contribution pipeline from fork through validation and pull request submission",
+      "Assess HVE Core's strengths and current limitations for realistic enterprise adoption planning"
+    ],
+    "talkingPoints": [
+      "Collection-Scoped Deployment: teams install only the collections relevant to their stack and workflow",
+      "Governance Model: corporate-sponsored maintainer model with tiered decision authority",
+      "Contribution Workflow: fork, branch, validate locally with lint:all, submit PR with Conventional Commits",
+      "Honest Assessment: strengths in structured AI workflows, limitations in runtime enforcement and telemetry"
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "slug": "hve-core",
+  "title": "HVE Core Mastery",
+  "subtitle": "Prompt Engineering at Scale",
+  "description": "The definitive course on Microsoft HVE Core — the open-source prompt engineering library that transforms GitHub Copilot from a generic assistant into a constraint-based engineering workflow engine. From first install to building custom collections.",
+  "instructor": "DevTools Engineering Team",
+  "level": "Intermediate",
+  "tags": [
+    "AI Agents",
+    "GitHub Copilot",
+    "Prompt Engineering",
+    "DevTools"
+  ],
+  "color": "#4B32C3",
+  "icon": "⚡",
+  "status": "available",
+  "videoPattern": "module-{id}.mp4"
+}

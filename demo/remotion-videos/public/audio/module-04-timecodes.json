@@ -1,0 +1,76 @@
+{
+  "moduleNum": 4,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 20400,
+      "durationMs": 20400,
+      "audioFile": "module-04/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 20400,
+      "endMs": 49360,
+      "durationMs": 28960,
+      "audioFile": "module-04/01-objectives.wav"
+    },
+    {
+      "id": "anatomy-of-a-collection",
+      "index": 2,
+      "type": "content",
+      "title": "Anatomy of a Collection",
+      "startMs": 49360,
+      "endMs": 59360,
+      "durationMs": 10000,
+      "audioFile": "module-04/02-anatomy-of-a-collection.wav"
+    },
+    {
+      "id": "the-13-domain-collections",
+      "index": 3,
+      "type": "content",
+      "title": "The 13 Domain Collections",
+      "startMs": 59360,
+      "endMs": 201560,
+      "durationMs": 142200,
+      "audioFile": "module-04/03-the-13-domain-collections.wav"
+    },
+    {
+      "id": "the-maturity-model",
+      "index": 4,
+      "type": "content",
+      "title": "The Maturity Model",
+      "startMs": 201560,
+      "endMs": 307280,
+      "durationMs": 105720,
+      "audioFile": "module-04/04-the-maturity-model.wav"
+    },
+    {
+      "id": "the-packaging-pipeline",
+      "index": 5,
+      "type": "content",
+      "title": "The Packaging Pipeline",
+      "startMs": 307280,
+      "endMs": 431240,
+      "durationMs": 123960,
+      "audioFile": "module-04/05-the-packaging-pipeline.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 431240,
+      "endMs": 481160,
+      "durationMs": 49920,
+      "audioFile": "module-04/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 481160
+}

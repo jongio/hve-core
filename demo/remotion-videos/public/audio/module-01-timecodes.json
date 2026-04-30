@@ -1,0 +1,76 @@
+{
+  "moduleNum": 1,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 29800,
+      "durationMs": 29800,
+      "audioFile": "module-01/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 29800,
+      "endMs": 55560,
+      "durationMs": 25760,
+      "audioFile": "module-01/01-objectives.wav"
+    },
+    {
+      "id": "the-problem-hve-core-solves",
+      "index": 2,
+      "type": "content",
+      "title": "The Problem HVE Core Solves",
+      "startMs": 55560,
+      "endMs": 162200,
+      "durationMs": 106640,
+      "audioFile": "module-01/02-the-problem-hve-core-solves.wav"
+    },
+    {
+      "id": "the-four-artifact-types",
+      "index": 3,
+      "type": "content",
+      "title": "The Four Artifact Types",
+      "startMs": 162200,
+      "endMs": 332640,
+      "durationMs": 170440,
+      "audioFile": "module-01/03-the-four-artifact-types.wav"
+    },
+    {
+      "id": "collection-driven-architecture",
+      "index": 4,
+      "type": "content",
+      "title": "Collection-Driven Architecture",
+      "startMs": 332640,
+      "endMs": 443880,
+      "durationMs": 111240,
+      "audioFile": "module-01/04-collection-driven-architecture.wav"
+    },
+    {
+      "id": "who-uses-hve-core",
+      "index": 5,
+      "type": "content",
+      "title": "Who Uses HVE Core",
+      "startMs": 443880,
+      "endMs": 567720,
+      "durationMs": 123840,
+      "audioFile": "module-01/05-who-uses-hve-core.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 567720,
+      "endMs": 603400,
+      "durationMs": 35680,
+      "audioFile": "module-01/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 603400
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Player — HVE Core</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <header class="page-header">
+    <div class="container">
+      <div class="logo"><span>HVE</span> Core Course</div>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="course.html">Course</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="player-layout">
+
+    <div class="player-main">
+      <div class="video-wrapper">
+        <video id="player-video" controls preload="metadata">
+          Your browser does not support the video element.
+        </video>
+        <div class="video-placeholder" id="video-placeholder">
+          <div class="play-icon">▶</div>
+          <p>Video not yet rendered</p>
+          <p style="font-size: 0.8rem; margin-top: 8px; opacity: 0.6;">Run the Remotion render pipeline to generate module videos</p>
+        </div>
+      </div>
+
+      <div class="module-detail">
+        <p class="module-breadcrumb" id="player-breadcrumb"></p>
+        <h2 id="player-title"></h2>
+
+        <div class="player-nav">
+          <a id="btn-prev" class="btn btn-sm btn-secondary">← Previous</a>
+          <button id="btn-complete" class="btn btn-sm btn-primary">Mark as Complete</button>
+          <a id="btn-next" class="btn btn-sm btn-secondary">Next →</a>
+        </div>
+      </div>
+
+      <div class="shortcuts">
+        <span><kbd>Space</kbd> Play / Pause</span>
+        <span><kbd>←</kbd> Previous module</span>
+        <span><kbd>→</kbd> Next module</span>
+      </div>
+    </div>
+
+    <aside class="player-sidebar">
+      <ul class="sidebar-module-list" id="player-module-list">
+        <!-- Rendered by app.js -->
+      </ul>
+    </aside>
+
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+{
+  "moduleNum": 14,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 25400,
+      "durationMs": 25400,
+      "audioFile": "module-14/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 25400,
+      "endMs": 57040,
+      "durationMs": 31640,
+      "audioFile": "module-14/01-objectives.wav"
+    },
+    {
+      "id": "collection-scoped-deployment",
+      "index": 2,
+      "type": "content",
+      "title": "Collection-Scoped Deployment",
+      "startMs": 57040,
+      "endMs": 226920,
+      "durationMs": 169880,
+      "audioFile": "module-14/02-collection-scoped-deployment.wav"
+    },
+    {
+      "id": "governance-model",
+      "index": 3,
+      "type": "content",
+      "title": "Governance Model",
+      "startMs": 226920,
+      "endMs": 461440,
+      "durationMs": 234520,
+      "audioFile": "module-14/03-governance-model.wav"
+    },
+    {
+      "id": "contribution-workflow",
+      "index": 4,
+      "type": "content",
+      "title": "Contribution Workflow",
+      "startMs": 461440,
+      "endMs": 578240,
+      "durationMs": 116800,
+      "audioFile": "module-14/04-contribution-workflow.wav"
+    },
+    {
+      "id": "strengths-and-limitations",
+      "index": 5,
+      "type": "content",
+      "title": "Strengths and Limitations",
+      "startMs": 578240,
+      "endMs": 790080,
+      "durationMs": 211840,
+      "audioFile": "module-14/05-strengths-and-limitations.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 790080,
+      "endMs": 905600,
+      "durationMs": 115520,
+      "audioFile": "module-14/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 905600
+}

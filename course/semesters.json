@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Foundations",
+    "weeks": "1-4",
+    "icon": "🏗️",
+    "color": "#4B32C3",
+    "description": "Build a rock-solid understanding of HVE Core architecture, the four artifact types, the RPI methodology, and collection-driven packaging."
+  },
+  {
+    "id": 2,
+    "title": "The Four Artifact Types",
+    "weeks": "5-8",
+    "icon": "🧩",
+    "color": "#00b4d8",
+    "description": "Deep-dive into every artifact type — agents, instructions, prompts, and skills — their file formats, activation models, and how Copilot discovers them at runtime."
+  },
+  {
+    "id": 3,
+    "title": "Authoring and Customization",
+    "weeks": "9-11",
+    "icon": "⚙️",
+    "color": "#9b5de5",
+    "description": "Master custom artifact authoring, the Design Thinking coaching framework, and security planning agents that bring STRIDE and RAI assessment into structured AI workflows."
+  },
+  {
+    "id": 4,
+    "title": "Operations and Mastery",
+    "weeks": "12-14",
+    "icon": "🎓",
+    "color": "#f15bb5",
+    "description": "Understand the validation infrastructure, extension packaging pipeline, CI/CD automation, enterprise scaling strategies, and how to contribute upstream."
+  }
+]

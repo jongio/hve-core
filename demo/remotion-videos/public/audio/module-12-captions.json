@@ -1,0 +1,10411 @@
+[
+  {
+    "text": "HVE",
+    "startMs": 0,
+    "endMs": 231,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "Core",
+    "startMs": 231,
+    "endMs": 538,
+    "timestampMs": 231,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 538,
+    "endMs": 1154,
+    "timestampMs": 538,
+    "confidence": null
+  },
+  {
+    "text": "over",
+    "startMs": 1154,
+    "endMs": 1461,
+    "timestampMs": 1154,
+    "confidence": null
+  },
+  {
+    "text": "500",
+    "startMs": 1461,
+    "endMs": 1692,
+    "timestampMs": 1461,
+    "confidence": null
+  },
+  {
+    "text": "prompt",
+    "startMs": 1692,
+    "endMs": 2154,
+    "timestampMs": 1692,
+    "confidence": null
+  },
+  {
+    "text": "engineering",
+    "startMs": 2154,
+    "endMs": 2846,
+    "timestampMs": 2154,
+    "confidence": null
+  },
+  {
+    "text": "artifacts",
+    "startMs": 2846,
+    "endMs": 3538,
+    "timestampMs": 2846,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 3538,
+    "endMs": 3769,
+    "timestampMs": 3538,
+    "confidence": null
+  },
+  {
+    "text": "agents,",
+    "startMs": 3769,
+    "endMs": 4308,
+    "timestampMs": 3769,
+    "confidence": null
+  },
+  {
+    "text": "instructions,",
+    "startMs": 4308,
+    "endMs": 5077,
+    "timestampMs": 4308,
+    "confidence": null
+  },
+  {
+    "text": "prompts,",
+    "startMs": 5077,
+    "endMs": 5692,
+    "timestampMs": 5077,
+    "confidence": null
+  },
+  {
+    "text": "skills,",
+    "startMs": 5692,
+    "endMs": 6231,
+    "timestampMs": 5692,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 6231,
+    "endMs": 6461,
+    "timestampMs": 6231,
+    "confidence": null
+  },
+  {
+    "text": "documentation",
+    "startMs": 6461,
+    "endMs": 7154,
+    "timestampMs": 6461,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 7154,
+    "endMs": 7538,
+    "timestampMs": 7154,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 7538,
+    "endMs": 7769,
+    "timestampMs": 7538,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 7769,
+    "endMs": 8000,
+    "timestampMs": 7769,
+    "confidence": null
+  },
+  {
+    "text": "expressed",
+    "startMs": 8000,
+    "endMs": 8692,
+    "timestampMs": 8000,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 8692,
+    "endMs": 8923,
+    "timestampMs": 8692,
+    "confidence": null
+  },
+  {
+    "text": "structured",
+    "startMs": 8923,
+    "endMs": 9615,
+    "timestampMs": 8923,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 9615,
+    "endMs": 10230,
+    "timestampMs": 9615,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 10230,
+    "endMs": 10538,
+    "timestampMs": 10230,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 10538,
+    "endMs": 10846,
+    "timestampMs": 10538,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter.",
+    "startMs": 10846,
+    "endMs": 11778,
+    "timestampMs": 10846,
+    "confidence": null
+  },
+  {
+    "text": "Without",
+    "startMs": 11778,
+    "endMs": 12317,
+    "timestampMs": 11778,
+    "confidence": null
+  },
+  {
+    "text": "automated",
+    "startMs": 12317,
+    "endMs": 13009,
+    "timestampMs": 12317,
+    "confidence": null
+  },
+  {
+    "text": "validation,",
+    "startMs": 13009,
+    "endMs": 13778,
+    "timestampMs": 13009,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 13778,
+    "endMs": 14009,
+    "timestampMs": 13778,
+    "confidence": null
+  },
+  {
+    "text": "library",
+    "startMs": 14009,
+    "endMs": 14548,
+    "timestampMs": 14009,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 14548,
+    "endMs": 14778,
+    "timestampMs": 14548,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 14778,
+    "endMs": 15086,
+    "timestampMs": 14778,
+    "confidence": null
+  },
+  {
+    "text": "size",
+    "startMs": 15086,
+    "endMs": 15394,
+    "timestampMs": 15086,
+    "confidence": null
+  },
+  {
+    "text": "drifts",
+    "startMs": 15394,
+    "endMs": 15855,
+    "timestampMs": 15394,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 15855,
+    "endMs": 16163,
+    "timestampMs": 15855,
+    "confidence": null
+  },
+  {
+    "text": "inconsistency",
+    "startMs": 16163,
+    "endMs": 16855,
+    "timestampMs": 16163,
+    "confidence": null
+  },
+  {
+    "text": "within",
+    "startMs": 16855,
+    "endMs": 17317,
+    "timestampMs": 16855,
+    "confidence": null
+  },
+  {
+    "text": "weeks.",
+    "startMs": 17317,
+    "endMs": 17942,
+    "timestampMs": 17317,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 17942,
+    "endMs": 18249,
+    "timestampMs": 17942,
+    "confidence": null
+  },
+  {
+    "text": "module",
+    "startMs": 18249,
+    "endMs": 18711,
+    "timestampMs": 18249,
+    "confidence": null
+  },
+  {
+    "text": "examines",
+    "startMs": 18711,
+    "endMs": 19326,
+    "timestampMs": 18711,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 19326,
+    "endMs": 19557,
+    "timestampMs": 19326,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 19557,
+    "endMs": 20249,
+    "timestampMs": 19557,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure",
+    "startMs": 20249,
+    "endMs": 20941,
+    "timestampMs": 20249,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 20941,
+    "endMs": 21249,
+    "timestampMs": 20941,
+    "confidence": null
+  },
+  {
+    "text": "prevents",
+    "startMs": 21249,
+    "endMs": 21865,
+    "timestampMs": 21249,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 21865,
+    "endMs": 22172,
+    "timestampMs": 21865,
+    "confidence": null
+  },
+  {
+    "text": "drift:",
+    "startMs": 22172,
+    "endMs": 22634,
+    "timestampMs": 22172,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 22634,
+    "endMs": 22864,
+    "timestampMs": 22634,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 22864,
+    "endMs": 23557,
+    "timestampMs": 22864,
+    "confidence": null
+  },
+  {
+    "text": "linters,",
+    "startMs": 23557,
+    "endMs": 24172,
+    "timestampMs": 23557,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 24172,
+    "endMs": 24403,
+    "timestampMs": 24172,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 24403,
+    "endMs": 24864,
+    "timestampMs": 24403,
+    "confidence": null
+  },
+  {
+    "text": "enforcement",
+    "startMs": 24864,
+    "endMs": 25557,
+    "timestampMs": 24864,
+    "confidence": null
+  },
+  {
+    "text": "layer,",
+    "startMs": 25557,
+    "endMs": 26018,
+    "timestampMs": 25557,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 26018,
+    "endMs": 26249,
+    "timestampMs": 26018,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 26249,
+    "endMs": 26480,
+    "timestampMs": 26249,
+    "confidence": null
+  },
+  {
+    "text": "orchestrated",
+    "startMs": 26480,
+    "endMs": 27172,
+    "timestampMs": 26480,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 27172,
+    "endMs": 27787,
+    "timestampMs": 27172,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 27787,
+    "endMs": 28095,
+    "timestampMs": 27787,
+    "confidence": null
+  },
+  {
+    "text": "chains",
+    "startMs": 28095,
+    "endMs": 28557,
+    "timestampMs": 28095,
+    "confidence": null
+  },
+  {
+    "text": "them",
+    "startMs": 28557,
+    "endMs": 28864,
+    "timestampMs": 28557,
+    "confidence": null
+  },
+  {
+    "text": "together.",
+    "startMs": 28864,
+    "endMs": 29720,
+    "timestampMs": 28864,
+    "confidence": null
+  },
+  {
+    "text": "Module",
+    "startMs": 29720,
+    "endMs": 30140,
+    "timestampMs": 29720,
+    "confidence": null
+  },
+  {
+    "text": "12",
+    "startMs": 30140,
+    "endMs": 30350,
+    "timestampMs": 30140,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 30350,
+    "endMs": 30770,
+    "timestampMs": 30350,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 30770,
+    "endMs": 31050,
+    "timestampMs": 30770,
+    "confidence": null
+  },
+  {
+    "text": "areas.",
+    "startMs": 31050,
+    "endMs": 31618,
+    "timestampMs": 31050,
+    "confidence": null
+  },
+  {
+    "text": "First,",
+    "startMs": 31618,
+    "endMs": 32038,
+    "timestampMs": 31618,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 32038,
+    "endMs": 32248,
+    "timestampMs": 32038,
+    "confidence": null
+  },
+  {
+    "text": "linter",
+    "startMs": 32248,
+    "endMs": 32668,
+    "timestampMs": 32248,
+    "confidence": null
+  },
+  {
+    "text": "inventory",
+    "startMs": 32668,
+    "endMs": 33298,
+    "timestampMs": 32668,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 33298,
+    "endMs": 33508,
+    "timestampMs": 33298,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 33508,
+    "endMs": 33858,
+    "timestampMs": 33508,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 33858,
+    "endMs": 34488,
+    "timestampMs": 33858,
+    "confidence": null
+  },
+  {
+    "text": "tool",
+    "startMs": 34488,
+    "endMs": 34768,
+    "timestampMs": 34488,
+    "confidence": null
+  },
+  {
+    "text": "registered",
+    "startMs": 34768,
+    "endMs": 35398,
+    "timestampMs": 34768,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 35398,
+    "endMs": 35608,
+    "timestampMs": 35398,
+    "confidence": null
+  },
+  {
+    "text": "`package.json`",
+    "startMs": 35608,
+    "endMs": 36238,
+    "timestampMs": 35608,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 36238,
+    "endMs": 36448,
+    "timestampMs": 36238,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 36448,
+    "endMs": 36728,
+    "timestampMs": 36448,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 36728,
+    "endMs": 37008,
+    "timestampMs": 36728,
+    "confidence": null
+  },
+  {
+    "text": "one",
+    "startMs": 37008,
+    "endMs": 37218,
+    "timestampMs": 37008,
+    "confidence": null
+  },
+  {
+    "text": "checks.",
+    "startMs": 37218,
+    "endMs": 37856,
+    "timestampMs": 37218,
+    "confidence": null
+  },
+  {
+    "text": "Second,",
+    "startMs": 37856,
+    "endMs": 38346,
+    "timestampMs": 37856,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 38346,
+    "endMs": 38556,
+    "timestampMs": 38346,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 38556,
+    "endMs": 39186,
+    "timestampMs": 38556,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 39186,
+    "endMs": 39606,
+    "timestampMs": 39186,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 39606,
+    "endMs": 40236,
+    "timestampMs": 39606,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 40236,
+    "endMs": 40656,
+    "timestampMs": 40236,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 40656,
+    "endMs": 40936,
+    "timestampMs": 40656,
+    "confidence": null
+  },
+  {
+    "text": "maps",
+    "startMs": 40936,
+    "endMs": 41216,
+    "timestampMs": 40936,
+    "confidence": null
+  },
+  {
+    "text": "JSON",
+    "startMs": 41216,
+    "endMs": 41496,
+    "timestampMs": 41216,
+    "confidence": null
+  },
+  {
+    "text": "Schemas",
+    "startMs": 41496,
+    "endMs": 41986,
+    "timestampMs": 41496,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 41986,
+    "endMs": 42196,
+    "timestampMs": 41986,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 42196,
+    "endMs": 42756,
+    "timestampMs": 42196,
+    "confidence": null
+  },
+  {
+    "text": "types.",
+    "startMs": 42756,
+    "endMs": 43324,
+    "timestampMs": 42756,
+    "confidence": null
+  },
+  {
+    "text": "Third,",
+    "startMs": 43324,
+    "endMs": 43744,
+    "timestampMs": 43324,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 43744,
+    "endMs": 43954,
+    "timestampMs": 43744,
+    "confidence": null
+  },
+  {
+    "text": "`lint:all`",
+    "startMs": 43954,
+    "endMs": 44444,
+    "timestampMs": 43954,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 44444,
+    "endMs": 45004,
+    "timestampMs": 44444,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 45004,
+    "endMs": 45284,
+    "timestampMs": 45004,
+    "confidence": null
+  },
+  {
+    "text": "chains",
+    "startMs": 45284,
+    "endMs": 45704,
+    "timestampMs": 45284,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 45704,
+    "endMs": 46334,
+    "timestampMs": 45704,
+    "confidence": null
+  },
+  {
+    "text": "passes",
+    "startMs": 46334,
+    "endMs": 46754,
+    "timestampMs": 46334,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 46754,
+    "endMs": 47034,
+    "timestampMs": 46754,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 47034,
+    "endMs": 47244,
+    "timestampMs": 47034,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 47244,
+    "endMs": 47664,
+    "timestampMs": 47244,
+    "confidence": null
+  },
+  {
+    "text": "command.",
+    "startMs": 47664,
+    "endMs": 48372,
+    "timestampMs": 47664,
+    "confidence": null
+  },
+  {
+    "text": "Fourth,",
+    "startMs": 48372,
+    "endMs": 48862,
+    "timestampMs": 48372,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 48862,
+    "endMs": 49072,
+    "timestampMs": 48862,
+    "confidence": null
+  },
+  {
+    "text": "design",
+    "startMs": 49072,
+    "endMs": 49492,
+    "timestampMs": 49072,
+    "confidence": null
+  },
+  {
+    "text": "rationale",
+    "startMs": 49492,
+    "endMs": 50122,
+    "timestampMs": 49492,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 50122,
+    "endMs": 50332,
+    "timestampMs": 50122,
+    "confidence": null
+  },
+  {
+    "text": "why",
+    "startMs": 50332,
+    "endMs": 50542,
+    "timestampMs": 50332,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 50542,
+    "endMs": 50822,
+    "timestampMs": 50542,
+    "confidence": null
+  },
+  {
+    "text": "level",
+    "startMs": 50822,
+    "endMs": 51172,
+    "timestampMs": 50822,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 51172,
+    "endMs": 51382,
+    "timestampMs": 51172,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 51382,
+    "endMs": 52012,
+    "timestampMs": 51382,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure",
+    "startMs": 52012,
+    "endMs": 52642,
+    "timestampMs": 52012,
+    "confidence": null
+  },
+  {
+    "text": "exists",
+    "startMs": 52642,
+    "endMs": 53062,
+    "timestampMs": 52642,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 53062,
+    "endMs": 53272,
+    "timestampMs": 53062,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 53272,
+    "endMs": 53551,
+    "timestampMs": 53272,
+    "confidence": null
+  },
+  {
+    "text": "happens",
+    "startMs": 53551,
+    "endMs": 54041,
+    "timestampMs": 53551,
+    "confidence": null
+  },
+  {
+    "text": "without",
+    "startMs": 54041,
+    "endMs": 54531,
+    "timestampMs": 54041,
+    "confidence": null
+  },
+  {
+    "text": "it.",
+    "startMs": 54531,
+    "endMs": 54960,
+    "timestampMs": 54531,
+    "confidence": null
+  },
+  {
+    "text": "Open",
+    "startMs": 54960,
+    "endMs": 55365,
+    "timestampMs": 54960,
+    "confidence": null
+  },
+  {
+    "text": "`package.json`",
+    "startMs": 55365,
+    "endMs": 56275,
+    "timestampMs": 55365,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 56275,
+    "endMs": 56579,
+    "timestampMs": 56275,
+    "confidence": null
+  },
+  {
+    "text": "look",
+    "startMs": 56579,
+    "endMs": 56983,
+    "timestampMs": 56579,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 56983,
+    "endMs": 57287,
+    "timestampMs": 56983,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 57287,
+    "endMs": 57590,
+    "timestampMs": 57287,
+    "confidence": null
+  },
+  {
+    "text": "`scripts`",
+    "startMs": 57590,
+    "endMs": 58299,
+    "timestampMs": 57590,
+    "confidence": null
+  },
+  {
+    "text": "section.",
+    "startMs": 58299,
+    "endMs": 59323,
+    "timestampMs": 58299,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 59323,
+    "endMs": 59627,
+    "timestampMs": 59323,
+    "confidence": null
+  },
+  {
+    "text": "Core",
+    "startMs": 59627,
+    "endMs": 60031,
+    "timestampMs": 59627,
+    "confidence": null
+  },
+  {
+    "text": "registers",
+    "startMs": 60031,
+    "endMs": 60942,
+    "timestampMs": 60031,
+    "confidence": null
+  },
+  {
+    "text": "over",
+    "startMs": 60942,
+    "endMs": 61347,
+    "timestampMs": 60942,
+    "confidence": null
+  },
+  {
+    "text": "twenty",
+    "startMs": 61347,
+    "endMs": 61954,
+    "timestampMs": 61347,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 61954,
+    "endMs": 62864,
+    "timestampMs": 61954,
+    "confidence": null
+  },
+  {
+    "text": "commands,",
+    "startMs": 62864,
+    "endMs": 63775,
+    "timestampMs": 62864,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 63775,
+    "endMs": 64179,
+    "timestampMs": 63775,
+    "confidence": null
+  },
+  {
+    "text": "targeting",
+    "startMs": 64179,
+    "endMs": 65090,
+    "timestampMs": 64179,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 65090,
+    "endMs": 65393,
+    "timestampMs": 65090,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 65393,
+    "endMs": 66203,
+    "timestampMs": 65393,
+    "confidence": null
+  },
+  {
+    "text": "quality",
+    "startMs": 66203,
+    "endMs": 66911,
+    "timestampMs": 66203,
+    "confidence": null
+  },
+  {
+    "text": "dimension.",
+    "startMs": 66911,
+    "endMs": 68138,
+    "timestampMs": 66911,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 68138,
+    "endMs": 68441,
+    "timestampMs": 68138,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 68441,
+    "endMs": 69251,
+    "timestampMs": 68441,
+    "confidence": null
+  },
+  {
+    "text": "layer",
+    "startMs": 69251,
+    "endMs": 69757,
+    "timestampMs": 69251,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 69757,
+    "endMs": 70161,
+    "timestampMs": 69757,
+    "confidence": null
+  },
+  {
+    "text": "`markdownlint-cli2`",
+    "startMs": 70161,
+    "endMs": 71072,
+    "timestampMs": 70161,
+    "confidence": null
+  },
+  {
+    "text": "via",
+    "startMs": 71072,
+    "endMs": 71375,
+    "timestampMs": 71072,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 71375,
+    "endMs": 71679,
+    "timestampMs": 71375,
+    "confidence": null
+  },
+  {
+    "text": "`lint:md`",
+    "startMs": 71679,
+    "endMs": 72286,
+    "timestampMs": 71679,
+    "confidence": null
+  },
+  {
+    "text": "script,",
+    "startMs": 72286,
+    "endMs": 72994,
+    "timestampMs": 72286,
+    "confidence": null
+  },
+  {
+    "text": "enforcing",
+    "startMs": 72994,
+    "endMs": 73905,
+    "timestampMs": 72994,
+    "confidence": null
+  },
+  {
+    "text": "formatting",
+    "startMs": 73905,
+    "endMs": 74815,
+    "timestampMs": 73905,
+    "confidence": null
+  },
+  {
+    "text": "rules",
+    "startMs": 74815,
+    "endMs": 75321,
+    "timestampMs": 74815,
+    "confidence": null
+  },
+  {
+    "text": "defined",
+    "startMs": 75321,
+    "endMs": 76029,
+    "timestampMs": 75321,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 76029,
+    "endMs": 76333,
+    "timestampMs": 76029,
+    "confidence": null
+  },
+  {
+    "text": "`.markdownlint-cli2.jsonc`",
+    "startMs": 76333,
+    "endMs": 77243,
+    "timestampMs": 76333,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 77243,
+    "endMs": 77547,
+    "timestampMs": 77243,
+    "confidence": null
+  },
+  {
+    "text": "`.markdownlint.json`.",
+    "startMs": 77547,
+    "endMs": 78774,
+    "timestampMs": 77547,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 78774,
+    "endMs": 79077,
+    "timestampMs": 78774,
+    "confidence": null
+  },
+  {
+    "text": "configuration",
+    "startMs": 79077,
+    "endMs": 79988,
+    "timestampMs": 79077,
+    "confidence": null
+  },
+  {
+    "text": "excludes",
+    "startMs": 79988,
+    "endMs": 80797,
+    "timestampMs": 79988,
+    "confidence": null
+  },
+  {
+    "text": "generated",
+    "startMs": 80797,
+    "endMs": 81708,
+    "timestampMs": 80797,
+    "confidence": null
+  },
+  {
+    "text": "content",
+    "startMs": 81708,
+    "endMs": 82416,
+    "timestampMs": 81708,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 82416,
+    "endMs": 82719,
+    "timestampMs": 82416,
+    "confidence": null
+  },
+  {
+    "text": "plugin",
+    "startMs": 82719,
+    "endMs": 83326,
+    "timestampMs": 82719,
+    "confidence": null
+  },
+  {
+    "text": "outputs,",
+    "startMs": 83326,
+    "endMs": 84136,
+    "timestampMs": 83326,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 84136,
+    "endMs": 85046,
+    "timestampMs": 84136,
+    "confidence": null
+  },
+  {
+    "text": "READMEs,",
+    "startMs": 85046,
+    "endMs": 85856,
+    "timestampMs": 85046,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 85856,
+    "endMs": 86361,
+    "timestampMs": 85856,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 86361,
+    "endMs": 86969,
+    "timestampMs": 86361,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 86969,
+    "endMs": 87272,
+    "timestampMs": 86969,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 87272,
+    "endMs": 87677,
+    "timestampMs": 87272,
+    "confidence": null
+  },
+  {
+    "text": "fixtures",
+    "startMs": 87677,
+    "endMs": 88486,
+    "timestampMs": 87677,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 88486,
+    "endMs": 88790,
+    "timestampMs": 88486,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 88790,
+    "endMs": 89093,
+    "timestampMs": 88790,
+    "confidence": null
+  },
+  {
+    "text": "avoid",
+    "startMs": 89093,
+    "endMs": 89599,
+    "timestampMs": 89093,
+    "confidence": null
+  },
+  {
+    "text": "false",
+    "startMs": 89599,
+    "endMs": 90105,
+    "timestampMs": 89599,
+    "confidence": null
+  },
+  {
+    "text": "positives",
+    "startMs": 90105,
+    "endMs": 91015,
+    "timestampMs": 90105,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 91015,
+    "endMs": 91319,
+    "timestampMs": 91015,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 91319,
+    "endMs": 91825,
+    "timestampMs": 91319,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 91825,
+    "endMs": 92230,
+    "timestampMs": 91825,
+    "confidence": null
+  },
+  {
+    "text": "follow",
+    "startMs": 92230,
+    "endMs": 92837,
+    "timestampMs": 92230,
+    "confidence": null
+  },
+  {
+    "text": "different",
+    "startMs": 92837,
+    "endMs": 93747,
+    "timestampMs": 92837,
+    "confidence": null
+  },
+  {
+    "text": "structural",
+    "startMs": 93747,
+    "endMs": 94658,
+    "timestampMs": 93747,
+    "confidence": null
+  },
+  {
+    "text": "conventions.",
+    "startMs": 94658,
+    "endMs": 95884,
+    "timestampMs": 94658,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 95884,
+    "endMs": 96188,
+    "timestampMs": 95884,
+    "confidence": null
+  },
+  {
+    "text": "custom",
+    "startMs": 96188,
+    "endMs": 96795,
+    "timestampMs": 96188,
+    "confidence": null
+  },
+  {
+    "text": "rule",
+    "startMs": 96795,
+    "endMs": 97200,
+    "timestampMs": 96795,
+    "confidence": null
+  },
+  {
+    "text": "package,",
+    "startMs": 97200,
+    "endMs": 98009,
+    "timestampMs": 97200,
+    "confidence": null
+  },
+  {
+    "text": "`markdownlint-rule-search-replace`,",
+    "startMs": 98009,
+    "endMs": 99021,
+    "timestampMs": 98009,
+    "confidence": null
+  },
+  {
+    "text": "extends",
+    "startMs": 99021,
+    "endMs": 99729,
+    "timestampMs": 99021,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 99729,
+    "endMs": 100032,
+    "timestampMs": 99729,
+    "confidence": null
+  },
+  {
+    "text": "default",
+    "startMs": 100032,
+    "endMs": 100741,
+    "timestampMs": 100032,
+    "confidence": null
+  },
+  {
+    "text": "ruleset",
+    "startMs": 100741,
+    "endMs": 101449,
+    "timestampMs": 100741,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 101449,
+    "endMs": 101854,
+    "timestampMs": 101449,
+    "confidence": null
+  },
+  {
+    "text": "project-specific",
+    "startMs": 101854,
+    "endMs": 102764,
+    "timestampMs": 101854,
+    "confidence": null
+  },
+  {
+    "text": "pattern",
+    "startMs": 102764,
+    "endMs": 103472,
+    "timestampMs": 102764,
+    "confidence": null
+  },
+  {
+    "text": "checks.",
+    "startMs": 103472,
+    "endMs": 104396,
+    "timestampMs": 103472,
+    "confidence": null
+  },
+  {
+    "text": "Table",
+    "startMs": 104396,
+    "endMs": 104901,
+    "timestampMs": 104396,
+    "confidence": null
+  },
+  {
+    "text": "formatting",
+    "startMs": 104901,
+    "endMs": 105812,
+    "timestampMs": 104901,
+    "confidence": null
+  },
+  {
+    "text": "gets",
+    "startMs": 105812,
+    "endMs": 106217,
+    "timestampMs": 105812,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 106217,
+    "endMs": 106520,
+    "timestampMs": 106217,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 106520,
+    "endMs": 106824,
+    "timestampMs": 106520,
+    "confidence": null
+  },
+  {
+    "text": "pass.",
+    "startMs": 106824,
+    "endMs": 107545,
+    "timestampMs": 106824,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 107545,
+    "endMs": 107848,
+    "timestampMs": 107545,
+    "confidence": null
+  },
+  {
+    "text": "`format:tables`",
+    "startMs": 107848,
+    "endMs": 108759,
+    "timestampMs": 107848,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 108759,
+    "endMs": 109366,
+    "timestampMs": 108759,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 109366,
+    "endMs": 109770,
+    "timestampMs": 109366,
+    "confidence": null
+  },
+  {
+    "text": "`markdown-table-formatter`",
+    "startMs": 109770,
+    "endMs": 110681,
+    "timestampMs": 109770,
+    "confidence": null
+  },
+  {
+    "text": "across",
+    "startMs": 110681,
+    "endMs": 111288,
+    "timestampMs": 110681,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 111288,
+    "endMs": 111591,
+    "timestampMs": 111288,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 111591,
+    "endMs": 112401,
+    "timestampMs": 111591,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 112401,
+    "endMs": 113008,
+    "timestampMs": 112401,
+    "confidence": null
+  },
+  {
+    "text": "normalizing",
+    "startMs": 113008,
+    "endMs": 113918,
+    "timestampMs": 113008,
+    "confidence": null
+  },
+  {
+    "text": "column",
+    "startMs": 113918,
+    "endMs": 114525,
+    "timestampMs": 113918,
+    "confidence": null
+  },
+  {
+    "text": "alignment",
+    "startMs": 114525,
+    "endMs": 115436,
+    "timestampMs": 114525,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 115436,
+    "endMs": 115740,
+    "timestampMs": 115436,
+    "confidence": null
+  },
+  {
+    "text": "spacing.",
+    "startMs": 115740,
+    "endMs": 116764,
+    "timestampMs": 115740,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 116764,
+    "endMs": 117169,
+    "timestampMs": 116764,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 117169,
+    "endMs": 117573,
+    "timestampMs": 117169,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 117573,
+    "endMs": 118180,
+    "timestampMs": 117573,
+    "confidence": null
+  },
+  {
+    "text": "`lint:md`",
+    "startMs": 118180,
+    "endMs": 118787,
+    "timestampMs": 118180,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 118787,
+    "endMs": 119091,
+    "timestampMs": 118787,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 119091,
+    "endMs": 119394,
+    "timestampMs": 119091,
+    "confidence": null
+  },
+  {
+    "text": "`lint:all`",
+    "startMs": 119394,
+    "endMs": 120103,
+    "timestampMs": 119394,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 120103,
+    "endMs": 120912,
+    "timestampMs": 120103,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 120912,
+    "endMs": 121620,
+    "timestampMs": 120912,
+    "confidence": null
+  },
+  {
+    "text": "inconsistent",
+    "startMs": 121620,
+    "endMs": 122531,
+    "timestampMs": 121620,
+    "confidence": null
+  },
+  {
+    "text": "table",
+    "startMs": 122531,
+    "endMs": 123037,
+    "timestampMs": 122531,
+    "confidence": null
+  },
+  {
+    "text": "formatting",
+    "startMs": 123037,
+    "endMs": 123947,
+    "timestampMs": 123037,
+    "confidence": null
+  },
+  {
+    "text": "would",
+    "startMs": 123947,
+    "endMs": 124453,
+    "timestampMs": 123947,
+    "confidence": null
+  },
+  {
+    "text": "trigger",
+    "startMs": 124453,
+    "endMs": 125161,
+    "timestampMs": 124453,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 125161,
+    "endMs": 125971,
+    "timestampMs": 125161,
+    "confidence": null
+  },
+  {
+    "text": "lint",
+    "startMs": 125971,
+    "endMs": 126375,
+    "timestampMs": 125971,
+    "confidence": null
+  },
+  {
+    "text": "failures.",
+    "startMs": 126375,
+    "endMs": 127501,
+    "timestampMs": 126375,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 127501,
+    "endMs": 128411,
+    "timestampMs": 127501,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 128411,
+    "endMs": 129322,
+    "timestampMs": 128411,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 129322,
+    "endMs": 129727,
+    "timestampMs": 129322,
+    "confidence": null
+  },
+  {
+    "text": "`PSScriptAnalyzer`",
+    "startMs": 129727,
+    "endMs": 130637,
+    "timestampMs": 129727,
+    "confidence": null
+  },
+  {
+    "text": "via",
+    "startMs": 130637,
+    "endMs": 130941,
+    "timestampMs": 130637,
+    "confidence": null
+  },
+  {
+    "text": "`lint:ps`,",
+    "startMs": 130941,
+    "endMs": 131649,
+    "timestampMs": 130941,
+    "confidence": null
+  },
+  {
+    "text": "which",
+    "startMs": 131649,
+    "endMs": 132155,
+    "timestampMs": 131649,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 132155,
+    "endMs": 132560,
+    "timestampMs": 132155,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Invoke-PSScriptAnalyzer.ps1`.",
+    "startMs": 132560,
+    "endMs": 133786,
+    "timestampMs": 132560,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 133786,
+    "endMs": 134191,
+    "timestampMs": 133786,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 134191,
+    "endMs": 134697,
+    "timestampMs": 134191,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 134697,
+    "endMs": 135000,
+    "timestampMs": 134697,
+    "confidence": null
+  },
+  {
+    "text": "validated",
+    "startMs": 135000,
+    "endMs": 135911,
+    "timestampMs": 135000,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 135911,
+    "endMs": 136214,
+    "timestampMs": 135911,
+    "confidence": null
+  },
+  {
+    "text": "`lint:yaml`",
+    "startMs": 136214,
+    "endMs": 137024,
+    "timestampMs": 136214,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 137024,
+    "endMs": 137732,
+    "timestampMs": 137024,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Invoke-YamlLint.ps1`,",
+    "startMs": 137732,
+    "endMs": 138744,
+    "timestampMs": 137732,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 138744,
+    "endMs": 139250,
+    "timestampMs": 138744,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 139250,
+    "endMs": 139553,
+    "timestampMs": 139250,
+    "confidence": null
+  },
+  {
+    "text": "`PowerShell-Yaml`",
+    "startMs": 139553,
+    "endMs": 140464,
+    "timestampMs": 139553,
+    "confidence": null
+  },
+  {
+    "text": "module.",
+    "startMs": 140464,
+    "endMs": 141387,
+    "timestampMs": 140464,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 141387,
+    "endMs": 141994,
+    "timestampMs": 141387,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 141994,
+    "endMs": 142399,
+    "timestampMs": 141994,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 142399,
+    "endMs": 142702,
+    "timestampMs": 142399,
+    "confidence": null
+  },
+  {
+    "text": "linted",
+    "startMs": 142702,
+    "endMs": 143309,
+    "timestampMs": 142702,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 143309,
+    "endMs": 143613,
+    "timestampMs": 143309,
+    "confidence": null
+  },
+  {
+    "text": "`lint:py`",
+    "startMs": 143613,
+    "endMs": 144220,
+    "timestampMs": 143613,
+    "confidence": null
+  },
+  {
+    "text": "via",
+    "startMs": 144220,
+    "endMs": 144523,
+    "timestampMs": 144220,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Invoke-PythonLint.ps1`.",
+    "startMs": 144523,
+    "endMs": 145750,
+    "timestampMs": 144523,
+    "confidence": null
+  },
+  {
+    "text": "Spell",
+    "startMs": 145750,
+    "endMs": 146256,
+    "timestampMs": 145750,
+    "confidence": null
+  },
+  {
+    "text": "checking",
+    "startMs": 146256,
+    "endMs": 147065,
+    "timestampMs": 146256,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 147065,
+    "endMs": 147470,
+    "timestampMs": 147065,
+    "confidence": null
+  },
+  {
+    "text": "`cspell`",
+    "startMs": 147470,
+    "endMs": 148077,
+    "timestampMs": 147470,
+    "confidence": null
+  },
+  {
+    "text": "across",
+    "startMs": 148077,
+    "endMs": 148684,
+    "timestampMs": 148077,
+    "confidence": null
+  },
+  {
+    "text": "Markdown,",
+    "startMs": 148684,
+    "endMs": 149594,
+    "timestampMs": 148684,
+    "confidence": null
+  },
+  {
+    "text": "TypeScript,",
+    "startMs": 149594,
+    "endMs": 150606,
+    "timestampMs": 149594,
+    "confidence": null
+  },
+  {
+    "text": "JavaScript,",
+    "startMs": 150606,
+    "endMs": 151618,
+    "timestampMs": 150606,
+    "confidence": null
+  },
+  {
+    "text": "JSON,",
+    "startMs": 151618,
+    "endMs": 152124,
+    "timestampMs": 151618,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 152124,
+    "endMs": 152427,
+    "timestampMs": 152124,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 152427,
+    "endMs": 152832,
+    "timestampMs": 152427,
+    "confidence": null
+  },
+  {
+    "text": "files.",
+    "startMs": 152832,
+    "endMs": 153654,
+    "timestampMs": 152832,
+    "confidence": null
+  },
+  {
+    "text": "Link",
+    "startMs": 153654,
+    "endMs": 154059,
+    "timestampMs": 153654,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 154059,
+    "endMs": 154969,
+    "timestampMs": 154059,
+    "confidence": null
+  },
+  {
+    "text": "operates",
+    "startMs": 154969,
+    "endMs": 155779,
+    "timestampMs": 154969,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 155779,
+    "endMs": 156082,
+    "timestampMs": 155779,
+    "confidence": null
+  },
+  {
+    "text": "two",
+    "startMs": 156082,
+    "endMs": 156386,
+    "timestampMs": 156082,
+    "confidence": null
+  },
+  {
+    "text": "levels:",
+    "startMs": 156386,
+    "endMs": 157094,
+    "timestampMs": 156386,
+    "confidence": null
+  },
+  {
+    "text": "`lint:links`",
+    "startMs": 157094,
+    "endMs": 158004,
+    "timestampMs": 157094,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 158004,
+    "endMs": 158611,
+    "timestampMs": 158004,
+    "confidence": null
+  },
+  {
+    "text": "language-specific",
+    "startMs": 158611,
+    "endMs": 159522,
+    "timestampMs": 158611,
+    "confidence": null
+  },
+  {
+    "text": "link",
+    "startMs": 159522,
+    "endMs": 159927,
+    "timestampMs": 159522,
+    "confidence": null
+  },
+  {
+    "text": "paths",
+    "startMs": 159927,
+    "endMs": 160433,
+    "timestampMs": 159927,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 160433,
+    "endMs": 160938,
+    "timestampMs": 160433,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Invoke-LinkLanguageCheck.ps1`,",
+    "startMs": 160938,
+    "endMs": 161950,
+    "timestampMs": 160938,
+    "confidence": null
+  },
+  {
+    "text": "while",
+    "startMs": 161950,
+    "endMs": 162456,
+    "timestampMs": 161950,
+    "confidence": null
+  },
+  {
+    "text": "`lint:md-links`",
+    "startMs": 162456,
+    "endMs": 163367,
+    "timestampMs": 162456,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 163367,
+    "endMs": 163771,
+    "timestampMs": 163367,
+    "confidence": null
+  },
+  {
+    "text": "`markdown-link-check`",
+    "startMs": 163771,
+    "endMs": 164682,
+    "timestampMs": 163771,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 164682,
+    "endMs": 165390,
+    "timestampMs": 164682,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 165390,
+    "endMs": 165694,
+    "timestampMs": 165390,
+    "confidence": null
+  },
+  {
+    "text": "configuration",
+    "startMs": 165694,
+    "endMs": 166604,
+    "timestampMs": 165694,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 166604,
+    "endMs": 167009,
+    "timestampMs": 166604,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 167009,
+    "endMs": 167312,
+    "timestampMs": 167009,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/markdown-link-check.config.json`",
+    "startMs": 167312,
+    "endMs": 168223,
+    "timestampMs": 167312,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 168223,
+    "endMs": 168526,
+    "timestampMs": 168223,
+    "confidence": null
+  },
+  {
+    "text": "verify",
+    "startMs": 168526,
+    "endMs": 169133,
+    "timestampMs": 168526,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 169133,
+    "endMs": 169538,
+    "timestampMs": 169133,
+    "confidence": null
+  },
+  {
+    "text": "URLs",
+    "startMs": 169538,
+    "endMs": 169943,
+    "timestampMs": 169538,
+    "confidence": null
+  },
+  {
+    "text": "resolve.",
+    "startMs": 169943,
+    "endMs": 170967,
+    "timestampMs": 169943,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 170967,
+    "endMs": 171271,
+    "timestampMs": 170967,
+    "confidence": null
+  },
+  {
+    "text": "security-focused",
+    "startMs": 171271,
+    "endMs": 172181,
+    "timestampMs": 171271,
+    "confidence": null
+  },
+  {
+    "text": "linters",
+    "startMs": 172181,
+    "endMs": 172889,
+    "timestampMs": 172181,
+    "confidence": null
+  },
+  {
+    "text": "form",
+    "startMs": 172889,
+    "endMs": 173294,
+    "timestampMs": 172889,
+    "confidence": null
+  },
+  {
+    "text": "their",
+    "startMs": 173294,
+    "endMs": 173800,
+    "timestampMs": 173294,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 173800,
+    "endMs": 174104,
+    "timestampMs": 173800,
+    "confidence": null
+  },
+  {
+    "text": "group.",
+    "startMs": 174104,
+    "endMs": 174926,
+    "timestampMs": 174104,
+    "confidence": null
+  },
+  {
+    "text": "`lint:version-consistency`",
+    "startMs": 174926,
+    "endMs": 175836,
+    "timestampMs": 174926,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 175836,
+    "endMs": 176241,
+    "timestampMs": 175836,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/security/Test-ActionVersionConsistency.ps1`",
+    "startMs": 176241,
+    "endMs": 177151,
+    "timestampMs": 176241,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 177151,
+    "endMs": 177455,
+    "timestampMs": 177151,
+    "confidence": null
+  },
+  {
+    "text": "verify",
+    "startMs": 177455,
+    "endMs": 178062,
+    "timestampMs": 177455,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 178062,
+    "endMs": 178467,
+    "timestampMs": 178062,
+    "confidence": null
+  },
+  {
+    "text": "GitHub",
+    "startMs": 178467,
+    "endMs": 179074,
+    "timestampMs": 178467,
+    "confidence": null
+  },
+  {
+    "text": "Actions",
+    "startMs": 179074,
+    "endMs": 179782,
+    "timestampMs": 179074,
+    "confidence": null
+  },
+  {
+    "text": "pinned",
+    "startMs": 179782,
+    "endMs": 180389,
+    "timestampMs": 179782,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 180389,
+    "endMs": 180692,
+    "timestampMs": 180389,
+    "confidence": null
+  },
+  {
+    "text": "SHA",
+    "startMs": 180692,
+    "endMs": 180996,
+    "timestampMs": 180692,
+    "confidence": null
+  },
+  {
+    "text": "references",
+    "startMs": 180996,
+    "endMs": 181907,
+    "timestampMs": 180996,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 181907,
+    "endMs": 182210,
+    "timestampMs": 181907,
+    "confidence": null
+  },
+  {
+    "text": "consistent",
+    "startMs": 182210,
+    "endMs": 183121,
+    "timestampMs": 182210,
+    "confidence": null
+  },
+  {
+    "text": "versions",
+    "startMs": 183121,
+    "endMs": 183930,
+    "timestampMs": 183121,
+    "confidence": null
+  },
+  {
+    "text": "across",
+    "startMs": 183930,
+    "endMs": 184537,
+    "timestampMs": 183930,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 184537,
+    "endMs": 184841,
+    "timestampMs": 184537,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 184841,
+    "endMs": 185650,
+    "timestampMs": 184841,
+    "confidence": null
+  },
+  {
+    "text": "files.",
+    "startMs": 185650,
+    "endMs": 186472,
+    "timestampMs": 185650,
+    "confidence": null
+  },
+  {
+    "text": "`lint:permissions`",
+    "startMs": 186472,
+    "endMs": 187382,
+    "timestampMs": 186472,
+    "confidence": null
+  },
+  {
+    "text": "executes",
+    "startMs": 187382,
+    "endMs": 188192,
+    "timestampMs": 187382,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/security/Test-WorkflowPermissions.ps1`",
+    "startMs": 188192,
+    "endMs": 189102,
+    "timestampMs": 188192,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 189102,
+    "endMs": 189406,
+    "timestampMs": 189102,
+    "confidence": null
+  },
+  {
+    "text": "enforce",
+    "startMs": 189406,
+    "endMs": 190114,
+    "timestampMs": 189406,
+    "confidence": null
+  },
+  {
+    "text": "least-privilege",
+    "startMs": 190114,
+    "endMs": 191025,
+    "timestampMs": 190114,
+    "confidence": null
+  },
+  {
+    "text": "permission",
+    "startMs": 191025,
+    "endMs": 191935,
+    "timestampMs": 191025,
+    "confidence": null
+  },
+  {
+    "text": "declarations.",
+    "startMs": 191935,
+    "endMs": 193162,
+    "timestampMs": 191935,
+    "confidence": null
+  },
+  {
+    "text": "`lint:dependency-pinning`",
+    "startMs": 193162,
+    "endMs": 194073,
+    "timestampMs": 193162,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 194073,
+    "endMs": 194477,
+    "timestampMs": 194073,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/security/Test-DependencyPinning.ps1`",
+    "startMs": 194477,
+    "endMs": 195388,
+    "timestampMs": 194477,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 195388,
+    "endMs": 195691,
+    "timestampMs": 195388,
+    "confidence": null
+  },
+  {
+    "text": "catch",
+    "startMs": 195691,
+    "endMs": 196197,
+    "timestampMs": 195691,
+    "confidence": null
+  },
+  {
+    "text": "unpinned",
+    "startMs": 196197,
+    "endMs": 197007,
+    "timestampMs": 196197,
+    "confidence": null
+  },
+  {
+    "text": "dependencies.",
+    "startMs": 197007,
+    "endMs": 198233,
+    "timestampMs": 197007,
+    "confidence": null
+  },
+  {
+    "text": "`lint:ps-module-pins`",
+    "startMs": 198233,
+    "endMs": 199144,
+    "timestampMs": 198233,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 199144,
+    "endMs": 199549,
+    "timestampMs": 199144,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/security/Test-PSModulePins.ps1`",
+    "startMs": 199549,
+    "endMs": 200459,
+    "timestampMs": 199549,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 200459,
+    "endMs": 200763,
+    "timestampMs": 200459,
+    "confidence": null
+  },
+  {
+    "text": "verify",
+    "startMs": 200763,
+    "endMs": 201370,
+    "timestampMs": 200763,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 201370,
+    "endMs": 201774,
+    "timestampMs": 201370,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 201774,
+    "endMs": 202685,
+    "timestampMs": 201774,
+    "confidence": null
+  },
+  {
+    "text": "module",
+    "startMs": 202685,
+    "endMs": 203292,
+    "timestampMs": 202685,
+    "confidence": null
+  },
+  {
+    "text": "imports",
+    "startMs": 203292,
+    "endMs": 204000,
+    "timestampMs": 203292,
+    "confidence": null
+  },
+  {
+    "text": "specify",
+    "startMs": 204000,
+    "endMs": 204708,
+    "timestampMs": 204000,
+    "confidence": null
+  },
+  {
+    "text": "exact",
+    "startMs": 204708,
+    "endMs": 205214,
+    "timestampMs": 204708,
+    "confidence": null
+  },
+  {
+    "text": "versions.",
+    "startMs": 205214,
+    "endMs": 206340,
+    "timestampMs": 205214,
+    "confidence": null
+  },
+  {
+    "text": "These",
+    "startMs": 206340,
+    "endMs": 206846,
+    "timestampMs": 206340,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 206846,
+    "endMs": 207250,
+    "timestampMs": 206846,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 207250,
+    "endMs": 207959,
+    "timestampMs": 207250,
+    "confidence": null
+  },
+  {
+    "text": "collectively",
+    "startMs": 207959,
+    "endMs": 208869,
+    "timestampMs": 207959,
+    "confidence": null
+  },
+  {
+    "text": "enforce",
+    "startMs": 208869,
+    "endMs": 209577,
+    "timestampMs": 208869,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 209577,
+    "endMs": 209881,
+    "timestampMs": 209577,
+    "confidence": null
+  },
+  {
+    "text": "supply",
+    "startMs": 209881,
+    "endMs": 210488,
+    "timestampMs": 209881,
+    "confidence": null
+  },
+  {
+    "text": "chain",
+    "startMs": 210488,
+    "endMs": 210994,
+    "timestampMs": 210488,
+    "confidence": null
+  },
+  {
+    "text": "security",
+    "startMs": 210994,
+    "endMs": 211803,
+    "timestampMs": 210994,
+    "confidence": null
+  },
+  {
+    "text": "posture",
+    "startMs": 211803,
+    "endMs": 212511,
+    "timestampMs": 211803,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 212511,
+    "endMs": 212916,
+    "timestampMs": 212511,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 212916,
+    "endMs": 213219,
+    "timestampMs": 212916,
+    "confidence": null
+  },
+  {
+    "text": "depends",
+    "startMs": 213219,
+    "endMs": 213928,
+    "timestampMs": 213219,
+    "confidence": null
+  },
+  {
+    "text": "on.",
+    "startMs": 213928,
+    "endMs": 214547,
+    "timestampMs": 213928,
+    "confidence": null
+  },
+  {
+    "text": "Two",
+    "startMs": 214547,
+    "endMs": 214851,
+    "timestampMs": 214547,
+    "confidence": null
+  },
+  {
+    "text": "additional",
+    "startMs": 214851,
+    "endMs": 215761,
+    "timestampMs": 214851,
+    "confidence": null
+  },
+  {
+    "text": "validators",
+    "startMs": 215761,
+    "endMs": 216672,
+    "timestampMs": 215761,
+    "confidence": null
+  },
+  {
+    "text": "target",
+    "startMs": 216672,
+    "endMs": 217279,
+    "timestampMs": 216672,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 217279,
+    "endMs": 217583,
+    "timestampMs": 217279,
+    "confidence": null
+  },
+  {
+    "text": "Core's",
+    "startMs": 217583,
+    "endMs": 218088,
+    "timestampMs": 217583,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 218088,
+    "endMs": 218898,
+    "timestampMs": 218088,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 218898,
+    "endMs": 219707,
+    "timestampMs": 218898,
+    "confidence": null
+  },
+  {
+    "text": "types.",
+    "startMs": 219707,
+    "endMs": 220529,
+    "timestampMs": 219707,
+    "confidence": null
+  },
+  {
+    "text": "`lint:collections-metadata`",
+    "startMs": 220529,
+    "endMs": 221440,
+    "timestampMs": 220529,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 221440,
+    "endMs": 221844,
+    "timestampMs": 221440,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/collections/Validate-Collections.ps1`",
+    "startMs": 221844,
+    "endMs": 222755,
+    "timestampMs": 221844,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 222755,
+    "endMs": 223059,
+    "timestampMs": 222755,
+    "confidence": null
+  },
+  {
+    "text": "verify",
+    "startMs": 223059,
+    "endMs": 223666,
+    "timestampMs": 223059,
+    "confidence": null
+  },
+  {
+    "text": "collection",
+    "startMs": 223666,
+    "endMs": 224576,
+    "timestampMs": 223666,
+    "confidence": null
+  },
+  {
+    "text": "manifest",
+    "startMs": 224576,
+    "endMs": 225386,
+    "timestampMs": 224576,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 225386,
+    "endMs": 225891,
+    "timestampMs": 225386,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 225891,
+    "endMs": 226195,
+    "timestampMs": 225891,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 226195,
+    "endMs": 226498,
+    "timestampMs": 226195,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 226498,
+    "endMs": 226903,
+    "timestampMs": 226498,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 226903,
+    "endMs": 227409,
+    "timestampMs": 226903,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 227409,
+    "endMs": 227712,
+    "timestampMs": 227409,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 227712,
+    "endMs": 228016,
+    "timestampMs": 227712,
+    "confidence": null
+  },
+  {
+    "text": "`collections/`",
+    "startMs": 228016,
+    "endMs": 228927,
+    "timestampMs": 228016,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 228927,
+    "endMs": 229837,
+    "timestampMs": 228927,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 229837,
+    "endMs": 230242,
+    "timestampMs": 229837,
+    "confidence": null
+  },
+  {
+    "text": "define",
+    "startMs": 230242,
+    "endMs": 230849,
+    "timestampMs": 230242,
+    "confidence": null
+  },
+  {
+    "text": "which",
+    "startMs": 230849,
+    "endMs": 231355,
+    "timestampMs": 230849,
+    "confidence": null
+  },
+  {
+    "text": "artifacts",
+    "startMs": 231355,
+    "endMs": 232265,
+    "timestampMs": 231355,
+    "confidence": null
+  },
+  {
+    "text": "ship",
+    "startMs": 232265,
+    "endMs": 232670,
+    "timestampMs": 232265,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 232670,
+    "endMs": 232973,
+    "timestampMs": 232670,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 232973,
+    "endMs": 233378,
+    "timestampMs": 232973,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 233378,
+    "endMs": 234289,
+    "timestampMs": 233378,
+    "confidence": null
+  },
+  {
+    "text": "variant.",
+    "startMs": 234289,
+    "endMs": 235313,
+    "timestampMs": 234289,
+    "confidence": null
+  },
+  {
+    "text": "`lint:marketplace`",
+    "startMs": 235313,
+    "endMs": 236224,
+    "timestampMs": 235313,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 236224,
+    "endMs": 236628,
+    "timestampMs": 236224,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/plugins/Validate-Marketplace.ps1`",
+    "startMs": 236628,
+    "endMs": 237539,
+    "timestampMs": 236628,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 237539,
+    "endMs": 237842,
+    "timestampMs": 237539,
+    "confidence": null
+  },
+  {
+    "text": "validate",
+    "startMs": 237842,
+    "endMs": 238652,
+    "timestampMs": 237842,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 238652,
+    "endMs": 238955,
+    "timestampMs": 238652,
+    "confidence": null
+  },
+  {
+    "text": "marketplace",
+    "startMs": 238955,
+    "endMs": 239866,
+    "timestampMs": 238955,
+    "confidence": null
+  },
+  {
+    "text": "metadata",
+    "startMs": 239866,
+    "endMs": 240675,
+    "timestampMs": 239866,
+    "confidence": null
+  },
+  {
+    "text": "used",
+    "startMs": 240675,
+    "endMs": 241080,
+    "timestampMs": 240675,
+    "confidence": null
+  },
+  {
+    "text": "during",
+    "startMs": 241080,
+    "endMs": 241687,
+    "timestampMs": 241080,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 241687,
+    "endMs": 242598,
+    "timestampMs": 241687,
+    "confidence": null
+  },
+  {
+    "text": "publishing.",
+    "startMs": 242598,
+    "endMs": 243824,
+    "timestampMs": 242598,
+    "confidence": null
+  },
+  {
+    "text": "`lint:ai-artifacts`",
+    "startMs": 243824,
+    "endMs": 244735,
+    "timestampMs": 243824,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 244735,
+    "endMs": 245139,
+    "timestampMs": 244735,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Validate-PlannerArtifacts.ps1`",
+    "startMs": 245139,
+    "endMs": 246050,
+    "timestampMs": 245139,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 246050,
+    "endMs": 246354,
+    "timestampMs": 246050,
+    "confidence": null
+  },
+  {
+    "text": "verify",
+    "startMs": 246354,
+    "endMs": 246961,
+    "timestampMs": 246354,
+    "confidence": null
+  },
+  {
+    "text": "planner",
+    "startMs": 246961,
+    "endMs": 247669,
+    "timestampMs": 246961,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 247669,
+    "endMs": 248478,
+    "timestampMs": 247669,
+    "confidence": null
+  },
+  {
+    "text": "integrity.",
+    "startMs": 248478,
+    "endMs": 249705,
+    "timestampMs": 248478,
+    "confidence": null
+  },
+  {
+    "text": "`validate:skills`",
+    "startMs": 249705,
+    "endMs": 250615,
+    "timestampMs": 249705,
+    "confidence": null
+  },
+  {
+    "text": "executes",
+    "startMs": 250615,
+    "endMs": 251425,
+    "timestampMs": 250615,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Validate-SkillStructure.ps1`",
+    "startMs": 251425,
+    "endMs": 252335,
+    "timestampMs": 251425,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 252335,
+    "endMs": 252639,
+    "timestampMs": 252335,
+    "confidence": null
+  },
+  {
+    "text": "check",
+    "startMs": 252639,
+    "endMs": 253145,
+    "timestampMs": 252639,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 253145,
+    "endMs": 253549,
+    "timestampMs": 253145,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 253549,
+    "endMs": 254055,
+    "timestampMs": 253549,
+    "confidence": null
+  },
+  {
+    "text": "directories",
+    "startMs": 254055,
+    "endMs": 254966,
+    "timestampMs": 254055,
+    "confidence": null
+  },
+  {
+    "text": "conform",
+    "startMs": 254966,
+    "endMs": 255674,
+    "timestampMs": 254966,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 255674,
+    "endMs": 255978,
+    "timestampMs": 255674,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 255978,
+    "endMs": 256281,
+    "timestampMs": 255978,
+    "confidence": null
+  },
+  {
+    "text": "expected",
+    "startMs": 256281,
+    "endMs": 257091,
+    "timestampMs": 256281,
+    "confidence": null
+  },
+  {
+    "text": "layout.",
+    "startMs": 257091,
+    "endMs": 258014,
+    "timestampMs": 257091,
+    "confidence": null
+  },
+  {
+    "text": "`validate:copyright`",
+    "startMs": 258014,
+    "endMs": 258924,
+    "timestampMs": 258014,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 258924,
+    "endMs": 259329,
+    "timestampMs": 258924,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Test-CopyrightHeaders.ps1`",
+    "startMs": 259329,
+    "endMs": 260240,
+    "timestampMs": 259329,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 260240,
+    "endMs": 260543,
+    "timestampMs": 260240,
+    "confidence": null
+  },
+  {
+    "text": "enforce",
+    "startMs": 260543,
+    "endMs": 261251,
+    "timestampMs": 260543,
+    "confidence": null
+  },
+  {
+    "text": "copyright",
+    "startMs": 261251,
+    "endMs": 262162,
+    "timestampMs": 261251,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 262162,
+    "endMs": 262465,
+    "timestampMs": 262162,
+    "confidence": null
+  },
+  {
+    "text": "SPDX",
+    "startMs": 262465,
+    "endMs": 262870,
+    "timestampMs": 262465,
+    "confidence": null
+  },
+  {
+    "text": "license",
+    "startMs": 262870,
+    "endMs": 263578,
+    "timestampMs": 262870,
+    "confidence": null
+  },
+  {
+    "text": "headers",
+    "startMs": 263578,
+    "endMs": 264286,
+    "timestampMs": 263578,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 264286,
+    "endMs": 264590,
+    "timestampMs": 264286,
+    "confidence": null
+  },
+  {
+    "text": "source",
+    "startMs": 264590,
+    "endMs": 265197,
+    "timestampMs": 264590,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 265197,
+    "endMs": 265703,
+    "timestampMs": 265197,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 265703,
+    "endMs": 266006,
+    "timestampMs": 265703,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 266006,
+    "endMs": 266310,
+    "timestampMs": 266006,
+    "confidence": null
+  },
+  {
+    "text": "requirement",
+    "startMs": 266310,
+    "endMs": 267220,
+    "timestampMs": 266310,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 267220,
+    "endMs": 267524,
+    "timestampMs": 267220,
+    "confidence": null
+  },
+  {
+    "text": "OpenSSF",
+    "startMs": 267524,
+    "endMs": 268232,
+    "timestampMs": 267524,
+    "confidence": null
+  },
+  {
+    "text": "Best",
+    "startMs": 268232,
+    "endMs": 268637,
+    "timestampMs": 268232,
+    "confidence": null
+  },
+  {
+    "text": "Practices",
+    "startMs": 268637,
+    "endMs": 269547,
+    "timestampMs": 268637,
+    "confidence": null
+  },
+  {
+    "text": "badge",
+    "startMs": 269547,
+    "endMs": 270053,
+    "timestampMs": 269547,
+    "confidence": null
+  },
+  {
+    "text": "compliance.",
+    "startMs": 270053,
+    "endMs": 271280,
+    "timestampMs": 270053,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 271280,
+    "endMs": 271537,
+    "timestampMs": 271280,
+    "confidence": null
+  },
+  {
+    "text": "`lint:frontmatter`",
+    "startMs": 271537,
+    "endMs": 272307,
+    "timestampMs": 271537,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 272307,
+    "endMs": 272821,
+    "timestampMs": 272307,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 272821,
+    "endMs": 273077,
+    "timestampMs": 272821,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 273077,
+    "endMs": 273334,
+    "timestampMs": 273077,
+    "confidence": null
+  },
+  {
+    "text": "most",
+    "startMs": 273334,
+    "endMs": 273676,
+    "timestampMs": 273334,
+    "confidence": null
+  },
+  {
+    "text": "architecturally",
+    "startMs": 273676,
+    "endMs": 274447,
+    "timestampMs": 273676,
+    "confidence": null
+  },
+  {
+    "text": "significant",
+    "startMs": 274447,
+    "endMs": 275217,
+    "timestampMs": 274447,
+    "confidence": null
+  },
+  {
+    "text": "validator.",
+    "startMs": 275217,
+    "endMs": 276255,
+    "timestampMs": 275217,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 276255,
+    "endMs": 276511,
+    "timestampMs": 276255,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 276511,
+    "endMs": 276854,
+    "timestampMs": 276511,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/Validate-MarkdownFrontmatter.ps1`",
+    "startMs": 276854,
+    "endMs": 277624,
+    "timestampMs": 276854,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 277624,
+    "endMs": 277966,
+    "timestampMs": 277624,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 277966,
+    "endMs": 278223,
+    "timestampMs": 277966,
+    "confidence": null
+  },
+  {
+    "text": "`-WarningsAsErrors`",
+    "startMs": 278223,
+    "endMs": 278993,
+    "timestampMs": 278223,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 278993,
+    "endMs": 279250,
+    "timestampMs": 278993,
+    "confidence": null
+  },
+  {
+    "text": "`-EnableSchemaValidation`",
+    "startMs": 279250,
+    "endMs": 280020,
+    "timestampMs": 279250,
+    "confidence": null
+  },
+  {
+    "text": "flags.",
+    "startMs": 280020,
+    "endMs": 280716,
+    "timestampMs": 280020,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 280716,
+    "endMs": 281058,
+    "timestampMs": 280716,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 281058,
+    "endMs": 281572,
+    "timestampMs": 281058,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 281572,
+    "endMs": 282342,
+    "timestampMs": 281572,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 282342,
+    "endMs": 282684,
+    "timestampMs": 282342,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 282684,
+    "endMs": 283112,
+    "timestampMs": 282684,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 283112,
+    "endMs": 283797,
+    "timestampMs": 283112,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 283797,
+    "endMs": 284139,
+    "timestampMs": 283797,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 284139,
+    "endMs": 284396,
+    "timestampMs": 284139,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 284396,
+    "endMs": 284653,
+    "timestampMs": 284396,
+    "confidence": null
+  },
+  {
+    "text": "repository",
+    "startMs": 284653,
+    "endMs": 285423,
+    "timestampMs": 284653,
+    "confidence": null
+  },
+  {
+    "text": "carries",
+    "startMs": 285423,
+    "endMs": 286022,
+    "timestampMs": 285423,
+    "confidence": null
+  },
+  {
+    "text": "correct",
+    "startMs": 286022,
+    "endMs": 286621,
+    "timestampMs": 286022,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 286621,
+    "endMs": 286964,
+    "timestampMs": 286621,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 286964,
+    "endMs": 287734,
+    "timestampMs": 286964,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 287734,
+    "endMs": 287991,
+    "timestampMs": 287734,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 287991,
+    "endMs": 288247,
+    "timestampMs": 287991,
+    "confidence": null
+  },
+  {
+    "text": "metadata",
+    "startMs": 288247,
+    "endMs": 288932,
+    "timestampMs": 288247,
+    "confidence": null
+  },
+  {
+    "text": "block",
+    "startMs": 288932,
+    "endMs": 289360,
+    "timestampMs": 288932,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 289360,
+    "endMs": 289617,
+    "timestampMs": 289360,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 289617,
+    "endMs": 289873,
+    "timestampMs": 289617,
+    "confidence": null
+  },
+  {
+    "text": "top",
+    "startMs": 289873,
+    "endMs": 290130,
+    "timestampMs": 289873,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 290130,
+    "endMs": 290387,
+    "timestampMs": 290130,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 290387,
+    "endMs": 290729,
+    "timestampMs": 290387,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 290729,
+    "endMs": 291072,
+    "timestampMs": 290729,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 291072,
+    "endMs": 291414,
+    "timestampMs": 291072,
+    "confidence": null
+  },
+  {
+    "text": "declares",
+    "startMs": 291414,
+    "endMs": 292099,
+    "timestampMs": 291414,
+    "confidence": null
+  },
+  {
+    "text": "title,",
+    "startMs": 292099,
+    "endMs": 292612,
+    "timestampMs": 292099,
+    "confidence": null
+  },
+  {
+    "text": "description,",
+    "startMs": 292612,
+    "endMs": 293468,
+    "timestampMs": 292612,
+    "confidence": null
+  },
+  {
+    "text": "author,",
+    "startMs": 293468,
+    "endMs": 294067,
+    "timestampMs": 293468,
+    "confidence": null
+  },
+  {
+    "text": "date,",
+    "startMs": 294067,
+    "endMs": 294495,
+    "timestampMs": 294067,
+    "confidence": null
+  },
+  {
+    "text": "topic",
+    "startMs": 294495,
+    "endMs": 294923,
+    "timestampMs": 294495,
+    "confidence": null
+  },
+  {
+    "text": "type,",
+    "startMs": 294923,
+    "endMs": 295351,
+    "timestampMs": 294923,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 295351,
+    "endMs": 295608,
+    "timestampMs": 295351,
+    "confidence": null
+  },
+  {
+    "text": "keywords.",
+    "startMs": 295608,
+    "endMs": 296560,
+    "timestampMs": 295608,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 296560,
+    "endMs": 296817,
+    "timestampMs": 296560,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 296817,
+    "endMs": 297330,
+    "timestampMs": 296817,
+    "confidence": null
+  },
+  {
+    "text": "mapping",
+    "startMs": 297330,
+    "endMs": 297929,
+    "timestampMs": 297330,
+    "confidence": null
+  },
+  {
+    "text": "lives",
+    "startMs": 297929,
+    "endMs": 298357,
+    "timestampMs": 297929,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 298357,
+    "endMs": 298614,
+    "timestampMs": 298357,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/schemas/schema-mapping.json`.",
+    "startMs": 298614,
+    "endMs": 299652,
+    "timestampMs": 298614,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 299652,
+    "endMs": 299994,
+    "timestampMs": 299652,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 299994,
+    "endMs": 300336,
+    "timestampMs": 299994,
+    "confidence": null
+  },
+  {
+    "text": "defines",
+    "startMs": 300336,
+    "endMs": 300935,
+    "timestampMs": 300336,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 300935,
+    "endMs": 301192,
+    "timestampMs": 300935,
+    "confidence": null
+  },
+  {
+    "text": "set",
+    "startMs": 301192,
+    "endMs": 301449,
+    "timestampMs": 301192,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 301449,
+    "endMs": 301706,
+    "timestampMs": 301449,
+    "confidence": null
+  },
+  {
+    "text": "pattern-to-schema",
+    "startMs": 301706,
+    "endMs": 302476,
+    "timestampMs": 301706,
+    "confidence": null
+  },
+  {
+    "text": "rules",
+    "startMs": 302476,
+    "endMs": 302904,
+    "timestampMs": 302476,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 302904,
+    "endMs": 303246,
+    "timestampMs": 302904,
+    "confidence": null
+  },
+  {
+    "text": "determine",
+    "startMs": 303246,
+    "endMs": 304016,
+    "timestampMs": 303246,
+    "confidence": null
+  },
+  {
+    "text": "which",
+    "startMs": 304016,
+    "endMs": 304444,
+    "timestampMs": 304016,
+    "confidence": null
+  },
+  {
+    "text": "JSON",
+    "startMs": 304444,
+    "endMs": 304787,
+    "timestampMs": 304444,
+    "confidence": null
+  },
+  {
+    "text": "Schema",
+    "startMs": 304787,
+    "endMs": 305300,
+    "timestampMs": 304787,
+    "confidence": null
+  },
+  {
+    "text": "applies",
+    "startMs": 305300,
+    "endMs": 305899,
+    "timestampMs": 305300,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 305899,
+    "endMs": 306156,
+    "timestampMs": 305899,
+    "confidence": null
+  },
+  {
+    "text": "which",
+    "startMs": 306156,
+    "endMs": 306584,
+    "timestampMs": 306156,
+    "confidence": null
+  },
+  {
+    "text": "files.",
+    "startMs": 306584,
+    "endMs": 307279,
+    "timestampMs": 306584,
+    "confidence": null
+  },
+  {
+    "text": "Root",
+    "startMs": 307279,
+    "endMs": 307622,
+    "timestampMs": 307279,
+    "confidence": null
+  },
+  {
+    "text": "community",
+    "startMs": 307622,
+    "endMs": 308392,
+    "timestampMs": 307622,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 308392,
+    "endMs": 308820,
+    "timestampMs": 308392,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 308820,
+    "endMs": 309077,
+    "timestampMs": 308820,
+    "confidence": null
+  },
+  {
+    "text": "`README.md`,",
+    "startMs": 309077,
+    "endMs": 309847,
+    "timestampMs": 309077,
+    "confidence": null
+  },
+  {
+    "text": "`CONTRIBUTING.md`,",
+    "startMs": 309847,
+    "endMs": 310703,
+    "timestampMs": 309847,
+    "confidence": null
+  },
+  {
+    "text": "`CODE_OF_CONDUCT.md`,",
+    "startMs": 310703,
+    "endMs": 311559,
+    "timestampMs": 310703,
+    "confidence": null
+  },
+  {
+    "text": "`SECURITY.md`,",
+    "startMs": 311559,
+    "endMs": 312415,
+    "timestampMs": 311559,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 312415,
+    "endMs": 312671,
+    "timestampMs": 312415,
+    "confidence": null
+  },
+  {
+    "text": "`SUPPORT.md`",
+    "startMs": 312671,
+    "endMs": 313442,
+    "timestampMs": 312671,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 313442,
+    "endMs": 313698,
+    "timestampMs": 313442,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 313698,
+    "endMs": 313955,
+    "timestampMs": 313698,
+    "confidence": null
+  },
+  {
+    "text": "validated",
+    "startMs": 313955,
+    "endMs": 314725,
+    "timestampMs": 313955,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 314725,
+    "endMs": 315324,
+    "timestampMs": 314725,
+    "confidence": null
+  },
+  {
+    "text": "`root-community-frontmatter.schema.json`.",
+    "startMs": 315324,
+    "endMs": 316362,
+    "timestampMs": 315324,
+    "confidence": null
+  },
+  {
+    "text": "Documentation",
+    "startMs": 316362,
+    "endMs": 317132,
+    "timestampMs": 316362,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 317132,
+    "endMs": 317560,
+    "timestampMs": 317132,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 317560,
+    "endMs": 317988,
+    "timestampMs": 317560,
+    "confidence": null
+  },
+  {
+    "text": "`docs/`",
+    "startMs": 317988,
+    "endMs": 318331,
+    "timestampMs": 317988,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 318331,
+    "endMs": 318587,
+    "timestampMs": 318331,
+    "confidence": null
+  },
+  {
+    "text": "`docs-frontmatter.schema.json`.",
+    "startMs": 318587,
+    "endMs": 319625,
+    "timestampMs": 318587,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 319625,
+    "endMs": 319968,
+    "timestampMs": 319625,
+    "confidence": null
+  },
+  {
+    "text": "GitHub",
+    "startMs": 319968,
+    "endMs": 320481,
+    "timestampMs": 319968,
+    "confidence": null
+  },
+  {
+    "text": "Copilot",
+    "startMs": 320481,
+    "endMs": 321080,
+    "timestampMs": 320481,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 321080,
+    "endMs": 321765,
+    "timestampMs": 321080,
+    "confidence": null
+  },
+  {
+    "text": "type",
+    "startMs": 321765,
+    "endMs": 322107,
+    "timestampMs": 321765,
+    "confidence": null
+  },
+  {
+    "text": "maps",
+    "startMs": 322107,
+    "endMs": 322449,
+    "timestampMs": 322107,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 322449,
+    "endMs": 322706,
+    "timestampMs": 322449,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 322706,
+    "endMs": 322963,
+    "timestampMs": 322706,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 322963,
+    "endMs": 323220,
+    "timestampMs": 322963,
+    "confidence": null
+  },
+  {
+    "text": "schema:",
+    "startMs": 323220,
+    "endMs": 323819,
+    "timestampMs": 323220,
+    "confidence": null
+  },
+  {
+    "text": "`.instructions.md`",
+    "startMs": 323819,
+    "endMs": 324589,
+    "timestampMs": 323819,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 324589,
+    "endMs": 325017,
+    "timestampMs": 324589,
+    "confidence": null
+  },
+  {
+    "text": "validate",
+    "startMs": 325017,
+    "endMs": 325702,
+    "timestampMs": 325017,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 325702,
+    "endMs": 326301,
+    "timestampMs": 325702,
+    "confidence": null
+  },
+  {
+    "text": "`instruction-frontmatter.schema.json`,",
+    "startMs": 326301,
+    "endMs": 327157,
+    "timestampMs": 326301,
+    "confidence": null
+  },
+  {
+    "text": "`.prompt.md`",
+    "startMs": 327157,
+    "endMs": 327841,
+    "timestampMs": 327157,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 327841,
+    "endMs": 328269,
+    "timestampMs": 327841,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 328269,
+    "endMs": 328868,
+    "timestampMs": 328269,
+    "confidence": null
+  },
+  {
+    "text": "`prompt-frontmatter.schema.json`,",
+    "startMs": 328868,
+    "endMs": 329724,
+    "timestampMs": 328868,
+    "confidence": null
+  },
+  {
+    "text": "`.agent.md`",
+    "startMs": 329724,
+    "endMs": 330323,
+    "timestampMs": 329724,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 330323,
+    "endMs": 330751,
+    "timestampMs": 330323,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 330751,
+    "endMs": 331350,
+    "timestampMs": 330751,
+    "confidence": null
+  },
+  {
+    "text": "`agent-frontmatter.schema.json`,",
+    "startMs": 331350,
+    "endMs": 332206,
+    "timestampMs": 331350,
+    "confidence": null
+  },
+  {
+    "text": "`.chatmode.md`",
+    "startMs": 332206,
+    "endMs": 332977,
+    "timestampMs": 332206,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 332977,
+    "endMs": 333404,
+    "timestampMs": 332977,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 333404,
+    "endMs": 334004,
+    "timestampMs": 333404,
+    "confidence": null
+  },
+  {
+    "text": "`chatmode-frontmatter.schema.json`,",
+    "startMs": 334004,
+    "endMs": 334859,
+    "timestampMs": 334004,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 334859,
+    "endMs": 335116,
+    "timestampMs": 334859,
+    "confidence": null
+  },
+  {
+    "text": "`SKILL.md`",
+    "startMs": 335116,
+    "endMs": 335715,
+    "timestampMs": 335116,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 335715,
+    "endMs": 336143,
+    "timestampMs": 335715,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 336143,
+    "endMs": 336742,
+    "timestampMs": 336143,
+    "confidence": null
+  },
+  {
+    "text": "`skill-frontmatter.schema.json`.",
+    "startMs": 336742,
+    "endMs": 337780,
+    "timestampMs": 336742,
+    "confidence": null
+  },
+  {
+    "text": "Any",
+    "startMs": 337780,
+    "endMs": 338037,
+    "timestampMs": 337780,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 338037,
+    "endMs": 338379,
+    "timestampMs": 338037,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 338379,
+    "endMs": 338721,
+    "timestampMs": 338379,
+    "confidence": null
+  },
+  {
+    "text": "does",
+    "startMs": 338721,
+    "endMs": 339064,
+    "timestampMs": 338721,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 339064,
+    "endMs": 339321,
+    "timestampMs": 339064,
+    "confidence": null
+  },
+  {
+    "text": "match",
+    "startMs": 339321,
+    "endMs": 339748,
+    "timestampMs": 339321,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 339748,
+    "endMs": 340005,
+    "timestampMs": 339748,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 340005,
+    "endMs": 340690,
+    "timestampMs": 340005,
+    "confidence": null
+  },
+  {
+    "text": "pattern",
+    "startMs": 340690,
+    "endMs": 341289,
+    "timestampMs": 340690,
+    "confidence": null
+  },
+  {
+    "text": "falls",
+    "startMs": 341289,
+    "endMs": 341717,
+    "timestampMs": 341289,
+    "confidence": null
+  },
+  {
+    "text": "back",
+    "startMs": 341717,
+    "endMs": 342059,
+    "timestampMs": 341717,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 342059,
+    "endMs": 342316,
+    "timestampMs": 342059,
+    "confidence": null
+  },
+  {
+    "text": "`base-frontmatter.schema.json`.",
+    "startMs": 342316,
+    "endMs": 343354,
+    "timestampMs": 342316,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 343354,
+    "endMs": 343611,
+    "timestampMs": 343354,
+    "confidence": null
+  },
+  {
+    "text": "base",
+    "startMs": 343611,
+    "endMs": 343953,
+    "timestampMs": 343611,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 343953,
+    "endMs": 344466,
+    "timestampMs": 343953,
+    "confidence": null
+  },
+  {
+    "text": "defines",
+    "startMs": 344466,
+    "endMs": 345065,
+    "timestampMs": 344466,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 345065,
+    "endMs": 345322,
+    "timestampMs": 345065,
+    "confidence": null
+  },
+  {
+    "text": "shared",
+    "startMs": 345322,
+    "endMs": 345836,
+    "timestampMs": 345322,
+    "confidence": null
+  },
+  {
+    "text": "contract.",
+    "startMs": 345836,
+    "endMs": 346788,
+    "timestampMs": 345836,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 346788,
+    "endMs": 347045,
+    "timestampMs": 346788,
+    "confidence": null
+  },
+  {
+    "text": "requires",
+    "startMs": 347045,
+    "endMs": 347729,
+    "timestampMs": 347045,
+    "confidence": null
+  },
+  {
+    "text": "`title`",
+    "startMs": 347729,
+    "endMs": 348157,
+    "timestampMs": 347729,
+    "confidence": null
+  },
+  {
+    "text": "(non-empty",
+    "startMs": 348157,
+    "endMs": 348842,
+    "timestampMs": 348157,
+    "confidence": null
+  },
+  {
+    "text": "string),",
+    "startMs": 348842,
+    "endMs": 349441,
+    "timestampMs": 348842,
+    "confidence": null
+  },
+  {
+    "text": "`description`",
+    "startMs": 349441,
+    "endMs": 350211,
+    "timestampMs": 349441,
+    "confidence": null
+  },
+  {
+    "text": "(non-empty",
+    "startMs": 350211,
+    "endMs": 350896,
+    "timestampMs": 350211,
+    "confidence": null
+  },
+  {
+    "text": "string),",
+    "startMs": 350896,
+    "endMs": 351495,
+    "timestampMs": 350896,
+    "confidence": null
+  },
+  {
+    "text": "`author`,",
+    "startMs": 351495,
+    "endMs": 352094,
+    "timestampMs": 351495,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 352094,
+    "endMs": 352351,
+    "timestampMs": 352094,
+    "confidence": null
+  },
+  {
+    "text": "`ms.date`",
+    "startMs": 352351,
+    "endMs": 352864,
+    "timestampMs": 352351,
+    "confidence": null
+  },
+  {
+    "text": "(ISO",
+    "startMs": 352864,
+    "endMs": 353121,
+    "timestampMs": 352864,
+    "confidence": null
+  },
+  {
+    "text": "8601",
+    "startMs": 353121,
+    "endMs": 353464,
+    "timestampMs": 353121,
+    "confidence": null
+  },
+  {
+    "text": "date",
+    "startMs": 353464,
+    "endMs": 353806,
+    "timestampMs": 353464,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 353806,
+    "endMs": 354063,
+    "timestampMs": 353806,
+    "confidence": null
+  },
+  {
+    "text": "YYYY-MM-DD",
+    "startMs": 354063,
+    "endMs": 354747,
+    "timestampMs": 354063,
+    "confidence": null
+  },
+  {
+    "text": "format).",
+    "startMs": 354747,
+    "endMs": 355528,
+    "timestampMs": 354747,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 355528,
+    "endMs": 355785,
+    "timestampMs": 355528,
+    "confidence": null
+  },
+  {
+    "text": "`ms.topic`",
+    "startMs": 355785,
+    "endMs": 356384,
+    "timestampMs": 355785,
+    "confidence": null
+  },
+  {
+    "text": "field",
+    "startMs": 356384,
+    "endMs": 356812,
+    "timestampMs": 356384,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 356812,
+    "endMs": 357069,
+    "timestampMs": 356812,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 357069,
+    "endMs": 357326,
+    "timestampMs": 357069,
+    "confidence": null
+  },
+  {
+    "text": "enum",
+    "startMs": 357326,
+    "endMs": 357668,
+    "timestampMs": 357326,
+    "confidence": null
+  },
+  {
+    "text": "restricted",
+    "startMs": 357668,
+    "endMs": 358438,
+    "timestampMs": 357668,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 358438,
+    "endMs": 358695,
+    "timestampMs": 358438,
+    "confidence": null
+  },
+  {
+    "text": "values",
+    "startMs": 358695,
+    "endMs": 359208,
+    "timestampMs": 358695,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 359208,
+    "endMs": 359551,
+    "timestampMs": 359208,
+    "confidence": null
+  },
+  {
+    "text": "`overview`,",
+    "startMs": 359551,
+    "endMs": 360321,
+    "timestampMs": 359551,
+    "confidence": null
+  },
+  {
+    "text": "`concept`,",
+    "startMs": 360321,
+    "endMs": 361006,
+    "timestampMs": 360321,
+    "confidence": null
+  },
+  {
+    "text": "`tutorial`,",
+    "startMs": 361006,
+    "endMs": 361776,
+    "timestampMs": 361006,
+    "confidence": null
+  },
+  {
+    "text": "`reference`,",
+    "startMs": 361776,
+    "endMs": 362632,
+    "timestampMs": 361776,
+    "confidence": null
+  },
+  {
+    "text": "`how-to`,",
+    "startMs": 362632,
+    "endMs": 363145,
+    "timestampMs": 362632,
+    "confidence": null
+  },
+  {
+    "text": "`troubleshooting`,",
+    "startMs": 363145,
+    "endMs": 364001,
+    "timestampMs": 363145,
+    "confidence": null
+  },
+  {
+    "text": "`research`,",
+    "startMs": 364001,
+    "endMs": 364772,
+    "timestampMs": 364001,
+    "confidence": null
+  },
+  {
+    "text": "`guide`,",
+    "startMs": 364772,
+    "endMs": 365285,
+    "timestampMs": 364772,
+    "confidence": null
+  },
+  {
+    "text": "`hub-page`,",
+    "startMs": 365285,
+    "endMs": 365970,
+    "timestampMs": 365285,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 365970,
+    "endMs": 366227,
+    "timestampMs": 365970,
+    "confidence": null
+  },
+  {
+    "text": "`architecture`.",
+    "startMs": 366227,
+    "endMs": 367264,
+    "timestampMs": 366227,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 367264,
+    "endMs": 367521,
+    "timestampMs": 367264,
+    "confidence": null
+  },
+  {
+    "text": "`keywords`",
+    "startMs": 367521,
+    "endMs": 368206,
+    "timestampMs": 367521,
+    "confidence": null
+  },
+  {
+    "text": "field",
+    "startMs": 368206,
+    "endMs": 368634,
+    "timestampMs": 368206,
+    "confidence": null
+  },
+  {
+    "text": "accepts",
+    "startMs": 368634,
+    "endMs": 369233,
+    "timestampMs": 368634,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 369233,
+    "endMs": 369489,
+    "timestampMs": 369233,
+    "confidence": null
+  },
+  {
+    "text": "array",
+    "startMs": 369489,
+    "endMs": 369917,
+    "timestampMs": 369489,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 369917,
+    "endMs": 370174,
+    "timestampMs": 369917,
+    "confidence": null
+  },
+  {
+    "text": "strings.",
+    "startMs": 370174,
+    "endMs": 371041,
+    "timestampMs": 370174,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 371041,
+    "endMs": 371297,
+    "timestampMs": 371041,
+    "confidence": null
+  },
+  {
+    "text": "`estimated_reading_time`",
+    "startMs": 371297,
+    "endMs": 372068,
+    "timestampMs": 371297,
+    "confidence": null
+  },
+  {
+    "text": "field",
+    "startMs": 372068,
+    "endMs": 372496,
+    "timestampMs": 372068,
+    "confidence": null
+  },
+  {
+    "text": "accepts",
+    "startMs": 372496,
+    "endMs": 373095,
+    "timestampMs": 372496,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 373095,
+    "endMs": 373352,
+    "timestampMs": 373095,
+    "confidence": null
+  },
+  {
+    "text": "positive",
+    "startMs": 373352,
+    "endMs": 374036,
+    "timestampMs": 373352,
+    "confidence": null
+  },
+  {
+    "text": "integer.",
+    "startMs": 374036,
+    "endMs": 374903,
+    "timestampMs": 374036,
+    "confidence": null
+  },
+  {
+    "text": "Artifact-specific",
+    "startMs": 374903,
+    "endMs": 375673,
+    "timestampMs": 374903,
+    "confidence": null
+  },
+  {
+    "text": "schemas",
+    "startMs": 375673,
+    "endMs": 376272,
+    "timestampMs": 375673,
+    "confidence": null
+  },
+  {
+    "text": "extend",
+    "startMs": 376272,
+    "endMs": 376786,
+    "timestampMs": 376272,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 376786,
+    "endMs": 377128,
+    "timestampMs": 376786,
+    "confidence": null
+  },
+  {
+    "text": "base",
+    "startMs": 377128,
+    "endMs": 377470,
+    "timestampMs": 377128,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 377470,
+    "endMs": 377813,
+    "timestampMs": 377470,
+    "confidence": null
+  },
+  {
+    "text": "additional",
+    "startMs": 377813,
+    "endMs": 378583,
+    "timestampMs": 377813,
+    "confidence": null
+  },
+  {
+    "text": "required",
+    "startMs": 378583,
+    "endMs": 379268,
+    "timestampMs": 378583,
+    "confidence": null
+  },
+  {
+    "text": "fields",
+    "startMs": 379268,
+    "endMs": 379781,
+    "timestampMs": 379268,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 379781,
+    "endMs": 380038,
+    "timestampMs": 379781,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 380038,
+    "endMs": 380295,
+    "timestampMs": 380038,
+    "confidence": null
+  },
+  {
+    "text": "example,",
+    "startMs": 380295,
+    "endMs": 380979,
+    "timestampMs": 380295,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 380979,
+    "endMs": 381236,
+    "timestampMs": 380979,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 381236,
+    "endMs": 381664,
+    "timestampMs": 381236,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 381664,
+    "endMs": 382178,
+    "timestampMs": 381664,
+    "confidence": null
+  },
+  {
+    "text": "requires",
+    "startMs": 382178,
+    "endMs": 382862,
+    "timestampMs": 382178,
+    "confidence": null
+  },
+  {
+    "text": "`description`",
+    "startMs": 382862,
+    "endMs": 383632,
+    "timestampMs": 382862,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 383632,
+    "endMs": 383889,
+    "timestampMs": 383632,
+    "confidence": null
+  },
+  {
+    "text": "supports",
+    "startMs": 383889,
+    "endMs": 384574,
+    "timestampMs": 383889,
+    "confidence": null
+  },
+  {
+    "text": "fields",
+    "startMs": 384574,
+    "endMs": 385087,
+    "timestampMs": 384574,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 385087,
+    "endMs": 385430,
+    "timestampMs": 385087,
+    "confidence": null
+  },
+  {
+    "text": "`agents`",
+    "startMs": 385430,
+    "endMs": 385943,
+    "timestampMs": 385430,
+    "confidence": null
+  },
+  {
+    "text": "(subagent",
+    "startMs": 385943,
+    "endMs": 386628,
+    "timestampMs": 385943,
+    "confidence": null
+  },
+  {
+    "text": "allowlist),",
+    "startMs": 386628,
+    "endMs": 387484,
+    "timestampMs": 386628,
+    "confidence": null
+  },
+  {
+    "text": "`name`,",
+    "startMs": 387484,
+    "endMs": 387912,
+    "timestampMs": 387484,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 387912,
+    "endMs": 388169,
+    "timestampMs": 387912,
+    "confidence": null
+  },
+  {
+    "text": "`argument-hint`.",
+    "startMs": 388169,
+    "endMs": 389206,
+    "timestampMs": 388169,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 389206,
+    "endMs": 389549,
+    "timestampMs": 389206,
+    "confidence": null
+  },
+  {
+    "text": "schema-per-artifact-type",
+    "startMs": 389549,
+    "endMs": 390319,
+    "timestampMs": 389549,
+    "confidence": null
+  },
+  {
+    "text": "approach",
+    "startMs": 390319,
+    "endMs": 391004,
+    "timestampMs": 390319,
+    "confidence": null
+  },
+  {
+    "text": "means",
+    "startMs": 391004,
+    "endMs": 391431,
+    "timestampMs": 391004,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 391431,
+    "endMs": 391688,
+    "timestampMs": 391431,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 391688,
+    "endMs": 392458,
+    "timestampMs": 391688,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 392458,
+    "endMs": 392972,
+    "timestampMs": 392458,
+    "confidence": null
+  },
+  {
+    "text": "understands",
+    "startMs": 392972,
+    "endMs": 393742,
+    "timestampMs": 392972,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 393742,
+    "endMs": 394085,
+    "timestampMs": 393742,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 394085,
+    "endMs": 394341,
+    "timestampMs": 394085,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 394341,
+    "endMs": 394769,
+    "timestampMs": 394341,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 394769,
+    "endMs": 395112,
+    "timestampMs": 394769,
+    "confidence": null
+  },
+  {
+    "text": "should",
+    "startMs": 395112,
+    "endMs": 395625,
+    "timestampMs": 395112,
+    "confidence": null
+  },
+  {
+    "text": "look",
+    "startMs": 395625,
+    "endMs": 395968,
+    "timestampMs": 395625,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 395968,
+    "endMs": 396310,
+    "timestampMs": 395968,
+    "confidence": null
+  },
+  {
+    "text": "versus",
+    "startMs": 396310,
+    "endMs": 396823,
+    "timestampMs": 396310,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 396823,
+    "endMs": 397166,
+    "timestampMs": 396823,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 397166,
+    "endMs": 397422,
+    "timestampMs": 397166,
+    "confidence": null
+  },
+  {
+    "text": "prompt",
+    "startMs": 397422,
+    "endMs": 397936,
+    "timestampMs": 397422,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 397936,
+    "endMs": 398278,
+    "timestampMs": 397936,
+    "confidence": null
+  },
+  {
+    "text": "should",
+    "startMs": 398278,
+    "endMs": 398792,
+    "timestampMs": 398278,
+    "confidence": null
+  },
+  {
+    "text": "look",
+    "startMs": 398792,
+    "endMs": 399134,
+    "timestampMs": 398792,
+    "confidence": null
+  },
+  {
+    "text": "like.",
+    "startMs": 399134,
+    "endMs": 399744,
+    "timestampMs": 399134,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 399744,
+    "endMs": 400001,
+    "timestampMs": 399744,
+    "confidence": null
+  },
+  {
+    "text": "missing",
+    "startMs": 400001,
+    "endMs": 400600,
+    "timestampMs": 400001,
+    "confidence": null
+  },
+  {
+    "text": "`description`",
+    "startMs": 400600,
+    "endMs": 401370,
+    "timestampMs": 400600,
+    "confidence": null
+  },
+  {
+    "text": "field",
+    "startMs": 401370,
+    "endMs": 401798,
+    "timestampMs": 401370,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 401798,
+    "endMs": 402055,
+    "timestampMs": 401798,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 402055,
+    "endMs": 402312,
+    "timestampMs": 402055,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 402312,
+    "endMs": 402739,
+    "timestampMs": 402312,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 402739,
+    "endMs": 403082,
+    "timestampMs": 402739,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 403082,
+    "endMs": 403339,
+    "timestampMs": 403082,
+    "confidence": null
+  },
+  {
+    "text": "caught",
+    "startMs": 403339,
+    "endMs": 403852,
+    "timestampMs": 403339,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 403852,
+    "endMs": 404366,
+    "timestampMs": 403852,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 404366,
+    "endMs": 404622,
+    "timestampMs": 404366,
+    "confidence": null
+  },
+  {
+    "text": "reaches",
+    "startMs": 404622,
+    "endMs": 405221,
+    "timestampMs": 404622,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 405221,
+    "endMs": 405564,
+    "timestampMs": 405221,
+    "confidence": null
+  },
+  {
+    "text": "review.",
+    "startMs": 405564,
+    "endMs": 406345,
+    "timestampMs": 405564,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 406345,
+    "endMs": 406602,
+    "timestampMs": 406345,
+    "confidence": null
+  },
+  {
+    "text": "misspelled",
+    "startMs": 406602,
+    "endMs": 407372,
+    "timestampMs": 406602,
+    "confidence": null
+  },
+  {
+    "text": "`ms.topic`",
+    "startMs": 407372,
+    "endMs": 407971,
+    "timestampMs": 407372,
+    "confidence": null
+  },
+  {
+    "text": "value",
+    "startMs": 407971,
+    "endMs": 408399,
+    "timestampMs": 407971,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 408399,
+    "endMs": 408656,
+    "timestampMs": 408399,
+    "confidence": null
+  },
+  {
+    "text": "rejected",
+    "startMs": 408656,
+    "endMs": 409340,
+    "timestampMs": 408656,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 409340,
+    "endMs": 409939,
+    "timestampMs": 409340,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 409939,
+    "endMs": 410196,
+    "timestampMs": 409939,
+    "confidence": null
+  },
+  {
+    "text": "enum",
+    "startMs": 410196,
+    "endMs": 410538,
+    "timestampMs": 410196,
+    "confidence": null
+  },
+  {
+    "text": "constraint.",
+    "startMs": 410538,
+    "endMs": 411576,
+    "timestampMs": 410538,
+    "confidence": null
+  },
+  {
+    "text": "Date",
+    "startMs": 411576,
+    "endMs": 411919,
+    "timestampMs": 411576,
+    "confidence": null
+  },
+  {
+    "text": "formats",
+    "startMs": 411919,
+    "endMs": 412518,
+    "timestampMs": 411919,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 412518,
+    "endMs": 412860,
+    "timestampMs": 412518,
+    "confidence": null
+  },
+  {
+    "text": "deviate",
+    "startMs": 412860,
+    "endMs": 413459,
+    "timestampMs": 412860,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 413459,
+    "endMs": 413801,
+    "timestampMs": 413459,
+    "confidence": null
+  },
+  {
+    "text": "ISO",
+    "startMs": 413801,
+    "endMs": 414058,
+    "timestampMs": 413801,
+    "confidence": null
+  },
+  {
+    "text": "8601",
+    "startMs": 414058,
+    "endMs": 414400,
+    "timestampMs": 414058,
+    "confidence": null
+  },
+  {
+    "text": "fail",
+    "startMs": 414400,
+    "endMs": 414743,
+    "timestampMs": 414400,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 414743,
+    "endMs": 415000,
+    "timestampMs": 414743,
+    "confidence": null
+  },
+  {
+    "text": "pattern",
+    "startMs": 415000,
+    "endMs": 415599,
+    "timestampMs": 415000,
+    "confidence": null
+  },
+  {
+    "text": "check.",
+    "startMs": 415599,
+    "endMs": 416294,
+    "timestampMs": 415599,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 416294,
+    "endMs": 416551,
+    "timestampMs": 416294,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 416551,
+    "endMs": 417064,
+    "timestampMs": 416551,
+    "confidence": null
+  },
+  {
+    "text": "layer",
+    "startMs": 417064,
+    "endMs": 417492,
+    "timestampMs": 417064,
+    "confidence": null
+  },
+  {
+    "text": "converts",
+    "startMs": 417492,
+    "endMs": 418177,
+    "timestampMs": 417492,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 418177,
+    "endMs": 418519,
+    "timestampMs": 418177,
+    "confidence": null
+  },
+  {
+    "text": "would",
+    "startMs": 418519,
+    "endMs": 418947,
+    "timestampMs": 418519,
+    "confidence": null
+  },
+  {
+    "text": "otherwise",
+    "startMs": 418947,
+    "endMs": 419718,
+    "timestampMs": 418947,
+    "confidence": null
+  },
+  {
+    "text": "be",
+    "startMs": 419718,
+    "endMs": 419974,
+    "timestampMs": 419718,
+    "confidence": null
+  },
+  {
+    "text": "subjective",
+    "startMs": 419974,
+    "endMs": 420745,
+    "timestampMs": 419974,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 420745,
+    "endMs": 421258,
+    "timestampMs": 420745,
+    "confidence": null
+  },
+  {
+    "text": "feedback",
+    "startMs": 421258,
+    "endMs": 421943,
+    "timestampMs": 421258,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 421943,
+    "endMs": 422285,
+    "timestampMs": 421943,
+    "confidence": null
+  },
+  {
+    "text": "deterministic",
+    "startMs": 422285,
+    "endMs": 423055,
+    "timestampMs": 422285,
+    "confidence": null
+  },
+  {
+    "text": "pass/fail",
+    "startMs": 423055,
+    "endMs": 423740,
+    "timestampMs": 423055,
+    "confidence": null
+  },
+  {
+    "text": "checks.",
+    "startMs": 423740,
+    "endMs": 424521,
+    "timestampMs": 423740,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 424521,
+    "endMs": 424778,
+    "timestampMs": 424521,
+    "confidence": null
+  },
+  {
+    "text": "validator",
+    "startMs": 424778,
+    "endMs": 425548,
+    "timestampMs": 424778,
+    "confidence": null
+  },
+  {
+    "text": "also",
+    "startMs": 425548,
+    "endMs": 425890,
+    "timestampMs": 425548,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 425890,
+    "endMs": 426404,
+    "timestampMs": 425890,
+    "confidence": null
+  },
+  {
+    "text": "structural",
+    "startMs": 426404,
+    "endMs": 427174,
+    "timestampMs": 426404,
+    "confidence": null
+  },
+  {
+    "text": "concerns",
+    "startMs": 427174,
+    "endMs": 427859,
+    "timestampMs": 427174,
+    "confidence": null
+  },
+  {
+    "text": "beyond",
+    "startMs": 427859,
+    "endMs": 428372,
+    "timestampMs": 427859,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 428372,
+    "endMs": 429143,
+    "timestampMs": 428372,
+    "confidence": null
+  },
+  {
+    "text": "fields.",
+    "startMs": 429143,
+    "endMs": 429924,
+    "timestampMs": 429143,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 429924,
+    "endMs": 430180,
+    "timestampMs": 429924,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 430180,
+    "endMs": 430951,
+    "timestampMs": 430180,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 430951,
+    "endMs": 431207,
+    "timestampMs": 430951,
+    "confidence": null
+  },
+  {
+    "text": "presence",
+    "startMs": 431207,
+    "endMs": 431892,
+    "timestampMs": 431207,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 431892,
+    "endMs": 432149,
+    "timestampMs": 431892,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 432149,
+    "endMs": 432406,
+    "timestampMs": 432149,
+    "confidence": null
+  },
+  {
+    "text": "standard",
+    "startMs": 432406,
+    "endMs": 433090,
+    "timestampMs": 432406,
+    "confidence": null
+  },
+  {
+    "text": "Copilot",
+    "startMs": 433090,
+    "endMs": 433689,
+    "timestampMs": 433090,
+    "confidence": null
+  },
+  {
+    "text": "attribution",
+    "startMs": 433689,
+    "endMs": 434460,
+    "timestampMs": 433689,
+    "confidence": null
+  },
+  {
+    "text": "footer",
+    "startMs": 434460,
+    "endMs": 434973,
+    "timestampMs": 434460,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 434973,
+    "endMs": 435230,
+    "timestampMs": 434973,
+    "confidence": null
+  },
+  {
+    "text": "applicable",
+    "startMs": 435230,
+    "endMs": 436000,
+    "timestampMs": 435230,
+    "confidence": null
+  },
+  {
+    "text": "files.",
+    "startMs": 436000,
+    "endMs": 436696,
+    "timestampMs": 436000,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 436696,
+    "endMs": 436952,
+    "timestampMs": 436696,
+    "confidence": null
+  },
+  {
+    "text": "excludes",
+    "startMs": 436952,
+    "endMs": 437637,
+    "timestampMs": 436952,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 437637,
+    "endMs": 438065,
+    "timestampMs": 437637,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 438065,
+    "endMs": 438407,
+    "timestampMs": 438065,
+    "confidence": null
+  },
+  {
+    "text": "legitimately",
+    "startMs": 438407,
+    "endMs": 439178,
+    "timestampMs": 438407,
+    "confidence": null
+  },
+  {
+    "text": "lack",
+    "startMs": 439178,
+    "endMs": 439520,
+    "timestampMs": 439178,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 439520,
+    "endMs": 440290,
+    "timestampMs": 439520,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 440290,
+    "endMs": 440547,
+    "timestampMs": 440290,
+    "confidence": null
+  },
+  {
+    "text": "changelog",
+    "startMs": 440547,
+    "endMs": 441317,
+    "timestampMs": 440547,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 441317,
+    "endMs": 441831,
+    "timestampMs": 441317,
+    "confidence": null
+  },
+  {
+    "text": "pull",
+    "startMs": 441831,
+    "endMs": 442173,
+    "timestampMs": 441831,
+    "confidence": null
+  },
+  {
+    "text": "request",
+    "startMs": 442173,
+    "endMs": 442772,
+    "timestampMs": 442173,
+    "confidence": null
+  },
+  {
+    "text": "templates,",
+    "startMs": 442772,
+    "endMs": 443628,
+    "timestampMs": 442772,
+    "confidence": null
+  },
+  {
+    "text": "plugin",
+    "startMs": 443628,
+    "endMs": 444141,
+    "timestampMs": 443628,
+    "confidence": null
+  },
+  {
+    "text": "outputs,",
+    "startMs": 444141,
+    "endMs": 444826,
+    "timestampMs": 444141,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 444826,
+    "endMs": 445083,
+    "timestampMs": 444826,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 445083,
+    "endMs": 445425,
+    "timestampMs": 445083,
+    "confidence": null
+  },
+  {
+    "text": "fixtures",
+    "startMs": 445425,
+    "endMs": 446110,
+    "timestampMs": 445425,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 446110,
+    "endMs": 446367,
+    "timestampMs": 446110,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 446367,
+    "endMs": 446795,
+    "timestampMs": 446367,
+    "confidence": null
+  },
+  {
+    "text": "configurable",
+    "startMs": 446795,
+    "endMs": 447565,
+    "timestampMs": 446795,
+    "confidence": null
+  },
+  {
+    "text": "exclusion",
+    "startMs": 447565,
+    "endMs": 448335,
+    "timestampMs": 447565,
+    "confidence": null
+  },
+  {
+    "text": "paths.",
+    "startMs": 448335,
+    "endMs": 449031,
+    "timestampMs": 448335,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 449031,
+    "endMs": 449287,
+    "timestampMs": 449031,
+    "confidence": null
+  },
+  {
+    "text": "supports",
+    "startMs": 449287,
+    "endMs": 449972,
+    "timestampMs": 449287,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 449972,
+    "endMs": 450229,
+    "timestampMs": 449972,
+    "confidence": null
+  },
+  {
+    "text": "`ChangedFilesOnly`",
+    "startMs": 450229,
+    "endMs": 450999,
+    "timestampMs": 450229,
+    "confidence": null
+  },
+  {
+    "text": "mode",
+    "startMs": 450999,
+    "endMs": 451341,
+    "timestampMs": 450999,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 451341,
+    "endMs": 451598,
+    "timestampMs": 451341,
+    "confidence": null
+  },
+  {
+    "text": "CI,",
+    "startMs": 451598,
+    "endMs": 451940,
+    "timestampMs": 451598,
+    "confidence": null
+  },
+  {
+    "text": "comparing",
+    "startMs": 451940,
+    "endMs": 452711,
+    "timestampMs": 451940,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 452711,
+    "endMs": 453310,
+    "timestampMs": 452711,
+    "confidence": null
+  },
+  {
+    "text": "`origin/main`",
+    "startMs": 453310,
+    "endMs": 454080,
+    "timestampMs": 453310,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 454080,
+    "endMs": 454337,
+    "timestampMs": 454080,
+    "confidence": null
+  },
+  {
+    "text": "validate",
+    "startMs": 454337,
+    "endMs": 455022,
+    "timestampMs": 454337,
+    "confidence": null
+  },
+  {
+    "text": "only",
+    "startMs": 455022,
+    "endMs": 455364,
+    "timestampMs": 455022,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 455364,
+    "endMs": 455792,
+    "timestampMs": 455364,
+    "confidence": null
+  },
+  {
+    "text": "modified",
+    "startMs": 455792,
+    "endMs": 456477,
+    "timestampMs": 455792,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 456477,
+    "endMs": 456733,
+    "timestampMs": 456477,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 456733,
+    "endMs": 456990,
+    "timestampMs": 456733,
+    "confidence": null
+  },
+  {
+    "text": "pull",
+    "startMs": 456990,
+    "endMs": 457332,
+    "timestampMs": 456990,
+    "confidence": null
+  },
+  {
+    "text": "request",
+    "startMs": 457332,
+    "endMs": 457931,
+    "timestampMs": 457332,
+    "confidence": null
+  },
+  {
+    "text": "rather",
+    "startMs": 457931,
+    "endMs": 458445,
+    "timestampMs": 457931,
+    "confidence": null
+  },
+  {
+    "text": "than",
+    "startMs": 458445,
+    "endMs": 458787,
+    "timestampMs": 458445,
+    "confidence": null
+  },
+  {
+    "text": "scanning",
+    "startMs": 458787,
+    "endMs": 459472,
+    "timestampMs": 458787,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 459472,
+    "endMs": 459729,
+    "timestampMs": 459472,
+    "confidence": null
+  },
+  {
+    "text": "entire",
+    "startMs": 459729,
+    "endMs": 460242,
+    "timestampMs": 459729,
+    "confidence": null
+  },
+  {
+    "text": "repository.",
+    "startMs": 460242,
+    "endMs": 461280,
+    "timestampMs": 460242,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 461280,
+    "endMs": 461300,
+    "timestampMs": 461280,
+    "confidence": null
+  },
+  {
+    "text": "`lint:all`",
+    "startMs": 461300,
+    "endMs": 461347,
+    "timestampMs": 461300,
+    "confidence": null
+  },
+  {
+    "text": "command",
+    "startMs": 461347,
+    "endMs": 461394,
+    "timestampMs": 461347,
+    "confidence": null
+  },
+  {
+    "text": "chains",
+    "startMs": 461394,
+    "endMs": 461435,
+    "timestampMs": 461394,
+    "confidence": null
+  },
+  {
+    "text": "fifteen",
+    "startMs": 461435,
+    "endMs": 461482,
+    "timestampMs": 461435,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 461482,
+    "endMs": 461543,
+    "timestampMs": 461482,
+    "confidence": null
+  },
+  {
+    "text": "passes",
+    "startMs": 461543,
+    "endMs": 461583,
+    "timestampMs": 461543,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 461583,
+    "endMs": 461610,
+    "timestampMs": 461583,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 461610,
+    "endMs": 461630,
+    "timestampMs": 461610,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 461630,
+    "endMs": 461670,
+    "timestampMs": 461630,
+    "confidence": null
+  },
+  {
+    "text": "sequential",
+    "startMs": 461670,
+    "endMs": 461731,
+    "timestampMs": 461670,
+    "confidence": null
+  },
+  {
+    "text": "pipeline.",
+    "startMs": 461731,
+    "endMs": 461806,
+    "timestampMs": 461731,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 461806,
+    "endMs": 461826,
+    "timestampMs": 461806,
+    "confidence": null
+  },
+  {
+    "text": "execution",
+    "startMs": 461826,
+    "endMs": 461887,
+    "timestampMs": 461826,
+    "confidence": null
+  },
+  {
+    "text": "order",
+    "startMs": 461887,
+    "endMs": 461920,
+    "timestampMs": 461887,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 461920,
+    "endMs": 461940,
+    "timestampMs": 461920,
+    "confidence": null
+  },
+  {
+    "text": "deliberate.",
+    "startMs": 461940,
+    "endMs": 462022,
+    "timestampMs": 461940,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 462022,
+    "endMs": 462042,
+    "timestampMs": 462022,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 462042,
+    "endMs": 462069,
+    "timestampMs": 462042,
+    "confidence": null
+  },
+  {
+    "text": "`format:tables`",
+    "startMs": 462069,
+    "endMs": 462130,
+    "timestampMs": 462069,
+    "confidence": null
+  },
+  {
+    "text": "first",
+    "startMs": 462130,
+    "endMs": 462163,
+    "timestampMs": 462130,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 462163,
+    "endMs": 462184,
+    "timestampMs": 462163,
+    "confidence": null
+  },
+  {
+    "text": "normalize",
+    "startMs": 462184,
+    "endMs": 462244,
+    "timestampMs": 462184,
+    "confidence": null
+  },
+  {
+    "text": "table",
+    "startMs": 462244,
+    "endMs": 462278,
+    "timestampMs": 462244,
+    "confidence": null
+  },
+  {
+    "text": "formatting,",
+    "startMs": 462278,
+    "endMs": 462345,
+    "timestampMs": 462278,
+    "confidence": null
+  },
+  {
+    "text": "then",
+    "startMs": 462345,
+    "endMs": 462372,
+    "timestampMs": 462345,
+    "confidence": null
+  },
+  {
+    "text": "`lint:md`",
+    "startMs": 462372,
+    "endMs": 462413,
+    "timestampMs": 462372,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 462413,
+    "endMs": 462433,
+    "timestampMs": 462413,
+    "confidence": null
+  },
+  {
+    "text": "validate",
+    "startMs": 462433,
+    "endMs": 462487,
+    "timestampMs": 462433,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 462487,
+    "endMs": 462540,
+    "timestampMs": 462487,
+    "confidence": null
+  },
+  {
+    "text": "structure,",
+    "startMs": 462540,
+    "endMs": 462608,
+    "timestampMs": 462540,
+    "confidence": null
+  },
+  {
+    "text": "then",
+    "startMs": 462608,
+    "endMs": 462635,
+    "timestampMs": 462608,
+    "confidence": null
+  },
+  {
+    "text": "`lint:ps`",
+    "startMs": 462635,
+    "endMs": 462675,
+    "timestampMs": 462635,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 462675,
+    "endMs": 462695,
+    "timestampMs": 462675,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 462695,
+    "endMs": 462756,
+    "timestampMs": 462695,
+    "confidence": null
+  },
+  {
+    "text": "analysis,",
+    "startMs": 462756,
+    "endMs": 462816,
+    "timestampMs": 462756,
+    "confidence": null
+  },
+  {
+    "text": "`lint:yaml`",
+    "startMs": 462816,
+    "endMs": 462870,
+    "timestampMs": 462816,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 462870,
+    "endMs": 462890,
+    "timestampMs": 462870,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 462890,
+    "endMs": 462917,
+    "timestampMs": 462890,
+    "confidence": null
+  },
+  {
+    "text": "validation,",
+    "startMs": 462917,
+    "endMs": 462985,
+    "timestampMs": 462917,
+    "confidence": null
+  },
+  {
+    "text": "`lint:links`",
+    "startMs": 462985,
+    "endMs": 463045,
+    "timestampMs": 462985,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 463045,
+    "endMs": 463065,
+    "timestampMs": 463045,
+    "confidence": null
+  },
+  {
+    "text": "link-language",
+    "startMs": 463065,
+    "endMs": 463126,
+    "timestampMs": 463065,
+    "confidence": null
+  },
+  {
+    "text": "checks,",
+    "startMs": 463126,
+    "endMs": 463173,
+    "timestampMs": 463126,
+    "confidence": null
+  },
+  {
+    "text": "`lint:frontmatter`",
+    "startMs": 463173,
+    "endMs": 463234,
+    "timestampMs": 463173,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 463234,
+    "endMs": 463254,
+    "timestampMs": 463234,
+    "confidence": null
+  },
+  {
+    "text": "schema-aware",
+    "startMs": 463254,
+    "endMs": 463314,
+    "timestampMs": 463254,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 463314,
+    "endMs": 463375,
+    "timestampMs": 463314,
+    "confidence": null
+  },
+  {
+    "text": "validation,",
+    "startMs": 463375,
+    "endMs": 463442,
+    "timestampMs": 463375,
+    "confidence": null
+  },
+  {
+    "text": "`lint:collections-metadata`",
+    "startMs": 463442,
+    "endMs": 463503,
+    "timestampMs": 463442,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 463503,
+    "endMs": 463523,
+    "timestampMs": 463503,
+    "confidence": null
+  },
+  {
+    "text": "collection",
+    "startMs": 463523,
+    "endMs": 463584,
+    "timestampMs": 463523,
+    "confidence": null
+  },
+  {
+    "text": "manifests,",
+    "startMs": 463584,
+    "endMs": 463651,
+    "timestampMs": 463584,
+    "confidence": null
+  },
+  {
+    "text": "`lint:marketplace`",
+    "startMs": 463651,
+    "endMs": 463712,
+    "timestampMs": 463651,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 463712,
+    "endMs": 463732,
+    "timestampMs": 463712,
+    "confidence": null
+  },
+  {
+    "text": "marketplace",
+    "startMs": 463732,
+    "endMs": 463792,
+    "timestampMs": 463732,
+    "confidence": null
+  },
+  {
+    "text": "metadata,",
+    "startMs": 463792,
+    "endMs": 463853,
+    "timestampMs": 463792,
+    "confidence": null
+  },
+  {
+    "text": "`lint:version-consistency`",
+    "startMs": 463853,
+    "endMs": 463914,
+    "timestampMs": 463853,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 463914,
+    "endMs": 463934,
+    "timestampMs": 463914,
+    "confidence": null
+  },
+  {
+    "text": "action",
+    "startMs": 463934,
+    "endMs": 463974,
+    "timestampMs": 463934,
+    "confidence": null
+  },
+  {
+    "text": "SHA",
+    "startMs": 463974,
+    "endMs": 463994,
+    "timestampMs": 463974,
+    "confidence": null
+  },
+  {
+    "text": "consistency,",
+    "startMs": 463994,
+    "endMs": 464062,
+    "timestampMs": 463994,
+    "confidence": null
+  },
+  {
+    "text": "`lint:permissions`",
+    "startMs": 464062,
+    "endMs": 464122,
+    "timestampMs": 464062,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 464122,
+    "endMs": 464142,
+    "timestampMs": 464122,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 464142,
+    "endMs": 464196,
+    "timestampMs": 464142,
+    "confidence": null
+  },
+  {
+    "text": "permissions,",
+    "startMs": 464196,
+    "endMs": 464264,
+    "timestampMs": 464196,
+    "confidence": null
+  },
+  {
+    "text": "`lint:dependency-pinning`",
+    "startMs": 464264,
+    "endMs": 464324,
+    "timestampMs": 464264,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 464324,
+    "endMs": 464344,
+    "timestampMs": 464324,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 464344,
+    "endMs": 464405,
+    "timestampMs": 464344,
+    "confidence": null
+  },
+  {
+    "text": "pinning,",
+    "startMs": 464405,
+    "endMs": 464459,
+    "timestampMs": 464405,
+    "confidence": null
+  },
+  {
+    "text": "`lint:ps-module-pins`",
+    "startMs": 464459,
+    "endMs": 464519,
+    "timestampMs": 464459,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 464519,
+    "endMs": 464540,
+    "timestampMs": 464519,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 464540,
+    "endMs": 464600,
+    "timestampMs": 464540,
+    "confidence": null
+  },
+  {
+    "text": "module",
+    "startMs": 464600,
+    "endMs": 464641,
+    "timestampMs": 464600,
+    "confidence": null
+  },
+  {
+    "text": "pinning,",
+    "startMs": 464641,
+    "endMs": 464694,
+    "timestampMs": 464641,
+    "confidence": null
+  },
+  {
+    "text": "`lint:py`",
+    "startMs": 464694,
+    "endMs": 464735,
+    "timestampMs": 464694,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 464735,
+    "endMs": 464755,
+    "timestampMs": 464735,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 464755,
+    "endMs": 464795,
+    "timestampMs": 464755,
+    "confidence": null
+  },
+  {
+    "text": "linting,",
+    "startMs": 464795,
+    "endMs": 464849,
+    "timestampMs": 464795,
+    "confidence": null
+  },
+  {
+    "text": "`validate:skills`",
+    "startMs": 464849,
+    "endMs": 464910,
+    "timestampMs": 464849,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 464910,
+    "endMs": 464930,
+    "timestampMs": 464910,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 464930,
+    "endMs": 464964,
+    "timestampMs": 464930,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 464964,
+    "endMs": 465024,
+    "timestampMs": 464964,
+    "confidence": null
+  },
+  {
+    "text": "structure,",
+    "startMs": 465024,
+    "endMs": 465092,
+    "timestampMs": 465024,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 465092,
+    "endMs": 465112,
+    "timestampMs": 465092,
+    "confidence": null
+  },
+  {
+    "text": "`lint:ai-artifacts`",
+    "startMs": 465112,
+    "endMs": 465172,
+    "timestampMs": 465112,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 465172,
+    "endMs": 465192,
+    "timestampMs": 465172,
+    "confidence": null
+  },
+  {
+    "text": "planner",
+    "startMs": 465192,
+    "endMs": 465240,
+    "timestampMs": 465192,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 465240,
+    "endMs": 465293,
+    "timestampMs": 465240,
+    "confidence": null
+  },
+  {
+    "text": "validation.",
+    "startMs": 465293,
+    "endMs": 465375,
+    "timestampMs": 465293,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 465375,
+    "endMs": 465395,
+    "timestampMs": 465375,
+    "confidence": null
+  },
+  {
+    "text": "ordering",
+    "startMs": 465395,
+    "endMs": 465449,
+    "timestampMs": 465395,
+    "confidence": null
+  },
+  {
+    "text": "reflects",
+    "startMs": 465449,
+    "endMs": 465503,
+    "timestampMs": 465449,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 465503,
+    "endMs": 465564,
+    "timestampMs": 465503,
+    "confidence": null
+  },
+  {
+    "text": "relationships.",
+    "startMs": 465564,
+    "endMs": 465645,
+    "timestampMs": 465564,
+    "confidence": null
+  },
+  {
+    "text": "Table",
+    "startMs": 465645,
+    "endMs": 465679,
+    "timestampMs": 465645,
+    "confidence": null
+  },
+  {
+    "text": "formatting",
+    "startMs": 465679,
+    "endMs": 465739,
+    "timestampMs": 465679,
+    "confidence": null
+  },
+  {
+    "text": "must",
+    "startMs": 465739,
+    "endMs": 465766,
+    "timestampMs": 465739,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 465766,
+    "endMs": 465787,
+    "timestampMs": 465766,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 465787,
+    "endMs": 465827,
+    "timestampMs": 465787,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 465827,
+    "endMs": 465881,
+    "timestampMs": 465827,
+    "confidence": null
+  },
+  {
+    "text": "linting",
+    "startMs": 465881,
+    "endMs": 465928,
+    "timestampMs": 465881,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 465928,
+    "endMs": 465975,
+    "timestampMs": 465928,
+    "confidence": null
+  },
+  {
+    "text": "unformatted",
+    "startMs": 465975,
+    "endMs": 466036,
+    "timestampMs": 465975,
+    "confidence": null
+  },
+  {
+    "text": "tables",
+    "startMs": 466036,
+    "endMs": 466076,
+    "timestampMs": 466036,
+    "confidence": null
+  },
+  {
+    "text": "trigger",
+    "startMs": 466076,
+    "endMs": 466123,
+    "timestampMs": 466076,
+    "confidence": null
+  },
+  {
+    "text": "lint",
+    "startMs": 466123,
+    "endMs": 466150,
+    "timestampMs": 466123,
+    "confidence": null
+  },
+  {
+    "text": "violations.",
+    "startMs": 466150,
+    "endMs": 466232,
+    "timestampMs": 466150,
+    "confidence": null
+  },
+  {
+    "text": "Frontmatter",
+    "startMs": 466232,
+    "endMs": 466292,
+    "timestampMs": 466232,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 466292,
+    "endMs": 466353,
+    "timestampMs": 466292,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 466353,
+    "endMs": 466380,
+    "timestampMs": 466353,
+    "confidence": null
+  },
+  {
+    "text": "after",
+    "startMs": 466380,
+    "endMs": 466413,
+    "timestampMs": 466380,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 466413,
+    "endMs": 466467,
+    "timestampMs": 466413,
+    "confidence": null
+  },
+  {
+    "text": "linting",
+    "startMs": 466467,
+    "endMs": 466514,
+    "timestampMs": 466467,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 466514,
+    "endMs": 466561,
+    "timestampMs": 466514,
+    "confidence": null
+  },
+  {
+    "text": "structurally",
+    "startMs": 466561,
+    "endMs": 466622,
+    "timestampMs": 466561,
+    "confidence": null
+  },
+  {
+    "text": "invalid",
+    "startMs": 466622,
+    "endMs": 466669,
+    "timestampMs": 466622,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 466669,
+    "endMs": 466723,
+    "timestampMs": 466669,
+    "confidence": null
+  },
+  {
+    "text": "could",
+    "startMs": 466723,
+    "endMs": 466757,
+    "timestampMs": 466723,
+    "confidence": null
+  },
+  {
+    "text": "produce",
+    "startMs": 466757,
+    "endMs": 466804,
+    "timestampMs": 466757,
+    "confidence": null
+  },
+  {
+    "text": "misleading",
+    "startMs": 466804,
+    "endMs": 466864,
+    "timestampMs": 466804,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 466864,
+    "endMs": 466925,
+    "timestampMs": 466864,
+    "confidence": null
+  },
+  {
+    "text": "parse",
+    "startMs": 466925,
+    "endMs": 466959,
+    "timestampMs": 466925,
+    "confidence": null
+  },
+  {
+    "text": "results.",
+    "startMs": 466959,
+    "endMs": 467027,
+    "timestampMs": 466959,
+    "confidence": null
+  },
+  {
+    "text": "Security",
+    "startMs": 467027,
+    "endMs": 467081,
+    "timestampMs": 467027,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 467081,
+    "endMs": 467121,
+    "timestampMs": 467081,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 467121,
+    "endMs": 467141,
+    "timestampMs": 467121,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 467141,
+    "endMs": 467161,
+    "timestampMs": 467141,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 467161,
+    "endMs": 467182,
+    "timestampMs": 467161,
+    "confidence": null
+  },
+  {
+    "text": "group.",
+    "startMs": 467182,
+    "endMs": 467236,
+    "timestampMs": 467182,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 467236,
+    "endMs": 467256,
+    "timestampMs": 467236,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 467256,
+    "endMs": 467310,
+    "timestampMs": 467256,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 467310,
+    "endMs": 467337,
+    "timestampMs": 467310,
+    "confidence": null
+  },
+  {
+    "text": "`&&`",
+    "startMs": 467337,
+    "endMs": 467357,
+    "timestampMs": 467337,
+    "confidence": null
+  },
+  {
+    "text": "chaining",
+    "startMs": 467357,
+    "endMs": 467411,
+    "timestampMs": 467357,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 467411,
+    "endMs": 467431,
+    "timestampMs": 467411,
+    "confidence": null
+  },
+  {
+    "text": "`package.json`,",
+    "startMs": 467431,
+    "endMs": 467499,
+    "timestampMs": 467431,
+    "confidence": null
+  },
+  {
+    "text": "meaning",
+    "startMs": 467499,
+    "endMs": 467546,
+    "timestampMs": 467499,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 467546,
+    "endMs": 467566,
+    "timestampMs": 467546,
+    "confidence": null
+  },
+  {
+    "text": "first",
+    "startMs": 467566,
+    "endMs": 467600,
+    "timestampMs": 467566,
+    "confidence": null
+  },
+  {
+    "text": "failure",
+    "startMs": 467600,
+    "endMs": 467647,
+    "timestampMs": 467600,
+    "confidence": null
+  },
+  {
+    "text": "stops",
+    "startMs": 467647,
+    "endMs": 467681,
+    "timestampMs": 467647,
+    "confidence": null
+  },
+  {
+    "text": "execution.",
+    "startMs": 467681,
+    "endMs": 467762,
+    "timestampMs": 467681,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 467762,
+    "endMs": 467789,
+    "timestampMs": 467762,
+    "confidence": null
+  },
+  {
+    "text": "fail-fast",
+    "startMs": 467789,
+    "endMs": 467843,
+    "timestampMs": 467789,
+    "confidence": null
+  },
+  {
+    "text": "behavior",
+    "startMs": 467843,
+    "endMs": 467897,
+    "timestampMs": 467843,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 467897,
+    "endMs": 467917,
+    "timestampMs": 467897,
+    "confidence": null
+  },
+  {
+    "text": "intentional",
+    "startMs": 467917,
+    "endMs": 467978,
+    "timestampMs": 467917,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 467978,
+    "endMs": 467998,
+    "timestampMs": 467978,
+    "confidence": null
+  },
+  {
+    "text": "there",
+    "startMs": 467998,
+    "endMs": 468031,
+    "timestampMs": 467998,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 468031,
+    "endMs": 468052,
+    "timestampMs": 468031,
+    "confidence": null
+  },
+  {
+    "text": "no",
+    "startMs": 468052,
+    "endMs": 468072,
+    "timestampMs": 468052,
+    "confidence": null
+  },
+  {
+    "text": "value",
+    "startMs": 468072,
+    "endMs": 468105,
+    "timestampMs": 468072,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 468105,
+    "endMs": 468126,
+    "timestampMs": 468105,
+    "confidence": null
+  },
+  {
+    "text": "reporting",
+    "startMs": 468126,
+    "endMs": 468186,
+    "timestampMs": 468126,
+    "confidence": null
+  },
+  {
+    "text": "downstream",
+    "startMs": 468186,
+    "endMs": 468247,
+    "timestampMs": 468186,
+    "confidence": null
+  },
+  {
+    "text": "lint",
+    "startMs": 468247,
+    "endMs": 468274,
+    "timestampMs": 468247,
+    "confidence": null
+  },
+  {
+    "text": "failures",
+    "startMs": 468274,
+    "endMs": 468328,
+    "timestampMs": 468274,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 468328,
+    "endMs": 468354,
+    "timestampMs": 468328,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 468354,
+    "endMs": 468375,
+    "timestampMs": 468354,
+    "confidence": null
+  },
+  {
+    "text": "upstream",
+    "startMs": 468375,
+    "endMs": 468429,
+    "timestampMs": 468375,
+    "confidence": null
+  },
+  {
+    "text": "structural",
+    "startMs": 468429,
+    "endMs": 468489,
+    "timestampMs": 468429,
+    "confidence": null
+  },
+  {
+    "text": "problem",
+    "startMs": 468489,
+    "endMs": 468536,
+    "timestampMs": 468489,
+    "confidence": null
+  },
+  {
+    "text": "invalidates",
+    "startMs": 468536,
+    "endMs": 468597,
+    "timestampMs": 468536,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 468597,
+    "endMs": 468617,
+    "timestampMs": 468597,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 468617,
+    "endMs": 468644,
+    "timestampMs": 468617,
+    "confidence": null
+  },
+  {
+    "text": "being",
+    "startMs": 468644,
+    "endMs": 468678,
+    "timestampMs": 468644,
+    "confidence": null
+  },
+  {
+    "text": "checked.",
+    "startMs": 468678,
+    "endMs": 468746,
+    "timestampMs": 468678,
+    "confidence": null
+  },
+  {
+    "text": "Contributors",
+    "startMs": 468746,
+    "endMs": 468806,
+    "timestampMs": 468746,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 468806,
+    "endMs": 468826,
+    "timestampMs": 468806,
+    "confidence": null
+  },
+  {
+    "text": "`npm",
+    "startMs": 468826,
+    "endMs": 468847,
+    "timestampMs": 468826,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 468847,
+    "endMs": 468867,
+    "timestampMs": 468847,
+    "confidence": null
+  },
+  {
+    "text": "lint:all`",
+    "startMs": 468867,
+    "endMs": 468914,
+    "timestampMs": 468867,
+    "confidence": null
+  },
+  {
+    "text": "locally",
+    "startMs": 468914,
+    "endMs": 468961,
+    "timestampMs": 468914,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 468961,
+    "endMs": 469001,
+    "timestampMs": 468961,
+    "confidence": null
+  },
+  {
+    "text": "pushing.",
+    "startMs": 469001,
+    "endMs": 469070,
+    "timestampMs": 469001,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 469070,
+    "endMs": 469090,
+    "timestampMs": 469070,
+    "confidence": null
+  },
+  {
+    "text": "CONTRIBUTING.md",
+    "startMs": 469090,
+    "endMs": 469150,
+    "timestampMs": 469090,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 469150,
+    "endMs": 469177,
+    "timestampMs": 469150,
+    "confidence": null
+  },
+  {
+    "text": "lists",
+    "startMs": 469177,
+    "endMs": 469211,
+    "timestampMs": 469177,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 469211,
+    "endMs": 469238,
+    "timestampMs": 469211,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 469238,
+    "endMs": 469258,
+    "timestampMs": 469238,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 469258,
+    "endMs": 469278,
+    "timestampMs": 469258,
+    "confidence": null
+  },
+  {
+    "text": "primary",
+    "startMs": 469278,
+    "endMs": 469325,
+    "timestampMs": 469278,
+    "confidence": null
+  },
+  {
+    "text": "pre-submission",
+    "startMs": 469325,
+    "endMs": 469386,
+    "timestampMs": 469325,
+    "confidence": null
+  },
+  {
+    "text": "command.",
+    "startMs": 469386,
+    "endMs": 469454,
+    "timestampMs": 469386,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 469454,
+    "endMs": 469474,
+    "timestampMs": 469454,
+    "confidence": null
+  },
+  {
+    "text": "same",
+    "startMs": 469474,
+    "endMs": 469501,
+    "timestampMs": 469474,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 469501,
+    "endMs": 469555,
+    "timestampMs": 469501,
+    "confidence": null
+  },
+  {
+    "text": "executes",
+    "startMs": 469555,
+    "endMs": 469609,
+    "timestampMs": 469555,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 469609,
+    "endMs": 469629,
+    "timestampMs": 469609,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 469629,
+    "endMs": 469649,
+    "timestampMs": 469629,
+    "confidence": null
+  },
+  {
+    "text": "via",
+    "startMs": 469649,
+    "endMs": 469670,
+    "timestampMs": 469649,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 469670,
+    "endMs": 469690,
+    "timestampMs": 469670,
+    "confidence": null
+  },
+  {
+    "text": "`pr-validation.yml`",
+    "startMs": 469690,
+    "endMs": 469750,
+    "timestampMs": 469690,
+    "confidence": null
+  },
+  {
+    "text": "workflow,",
+    "startMs": 469750,
+    "endMs": 469811,
+    "timestampMs": 469750,
+    "confidence": null
+  },
+  {
+    "text": "which",
+    "startMs": 469811,
+    "endMs": 469845,
+    "timestampMs": 469811,
+    "confidence": null
+  },
+  {
+    "text": "calls",
+    "startMs": 469845,
+    "endMs": 469878,
+    "timestampMs": 469845,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 469878,
+    "endMs": 469939,
+    "timestampMs": 469878,
+    "confidence": null
+  },
+  {
+    "text": "reusable",
+    "startMs": 469939,
+    "endMs": 469993,
+    "timestampMs": 469939,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 469993,
+    "endMs": 470047,
+    "timestampMs": 469993,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 470047,
+    "endMs": 470080,
+    "timestampMs": 470047,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 470080,
+    "endMs": 470100,
+    "timestampMs": 470080,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 470100,
+    "endMs": 470127,
+    "timestampMs": 470100,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 470127,
+    "endMs": 470188,
+    "timestampMs": 470127,
+    "confidence": null
+  },
+  {
+    "text": "category.",
+    "startMs": 470188,
+    "endMs": 470263,
+    "timestampMs": 470188,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 470263,
+    "endMs": 470283,
+    "timestampMs": 470263,
+    "confidence": null
+  },
+  {
+    "text": "PR",
+    "startMs": 470283,
+    "endMs": 470303,
+    "timestampMs": 470283,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 470303,
+    "endMs": 470364,
+    "timestampMs": 470303,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 470364,
+    "endMs": 470418,
+    "timestampMs": 470364,
+    "confidence": null
+  },
+  {
+    "text": "also",
+    "startMs": 470418,
+    "endMs": 470444,
+    "timestampMs": 470418,
+    "confidence": null
+  },
+  {
+    "text": "adds",
+    "startMs": 470444,
+    "endMs": 470471,
+    "timestampMs": 470444,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 470471,
+    "endMs": 470512,
+    "timestampMs": 470471,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 470512,
+    "endMs": 470532,
+    "timestampMs": 470512,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 470532,
+    "endMs": 470552,
+    "timestampMs": 470532,
+    "confidence": null
+  },
+  {
+    "text": "`lint:all`",
+    "startMs": 470552,
+    "endMs": 470599,
+    "timestampMs": 470552,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 470599,
+    "endMs": 470620,
+    "timestampMs": 470599,
+    "confidence": null
+  },
+  {
+    "text": "copyright",
+    "startMs": 470620,
+    "endMs": 470680,
+    "timestampMs": 470620,
+    "confidence": null
+  },
+  {
+    "text": "header",
+    "startMs": 470680,
+    "endMs": 470720,
+    "timestampMs": 470680,
+    "confidence": null
+  },
+  {
+    "text": "validation,",
+    "startMs": 470720,
+    "endMs": 470788,
+    "timestampMs": 470720,
+    "confidence": null
+  },
+  {
+    "text": "fuzz",
+    "startMs": 470788,
+    "endMs": 470815,
+    "timestampMs": 470788,
+    "confidence": null
+  },
+  {
+    "text": "tests,",
+    "startMs": 470815,
+    "endMs": 470855,
+    "timestampMs": 470815,
+    "confidence": null
+  },
+  {
+    "text": "pip-audit",
+    "startMs": 470855,
+    "endMs": 470909,
+    "timestampMs": 470855,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 470909,
+    "endMs": 470929,
+    "timestampMs": 470909,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 470929,
+    "endMs": 470970,
+    "timestampMs": 470929,
+    "confidence": null
+  },
+  {
+    "text": "dependencies,",
+    "startMs": 470970,
+    "endMs": 471037,
+    "timestampMs": 470970,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 471037,
+    "endMs": 471057,
+    "timestampMs": 471037,
+    "confidence": null
+  },
+  {
+    "text": "Pester",
+    "startMs": 471057,
+    "endMs": 471097,
+    "timestampMs": 471057,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 471097,
+    "endMs": 471131,
+    "timestampMs": 471097,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 471131,
+    "endMs": 471151,
+    "timestampMs": 471131,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 471151,
+    "endMs": 471212,
+    "timestampMs": 471151,
+    "confidence": null
+  },
+  {
+    "text": "scripts.",
+    "startMs": 471212,
+    "endMs": 471280,
+    "timestampMs": 471212,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 471280,
+    "endMs": 471518,
+    "timestampMs": 471280,
+    "confidence": null
+  },
+  {
+    "text": "prompt",
+    "startMs": 471518,
+    "endMs": 471995,
+    "timestampMs": 471518,
+    "confidence": null
+  },
+  {
+    "text": "engineering",
+    "startMs": 471995,
+    "endMs": 472709,
+    "timestampMs": 471995,
+    "confidence": null
+  },
+  {
+    "text": "library",
+    "startMs": 472709,
+    "endMs": 473265,
+    "timestampMs": 472709,
+    "confidence": null
+  },
+  {
+    "text": "differs",
+    "startMs": 473265,
+    "endMs": 473821,
+    "timestampMs": 473265,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 473821,
+    "endMs": 474139,
+    "timestampMs": 473821,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 474139,
+    "endMs": 474377,
+    "timestampMs": 474139,
+    "confidence": null
+  },
+  {
+    "text": "typical",
+    "startMs": 474377,
+    "endMs": 474933,
+    "timestampMs": 474377,
+    "confidence": null
+  },
+  {
+    "text": "codebase",
+    "startMs": 474933,
+    "endMs": 475568,
+    "timestampMs": 474933,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 475568,
+    "endMs": 475807,
+    "timestampMs": 475568,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 475807,
+    "endMs": 476045,
+    "timestampMs": 475807,
+    "confidence": null
+  },
+  {
+    "text": "important",
+    "startMs": 476045,
+    "endMs": 476760,
+    "timestampMs": 476045,
+    "confidence": null
+  },
+  {
+    "text": "way:",
+    "startMs": 476760,
+    "endMs": 477077,
+    "timestampMs": 476760,
+    "confidence": null
+  },
+  {
+    "text": "there",
+    "startMs": 477077,
+    "endMs": 477474,
+    "timestampMs": 477077,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 477474,
+    "endMs": 477712,
+    "timestampMs": 477474,
+    "confidence": null
+  },
+  {
+    "text": "no",
+    "startMs": 477712,
+    "endMs": 477951,
+    "timestampMs": 477712,
+    "confidence": null
+  },
+  {
+    "text": "compiler.",
+    "startMs": 477951,
+    "endMs": 478834,
+    "timestampMs": 477951,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 478834,
+    "endMs": 479072,
+    "timestampMs": 478834,
+    "confidence": null
+  },
+  {
+    "text": "malformed",
+    "startMs": 479072,
+    "endMs": 479787,
+    "timestampMs": 479072,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 479787,
+    "endMs": 480184,
+    "timestampMs": 479787,
+    "confidence": null
+  },
+  {
+    "text": "definition",
+    "startMs": 480184,
+    "endMs": 480899,
+    "timestampMs": 480184,
+    "confidence": null
+  },
+  {
+    "text": "does",
+    "startMs": 480899,
+    "endMs": 481217,
+    "timestampMs": 480899,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 481217,
+    "endMs": 481455,
+    "timestampMs": 481217,
+    "confidence": null
+  },
+  {
+    "text": "produce",
+    "startMs": 481455,
+    "endMs": 482011,
+    "timestampMs": 481455,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 482011,
+    "endMs": 482249,
+    "timestampMs": 482011,
+    "confidence": null
+  },
+  {
+    "text": "build",
+    "startMs": 482249,
+    "endMs": 482646,
+    "timestampMs": 482249,
+    "confidence": null
+  },
+  {
+    "text": "error.",
+    "startMs": 482646,
+    "endMs": 483291,
+    "timestampMs": 482646,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 483291,
+    "endMs": 483529,
+    "timestampMs": 483291,
+    "confidence": null
+  },
+  {
+    "text": "prompt",
+    "startMs": 483529,
+    "endMs": 484006,
+    "timestampMs": 483529,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 484006,
+    "endMs": 484324,
+    "timestampMs": 484006,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 484324,
+    "endMs": 484641,
+    "timestampMs": 484324,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 484641,
+    "endMs": 484880,
+    "timestampMs": 484641,
+    "confidence": null
+  },
+  {
+    "text": "incorrect",
+    "startMs": 484880,
+    "endMs": 485594,
+    "timestampMs": 484880,
+    "confidence": null
+  },
+  {
+    "text": "`ms.topic`",
+    "startMs": 485594,
+    "endMs": 486150,
+    "timestampMs": 485594,
+    "confidence": null
+  },
+  {
+    "text": "value",
+    "startMs": 486150,
+    "endMs": 486547,
+    "timestampMs": 486150,
+    "confidence": null
+  },
+  {
+    "text": "still",
+    "startMs": 486547,
+    "endMs": 486944,
+    "timestampMs": 486547,
+    "confidence": null
+  },
+  {
+    "text": "functions",
+    "startMs": 486944,
+    "endMs": 487659,
+    "timestampMs": 486944,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 487659,
+    "endMs": 487897,
+    "timestampMs": 487659,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 487897,
+    "endMs": 488135,
+    "timestampMs": 487897,
+    "confidence": null
+  },
+  {
+    "text": "just",
+    "startMs": 488135,
+    "endMs": 488453,
+    "timestampMs": 488135,
+    "confidence": null
+  },
+  {
+    "text": "silently",
+    "startMs": 488453,
+    "endMs": 489088,
+    "timestampMs": 488453,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 489088,
+    "endMs": 489724,
+    "timestampMs": 489088,
+    "confidence": null
+  },
+  {
+    "text": "wrong",
+    "startMs": 489724,
+    "endMs": 490121,
+    "timestampMs": 489724,
+    "confidence": null
+  },
+  {
+    "text": "metadata.",
+    "startMs": 490121,
+    "endMs": 491004,
+    "timestampMs": 490121,
+    "confidence": null
+  },
+  {
+    "text": "Without",
+    "startMs": 491004,
+    "endMs": 491560,
+    "timestampMs": 491004,
+    "confidence": null
+  },
+  {
+    "text": "explicit",
+    "startMs": 491560,
+    "endMs": 492195,
+    "timestampMs": 491560,
+    "confidence": null
+  },
+  {
+    "text": "validation,",
+    "startMs": 492195,
+    "endMs": 492990,
+    "timestampMs": 492195,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 492990,
+    "endMs": 493228,
+    "timestampMs": 492990,
+    "confidence": null
+  },
+  {
+    "text": "library",
+    "startMs": 493228,
+    "endMs": 493784,
+    "timestampMs": 493228,
+    "confidence": null
+  },
+  {
+    "text": "accumulates",
+    "startMs": 493784,
+    "endMs": 494498,
+    "timestampMs": 493784,
+    "confidence": null
+  },
+  {
+    "text": "inconsistencies",
+    "startMs": 494498,
+    "endMs": 495213,
+    "timestampMs": 494498,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 495213,
+    "endMs": 495769,
+    "timestampMs": 495213,
+    "confidence": null
+  },
+  {
+    "text": "normal",
+    "startMs": 495769,
+    "endMs": 496246,
+    "timestampMs": 495769,
+    "confidence": null
+  },
+  {
+    "text": "development.",
+    "startMs": 496246,
+    "endMs": 497208,
+    "timestampMs": 496246,
+    "confidence": null
+  },
+  {
+    "text": "Contributors",
+    "startMs": 497208,
+    "endMs": 497923,
+    "timestampMs": 497208,
+    "confidence": null
+  },
+  {
+    "text": "copy",
+    "startMs": 497923,
+    "endMs": 498241,
+    "timestampMs": 497923,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 498241,
+    "endMs": 498479,
+    "timestampMs": 498241,
+    "confidence": null
+  },
+  {
+    "text": "existing",
+    "startMs": 498479,
+    "endMs": 499114,
+    "timestampMs": 498479,
+    "confidence": null
+  },
+  {
+    "text": "file,",
+    "startMs": 499114,
+    "endMs": 499511,
+    "timestampMs": 499114,
+    "confidence": null
+  },
+  {
+    "text": "modify",
+    "startMs": 499511,
+    "endMs": 499988,
+    "timestampMs": 499511,
+    "confidence": null
+  },
+  {
+    "text": "it,",
+    "startMs": 499988,
+    "endMs": 500306,
+    "timestampMs": 499988,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 500306,
+    "endMs": 500544,
+    "timestampMs": 500306,
+    "confidence": null
+  },
+  {
+    "text": "inadvertently",
+    "startMs": 500544,
+    "endMs": 501259,
+    "timestampMs": 500544,
+    "confidence": null
+  },
+  {
+    "text": "omit",
+    "startMs": 501259,
+    "endMs": 501576,
+    "timestampMs": 501259,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 501576,
+    "endMs": 501814,
+    "timestampMs": 501576,
+    "confidence": null
+  },
+  {
+    "text": "required",
+    "startMs": 501814,
+    "endMs": 502450,
+    "timestampMs": 501814,
+    "confidence": null
+  },
+  {
+    "text": "field.",
+    "startMs": 502450,
+    "endMs": 503095,
+    "timestampMs": 502450,
+    "confidence": null
+  },
+  {
+    "text": "Reviewers",
+    "startMs": 503095,
+    "endMs": 503810,
+    "timestampMs": 503095,
+    "confidence": null
+  },
+  {
+    "text": "miss",
+    "startMs": 503810,
+    "endMs": 504127,
+    "timestampMs": 503810,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 504127,
+    "endMs": 504366,
+    "timestampMs": 504127,
+    "confidence": null
+  },
+  {
+    "text": "omission",
+    "startMs": 504366,
+    "endMs": 505001,
+    "timestampMs": 504366,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 505001,
+    "endMs": 505557,
+    "timestampMs": 505001,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 505557,
+    "endMs": 505795,
+    "timestampMs": 505557,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 505795,
+    "endMs": 506113,
+    "timestampMs": 505795,
+    "confidence": null
+  },
+  {
+    "text": "looks",
+    "startMs": 506113,
+    "endMs": 506510,
+    "timestampMs": 506113,
+    "confidence": null
+  },
+  {
+    "text": "structurally",
+    "startMs": 506510,
+    "endMs": 507224,
+    "timestampMs": 506510,
+    "confidence": null
+  },
+  {
+    "text": "similar",
+    "startMs": 507224,
+    "endMs": 507780,
+    "timestampMs": 507224,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 507780,
+    "endMs": 508019,
+    "timestampMs": 507780,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 508019,
+    "endMs": 508257,
+    "timestampMs": 508019,
+    "confidence": null
+  },
+  {
+    "text": "neighbors.",
+    "startMs": 508257,
+    "endMs": 509220,
+    "timestampMs": 508257,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 509220,
+    "endMs": 509458,
+    "timestampMs": 509220,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 509458,
+    "endMs": 510173,
+    "timestampMs": 509458,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure",
+    "startMs": 510173,
+    "endMs": 510887,
+    "timestampMs": 510173,
+    "confidence": null
+  },
+  {
+    "text": "addresses",
+    "startMs": 510887,
+    "endMs": 511602,
+    "timestampMs": 510887,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 511602,
+    "endMs": 511920,
+    "timestampMs": 511602,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 511920,
+    "endMs": 512158,
+    "timestampMs": 511920,
+    "confidence": null
+  },
+  {
+    "text": "encoding",
+    "startMs": 512158,
+    "endMs": 512793,
+    "timestampMs": 512158,
+    "confidence": null
+  },
+  {
+    "text": "structural",
+    "startMs": 512793,
+    "endMs": 513508,
+    "timestampMs": 512793,
+    "confidence": null
+  },
+  {
+    "text": "expectations",
+    "startMs": 513508,
+    "endMs": 514223,
+    "timestampMs": 513508,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 514223,
+    "endMs": 514461,
+    "timestampMs": 514223,
+    "confidence": null
+  },
+  {
+    "text": "executable",
+    "startMs": 514461,
+    "endMs": 515176,
+    "timestampMs": 514461,
+    "confidence": null
+  },
+  {
+    "text": "checks.",
+    "startMs": 515176,
+    "endMs": 515900,
+    "timestampMs": 515176,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 515900,
+    "endMs": 516139,
+    "timestampMs": 515900,
+    "confidence": null
+  },
+  {
+    "text": "thirteen",
+    "startMs": 516139,
+    "endMs": 516774,
+    "timestampMs": 516139,
+    "confidence": null
+  },
+  {
+    "text": "JSON",
+    "startMs": 516774,
+    "endMs": 517092,
+    "timestampMs": 516774,
+    "confidence": null
+  },
+  {
+    "text": "Schemas",
+    "startMs": 517092,
+    "endMs": 517647,
+    "timestampMs": 517092,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 517647,
+    "endMs": 517886,
+    "timestampMs": 517647,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/linting/schemas/`",
+    "startMs": 517886,
+    "endMs": 518600,
+    "timestampMs": 517886,
+    "confidence": null
+  },
+  {
+    "text": "define",
+    "startMs": 518600,
+    "endMs": 519077,
+    "timestampMs": 518600,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 519077,
+    "endMs": 519395,
+    "timestampMs": 519077,
+    "confidence": null
+  },
+  {
+    "text": "correct",
+    "startMs": 519395,
+    "endMs": 519950,
+    "timestampMs": 519395,
+    "confidence": null
+  },
+  {
+    "text": "looks",
+    "startMs": 519950,
+    "endMs": 520347,
+    "timestampMs": 519950,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 520347,
+    "endMs": 520665,
+    "timestampMs": 520347,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 520665,
+    "endMs": 520903,
+    "timestampMs": 520665,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 520903,
+    "endMs": 521221,
+    "timestampMs": 520903,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 521221,
+    "endMs": 521856,
+    "timestampMs": 521221,
+    "confidence": null
+  },
+  {
+    "text": "type.",
+    "startMs": 521856,
+    "endMs": 522422,
+    "timestampMs": 521856,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 522422,
+    "endMs": 522660,
+    "timestampMs": 522422,
+    "confidence": null
+  },
+  {
+    "text": "twenty-plus",
+    "startMs": 522660,
+    "endMs": 523375,
+    "timestampMs": 522660,
+    "confidence": null
+  },
+  {
+    "text": "npm",
+    "startMs": 523375,
+    "endMs": 523613,
+    "timestampMs": 523375,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 523613,
+    "endMs": 524169,
+    "timestampMs": 523613,
+    "confidence": null
+  },
+  {
+    "text": "make",
+    "startMs": 524169,
+    "endMs": 524487,
+    "timestampMs": 524169,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 524487,
+    "endMs": 525202,
+    "timestampMs": 524487,
+    "confidence": null
+  },
+  {
+    "text": "accessible",
+    "startMs": 525202,
+    "endMs": 525916,
+    "timestampMs": 525202,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 525916,
+    "endMs": 526155,
+    "timestampMs": 525916,
+    "confidence": null
+  },
+  {
+    "text": "any",
+    "startMs": 526155,
+    "endMs": 526393,
+    "timestampMs": 526155,
+    "confidence": null
+  },
+  {
+    "text": "contributor",
+    "startMs": 526393,
+    "endMs": 527108,
+    "timestampMs": 526393,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 527108,
+    "endMs": 527425,
+    "timestampMs": 527108,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 527425,
+    "endMs": 527663,
+    "timestampMs": 527425,
+    "confidence": null
+  },
+  {
+    "text": "Node.js",
+    "startMs": 527663,
+    "endMs": 528140,
+    "timestampMs": 527663,
+    "confidence": null
+  },
+  {
+    "text": "environment.",
+    "startMs": 528140,
+    "endMs": 529103,
+    "timestampMs": 528140,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 529103,
+    "endMs": 529341,
+    "timestampMs": 529103,
+    "confidence": null
+  },
+  {
+    "text": "`lint:all`",
+    "startMs": 529341,
+    "endMs": 529897,
+    "timestampMs": 529341,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 529897,
+    "endMs": 530532,
+    "timestampMs": 529897,
+    "confidence": null
+  },
+  {
+    "text": "makes",
+    "startMs": 530532,
+    "endMs": 530929,
+    "timestampMs": 530532,
+    "confidence": null
+  },
+  {
+    "text": "comprehensive",
+    "startMs": 530929,
+    "endMs": 531644,
+    "timestampMs": 530929,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 531644,
+    "endMs": 532359,
+    "timestampMs": 531644,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 532359,
+    "endMs": 532597,
+    "timestampMs": 532359,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 532597,
+    "endMs": 533073,
+    "timestampMs": 532597,
+    "confidence": null
+  },
+  {
+    "text": "command.",
+    "startMs": 533073,
+    "endMs": 533878,
+    "timestampMs": 533073,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 533878,
+    "endMs": 534116,
+    "timestampMs": 533878,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 534116,
+    "endMs": 534354,
+    "timestampMs": 534116,
+    "confidence": null
+  },
+  {
+    "text": "workflows",
+    "startMs": 534354,
+    "endMs": 535069,
+    "timestampMs": 534354,
+    "confidence": null
+  },
+  {
+    "text": "make",
+    "startMs": 535069,
+    "endMs": 535386,
+    "timestampMs": 535069,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 535386,
+    "endMs": 536101,
+    "timestampMs": 535386,
+    "confidence": null
+  },
+  {
+    "text": "non-optional",
+    "startMs": 536101,
+    "endMs": 536816,
+    "timestampMs": 536101,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 536816,
+    "endMs": 537054,
+    "timestampMs": 536816,
+    "confidence": null
+  },
+  {
+    "text": "pull",
+    "startMs": 537054,
+    "endMs": 537372,
+    "timestampMs": 537054,
+    "confidence": null
+  },
+  {
+    "text": "requests",
+    "startMs": 537372,
+    "endMs": 538007,
+    "timestampMs": 537372,
+    "confidence": null
+  },
+  {
+    "text": "cannot",
+    "startMs": 538007,
+    "endMs": 538483,
+    "timestampMs": 538007,
+    "confidence": null
+  },
+  {
+    "text": "merge",
+    "startMs": 538483,
+    "endMs": 538881,
+    "timestampMs": 538483,
+    "confidence": null
+  },
+  {
+    "text": "until",
+    "startMs": 538881,
+    "endMs": 539278,
+    "timestampMs": 538881,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 539278,
+    "endMs": 539516,
+    "timestampMs": 539278,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 539516,
+    "endMs": 539992,
+    "timestampMs": 539516,
+    "confidence": null
+  },
+  {
+    "text": "pass.",
+    "startMs": 539992,
+    "endMs": 540558,
+    "timestampMs": 539992,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 540558,
+    "endMs": 540796,
+    "timestampMs": 540558,
+    "confidence": null
+  },
+  {
+    "text": "`.markdownlint-cli2.jsonc`",
+    "startMs": 540796,
+    "endMs": 541511,
+    "timestampMs": 540796,
+    "confidence": null
+  },
+  {
+    "text": "configuration",
+    "startMs": 541511,
+    "endMs": 542226,
+    "timestampMs": 541511,
+    "confidence": null
+  },
+  {
+    "text": "demonstrates",
+    "startMs": 542226,
+    "endMs": 542941,
+    "timestampMs": 542226,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 542941,
+    "endMs": 543179,
+    "timestampMs": 542941,
+    "confidence": null
+  },
+  {
+    "text": "granularity",
+    "startMs": 543179,
+    "endMs": 543894,
+    "timestampMs": 543179,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 543894,
+    "endMs": 544132,
+    "timestampMs": 543894,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 544132,
+    "endMs": 544449,
+    "timestampMs": 544132,
+    "confidence": null
+  },
+  {
+    "text": "approach.",
+    "startMs": 544449,
+    "endMs": 545333,
+    "timestampMs": 544449,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 545333,
+    "endMs": 545571,
+    "timestampMs": 545333,
+    "confidence": null
+  },
+  {
+    "text": "excludes",
+    "startMs": 545571,
+    "endMs": 546206,
+    "timestampMs": 545571,
+    "confidence": null
+  },
+  {
+    "text": "`node_modules`,",
+    "startMs": 546206,
+    "endMs": 547001,
+    "timestampMs": 546206,
+    "confidence": null
+  },
+  {
+    "text": "`packages`,",
+    "startMs": 547001,
+    "endMs": 547715,
+    "timestampMs": 547001,
+    "confidence": null
+  },
+  {
+    "text": "tracking",
+    "startMs": 547715,
+    "endMs": 548351,
+    "timestampMs": 547715,
+    "confidence": null
+  },
+  {
+    "text": "directories,",
+    "startMs": 548351,
+    "endMs": 549145,
+    "timestampMs": 548351,
+    "confidence": null
+  },
+  {
+    "text": "log",
+    "startMs": 549145,
+    "endMs": 549383,
+    "timestampMs": 549145,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 549383,
+    "endMs": 549859,
+    "timestampMs": 549383,
+    "confidence": null
+  },
+  {
+    "text": "virtual",
+    "startMs": 549859,
+    "endMs": 550415,
+    "timestampMs": 549859,
+    "confidence": null
+  },
+  {
+    "text": "environments,",
+    "startMs": 550415,
+    "endMs": 551209,
+    "timestampMs": 550415,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 551209,
+    "endMs": 551527,
+    "timestampMs": 551209,
+    "confidence": null
+  },
+  {
+    "text": "fixtures,",
+    "startMs": 551527,
+    "endMs": 552242,
+    "timestampMs": 551527,
+    "confidence": null
+  },
+  {
+    "text": "generated",
+    "startMs": 552242,
+    "endMs": 552957,
+    "timestampMs": 552242,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 552957,
+    "endMs": 553671,
+    "timestampMs": 552957,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 553671,
+    "endMs": 554148,
+    "timestampMs": 553671,
+    "confidence": null
+  },
+  {
+    "text": "plugin",
+    "startMs": 554148,
+    "endMs": 554624,
+    "timestampMs": 554148,
+    "confidence": null
+  },
+  {
+    "text": "content,",
+    "startMs": 554624,
+    "endMs": 555260,
+    "timestampMs": 554624,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 555260,
+    "endMs": 555498,
+    "timestampMs": 555260,
+    "confidence": null
+  },
+  {
+    "text": "GitHub",
+    "startMs": 555498,
+    "endMs": 555974,
+    "timestampMs": 555498,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 555974,
+    "endMs": 556610,
+    "timestampMs": 555974,
+    "confidence": null
+  },
+  {
+    "text": "directories",
+    "startMs": 556610,
+    "endMs": 557324,
+    "timestampMs": 556610,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 557324,
+    "endMs": 557642,
+    "timestampMs": 557324,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 557642,
+    "endMs": 558277,
+    "timestampMs": 557642,
+    "confidence": null
+  },
+  {
+    "text": "linting.",
+    "startMs": 558277,
+    "endMs": 559081,
+    "timestampMs": 558277,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 559081,
+    "endMs": 559320,
+    "timestampMs": 559081,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 559320,
+    "endMs": 559717,
+    "timestampMs": 559320,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 559717,
+    "endMs": 559955,
+    "timestampMs": 559717,
+    "confidence": null
+  },
+  {
+    "text": "custom",
+    "startMs": 559955,
+    "endMs": 560431,
+    "timestampMs": 559955,
+    "confidence": null
+  },
+  {
+    "text": "rule",
+    "startMs": 560431,
+    "endMs": 560749,
+    "timestampMs": 560431,
+    "confidence": null
+  },
+  {
+    "text": "package",
+    "startMs": 560749,
+    "endMs": 561305,
+    "timestampMs": 560749,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 561305,
+    "endMs": 561543,
+    "timestampMs": 561305,
+    "confidence": null
+  },
+  {
+    "text": "configures",
+    "startMs": 561543,
+    "endMs": 562258,
+    "timestampMs": 561543,
+    "confidence": null
+  },
+  {
+    "text": "two",
+    "startMs": 562258,
+    "endMs": 562496,
+    "timestampMs": 562258,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 562496,
+    "endMs": 562973,
+    "timestampMs": 562496,
+    "confidence": null
+  },
+  {
+    "text": "formatters",
+    "startMs": 562973,
+    "endMs": 563687,
+    "timestampMs": 562973,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 563687,
+    "endMs": 563925,
+    "timestampMs": 563687,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 563925,
+    "endMs": 564164,
+    "timestampMs": 563925,
+    "confidence": null
+  },
+  {
+    "text": "default",
+    "startMs": 564164,
+    "endMs": 564720,
+    "timestampMs": 564164,
+    "confidence": null
+  },
+  {
+    "text": "console",
+    "startMs": 564720,
+    "endMs": 565276,
+    "timestampMs": 564720,
+    "confidence": null
+  },
+  {
+    "text": "formatter",
+    "startMs": 565276,
+    "endMs": 565990,
+    "timestampMs": 565276,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 565990,
+    "endMs": 566228,
+    "timestampMs": 565990,
+    "confidence": null
+  },
+  {
+    "text": "developer",
+    "startMs": 566228,
+    "endMs": 566943,
+    "timestampMs": 566228,
+    "confidence": null
+  },
+  {
+    "text": "feedback",
+    "startMs": 566943,
+    "endMs": 567579,
+    "timestampMs": 566943,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 567579,
+    "endMs": 567817,
+    "timestampMs": 567579,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 567817,
+    "endMs": 568055,
+    "timestampMs": 567817,
+    "confidence": null
+  },
+  {
+    "text": "JSON",
+    "startMs": 568055,
+    "endMs": 568373,
+    "timestampMs": 568055,
+    "confidence": null
+  },
+  {
+    "text": "formatter",
+    "startMs": 568373,
+    "endMs": 569087,
+    "timestampMs": 568373,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 569087,
+    "endMs": 569405,
+    "timestampMs": 569087,
+    "confidence": null
+  },
+  {
+    "text": "writes",
+    "startMs": 569405,
+    "endMs": 569881,
+    "timestampMs": 569405,
+    "confidence": null
+  },
+  {
+    "text": "results",
+    "startMs": 569881,
+    "endMs": 570437,
+    "timestampMs": 569881,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 570437,
+    "endMs": 570676,
+    "timestampMs": 570437,
+    "confidence": null
+  },
+  {
+    "text": "`logs/markdownlint-results.json`",
+    "startMs": 570676,
+    "endMs": 571390,
+    "timestampMs": 570676,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 571390,
+    "endMs": 571629,
+    "timestampMs": 571390,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 571629,
+    "endMs": 571867,
+    "timestampMs": 571629,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 571867,
+    "endMs": 572502,
+    "timestampMs": 571867,
+    "confidence": null
+  },
+  {
+    "text": "collection.",
+    "startMs": 572502,
+    "endMs": 573465,
+    "timestampMs": 572502,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 573465,
+    "endMs": 573783,
+    "timestampMs": 573465,
+    "confidence": null
+  },
+  {
+    "text": "exclusion",
+    "startMs": 573783,
+    "endMs": 574497,
+    "timestampMs": 573783,
+    "confidence": null
+  },
+  {
+    "text": "exists",
+    "startMs": 574497,
+    "endMs": 574974,
+    "timestampMs": 574497,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 574974,
+    "endMs": 575530,
+    "timestampMs": 574974,
+    "confidence": null
+  },
+  {
+    "text": "someone",
+    "startMs": 575530,
+    "endMs": 576086,
+    "timestampMs": 575530,
+    "confidence": null
+  },
+  {
+    "text": "encountered",
+    "startMs": 576086,
+    "endMs": 576800,
+    "timestampMs": 576086,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 576800,
+    "endMs": 577039,
+    "timestampMs": 576800,
+    "confidence": null
+  },
+  {
+    "text": "false",
+    "startMs": 577039,
+    "endMs": 577436,
+    "timestampMs": 577039,
+    "confidence": null
+  },
+  {
+    "text": "positive",
+    "startMs": 577436,
+    "endMs": 578071,
+    "timestampMs": 577436,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 578071,
+    "endMs": 578309,
+    "timestampMs": 578071,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 578309,
+    "endMs": 578547,
+    "timestampMs": 578309,
+    "confidence": null
+  },
+  {
+    "text": "team",
+    "startMs": 578547,
+    "endMs": 578865,
+    "timestampMs": 578547,
+    "confidence": null
+  },
+  {
+    "text": "decided",
+    "startMs": 578865,
+    "endMs": 579421,
+    "timestampMs": 578865,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 579421,
+    "endMs": 579659,
+    "timestampMs": 579421,
+    "confidence": null
+  },
+  {
+    "text": "exclusion",
+    "startMs": 579659,
+    "endMs": 580374,
+    "timestampMs": 579659,
+    "confidence": null
+  },
+  {
+    "text": "was",
+    "startMs": 580374,
+    "endMs": 580612,
+    "timestampMs": 580374,
+    "confidence": null
+  },
+  {
+    "text": "correct",
+    "startMs": 580612,
+    "endMs": 581168,
+    "timestampMs": 580612,
+    "confidence": null
+  },
+  {
+    "text": "rather",
+    "startMs": 581168,
+    "endMs": 581645,
+    "timestampMs": 581168,
+    "confidence": null
+  },
+  {
+    "text": "than",
+    "startMs": 581645,
+    "endMs": 581962,
+    "timestampMs": 581645,
+    "confidence": null
+  },
+  {
+    "text": "modifying",
+    "startMs": 581962,
+    "endMs": 582677,
+    "timestampMs": 581962,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 582677,
+    "endMs": 582915,
+    "timestampMs": 582677,
+    "confidence": null
+  },
+  {
+    "text": "content.",
+    "startMs": 582915,
+    "endMs": 583719,
+    "timestampMs": 582915,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 583719,
+    "endMs": 584037,
+    "timestampMs": 583719,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 584037,
+    "endMs": 584275,
+    "timestampMs": 584037,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 584275,
+    "endMs": 584593,
+    "timestampMs": 584275,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 584593,
+    "endMs": 585308,
+    "timestampMs": 584593,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure",
+    "startMs": 585308,
+    "endMs": 586022,
+    "timestampMs": 585308,
+    "confidence": null
+  },
+  {
+    "text": "looks",
+    "startMs": 586022,
+    "endMs": 586419,
+    "timestampMs": 586022,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 586419,
+    "endMs": 586737,
+    "timestampMs": 586419,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 586737,
+    "endMs": 586975,
+    "timestampMs": 586737,
+    "confidence": null
+  },
+  {
+    "text": "scale.",
+    "startMs": 586975,
+    "endMs": 587620,
+    "timestampMs": 586975,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 587620,
+    "endMs": 587859,
+    "timestampMs": 587620,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 587859,
+    "endMs": 588097,
+    "timestampMs": 587859,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 588097,
+    "endMs": 588335,
+    "timestampMs": 588097,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 588335,
+    "endMs": 588573,
+    "timestampMs": 588335,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 588573,
+    "endMs": 589050,
+    "timestampMs": 588573,
+    "confidence": null
+  },
+  {
+    "text": "linter",
+    "startMs": 589050,
+    "endMs": 589526,
+    "timestampMs": 589050,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 589526,
+    "endMs": 589844,
+    "timestampMs": 589526,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 589844,
+    "endMs": 590082,
+    "timestampMs": 589844,
+    "confidence": null
+  },
+  {
+    "text": "configuration",
+    "startMs": 590082,
+    "endMs": 590797,
+    "timestampMs": 590082,
+    "confidence": null
+  },
+  {
+    "text": "file.",
+    "startMs": 590797,
+    "endMs": 591363,
+    "timestampMs": 590797,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 591363,
+    "endMs": 591601,
+    "timestampMs": 591363,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 591601,
+    "endMs": 591839,
+    "timestampMs": 591601,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 591839,
+    "endMs": 592077,
+    "timestampMs": 591839,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 592077,
+    "endMs": 592554,
+    "timestampMs": 592077,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 592554,
+    "endMs": 592792,
+    "timestampMs": 592554,
+    "confidence": null
+  },
+  {
+    "text": "specialized",
+    "startMs": 592792,
+    "endMs": 593507,
+    "timestampMs": 592792,
+    "confidence": null
+  },
+  {
+    "text": "validators,",
+    "startMs": 593507,
+    "endMs": 594301,
+    "timestampMs": 593507,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 594301,
+    "endMs": 594619,
+    "timestampMs": 594301,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 594619,
+    "endMs": 594936,
+    "timestampMs": 594619,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 594936,
+    "endMs": 595175,
+    "timestampMs": 594936,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 595175,
+    "endMs": 595413,
+    "timestampMs": 595175,
+    "confidence": null
+  },
+  {
+    "text": "exclusion",
+    "startMs": 595413,
+    "endMs": 596128,
+    "timestampMs": 595413,
+    "confidence": null
+  },
+  {
+    "text": "rules",
+    "startMs": 596128,
+    "endMs": 596525,
+    "timestampMs": 596128,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 596525,
+    "endMs": 596763,
+    "timestampMs": 596525,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 596763,
+    "endMs": 597239,
+    "timestampMs": 596763,
+    "confidence": null
+  },
+  {
+    "text": "formats,",
+    "startMs": 597239,
+    "endMs": 597875,
+    "timestampMs": 597239,
+    "confidence": null
+  },
+  {
+    "text": "orchestrated",
+    "startMs": 597875,
+    "endMs": 598589,
+    "timestampMs": 597875,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 598589,
+    "endMs": 599145,
+    "timestampMs": 598589,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 599145,
+    "endMs": 599384,
+    "timestampMs": 599145,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 599384,
+    "endMs": 600019,
+    "timestampMs": 599384,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 600019,
+    "endMs": 600336,
+    "timestampMs": 600019,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 600336,
+    "endMs": 600654,
+    "timestampMs": 600336,
+    "confidence": null
+  },
+  {
+    "text": "identically",
+    "startMs": 600654,
+    "endMs": 601369,
+    "timestampMs": 600654,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 601369,
+    "endMs": 601607,
+    "timestampMs": 601369,
+    "confidence": null
+  },
+  {
+    "text": "developer",
+    "startMs": 601607,
+    "endMs": 602322,
+    "timestampMs": 601607,
+    "confidence": null
+  },
+  {
+    "text": "machines",
+    "startMs": 602322,
+    "endMs": 602957,
+    "timestampMs": 602322,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 602957,
+    "endMs": 603195,
+    "timestampMs": 602957,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 603195,
+    "endMs": 603434,
+    "timestampMs": 603195,
+    "confidence": null
+  },
+  {
+    "text": "CI.",
+    "startMs": 603434,
+    "endMs": 603920,
+    "timestampMs": 603434,
+    "confidence": null
+  },
+  {
+    "text": "Three",
+    "startMs": 603920,
+    "endMs": 604286,
+    "timestampMs": 603920,
+    "confidence": null
+  },
+  {
+    "text": "takeaways",
+    "startMs": 604286,
+    "endMs": 604943,
+    "timestampMs": 604286,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 604943,
+    "endMs": 605236,
+    "timestampMs": 604943,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 605236,
+    "endMs": 605528,
+    "timestampMs": 605236,
+    "confidence": null
+  },
+  {
+    "text": "module.",
+    "startMs": 605528,
+    "endMs": 606195,
+    "timestampMs": 605528,
+    "confidence": null
+  },
+  {
+    "text": "First,",
+    "startMs": 606195,
+    "endMs": 606634,
+    "timestampMs": 606195,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 606634,
+    "endMs": 606853,
+    "timestampMs": 606634,
+    "confidence": null
+  },
+  {
+    "text": "Core's",
+    "startMs": 606853,
+    "endMs": 607219,
+    "timestampMs": 606853,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 607219,
+    "endMs": 607877,
+    "timestampMs": 607219,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure",
+    "startMs": 607877,
+    "endMs": 608535,
+    "timestampMs": 607877,
+    "confidence": null
+  },
+  {
+    "text": "includes",
+    "startMs": 608535,
+    "endMs": 609119,
+    "timestampMs": 608535,
+    "confidence": null
+  },
+  {
+    "text": "over",
+    "startMs": 609119,
+    "endMs": 609412,
+    "timestampMs": 609119,
+    "confidence": null
+  },
+  {
+    "text": "fifteen",
+    "startMs": 609412,
+    "endMs": 609924,
+    "timestampMs": 609412,
+    "confidence": null
+  },
+  {
+    "text": "distinct",
+    "startMs": 609924,
+    "endMs": 610508,
+    "timestampMs": 609924,
+    "confidence": null
+  },
+  {
+    "text": "linting",
+    "startMs": 610508,
+    "endMs": 611020,
+    "timestampMs": 610508,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 611020,
+    "endMs": 611239,
+    "timestampMs": 611020,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 611239,
+    "endMs": 611897,
+    "timestampMs": 611239,
+    "confidence": null
+  },
+  {
+    "text": "passes",
+    "startMs": 611897,
+    "endMs": 612336,
+    "timestampMs": 611897,
+    "confidence": null
+  },
+  {
+    "text": "covering",
+    "startMs": 612336,
+    "endMs": 612921,
+    "timestampMs": 612336,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 612921,
+    "endMs": 613506,
+    "timestampMs": 612921,
+    "confidence": null
+  },
+  {
+    "text": "formatting,",
+    "startMs": 613506,
+    "endMs": 614237,
+    "timestampMs": 613506,
+    "confidence": null
+  },
+  {
+    "text": "spell",
+    "startMs": 614237,
+    "endMs": 614602,
+    "timestampMs": 614237,
+    "confidence": null
+  },
+  {
+    "text": "checking,",
+    "startMs": 614602,
+    "endMs": 615260,
+    "timestampMs": 614602,
+    "confidence": null
+  },
+  {
+    "text": "link",
+    "startMs": 615260,
+    "endMs": 615553,
+    "timestampMs": 615260,
+    "confidence": null
+  },
+  {
+    "text": "integrity,",
+    "startMs": 615553,
+    "endMs": 616284,
+    "timestampMs": 615553,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 616284,
+    "endMs": 616576,
+    "timestampMs": 616284,
+    "confidence": null
+  },
+  {
+    "text": "structure,",
+    "startMs": 616576,
+    "endMs": 617307,
+    "timestampMs": 616576,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 617307,
+    "endMs": 617965,
+    "timestampMs": 617307,
+    "confidence": null
+  },
+  {
+    "text": "analysis,",
+    "startMs": 617965,
+    "endMs": 618623,
+    "timestampMs": 617965,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 618623,
+    "endMs": 619062,
+    "timestampMs": 618623,
+    "confidence": null
+  },
+  {
+    "text": "quality,",
+    "startMs": 619062,
+    "endMs": 619646,
+    "timestampMs": 619062,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 619646,
+    "endMs": 620304,
+    "timestampMs": 619646,
+    "confidence": null
+  },
+  {
+    "text": "schema",
+    "startMs": 620304,
+    "endMs": 620743,
+    "timestampMs": 620304,
+    "confidence": null
+  },
+  {
+    "text": "conformance,",
+    "startMs": 620743,
+    "endMs": 621474,
+    "timestampMs": 620743,
+    "confidence": null
+  },
+  {
+    "text": "collection",
+    "startMs": 621474,
+    "endMs": 622132,
+    "timestampMs": 621474,
+    "confidence": null
+  },
+  {
+    "text": "metadata,",
+    "startMs": 622132,
+    "endMs": 622790,
+    "timestampMs": 622132,
+    "confidence": null
+  },
+  {
+    "text": "marketplace",
+    "startMs": 622790,
+    "endMs": 623448,
+    "timestampMs": 622790,
+    "confidence": null
+  },
+  {
+    "text": "metadata,",
+    "startMs": 623448,
+    "endMs": 624106,
+    "timestampMs": 623448,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 624106,
+    "endMs": 624471,
+    "timestampMs": 624106,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 624471,
+    "endMs": 625129,
+    "timestampMs": 624471,
+    "confidence": null
+  },
+  {
+    "text": "structure,",
+    "startMs": 625129,
+    "endMs": 625860,
+    "timestampMs": 625129,
+    "confidence": null
+  },
+  {
+    "text": "action",
+    "startMs": 625860,
+    "endMs": 626299,
+    "timestampMs": 625860,
+    "confidence": null
+  },
+  {
+    "text": "version",
+    "startMs": 626299,
+    "endMs": 626810,
+    "timestampMs": 626299,
+    "confidence": null
+  },
+  {
+    "text": "consistency,",
+    "startMs": 626810,
+    "endMs": 627541,
+    "timestampMs": 626810,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 627541,
+    "endMs": 628126,
+    "timestampMs": 627541,
+    "confidence": null
+  },
+  {
+    "text": "permissions,",
+    "startMs": 628126,
+    "endMs": 628857,
+    "timestampMs": 628126,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 628857,
+    "endMs": 629515,
+    "timestampMs": 628857,
+    "confidence": null
+  },
+  {
+    "text": "pinning,",
+    "startMs": 629515,
+    "endMs": 630100,
+    "timestampMs": 629515,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 630100,
+    "endMs": 630758,
+    "timestampMs": 630100,
+    "confidence": null
+  },
+  {
+    "text": "module",
+    "startMs": 630758,
+    "endMs": 631197,
+    "timestampMs": 630758,
+    "confidence": null
+  },
+  {
+    "text": "pins,",
+    "startMs": 631197,
+    "endMs": 631562,
+    "timestampMs": 631197,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 631562,
+    "endMs": 631781,
+    "timestampMs": 631562,
+    "confidence": null
+  },
+  {
+    "text": "AI",
+    "startMs": 631781,
+    "endMs": 632001,
+    "timestampMs": 631781,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 632001,
+    "endMs": 632586,
+    "timestampMs": 632001,
+    "confidence": null
+  },
+  {
+    "text": "integrity.",
+    "startMs": 632586,
+    "endMs": 633472,
+    "timestampMs": 632586,
+    "confidence": null
+  },
+  {
+    "text": "Second,",
+    "startMs": 633472,
+    "endMs": 633984,
+    "timestampMs": 633472,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 633984,
+    "endMs": 634203,
+    "timestampMs": 633984,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 634203,
+    "endMs": 634861,
+    "timestampMs": 634203,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 634861,
+    "endMs": 635519,
+    "timestampMs": 634861,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 635519,
+    "endMs": 635958,
+    "timestampMs": 635519,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 635958,
+    "endMs": 636250,
+    "timestampMs": 635958,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 636250,
+    "endMs": 636469,
+    "timestampMs": 636250,
+    "confidence": null
+  },
+  {
+    "text": "schema-mapping",
+    "startMs": 636469,
+    "endMs": 637127,
+    "timestampMs": 636469,
+    "confidence": null
+  },
+  {
+    "text": "architecture",
+    "startMs": 637127,
+    "endMs": 637785,
+    "timestampMs": 637127,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 637785,
+    "endMs": 638004,
+    "timestampMs": 637785,
+    "confidence": null
+  },
+  {
+    "text": "`schema-mapping.json`",
+    "startMs": 638004,
+    "endMs": 638662,
+    "timestampMs": 638004,
+    "confidence": null
+  },
+  {
+    "text": "routes",
+    "startMs": 638662,
+    "endMs": 639101,
+    "timestampMs": 638662,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 639101,
+    "endMs": 639466,
+    "timestampMs": 639101,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 639466,
+    "endMs": 639686,
+    "timestampMs": 639466,
+    "confidence": null
+  },
+  {
+    "text": "type-specific",
+    "startMs": 639686,
+    "endMs": 640344,
+    "timestampMs": 639686,
+    "confidence": null
+  },
+  {
+    "text": "JSON",
+    "startMs": 640344,
+    "endMs": 640636,
+    "timestampMs": 640344,
+    "confidence": null
+  },
+  {
+    "text": "Schemas",
+    "startMs": 640636,
+    "endMs": 641148,
+    "timestampMs": 640636,
+    "confidence": null
+  },
+  {
+    "text": "based",
+    "startMs": 641148,
+    "endMs": 641513,
+    "timestampMs": 641148,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 641513,
+    "endMs": 641733,
+    "timestampMs": 641513,
+    "confidence": null
+  },
+  {
+    "text": "path",
+    "startMs": 641733,
+    "endMs": 642025,
+    "timestampMs": 641733,
+    "confidence": null
+  },
+  {
+    "text": "patterns,",
+    "startMs": 642025,
+    "endMs": 642683,
+    "timestampMs": 642025,
+    "confidence": null
+  },
+  {
+    "text": "so",
+    "startMs": 642683,
+    "endMs": 642902,
+    "timestampMs": 642683,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 642902,
+    "endMs": 643195,
+    "timestampMs": 642902,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 643195,
+    "endMs": 643780,
+    "timestampMs": 643195,
+    "confidence": null
+  },
+  {
+    "text": "type",
+    "startMs": 643780,
+    "endMs": 644072,
+    "timestampMs": 643780,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 644072,
+    "endMs": 644291,
+    "timestampMs": 644072,
+    "confidence": null
+  },
+  {
+    "text": "validated",
+    "startMs": 644291,
+    "endMs": 644949,
+    "timestampMs": 644291,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 644949,
+    "endMs": 645461,
+    "timestampMs": 644949,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 645461,
+    "endMs": 645680,
+    "timestampMs": 645461,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 645680,
+    "endMs": 645900,
+    "timestampMs": 645680,
+    "confidence": null
+  },
+  {
+    "text": "structural",
+    "startMs": 645900,
+    "endMs": 646557,
+    "timestampMs": 645900,
+    "confidence": null
+  },
+  {
+    "text": "contract.",
+    "startMs": 646557,
+    "endMs": 647371,
+    "timestampMs": 646557,
+    "confidence": null
+  },
+  {
+    "text": "Third,",
+    "startMs": 647371,
+    "endMs": 647809,
+    "timestampMs": 647371,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 647809,
+    "endMs": 648029,
+    "timestampMs": 647809,
+    "confidence": null
+  },
+  {
+    "text": "`lint:all`",
+    "startMs": 648029,
+    "endMs": 648540,
+    "timestampMs": 648029,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 648540,
+    "endMs": 649125,
+    "timestampMs": 648540,
+    "confidence": null
+  },
+  {
+    "text": "chains",
+    "startMs": 649125,
+    "endMs": 649564,
+    "timestampMs": 649125,
+    "confidence": null
+  },
+  {
+    "text": "these",
+    "startMs": 649564,
+    "endMs": 649929,
+    "timestampMs": 649564,
+    "confidence": null
+  },
+  {
+    "text": "validators",
+    "startMs": 649929,
+    "endMs": 650587,
+    "timestampMs": 649929,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 650587,
+    "endMs": 650807,
+    "timestampMs": 650587,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 650807,
+    "endMs": 651465,
+    "timestampMs": 650807,
+    "confidence": null
+  },
+  {
+    "text": "order",
+    "startMs": 651465,
+    "endMs": 651830,
+    "timestampMs": 651465,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 651830,
+    "endMs": 652122,
+    "timestampMs": 651830,
+    "confidence": null
+  },
+  {
+    "text": "fail-fast",
+    "startMs": 652122,
+    "endMs": 652707,
+    "timestampMs": 652122,
+    "confidence": null
+  },
+  {
+    "text": "behavior,",
+    "startMs": 652707,
+    "endMs": 653365,
+    "timestampMs": 652707,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 653365,
+    "endMs": 653585,
+    "timestampMs": 653365,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 653585,
+    "endMs": 653804,
+    "timestampMs": 653585,
+    "confidence": null
+  },
+  {
+    "text": "same",
+    "startMs": 653804,
+    "endMs": 654096,
+    "timestampMs": 653804,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 654096,
+    "endMs": 654535,
+    "timestampMs": 654096,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 654535,
+    "endMs": 654754,
+    "timestampMs": 654535,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 654754,
+    "endMs": 654973,
+    "timestampMs": 654754,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 654973,
+    "endMs": 655193,
+    "timestampMs": 654973,
+    "confidence": null
+  },
+  {
+    "text": "workflows",
+    "startMs": 655193,
+    "endMs": 655851,
+    "timestampMs": 655193,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 655851,
+    "endMs": 656070,
+    "timestampMs": 655851,
+    "confidence": null
+  },
+  {
+    "text": "make",
+    "startMs": 656070,
+    "endMs": 656362,
+    "timestampMs": 656070,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 656362,
+    "endMs": 657020,
+    "timestampMs": 656362,
+    "confidence": null
+  },
+  {
+    "text": "non-optional.",
+    "startMs": 657020,
+    "endMs": 657907,
+    "timestampMs": 657020,
+    "confidence": null
+  },
+  {
+    "text": "Module",
+    "startMs": 657907,
+    "endMs": 658345,
+    "timestampMs": 657907,
+    "confidence": null
+  },
+  {
+    "text": "13",
+    "startMs": 658345,
+    "endMs": 658565,
+    "timestampMs": 658345,
+    "confidence": null
+  },
+  {
+    "text": "examines",
+    "startMs": 658565,
+    "endMs": 659150,
+    "timestampMs": 658565,
+    "confidence": null
+  },
+  {
+    "text": "how",
+    "startMs": 659150,
+    "endMs": 659369,
+    "timestampMs": 659150,
+    "confidence": null
+  },
+  {
+    "text": "validated",
+    "startMs": 659369,
+    "endMs": 660027,
+    "timestampMs": 659369,
+    "confidence": null
+  },
+  {
+    "text": "artifacts",
+    "startMs": 660027,
+    "endMs": 660685,
+    "timestampMs": 660027,
+    "confidence": null
+  },
+  {
+    "text": "become",
+    "startMs": 660685,
+    "endMs": 661123,
+    "timestampMs": 660685,
+    "confidence": null
+  },
+  {
+    "text": "distributable",
+    "startMs": 661123,
+    "endMs": 661781,
+    "timestampMs": 661123,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 661781,
+    "endMs": 662439,
+    "timestampMs": 661781,
+    "confidence": null
+  },
+  {
+    "text": "packages",
+    "startMs": 662439,
+    "endMs": 663024,
+    "timestampMs": 662439,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 663024,
+    "endMs": 663536,
+    "timestampMs": 663024,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 663536,
+    "endMs": 663755,
+    "timestampMs": 663536,
+    "confidence": null
+  },
+  {
+    "text": "Prepare",
+    "startMs": 663755,
+    "endMs": 664267,
+    "timestampMs": 663755,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 664267,
+    "endMs": 664486,
+    "timestampMs": 664267,
+    "confidence": null
+  },
+  {
+    "text": "Package",
+    "startMs": 664486,
+    "endMs": 664998,
+    "timestampMs": 664486,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 664998,
+    "endMs": 665583,
+    "timestampMs": 664998,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 665583,
+    "endMs": 665802,
+    "timestampMs": 665583,
+    "confidence": null
+  },
+  {
+    "text": "how",
+    "startMs": 665802,
+    "endMs": 666021,
+    "timestampMs": 665802,
+    "confidence": null
+  },
+  {
+    "text": "CI/CD",
+    "startMs": 666021,
+    "endMs": 666314,
+    "timestampMs": 666021,
+    "confidence": null
+  },
+  {
+    "text": "workflows",
+    "startMs": 666314,
+    "endMs": 666972,
+    "timestampMs": 666314,
+    "confidence": null
+  },
+  {
+    "text": "manage",
+    "startMs": 666972,
+    "endMs": 667410,
+    "timestampMs": 666972,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 667410,
+    "endMs": 667629,
+    "timestampMs": 667410,
+    "confidence": null
+  },
+  {
+    "text": "full",
+    "startMs": 667629,
+    "endMs": 667922,
+    "timestampMs": 667629,
+    "confidence": null
+  },
+  {
+    "text": "release",
+    "startMs": 667922,
+    "endMs": 668434,
+    "timestampMs": 667922,
+    "confidence": null
+  },
+  {
+    "text": "lifecycle.",
+    "startMs": 668434,
+    "endMs": 669320,
+    "timestampMs": 668434,
+    "confidence": null
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "hve-core-course-videos",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "parse": "tsx scripts/parse-and-cache.ts",
+    "audio": "tsx scripts/generate-audio.ts",
+    "captions": "tsx scripts/generate-captions.ts",
+    "render:module": "tsx scripts/render-module.ts",
+    "render:all": "tsx scripts/render-all.ts"
+  },
+  "dependencies": {
+    "@remotion/captions": "^4.0.0",
+    "@remotion/cli": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "@remotion/media-utils": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^18.3.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

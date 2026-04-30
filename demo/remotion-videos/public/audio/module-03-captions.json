@@ -1,0 +1,8920 @@
+[
+  {
+    "text": "AI",
+    "startMs": 0,
+    "endMs": 229,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "coding",
+    "startMs": 229,
+    "endMs": 686,
+    "timestampMs": 229,
+    "confidence": null
+  },
+  {
+    "text": "assistants",
+    "startMs": 686,
+    "endMs": 1371,
+    "timestampMs": 686,
+    "confidence": null
+  },
+  {
+    "text": "optimize",
+    "startMs": 1371,
+    "endMs": 1980,
+    "timestampMs": 1371,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 1980,
+    "endMs": 2209,
+    "timestampMs": 1980,
+    "confidence": null
+  },
+  {
+    "text": "plausible",
+    "startMs": 2209,
+    "endMs": 2894,
+    "timestampMs": 2209,
+    "confidence": null
+  },
+  {
+    "text": "output.",
+    "startMs": 2894,
+    "endMs": 3589,
+    "timestampMs": 2894,
+    "confidence": null
+  },
+  {
+    "text": "When",
+    "startMs": 3589,
+    "endMs": 3894,
+    "timestampMs": 3589,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 3894,
+    "endMs": 4123,
+    "timestampMs": 3894,
+    "confidence": null
+  },
+  {
+    "text": "ask",
+    "startMs": 4123,
+    "endMs": 4351,
+    "timestampMs": 4123,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 4351,
+    "endMs": 4580,
+    "timestampMs": 4351,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 4580,
+    "endMs": 4808,
+    "timestampMs": 4580,
+    "confidence": null
+  },
+  {
+    "text": "feature",
+    "startMs": 4808,
+    "endMs": 5341,
+    "timestampMs": 4808,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 5341,
+    "endMs": 5646,
+    "timestampMs": 5341,
+    "confidence": null
+  },
+  {
+    "text": "spans",
+    "startMs": 5646,
+    "endMs": 6027,
+    "timestampMs": 5646,
+    "confidence": null
+  },
+  {
+    "text": "multiple",
+    "startMs": 6027,
+    "endMs": 6636,
+    "timestampMs": 6027,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 6636,
+    "endMs": 7093,
+    "timestampMs": 6636,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 7093,
+    "endMs": 7322,
+    "timestampMs": 7093,
+    "confidence": null
+  },
+  {
+    "text": "assistant",
+    "startMs": 7322,
+    "endMs": 8007,
+    "timestampMs": 7322,
+    "confidence": null
+  },
+  {
+    "text": "writes",
+    "startMs": 8007,
+    "endMs": 8464,
+    "timestampMs": 8007,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 8464,
+    "endMs": 8769,
+    "timestampMs": 8464,
+    "confidence": null
+  },
+  {
+    "text": "immediately",
+    "startMs": 8769,
+    "endMs": 9454,
+    "timestampMs": 8769,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 9454,
+    "endMs": 9683,
+    "timestampMs": 9454,
+    "confidence": null
+  },
+  {
+    "text": "without",
+    "startMs": 9683,
+    "endMs": 10216,
+    "timestampMs": 9683,
+    "confidence": null
+  },
+  {
+    "text": "verifying",
+    "startMs": 10216,
+    "endMs": 10902,
+    "timestampMs": 10216,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 10902,
+    "endMs": 11206,
+    "timestampMs": 10902,
+    "confidence": null
+  },
+  {
+    "text": "variable",
+    "startMs": 11206,
+    "endMs": 11816,
+    "timestampMs": 11206,
+    "confidence": null
+  },
+  {
+    "text": "names",
+    "startMs": 11816,
+    "endMs": 12197,
+    "timestampMs": 11816,
+    "confidence": null
+  },
+  {
+    "text": "match",
+    "startMs": 12197,
+    "endMs": 12577,
+    "timestampMs": 12197,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 12577,
+    "endMs": 12882,
+    "timestampMs": 12577,
+    "confidence": null
+  },
+  {
+    "text": "conventions,",
+    "startMs": 12882,
+    "endMs": 13644,
+    "timestampMs": 12882,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 13644,
+    "endMs": 13948,
+    "timestampMs": 13644,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 13948,
+    "endMs": 14177,
+    "timestampMs": 13948,
+    "confidence": null
+  },
+  {
+    "text": "APIs",
+    "startMs": 14177,
+    "endMs": 14482,
+    "timestampMs": 14177,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 14482,
+    "endMs": 14710,
+    "timestampMs": 14482,
+    "confidence": null
+  },
+  {
+    "text": "references",
+    "startMs": 14710,
+    "endMs": 15396,
+    "timestampMs": 14710,
+    "confidence": null
+  },
+  {
+    "text": "exist,",
+    "startMs": 15396,
+    "endMs": 15853,
+    "timestampMs": 15396,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 15853,
+    "endMs": 16081,
+    "timestampMs": 15853,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 16081,
+    "endMs": 16386,
+    "timestampMs": 16081,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 16386,
+    "endMs": 16614,
+    "timestampMs": 16386,
+    "confidence": null
+  },
+  {
+    "text": "approach",
+    "startMs": 16614,
+    "endMs": 17224,
+    "timestampMs": 16614,
+    "confidence": null
+  },
+  {
+    "text": "aligns",
+    "startMs": 17224,
+    "endMs": 17681,
+    "timestampMs": 17224,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 17681,
+    "endMs": 17985,
+    "timestampMs": 17681,
+    "confidence": null
+  },
+  {
+    "text": "existing",
+    "startMs": 17985,
+    "endMs": 18595,
+    "timestampMs": 17985,
+    "confidence": null
+  },
+  {
+    "text": "patterns.",
+    "startMs": 18595,
+    "endMs": 19442,
+    "timestampMs": 18595,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 19442,
+    "endMs": 19671,
+    "timestampMs": 19442,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 19671,
+    "endMs": 19899,
+    "timestampMs": 19671,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 19899,
+    "endMs": 20508,
+    "timestampMs": 19899,
+    "confidence": null
+  },
+  {
+    "text": "fixes",
+    "startMs": 20508,
+    "endMs": 20889,
+    "timestampMs": 20508,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 20889,
+    "endMs": 21194,
+    "timestampMs": 20889,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 21194,
+    "endMs": 21422,
+    "timestampMs": 21194,
+    "confidence": null
+  },
+  {
+    "text": "separating",
+    "startMs": 21422,
+    "endMs": 22108,
+    "timestampMs": 21422,
+    "confidence": null
+  },
+  {
+    "text": "AI",
+    "startMs": 22108,
+    "endMs": 22336,
+    "timestampMs": 22108,
+    "confidence": null
+  },
+  {
+    "text": "work",
+    "startMs": 22336,
+    "endMs": 22641,
+    "timestampMs": 22336,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 22641,
+    "endMs": 22946,
+    "timestampMs": 22641,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 22946,
+    "endMs": 23251,
+    "timestampMs": 22946,
+    "confidence": null
+  },
+  {
+    "text": "constrained",
+    "startMs": 23251,
+    "endMs": 23936,
+    "timestampMs": 23251,
+    "confidence": null
+  },
+  {
+    "text": "phases:",
+    "startMs": 23936,
+    "endMs": 24469,
+    "timestampMs": 23936,
+    "confidence": null
+  },
+  {
+    "text": "Research,",
+    "startMs": 24469,
+    "endMs": 25155,
+    "timestampMs": 24469,
+    "confidence": null
+  },
+  {
+    "text": "Plan,",
+    "startMs": 25155,
+    "endMs": 25536,
+    "timestampMs": 25155,
+    "confidence": null
+  },
+  {
+    "text": "Implement,",
+    "startMs": 25536,
+    "endMs": 26297,
+    "timestampMs": 25536,
+    "confidence": null
+  },
+  {
+    "text": "Review.",
+    "startMs": 26297,
+    "endMs": 26992,
+    "timestampMs": 26297,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 26992,
+    "endMs": 27297,
+    "timestampMs": 26992,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 27297,
+    "endMs": 27678,
+    "timestampMs": 27297,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 27678,
+    "endMs": 27906,
+    "timestampMs": 27678,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 27906,
+    "endMs": 28135,
+    "timestampMs": 27906,
+    "confidence": null
+  },
+  {
+    "text": "dedicated",
+    "startMs": 28135,
+    "endMs": 28820,
+    "timestampMs": 28135,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 28820,
+    "endMs": 29201,
+    "timestampMs": 28820,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 29201,
+    "endMs": 29506,
+    "timestampMs": 29201,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 29506,
+    "endMs": 29734,
+    "timestampMs": 29506,
+    "confidence": null
+  },
+  {
+    "text": "structurally",
+    "startMs": 29734,
+    "endMs": 30420,
+    "timestampMs": 29734,
+    "confidence": null
+  },
+  {
+    "text": "prevented",
+    "startMs": 30420,
+    "endMs": 31105,
+    "timestampMs": 30420,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 31105,
+    "endMs": 31410,
+    "timestampMs": 31105,
+    "confidence": null
+  },
+  {
+    "text": "doing",
+    "startMs": 31410,
+    "endMs": 31791,
+    "timestampMs": 31410,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 31791,
+    "endMs": 32019,
+    "timestampMs": 31791,
+    "confidence": null
+  },
+  {
+    "text": "other",
+    "startMs": 32019,
+    "endMs": 32400,
+    "timestampMs": 32019,
+    "confidence": null
+  },
+  {
+    "text": "phases'",
+    "startMs": 32400,
+    "endMs": 32857,
+    "timestampMs": 32400,
+    "confidence": null
+  },
+  {
+    "text": "work.",
+    "startMs": 32857,
+    "endMs": 33400,
+    "timestampMs": 32857,
+    "confidence": null
+  },
+  {
+    "text": "Module",
+    "startMs": 33400,
+    "endMs": 33876,
+    "timestampMs": 33400,
+    "confidence": null
+  },
+  {
+    "text": "3",
+    "startMs": 33876,
+    "endMs": 34113,
+    "timestampMs": 33876,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 34113,
+    "endMs": 34589,
+    "timestampMs": 34113,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 34589,
+    "endMs": 34906,
+    "timestampMs": 34589,
+    "confidence": null
+  },
+  {
+    "text": "things.",
+    "startMs": 34906,
+    "endMs": 35629,
+    "timestampMs": 34906,
+    "confidence": null
+  },
+  {
+    "text": "First,",
+    "startMs": 35629,
+    "endMs": 36105,
+    "timestampMs": 35629,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 36105,
+    "endMs": 36343,
+    "timestampMs": 36105,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 36343,
+    "endMs": 36660,
+    "timestampMs": 36343,
+    "confidence": null
+  },
+  {
+    "text": "phases",
+    "startMs": 36660,
+    "endMs": 37135,
+    "timestampMs": 36660,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 37135,
+    "endMs": 37373,
+    "timestampMs": 37135,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 37373,
+    "endMs": 37611,
+    "timestampMs": 37373,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 37611,
+    "endMs": 38245,
+    "timestampMs": 37611,
+    "confidence": null
+  },
+  {
+    "text": "type",
+    "startMs": 38245,
+    "endMs": 38562,
+    "timestampMs": 38245,
+    "confidence": null
+  },
+  {
+    "text": "transformation",
+    "startMs": 38562,
+    "endMs": 39275,
+    "timestampMs": 38562,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 39275,
+    "endMs": 39592,
+    "timestampMs": 39275,
+    "confidence": null
+  },
+  {
+    "text": "one",
+    "startMs": 39592,
+    "endMs": 39830,
+    "timestampMs": 39592,
+    "confidence": null
+  },
+  {
+    "text": "performs.",
+    "startMs": 39830,
+    "endMs": 40712,
+    "timestampMs": 39830,
+    "confidence": null
+  },
+  {
+    "text": "Second,",
+    "startMs": 40712,
+    "endMs": 41267,
+    "timestampMs": 40712,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 41267,
+    "endMs": 41504,
+    "timestampMs": 41267,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 41504,
+    "endMs": 41901,
+    "timestampMs": 41504,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 41901,
+    "endMs": 42297,
+    "timestampMs": 41901,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 42297,
+    "endMs": 42535,
+    "timestampMs": 42297,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 42535,
+    "endMs": 43248,
+    "timestampMs": 42535,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 43248,
+    "endMs": 43565,
+    "timestampMs": 43248,
+    "confidence": null
+  },
+  {
+    "text": "define",
+    "startMs": 43565,
+    "endMs": 44041,
+    "timestampMs": 43565,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 44041,
+    "endMs": 44358,
+    "timestampMs": 44041,
+    "confidence": null
+  },
+  {
+    "text": "phase's",
+    "startMs": 44358,
+    "endMs": 44833,
+    "timestampMs": 44358,
+    "confidence": null
+  },
+  {
+    "text": "behavior.",
+    "startMs": 44833,
+    "endMs": 45715,
+    "timestampMs": 44833,
+    "confidence": null
+  },
+  {
+    "text": "Third,",
+    "startMs": 45715,
+    "endMs": 46191,
+    "timestampMs": 45715,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 46191,
+    "endMs": 46428,
+    "timestampMs": 46191,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 46428,
+    "endMs": 47062,
+    "timestampMs": 46428,
+    "confidence": null
+  },
+  {
+    "text": "handoff",
+    "startMs": 47062,
+    "endMs": 47617,
+    "timestampMs": 47062,
+    "confidence": null
+  },
+  {
+    "text": "contracts",
+    "startMs": 47617,
+    "endMs": 48331,
+    "timestampMs": 47617,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 48331,
+    "endMs": 48568,
+    "timestampMs": 48331,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 48568,
+    "endMs": 48806,
+    "timestampMs": 48568,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 48806,
+    "endMs": 49202,
+    "timestampMs": 48806,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 49202,
+    "endMs": 49519,
+    "timestampMs": 49202,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 49519,
+    "endMs": 49916,
+    "timestampMs": 49519,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 49916,
+    "endMs": 50550,
+    "timestampMs": 49916,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 50550,
+    "endMs": 50788,
+    "timestampMs": 50550,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 50788,
+    "endMs": 51025,
+    "timestampMs": 50788,
+    "confidence": null
+  },
+  {
+    "text": "next",
+    "startMs": 51025,
+    "endMs": 51342,
+    "timestampMs": 51025,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 51342,
+    "endMs": 51739,
+    "timestampMs": 51342,
+    "confidence": null
+  },
+  {
+    "text": "consumes.",
+    "startMs": 51739,
+    "endMs": 52620,
+    "timestampMs": 51739,
+    "confidence": null
+  },
+  {
+    "text": "Fourth,",
+    "startMs": 52620,
+    "endMs": 53175,
+    "timestampMs": 52620,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 53175,
+    "endMs": 53413,
+    "timestampMs": 53175,
+    "confidence": null
+  },
+  {
+    "text": "decision",
+    "startMs": 53413,
+    "endMs": 54047,
+    "timestampMs": 53413,
+    "confidence": null
+  },
+  {
+    "text": "framework",
+    "startMs": 54047,
+    "endMs": 54760,
+    "timestampMs": 54047,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 54760,
+    "endMs": 54998,
+    "timestampMs": 54760,
+    "confidence": null
+  },
+  {
+    "text": "choosing",
+    "startMs": 54998,
+    "endMs": 55632,
+    "timestampMs": 54998,
+    "confidence": null
+  },
+  {
+    "text": "between",
+    "startMs": 55632,
+    "endMs": 56187,
+    "timestampMs": 55632,
+    "confidence": null
+  },
+  {
+    "text": "full",
+    "startMs": 56187,
+    "endMs": 56504,
+    "timestampMs": 56187,
+    "confidence": null
+  },
+  {
+    "text": "RPI,",
+    "startMs": 56504,
+    "endMs": 56821,
+    "timestampMs": 56504,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 56821,
+    "endMs": 57535,
+    "timestampMs": 56821,
+    "confidence": null
+  },
+  {
+    "text": "agents,",
+    "startMs": 57535,
+    "endMs": 58089,
+    "timestampMs": 57535,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 58089,
+    "endMs": 58327,
+    "timestampMs": 58089,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 58327,
+    "endMs": 58565,
+    "timestampMs": 58327,
+    "confidence": null
+  },
+  {
+    "text": "`rpi-agent`",
+    "startMs": 58565,
+    "endMs": 59199,
+    "timestampMs": 58565,
+    "confidence": null
+  },
+  {
+    "text": "orchestrator.",
+    "startMs": 59199,
+    "endMs": 60160,
+    "timestampMs": 59199,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 60160,
+    "endMs": 60183,
+    "timestampMs": 60160,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 60183,
+    "endMs": 60205,
+    "timestampMs": 60183,
+    "confidence": null
+  },
+  {
+    "text": "documentation",
+    "startMs": 60205,
+    "endMs": 60273,
+    "timestampMs": 60205,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 60273,
+    "endMs": 60295,
+    "timestampMs": 60273,
+    "confidence": null
+  },
+  {
+    "text": "`docs/rpi/README.md`",
+    "startMs": 60295,
+    "endMs": 60363,
+    "timestampMs": 60295,
+    "confidence": null
+  },
+  {
+    "text": "defines",
+    "startMs": 60363,
+    "endMs": 60415,
+    "timestampMs": 60363,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 60415,
+    "endMs": 60438,
+    "timestampMs": 60415,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 60438,
+    "endMs": 60498,
+    "timestampMs": 60438,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 60498,
+    "endMs": 60520,
+    "timestampMs": 60498,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 60520,
+    "endMs": 60543,
+    "timestampMs": 60520,
+    "confidence": null
+  },
+  {
+    "text": "type",
+    "startMs": 60543,
+    "endMs": 60573,
+    "timestampMs": 60543,
+    "confidence": null
+  },
+  {
+    "text": "transformation",
+    "startMs": 60573,
+    "endMs": 60640,
+    "timestampMs": 60573,
+    "confidence": null
+  },
+  {
+    "text": "pipeline:",
+    "startMs": 60640,
+    "endMs": 60708,
+    "timestampMs": 60640,
+    "confidence": null
+  },
+  {
+    "text": ">",
+    "startMs": 60708,
+    "endMs": 60730,
+    "timestampMs": 60708,
+    "confidence": null
+  },
+  {
+    "text": "Uncertainty",
+    "startMs": 60730,
+    "endMs": 60798,
+    "timestampMs": 60730,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 60798,
+    "endMs": 60820,
+    "timestampMs": 60798,
+    "confidence": null
+  },
+  {
+    "text": "Knowledge",
+    "startMs": 60820,
+    "endMs": 60888,
+    "timestampMs": 60820,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 60888,
+    "endMs": 60910,
+    "timestampMs": 60888,
+    "confidence": null
+  },
+  {
+    "text": "Strategy",
+    "startMs": 60910,
+    "endMs": 60970,
+    "timestampMs": 60910,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 60970,
+    "endMs": 60993,
+    "timestampMs": 60970,
+    "confidence": null
+  },
+  {
+    "text": "Working",
+    "startMs": 60993,
+    "endMs": 61045,
+    "timestampMs": 60993,
+    "confidence": null
+  },
+  {
+    "text": "Code",
+    "startMs": 61045,
+    "endMs": 61075,
+    "timestampMs": 61045,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 61075,
+    "endMs": 61098,
+    "timestampMs": 61075,
+    "confidence": null
+  },
+  {
+    "text": "Validated",
+    "startMs": 61098,
+    "endMs": 61165,
+    "timestampMs": 61098,
+    "confidence": null
+  },
+  {
+    "text": "Code",
+    "startMs": 61165,
+    "endMs": 61195,
+    "timestampMs": 61165,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 61195,
+    "endMs": 61225,
+    "timestampMs": 61195,
+    "confidence": null
+  },
+  {
+    "text": "arrow",
+    "startMs": 61225,
+    "endMs": 61263,
+    "timestampMs": 61225,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 61263,
+    "endMs": 61285,
+    "timestampMs": 61263,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 61285,
+    "endMs": 61308,
+    "timestampMs": 61285,
+    "confidence": null
+  },
+  {
+    "text": "phase.",
+    "startMs": 61308,
+    "endMs": 61369,
+    "timestampMs": 61308,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 61369,
+    "endMs": 61399,
+    "timestampMs": 61369,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 61399,
+    "endMs": 61436,
+    "timestampMs": 61399,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 61436,
+    "endMs": 61459,
+    "timestampMs": 61436,
+    "confidence": null
+  },
+  {
+    "text": "handled",
+    "startMs": 61459,
+    "endMs": 61511,
+    "timestampMs": 61459,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 61511,
+    "endMs": 61534,
+    "timestampMs": 61511,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 61534,
+    "endMs": 61556,
+    "timestampMs": 61534,
+    "confidence": null
+  },
+  {
+    "text": "different",
+    "startMs": 61556,
+    "endMs": 61624,
+    "timestampMs": 61556,
+    "confidence": null
+  },
+  {
+    "text": "custom",
+    "startMs": 61624,
+    "endMs": 61669,
+    "timestampMs": 61624,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 61669,
+    "endMs": 61706,
+    "timestampMs": 61669,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 61706,
+    "endMs": 61736,
+    "timestampMs": 61706,
+    "confidence": null
+  },
+  {
+    "text": "different",
+    "startMs": 61736,
+    "endMs": 61804,
+    "timestampMs": 61736,
+    "confidence": null
+  },
+  {
+    "text": "tools,",
+    "startMs": 61804,
+    "endMs": 61849,
+    "timestampMs": 61804,
+    "confidence": null
+  },
+  {
+    "text": "different",
+    "startMs": 61849,
+    "endMs": 61916,
+    "timestampMs": 61849,
+    "confidence": null
+  },
+  {
+    "text": "constraints,",
+    "startMs": 61916,
+    "endMs": 61991,
+    "timestampMs": 61916,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 61991,
+    "endMs": 62014,
+    "timestampMs": 61991,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 62014,
+    "endMs": 62036,
+    "timestampMs": 62014,
+    "confidence": null
+  },
+  {
+    "text": "fresh",
+    "startMs": 62036,
+    "endMs": 62074,
+    "timestampMs": 62036,
+    "confidence": null
+  },
+  {
+    "text": "context",
+    "startMs": 62074,
+    "endMs": 62126,
+    "timestampMs": 62074,
+    "confidence": null
+  },
+  {
+    "text": "window.",
+    "startMs": 62126,
+    "endMs": 62195,
+    "timestampMs": 62126,
+    "confidence": null
+  },
+  {
+    "text": "**Research**",
+    "startMs": 62195,
+    "endMs": 62255,
+    "timestampMs": 62195,
+    "confidence": null
+  },
+  {
+    "text": "transforms",
+    "startMs": 62255,
+    "endMs": 62322,
+    "timestampMs": 62255,
+    "confidence": null
+  },
+  {
+    "text": "uncertainty",
+    "startMs": 62322,
+    "endMs": 62390,
+    "timestampMs": 62322,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 62390,
+    "endMs": 62420,
+    "timestampMs": 62390,
+    "confidence": null
+  },
+  {
+    "text": "knowledge.",
+    "startMs": 62420,
+    "endMs": 62511,
+    "timestampMs": 62420,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 62511,
+    "endMs": 62533,
+    "timestampMs": 62511,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 62533,
+    "endMs": 62563,
+    "timestampMs": 62533,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 62563,
+    "endMs": 62631,
+    "timestampMs": 62563,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 62631,
+    "endMs": 62668,
+    "timestampMs": 62631,
+    "confidence": null
+  },
+  {
+    "text": "investigates",
+    "startMs": 62668,
+    "endMs": 62736,
+    "timestampMs": 62668,
+    "confidence": null
+  },
+  {
+    "text": "your",
+    "startMs": 62736,
+    "endMs": 62766,
+    "timestampMs": 62736,
+    "confidence": null
+  },
+  {
+    "text": "codebase,",
+    "startMs": 62766,
+    "endMs": 62833,
+    "timestampMs": 62766,
+    "confidence": null
+  },
+  {
+    "text": "external",
+    "startMs": 62833,
+    "endMs": 62893,
+    "timestampMs": 62833,
+    "confidence": null
+  },
+  {
+    "text": "APIs,",
+    "startMs": 62893,
+    "endMs": 62931,
+    "timestampMs": 62893,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 62931,
+    "endMs": 62953,
+    "timestampMs": 62931,
+    "confidence": null
+  },
+  {
+    "text": "documentation",
+    "startMs": 62953,
+    "endMs": 63021,
+    "timestampMs": 62953,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 63021,
+    "endMs": 63043,
+    "timestampMs": 63021,
+    "confidence": null
+  },
+  {
+    "text": "produce",
+    "startMs": 63043,
+    "endMs": 63096,
+    "timestampMs": 63043,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 63096,
+    "endMs": 63118,
+    "timestampMs": 63096,
+    "confidence": null
+  },
+  {
+    "text": "evidence-backed",
+    "startMs": 63118,
+    "endMs": 63186,
+    "timestampMs": 63118,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 63186,
+    "endMs": 63246,
+    "timestampMs": 63186,
+    "confidence": null
+  },
+  {
+    "text": "document.",
+    "startMs": 63246,
+    "endMs": 63329,
+    "timestampMs": 63246,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 63329,
+    "endMs": 63352,
+    "timestampMs": 63329,
+    "confidence": null
+  },
+  {
+    "text": "searches",
+    "startMs": 63352,
+    "endMs": 63412,
+    "timestampMs": 63352,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 63412,
+    "endMs": 63434,
+    "timestampMs": 63412,
+    "confidence": null
+  },
+  {
+    "text": "existing",
+    "startMs": 63434,
+    "endMs": 63494,
+    "timestampMs": 63434,
+    "confidence": null
+  },
+  {
+    "text": "patterns",
+    "startMs": 63494,
+    "endMs": 63554,
+    "timestampMs": 63494,
+    "confidence": null
+  },
+  {
+    "text": "instead",
+    "startMs": 63554,
+    "endMs": 63607,
+    "timestampMs": 63554,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 63607,
+    "endMs": 63629,
+    "timestampMs": 63607,
+    "confidence": null
+  },
+  {
+    "text": "inventing",
+    "startMs": 63629,
+    "endMs": 63697,
+    "timestampMs": 63629,
+    "confidence": null
+  },
+  {
+    "text": "new",
+    "startMs": 63697,
+    "endMs": 63719,
+    "timestampMs": 63697,
+    "confidence": null
+  },
+  {
+    "text": "ones,",
+    "startMs": 63719,
+    "endMs": 63757,
+    "timestampMs": 63719,
+    "confidence": null
+  },
+  {
+    "text": "cites",
+    "startMs": 63757,
+    "endMs": 63794,
+    "timestampMs": 63757,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 63794,
+    "endMs": 63854,
+    "timestampMs": 63794,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 63854,
+    "endMs": 63892,
+    "timestampMs": 63854,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 63892,
+    "endMs": 63914,
+    "timestampMs": 63892,
+    "confidence": null
+  },
+  {
+    "text": "line",
+    "startMs": 63914,
+    "endMs": 63944,
+    "timestampMs": 63914,
+    "confidence": null
+  },
+  {
+    "text": "numbers",
+    "startMs": 63944,
+    "endMs": 63997,
+    "timestampMs": 63944,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 63997,
+    "endMs": 64019,
+    "timestampMs": 63997,
+    "confidence": null
+  },
+  {
+    "text": "evidence,",
+    "startMs": 64019,
+    "endMs": 64087,
+    "timestampMs": 64019,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 64087,
+    "endMs": 64109,
+    "timestampMs": 64087,
+    "confidence": null
+  },
+  {
+    "text": "questions",
+    "startMs": 64109,
+    "endMs": 64177,
+    "timestampMs": 64109,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 64177,
+    "endMs": 64199,
+    "timestampMs": 64177,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 64199,
+    "endMs": 64222,
+    "timestampMs": 64199,
+    "confidence": null
+  },
+  {
+    "text": "assumptions.",
+    "startMs": 64222,
+    "endMs": 64313,
+    "timestampMs": 64222,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 64313,
+    "endMs": 64335,
+    "timestampMs": 64313,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 64335,
+    "endMs": 64380,
+    "timestampMs": 64335,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 64380,
+    "endMs": 64403,
+    "timestampMs": 64380,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 64403,
+    "endMs": 64425,
+    "timestampMs": 64403,
+    "confidence": null
+  },
+  {
+    "text": "markdown",
+    "startMs": 64425,
+    "endMs": 64485,
+    "timestampMs": 64425,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 64485,
+    "endMs": 64515,
+    "timestampMs": 64485,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 64515,
+    "endMs": 64538,
+    "timestampMs": 64515,
+    "confidence": null
+  },
+  {
+    "text": "`.copilot-tracking/research/{{YYYY-MM-DD}}-<topic>-research.md`",
+    "startMs": 64538,
+    "endMs": 64605,
+    "timestampMs": 64538,
+    "confidence": null
+  },
+  {
+    "text": "containing",
+    "startMs": 64605,
+    "endMs": 64673,
+    "timestampMs": 64605,
+    "confidence": null
+  },
+  {
+    "text": "scope",
+    "startMs": 64673,
+    "endMs": 64710,
+    "timestampMs": 64673,
+    "confidence": null
+  },
+  {
+    "text": "definition,",
+    "startMs": 64710,
+    "endMs": 64785,
+    "timestampMs": 64710,
+    "confidence": null
+  },
+  {
+    "text": "evidence",
+    "startMs": 64785,
+    "endMs": 64845,
+    "timestampMs": 64785,
+    "confidence": null
+  },
+  {
+    "text": "logs",
+    "startMs": 64845,
+    "endMs": 64875,
+    "timestampMs": 64845,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 64875,
+    "endMs": 64905,
+    "timestampMs": 64875,
+    "confidence": null
+  },
+  {
+    "text": "sources,",
+    "startMs": 64905,
+    "endMs": 64965,
+    "timestampMs": 64905,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 64965,
+    "endMs": 64995,
+    "timestampMs": 64965,
+    "confidence": null
+  },
+  {
+    "text": "examples",
+    "startMs": 64995,
+    "endMs": 65055,
+    "timestampMs": 64995,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 65055,
+    "endMs": 65085,
+    "timestampMs": 65055,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 65085,
+    "endMs": 65108,
+    "timestampMs": 65085,
+    "confidence": null
+  },
+  {
+    "text": "codebase,",
+    "startMs": 65108,
+    "endMs": 65175,
+    "timestampMs": 65108,
+    "confidence": null
+  },
+  {
+    "text": "external",
+    "startMs": 65175,
+    "endMs": 65235,
+    "timestampMs": 65175,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 65235,
+    "endMs": 65295,
+    "timestampMs": 65235,
+    "confidence": null
+  },
+  {
+    "text": "findings,",
+    "startMs": 65295,
+    "endMs": 65363,
+    "timestampMs": 65295,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 65363,
+    "endMs": 65385,
+    "timestampMs": 65363,
+    "confidence": null
+  },
+  {
+    "text": "one",
+    "startMs": 65385,
+    "endMs": 65408,
+    "timestampMs": 65385,
+    "confidence": null
+  },
+  {
+    "text": "recommended",
+    "startMs": 65408,
+    "endMs": 65475,
+    "timestampMs": 65408,
+    "confidence": null
+  },
+  {
+    "text": "approach",
+    "startMs": 65475,
+    "endMs": 65535,
+    "timestampMs": 65475,
+    "confidence": null
+  },
+  {
+    "text": "per",
+    "startMs": 65535,
+    "endMs": 65558,
+    "timestampMs": 65535,
+    "confidence": null
+  },
+  {
+    "text": "technical",
+    "startMs": 65558,
+    "endMs": 65625,
+    "timestampMs": 65558,
+    "confidence": null
+  },
+  {
+    "text": "scenario.",
+    "startMs": 65625,
+    "endMs": 65709,
+    "timestampMs": 65625,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 65709,
+    "endMs": 65731,
+    "timestampMs": 65709,
+    "confidence": null
+  },
+  {
+    "text": "constraint",
+    "startMs": 65731,
+    "endMs": 65799,
+    "timestampMs": 65731,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 65799,
+    "endMs": 65821,
+    "timestampMs": 65799,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 65821,
+    "endMs": 65851,
+    "timestampMs": 65821,
+    "confidence": null
+  },
+  {
+    "text": "makes",
+    "startMs": 65851,
+    "endMs": 65889,
+    "timestampMs": 65851,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 65889,
+    "endMs": 65919,
+    "timestampMs": 65889,
+    "confidence": null
+  },
+  {
+    "text": "work.",
+    "startMs": 65919,
+    "endMs": 65972,
+    "timestampMs": 65919,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 65972,
+    "endMs": 66002,
+    "timestampMs": 65972,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 66002,
+    "endMs": 66070,
+    "timestampMs": 66002,
+    "confidence": null
+  },
+  {
+    "text": "knows",
+    "startMs": 66070,
+    "endMs": 66107,
+    "timestampMs": 66070,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 66107,
+    "endMs": 66130,
+    "timestampMs": 66107,
+    "confidence": null
+  },
+  {
+    "text": "will",
+    "startMs": 66130,
+    "endMs": 66160,
+    "timestampMs": 66130,
+    "confidence": null
+  },
+  {
+    "text": "never",
+    "startMs": 66160,
+    "endMs": 66197,
+    "timestampMs": 66160,
+    "confidence": null
+  },
+  {
+    "text": "write",
+    "startMs": 66197,
+    "endMs": 66235,
+    "timestampMs": 66197,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 66235,
+    "endMs": 66257,
+    "timestampMs": 66235,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 66257,
+    "endMs": 66325,
+    "timestampMs": 66257,
+    "confidence": null
+  },
+  {
+    "text": "code.",
+    "startMs": 66325,
+    "endMs": 66378,
+    "timestampMs": 66325,
+    "confidence": null
+  },
+  {
+    "text": "As",
+    "startMs": 66378,
+    "endMs": 66401,
+    "timestampMs": 66378,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 66401,
+    "endMs": 66423,
+    "timestampMs": 66401,
+    "confidence": null
+  },
+  {
+    "text": "documentation",
+    "startMs": 66423,
+    "endMs": 66491,
+    "timestampMs": 66423,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 66491,
+    "endMs": 66513,
+    "timestampMs": 66491,
+    "confidence": null
+  },
+  {
+    "text": "`docs/rpi/why-rpi.md`",
+    "startMs": 66513,
+    "endMs": 66581,
+    "timestampMs": 66513,
+    "confidence": null
+  },
+  {
+    "text": "explains:",
+    "startMs": 66581,
+    "endMs": 66648,
+    "timestampMs": 66581,
+    "confidence": null
+  },
+  {
+    "text": "\"When",
+    "startMs": 66648,
+    "endMs": 66678,
+    "timestampMs": 66648,
+    "confidence": null
+  },
+  {
+    "text": "AI",
+    "startMs": 66678,
+    "endMs": 66701,
+    "timestampMs": 66678,
+    "confidence": null
+  },
+  {
+    "text": "knows",
+    "startMs": 66701,
+    "endMs": 66738,
+    "timestampMs": 66701,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 66738,
+    "endMs": 66761,
+    "timestampMs": 66738,
+    "confidence": null
+  },
+  {
+    "text": "cannot",
+    "startMs": 66761,
+    "endMs": 66806,
+    "timestampMs": 66761,
+    "confidence": null
+  },
+  {
+    "text": "implement",
+    "startMs": 66806,
+    "endMs": 66873,
+    "timestampMs": 66806,
+    "confidence": null
+  },
+  {
+    "text": "during",
+    "startMs": 66873,
+    "endMs": 66918,
+    "timestampMs": 66873,
+    "confidence": null
+  },
+  {
+    "text": "research,",
+    "startMs": 66918,
+    "endMs": 66986,
+    "timestampMs": 66918,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 66986,
+    "endMs": 67008,
+    "timestampMs": 66986,
+    "confidence": null
+  },
+  {
+    "text": "stops",
+    "startMs": 67008,
+    "endMs": 67046,
+    "timestampMs": 67008,
+    "confidence": null
+  },
+  {
+    "text": "optimizing",
+    "startMs": 67046,
+    "endMs": 67113,
+    "timestampMs": 67046,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 67113,
+    "endMs": 67136,
+    "timestampMs": 67113,
+    "confidence": null
+  },
+  {
+    "text": "plausible",
+    "startMs": 67136,
+    "endMs": 67203,
+    "timestampMs": 67136,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 67203,
+    "endMs": 67233,
+    "timestampMs": 67203,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 67233,
+    "endMs": 67256,
+    "timestampMs": 67233,
+    "confidence": null
+  },
+  {
+    "text": "starts",
+    "startMs": 67256,
+    "endMs": 67301,
+    "timestampMs": 67256,
+    "confidence": null
+  },
+  {
+    "text": "optimizing",
+    "startMs": 67301,
+    "endMs": 67368,
+    "timestampMs": 67301,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 67368,
+    "endMs": 67391,
+    "timestampMs": 67368,
+    "confidence": null
+  },
+  {
+    "text": "verified",
+    "startMs": 67391,
+    "endMs": 67451,
+    "timestampMs": 67391,
+    "confidence": null
+  },
+  {
+    "text": "truth.\"",
+    "startMs": 67451,
+    "endMs": 67488,
+    "timestampMs": 67451,
+    "confidence": null
+  },
+  {
+    "text": "Without",
+    "startMs": 67488,
+    "endMs": 67541,
+    "timestampMs": 67488,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 67541,
+    "endMs": 67571,
+    "timestampMs": 67541,
+    "confidence": null
+  },
+  {
+    "text": "constraint,",
+    "startMs": 67571,
+    "endMs": 67646,
+    "timestampMs": 67571,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 67646,
+    "endMs": 67668,
+    "timestampMs": 67646,
+    "confidence": null
+  },
+  {
+    "text": "model",
+    "startMs": 67668,
+    "endMs": 67706,
+    "timestampMs": 67668,
+    "confidence": null
+  },
+  {
+    "text": "tries",
+    "startMs": 67706,
+    "endMs": 67743,
+    "timestampMs": 67706,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 67743,
+    "endMs": 67766,
+    "timestampMs": 67743,
+    "confidence": null
+  },
+  {
+    "text": "be",
+    "startMs": 67766,
+    "endMs": 67788,
+    "timestampMs": 67766,
+    "confidence": null
+  },
+  {
+    "text": "helpful",
+    "startMs": 67788,
+    "endMs": 67841,
+    "timestampMs": 67788,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 67841,
+    "endMs": 67863,
+    "timestampMs": 67841,
+    "confidence": null
+  },
+  {
+    "text": "jumping",
+    "startMs": 67863,
+    "endMs": 67916,
+    "timestampMs": 67863,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 67916,
+    "endMs": 67938,
+    "timestampMs": 67916,
+    "confidence": null
+  },
+  {
+    "text": "implementation.",
+    "startMs": 67938,
+    "endMs": 68029,
+    "timestampMs": 67938,
+    "confidence": null
+  },
+  {
+    "text": "With",
+    "startMs": 68029,
+    "endMs": 68059,
+    "timestampMs": 68029,
+    "confidence": null
+  },
+  {
+    "text": "it,",
+    "startMs": 68059,
+    "endMs": 68089,
+    "timestampMs": 68059,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 68089,
+    "endMs": 68112,
+    "timestampMs": 68089,
+    "confidence": null
+  },
+  {
+    "text": "model",
+    "startMs": 68112,
+    "endMs": 68149,
+    "timestampMs": 68112,
+    "confidence": null
+  },
+  {
+    "text": "invests",
+    "startMs": 68149,
+    "endMs": 68202,
+    "timestampMs": 68149,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 68202,
+    "endMs": 68224,
+    "timestampMs": 68202,
+    "confidence": null
+  },
+  {
+    "text": "entire",
+    "startMs": 68224,
+    "endMs": 68269,
+    "timestampMs": 68224,
+    "confidence": null
+  },
+  {
+    "text": "token",
+    "startMs": 68269,
+    "endMs": 68307,
+    "timestampMs": 68269,
+    "confidence": null
+  },
+  {
+    "text": "budget",
+    "startMs": 68307,
+    "endMs": 68352,
+    "timestampMs": 68307,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 68352,
+    "endMs": 68374,
+    "timestampMs": 68352,
+    "confidence": null
+  },
+  {
+    "text": "investigation.",
+    "startMs": 68374,
+    "endMs": 68465,
+    "timestampMs": 68374,
+    "confidence": null
+  },
+  {
+    "text": "**Plan**",
+    "startMs": 68465,
+    "endMs": 68495,
+    "timestampMs": 68465,
+    "confidence": null
+  },
+  {
+    "text": "transforms",
+    "startMs": 68495,
+    "endMs": 68563,
+    "timestampMs": 68495,
+    "confidence": null
+  },
+  {
+    "text": "knowledge",
+    "startMs": 68563,
+    "endMs": 68630,
+    "timestampMs": 68563,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 68630,
+    "endMs": 68660,
+    "timestampMs": 68630,
+    "confidence": null
+  },
+  {
+    "text": "strategy.",
+    "startMs": 68660,
+    "endMs": 68744,
+    "timestampMs": 68660,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 68744,
+    "endMs": 68766,
+    "timestampMs": 68744,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 68766,
+    "endMs": 68796,
+    "timestampMs": 68766,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 68796,
+    "endMs": 68849,
+    "timestampMs": 68796,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 68849,
+    "endMs": 68886,
+    "timestampMs": 68849,
+    "confidence": null
+  },
+  {
+    "text": "reads",
+    "startMs": 68886,
+    "endMs": 68924,
+    "timestampMs": 68886,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 68924,
+    "endMs": 68946,
+    "timestampMs": 68924,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 68946,
+    "endMs": 69006,
+    "timestampMs": 68946,
+    "confidence": null
+  },
+  {
+    "text": "document",
+    "startMs": 69006,
+    "endMs": 69066,
+    "timestampMs": 69006,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 69066,
+    "endMs": 69089,
+    "timestampMs": 69066,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 69089,
+    "endMs": 69149,
+    "timestampMs": 69089,
+    "confidence": null
+  },
+  {
+    "text": "two",
+    "startMs": 69149,
+    "endMs": 69171,
+    "timestampMs": 69149,
+    "confidence": null
+  },
+  {
+    "text": "coordinated",
+    "startMs": 69171,
+    "endMs": 69239,
+    "timestampMs": 69171,
+    "confidence": null
+  },
+  {
+    "text": "files:",
+    "startMs": 69239,
+    "endMs": 69284,
+    "timestampMs": 69239,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 69284,
+    "endMs": 69306,
+    "timestampMs": 69284,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 69306,
+    "endMs": 69336,
+    "timestampMs": 69306,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 69336,
+    "endMs": 69366,
+    "timestampMs": 69336,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 69366,
+    "endMs": 69389,
+    "timestampMs": 69366,
+    "confidence": null
+  },
+  {
+    "text": "`.copilot-tracking/plans/{{YYYY-MM-DD}}-<topic>-plan.instructions.md`",
+    "startMs": 69389,
+    "endMs": 69456,
+    "timestampMs": 69389,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 69456,
+    "endMs": 69486,
+    "timestampMs": 69456,
+    "confidence": null
+  },
+  {
+    "text": "phased",
+    "startMs": 69486,
+    "endMs": 69531,
+    "timestampMs": 69486,
+    "confidence": null
+  },
+  {
+    "text": "checklists",
+    "startMs": 69531,
+    "endMs": 69599,
+    "timestampMs": 69531,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 69599,
+    "endMs": 69621,
+    "timestampMs": 69599,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 69621,
+    "endMs": 69644,
+    "timestampMs": 69621,
+    "confidence": null
+  },
+  {
+    "text": "details",
+    "startMs": 69644,
+    "endMs": 69696,
+    "timestampMs": 69644,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 69696,
+    "endMs": 69726,
+    "timestampMs": 69696,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 69726,
+    "endMs": 69749,
+    "timestampMs": 69726,
+    "confidence": null
+  },
+  {
+    "text": "`.copilot-tracking/details/{{YYYY-MM-DD}}-<topic>-details.md`",
+    "startMs": 69749,
+    "endMs": 69816,
+    "timestampMs": 69749,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 69816,
+    "endMs": 69846,
+    "timestampMs": 69816,
+    "confidence": null
+  },
+  {
+    "text": "specifications",
+    "startMs": 69846,
+    "endMs": 69914,
+    "timestampMs": 69846,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 69914,
+    "endMs": 69936,
+    "timestampMs": 69914,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 69936,
+    "endMs": 69966,
+    "timestampMs": 69936,
+    "confidence": null
+  },
+  {
+    "text": "task.",
+    "startMs": 69966,
+    "endMs": 70020,
+    "timestampMs": 69966,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 70020,
+    "endMs": 70042,
+    "timestampMs": 70020,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 70042,
+    "endMs": 70072,
+    "timestampMs": 70042,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 70072,
+    "endMs": 70102,
+    "timestampMs": 70072,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 70102,
+    "endMs": 70162,
+    "timestampMs": 70102,
+    "confidence": null
+  },
+  {
+    "text": "checkboxes",
+    "startMs": 70162,
+    "endMs": 70230,
+    "timestampMs": 70162,
+    "confidence": null
+  },
+  {
+    "text": "organized",
+    "startMs": 70230,
+    "endMs": 70297,
+    "timestampMs": 70230,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 70297,
+    "endMs": 70327,
+    "timestampMs": 70297,
+    "confidence": null
+  },
+  {
+    "text": "phases",
+    "startMs": 70327,
+    "endMs": 70372,
+    "timestampMs": 70327,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 70372,
+    "endMs": 70402,
+    "timestampMs": 70372,
+    "confidence": null
+  },
+  {
+    "text": "cross-references",
+    "startMs": 70402,
+    "endMs": 70470,
+    "timestampMs": 70402,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 70470,
+    "endMs": 70492,
+    "timestampMs": 70470,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 70492,
+    "endMs": 70515,
+    "timestampMs": 70492,
+    "confidence": null
+  },
+  {
+    "text": "details",
+    "startMs": 70515,
+    "endMs": 70567,
+    "timestampMs": 70515,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 70567,
+    "endMs": 70597,
+    "timestampMs": 70567,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 70597,
+    "endMs": 70635,
+    "timestampMs": 70597,
+    "confidence": null
+  },
+  {
+    "text": "line",
+    "startMs": 70635,
+    "endMs": 70665,
+    "timestampMs": 70635,
+    "confidence": null
+  },
+  {
+    "text": "numbers.",
+    "startMs": 70665,
+    "endMs": 70741,
+    "timestampMs": 70665,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 70741,
+    "endMs": 70771,
+    "timestampMs": 70741,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 70771,
+    "endMs": 70823,
+    "timestampMs": 70771,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 70823,
+    "endMs": 70891,
+    "timestampMs": 70823,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 70891,
+    "endMs": 70921,
+    "timestampMs": 70891,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 70921,
+    "endMs": 70981,
+    "timestampMs": 70921,
+    "confidence": null
+  },
+  {
+    "text": "exists",
+    "startMs": 70981,
+    "endMs": 71026,
+    "timestampMs": 70981,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 71026,
+    "endMs": 71071,
+    "timestampMs": 71026,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 71071,
+    "endMs": 71093,
+    "timestampMs": 71071,
+    "confidence": null
+  },
+  {
+    "text": "proceeds",
+    "startMs": 71093,
+    "endMs": 71153,
+    "timestampMs": 71093,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 71153,
+    "endMs": 71176,
+    "timestampMs": 71153,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 71176,
+    "endMs": 71206,
+    "timestampMs": 71176,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 71206,
+    "endMs": 71228,
+    "timestampMs": 71206,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 71228,
+    "endMs": 71251,
+    "timestampMs": 71228,
+    "confidence": null
+  },
+  {
+    "text": "mandatory",
+    "startMs": 71251,
+    "endMs": 71318,
+    "timestampMs": 71251,
+    "confidence": null
+  },
+  {
+    "text": "first",
+    "startMs": 71318,
+    "endMs": 71356,
+    "timestampMs": 71318,
+    "confidence": null
+  },
+  {
+    "text": "step,",
+    "startMs": 71356,
+    "endMs": 71393,
+    "timestampMs": 71356,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 71393,
+    "endMs": 71416,
+    "timestampMs": 71393,
+    "confidence": null
+  },
+  {
+    "text": "optional.",
+    "startMs": 71416,
+    "endMs": 71499,
+    "timestampMs": 71416,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 71499,
+    "endMs": 71522,
+    "timestampMs": 71499,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 71522,
+    "endMs": 71552,
+    "timestampMs": 71522,
+    "confidence": null
+  },
+  {
+    "text": "becomes",
+    "startMs": 71552,
+    "endMs": 71604,
+    "timestampMs": 71552,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 71604,
+    "endMs": 71627,
+    "timestampMs": 71604,
+    "confidence": null
+  },
+  {
+    "text": "contract.",
+    "startMs": 71627,
+    "endMs": 71710,
+    "timestampMs": 71627,
+    "confidence": null
+  },
+  {
+    "text": "Because",
+    "startMs": 71710,
+    "endMs": 71763,
+    "timestampMs": 71710,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 71763,
+    "endMs": 71793,
+    "timestampMs": 71763,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 71793,
+    "endMs": 71845,
+    "timestampMs": 71793,
+    "confidence": null
+  },
+  {
+    "text": "cannot",
+    "startMs": 71845,
+    "endMs": 71890,
+    "timestampMs": 71845,
+    "confidence": null
+  },
+  {
+    "text": "implement,",
+    "startMs": 71890,
+    "endMs": 71965,
+    "timestampMs": 71890,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 71965,
+    "endMs": 71988,
+    "timestampMs": 71965,
+    "confidence": null
+  },
+  {
+    "text": "focuses",
+    "startMs": 71988,
+    "endMs": 72040,
+    "timestampMs": 71988,
+    "confidence": null
+  },
+  {
+    "text": "entirely",
+    "startMs": 72040,
+    "endMs": 72100,
+    "timestampMs": 72040,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 72100,
+    "endMs": 72123,
+    "timestampMs": 72100,
+    "confidence": null
+  },
+  {
+    "text": "sequencing,",
+    "startMs": 72123,
+    "endMs": 72198,
+    "timestampMs": 72123,
+    "confidence": null
+  },
+  {
+    "text": "dependencies,",
+    "startMs": 72198,
+    "endMs": 72273,
+    "timestampMs": 72198,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 72273,
+    "endMs": 72295,
+    "timestampMs": 72273,
+    "confidence": null
+  },
+  {
+    "text": "success",
+    "startMs": 72295,
+    "endMs": 72348,
+    "timestampMs": 72295,
+    "confidence": null
+  },
+  {
+    "text": "criteria.",
+    "startMs": 72348,
+    "endMs": 72431,
+    "timestampMs": 72348,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 72431,
+    "endMs": 72454,
+    "timestampMs": 72431,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 72454,
+    "endMs": 72499,
+    "timestampMs": 72454,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 72499,
+    "endMs": 72521,
+    "timestampMs": 72499,
+    "confidence": null
+  },
+  {
+    "text": "precise",
+    "startMs": 72521,
+    "endMs": 72574,
+    "timestampMs": 72521,
+    "confidence": null
+  },
+  {
+    "text": "enough",
+    "startMs": 72574,
+    "endMs": 72619,
+    "timestampMs": 72574,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 72619,
+    "endMs": 72649,
+    "timestampMs": 72619,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 72649,
+    "endMs": 72679,
+    "timestampMs": 72649,
+    "confidence": null
+  },
+  {
+    "text": "Implementor",
+    "startMs": 72679,
+    "endMs": 72746,
+    "timestampMs": 72679,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 72746,
+    "endMs": 72769,
+    "timestampMs": 72746,
+    "confidence": null
+  },
+  {
+    "text": "execute",
+    "startMs": 72769,
+    "endMs": 72821,
+    "timestampMs": 72769,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 72821,
+    "endMs": 72844,
+    "timestampMs": 72821,
+    "confidence": null
+  },
+  {
+    "text": "without",
+    "startMs": 72844,
+    "endMs": 72896,
+    "timestampMs": 72844,
+    "confidence": null
+  },
+  {
+    "text": "improvisation.",
+    "startMs": 72896,
+    "endMs": 72987,
+    "timestampMs": 72896,
+    "confidence": null
+  },
+  {
+    "text": "**Implement**",
+    "startMs": 72987,
+    "endMs": 73055,
+    "timestampMs": 72987,
+    "confidence": null
+  },
+  {
+    "text": "transforms",
+    "startMs": 73055,
+    "endMs": 73122,
+    "timestampMs": 73055,
+    "confidence": null
+  },
+  {
+    "text": "strategy",
+    "startMs": 73122,
+    "endMs": 73182,
+    "timestampMs": 73122,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 73182,
+    "endMs": 73212,
+    "timestampMs": 73182,
+    "confidence": null
+  },
+  {
+    "text": "working",
+    "startMs": 73212,
+    "endMs": 73265,
+    "timestampMs": 73212,
+    "confidence": null
+  },
+  {
+    "text": "code.",
+    "startMs": 73265,
+    "endMs": 73318,
+    "timestampMs": 73265,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 73318,
+    "endMs": 73341,
+    "timestampMs": 73318,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 73341,
+    "endMs": 73371,
+    "timestampMs": 73341,
+    "confidence": null
+  },
+  {
+    "text": "Implementor",
+    "startMs": 73371,
+    "endMs": 73438,
+    "timestampMs": 73371,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 73438,
+    "endMs": 73476,
+    "timestampMs": 73438,
+    "confidence": null
+  },
+  {
+    "text": "reads",
+    "startMs": 73476,
+    "endMs": 73513,
+    "timestampMs": 73476,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 73513,
+    "endMs": 73536,
+    "timestampMs": 73513,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 73536,
+    "endMs": 73566,
+    "timestampMs": 73536,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 73566,
+    "endMs": 73603,
+    "timestampMs": 73566,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 73603,
+    "endMs": 73626,
+    "timestampMs": 73603,
+    "confidence": null
+  },
+  {
+    "text": "phase,",
+    "startMs": 73626,
+    "endMs": 73671,
+    "timestampMs": 73626,
+    "confidence": null
+  },
+  {
+    "text": "task",
+    "startMs": 73671,
+    "endMs": 73701,
+    "timestampMs": 73671,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 73701,
+    "endMs": 73723,
+    "timestampMs": 73701,
+    "confidence": null
+  },
+  {
+    "text": "task.",
+    "startMs": 73723,
+    "endMs": 73777,
+    "timestampMs": 73723,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 73777,
+    "endMs": 73799,
+    "timestampMs": 73777,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 73799,
+    "endMs": 73837,
+    "timestampMs": 73799,
+    "confidence": null
+  },
+  {
+    "text": "only",
+    "startMs": 73837,
+    "endMs": 73867,
+    "timestampMs": 73837,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 73867,
+    "endMs": 73889,
+    "timestampMs": 73867,
+    "confidence": null
+  },
+  {
+    "text": "detail",
+    "startMs": 73889,
+    "endMs": 73934,
+    "timestampMs": 73889,
+    "confidence": null
+  },
+  {
+    "text": "sections",
+    "startMs": 73934,
+    "endMs": 73994,
+    "timestampMs": 73934,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 73994,
+    "endMs": 74017,
+    "timestampMs": 73994,
+    "confidence": null
+  },
+  {
+    "text": "needs",
+    "startMs": 74017,
+    "endMs": 74054,
+    "timestampMs": 74017,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 74054,
+    "endMs": 74092,
+    "timestampMs": 74054,
+    "confidence": null
+  },
+  {
+    "text": "line",
+    "startMs": 74092,
+    "endMs": 74122,
+    "timestampMs": 74092,
+    "confidence": null
+  },
+  {
+    "text": "ranges",
+    "startMs": 74122,
+    "endMs": 74167,
+    "timestampMs": 74122,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 74167,
+    "endMs": 74197,
+    "timestampMs": 74167,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 74197,
+    "endMs": 74219,
+    "timestampMs": 74197,
+    "confidence": null
+  },
+  {
+    "text": "plan's",
+    "startMs": 74219,
+    "endMs": 74257,
+    "timestampMs": 74219,
+    "confidence": null
+  },
+  {
+    "text": "cross-references.",
+    "startMs": 74257,
+    "endMs": 74348,
+    "timestampMs": 74257,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 74348,
+    "endMs": 74370,
+    "timestampMs": 74348,
+    "confidence": null
+  },
+  {
+    "text": "writes",
+    "startMs": 74370,
+    "endMs": 74415,
+    "timestampMs": 74370,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 74415,
+    "endMs": 74445,
+    "timestampMs": 74415,
+    "confidence": null
+  },
+  {
+    "text": "following",
+    "startMs": 74445,
+    "endMs": 74513,
+    "timestampMs": 74445,
+    "confidence": null
+  },
+  {
+    "text": "workspace",
+    "startMs": 74513,
+    "endMs": 74580,
+    "timestampMs": 74513,
+    "confidence": null
+  },
+  {
+    "text": "conventions",
+    "startMs": 74580,
+    "endMs": 74648,
+    "timestampMs": 74580,
+    "confidence": null
+  },
+  {
+    "text": "discovered",
+    "startMs": 74648,
+    "endMs": 74715,
+    "timestampMs": 74648,
+    "confidence": null
+  },
+  {
+    "text": "during",
+    "startMs": 74715,
+    "endMs": 74760,
+    "timestampMs": 74715,
+    "confidence": null
+  },
+  {
+    "text": "research,",
+    "startMs": 74760,
+    "endMs": 74828,
+    "timestampMs": 74760,
+    "confidence": null
+  },
+  {
+    "text": "tracks",
+    "startMs": 74828,
+    "endMs": 74873,
+    "timestampMs": 74828,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 74873,
+    "endMs": 74910,
+    "timestampMs": 74873,
+    "confidence": null
+  },
+  {
+    "text": "modification",
+    "startMs": 74910,
+    "endMs": 74978,
+    "timestampMs": 74910,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 74978,
+    "endMs": 75000,
+    "timestampMs": 74978,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 75000,
+    "endMs": 75023,
+    "timestampMs": 75000,
+    "confidence": null
+  },
+  {
+    "text": "changes",
+    "startMs": 75023,
+    "endMs": 75075,
+    "timestampMs": 75023,
+    "confidence": null
+  },
+  {
+    "text": "log",
+    "startMs": 75075,
+    "endMs": 75098,
+    "timestampMs": 75075,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 75098,
+    "endMs": 75120,
+    "timestampMs": 75098,
+    "confidence": null
+  },
+  {
+    "text": "`.copilot-tracking/changes/{{YYYY-MM-DD}}-<topic>-changes.md`,",
+    "startMs": 75120,
+    "endMs": 75195,
+    "timestampMs": 75120,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 75195,
+    "endMs": 75218,
+    "timestampMs": 75195,
+    "confidence": null
+  },
+  {
+    "text": "verifies",
+    "startMs": 75218,
+    "endMs": 75278,
+    "timestampMs": 75218,
+    "confidence": null
+  },
+  {
+    "text": "success",
+    "startMs": 75278,
+    "endMs": 75330,
+    "timestampMs": 75278,
+    "confidence": null
+  },
+  {
+    "text": "criteria",
+    "startMs": 75330,
+    "endMs": 75390,
+    "timestampMs": 75330,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 75390,
+    "endMs": 75435,
+    "timestampMs": 75390,
+    "confidence": null
+  },
+  {
+    "text": "marking",
+    "startMs": 75435,
+    "endMs": 75488,
+    "timestampMs": 75435,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 75488,
+    "endMs": 75518,
+    "timestampMs": 75488,
+    "confidence": null
+  },
+  {
+    "text": "task",
+    "startMs": 75518,
+    "endMs": 75548,
+    "timestampMs": 75518,
+    "confidence": null
+  },
+  {
+    "text": "complete.",
+    "startMs": 75548,
+    "endMs": 75631,
+    "timestampMs": 75548,
+    "confidence": null
+  },
+  {
+    "text": "Stop",
+    "startMs": 75631,
+    "endMs": 75661,
+    "timestampMs": 75631,
+    "confidence": null
+  },
+  {
+    "text": "controls",
+    "startMs": 75661,
+    "endMs": 75721,
+    "timestampMs": 75661,
+    "confidence": null
+  },
+  {
+    "text": "let",
+    "startMs": 75721,
+    "endMs": 75744,
+    "timestampMs": 75721,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 75744,
+    "endMs": 75766,
+    "timestampMs": 75744,
+    "confidence": null
+  },
+  {
+    "text": "pause",
+    "startMs": 75766,
+    "endMs": 75804,
+    "timestampMs": 75766,
+    "confidence": null
+  },
+  {
+    "text": "execution",
+    "startMs": 75804,
+    "endMs": 75871,
+    "timestampMs": 75804,
+    "confidence": null
+  },
+  {
+    "text": "after",
+    "startMs": 75871,
+    "endMs": 75909,
+    "timestampMs": 75871,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 75909,
+    "endMs": 75939,
+    "timestampMs": 75909,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 75939,
+    "endMs": 75976,
+    "timestampMs": 75939,
+    "confidence": null
+  },
+  {
+    "text": "(`phaseStop=true`,",
+    "startMs": 75976,
+    "endMs": 76051,
+    "timestampMs": 75976,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 76051,
+    "endMs": 76074,
+    "timestampMs": 76051,
+    "confidence": null
+  },
+  {
+    "text": "default)",
+    "startMs": 76074,
+    "endMs": 76126,
+    "timestampMs": 76074,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 76126,
+    "endMs": 76149,
+    "timestampMs": 76126,
+    "confidence": null
+  },
+  {
+    "text": "after",
+    "startMs": 76149,
+    "endMs": 76186,
+    "timestampMs": 76149,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 76186,
+    "endMs": 76216,
+    "timestampMs": 76186,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 76216,
+    "endMs": 76284,
+    "timestampMs": 76216,
+    "confidence": null
+  },
+  {
+    "text": "task",
+    "startMs": 76284,
+    "endMs": 76314,
+    "timestampMs": 76284,
+    "confidence": null
+  },
+  {
+    "text": "(`taskStop=true`)",
+    "startMs": 76314,
+    "endMs": 76381,
+    "timestampMs": 76314,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 76381,
+    "endMs": 76404,
+    "timestampMs": 76381,
+    "confidence": null
+  },
+  {
+    "text": "human",
+    "startMs": 76404,
+    "endMs": 76441,
+    "timestampMs": 76404,
+    "confidence": null
+  },
+  {
+    "text": "review.",
+    "startMs": 76441,
+    "endMs": 76510,
+    "timestampMs": 76441,
+    "confidence": null
+  },
+  {
+    "text": "**Review**",
+    "startMs": 76510,
+    "endMs": 76555,
+    "timestampMs": 76510,
+    "confidence": null
+  },
+  {
+    "text": "transforms",
+    "startMs": 76555,
+    "endMs": 76622,
+    "timestampMs": 76555,
+    "confidence": null
+  },
+  {
+    "text": "working",
+    "startMs": 76622,
+    "endMs": 76675,
+    "timestampMs": 76622,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 76675,
+    "endMs": 76705,
+    "timestampMs": 76675,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 76705,
+    "endMs": 76735,
+    "timestampMs": 76705,
+    "confidence": null
+  },
+  {
+    "text": "validated",
+    "startMs": 76735,
+    "endMs": 76802,
+    "timestampMs": 76735,
+    "confidence": null
+  },
+  {
+    "text": "code.",
+    "startMs": 76802,
+    "endMs": 76856,
+    "timestampMs": 76802,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 76856,
+    "endMs": 76878,
+    "timestampMs": 76856,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 76878,
+    "endMs": 76908,
+    "timestampMs": 76878,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer",
+    "startMs": 76908,
+    "endMs": 76968,
+    "timestampMs": 76908,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 76968,
+    "endMs": 77006,
+    "timestampMs": 76968,
+    "confidence": null
+  },
+  {
+    "text": "locates",
+    "startMs": 77006,
+    "endMs": 77058,
+    "timestampMs": 77006,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 77058,
+    "endMs": 77081,
+    "timestampMs": 77058,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 77081,
+    "endMs": 77141,
+    "timestampMs": 77081,
+    "confidence": null
+  },
+  {
+    "text": "document,",
+    "startMs": 77141,
+    "endMs": 77208,
+    "timestampMs": 77141,
+    "confidence": null
+  },
+  {
+    "text": "plan,",
+    "startMs": 77208,
+    "endMs": 77246,
+    "timestampMs": 77208,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 77246,
+    "endMs": 77268,
+    "timestampMs": 77246,
+    "confidence": null
+  },
+  {
+    "text": "changes",
+    "startMs": 77268,
+    "endMs": 77321,
+    "timestampMs": 77268,
+    "confidence": null
+  },
+  {
+    "text": "log,",
+    "startMs": 77321,
+    "endMs": 77351,
+    "timestampMs": 77321,
+    "confidence": null
+  },
+  {
+    "text": "then",
+    "startMs": 77351,
+    "endMs": 77381,
+    "timestampMs": 77351,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 77381,
+    "endMs": 77448,
+    "timestampMs": 77381,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 77448,
+    "endMs": 77471,
+    "timestampMs": 77448,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 77471,
+    "endMs": 77538,
+    "timestampMs": 77471,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 77538,
+    "endMs": 77591,
+    "timestampMs": 77538,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 77591,
+    "endMs": 77613,
+    "timestampMs": 77591,
+    "confidence": null
+  },
+  {
+    "text": "three.",
+    "startMs": 77613,
+    "endMs": 77674,
+    "timestampMs": 77613,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 77674,
+    "endMs": 77697,
+    "timestampMs": 77674,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 77697,
+    "endMs": 77742,
+    "timestampMs": 77697,
+    "confidence": null
+  },
+  {
+    "text": "convention",
+    "startMs": 77742,
+    "endMs": 77809,
+    "timestampMs": 77742,
+    "confidence": null
+  },
+  {
+    "text": "compliance",
+    "startMs": 77809,
+    "endMs": 77877,
+    "timestampMs": 77809,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 77877,
+    "endMs": 77914,
+    "timestampMs": 77877,
+    "confidence": null
+  },
+  {
+    "text": "instruction",
+    "startMs": 77914,
+    "endMs": 77982,
+    "timestampMs": 77914,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 77982,
+    "endMs": 78027,
+    "timestampMs": 77982,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 78027,
+    "endMs": 78057,
+    "timestampMs": 78027,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 78057,
+    "endMs": 78124,
+    "timestampMs": 78057,
+    "confidence": null
+  },
+  {
+    "text": "commands",
+    "startMs": 78124,
+    "endMs": 78184,
+    "timestampMs": 78124,
+    "confidence": null
+  },
+  {
+    "text": "(lint,",
+    "startMs": 78184,
+    "endMs": 78222,
+    "timestampMs": 78184,
+    "confidence": null
+  },
+  {
+    "text": "build,",
+    "startMs": 78222,
+    "endMs": 78267,
+    "timestampMs": 78222,
+    "confidence": null
+  },
+  {
+    "text": "test),",
+    "startMs": 78267,
+    "endMs": 78304,
+    "timestampMs": 78267,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 78304,
+    "endMs": 78327,
+    "timestampMs": 78304,
+    "confidence": null
+  },
+  {
+    "text": "documents",
+    "startMs": 78327,
+    "endMs": 78394,
+    "timestampMs": 78327,
+    "confidence": null
+  },
+  {
+    "text": "findings",
+    "startMs": 78394,
+    "endMs": 78455,
+    "timestampMs": 78394,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 78455,
+    "endMs": 78485,
+    "timestampMs": 78455,
+    "confidence": null
+  },
+  {
+    "text": "severity",
+    "startMs": 78485,
+    "endMs": 78545,
+    "timestampMs": 78485,
+    "confidence": null
+  },
+  {
+    "text": "levels",
+    "startMs": 78545,
+    "endMs": 78590,
+    "timestampMs": 78545,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 78590,
+    "endMs": 78612,
+    "timestampMs": 78590,
+    "confidence": null
+  },
+  {
+    "text": "Critical,",
+    "startMs": 78612,
+    "endMs": 78680,
+    "timestampMs": 78612,
+    "confidence": null
+  },
+  {
+    "text": "Major,",
+    "startMs": 78680,
+    "endMs": 78725,
+    "timestampMs": 78680,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 78725,
+    "endMs": 78747,
+    "timestampMs": 78725,
+    "confidence": null
+  },
+  {
+    "text": "Minor.",
+    "startMs": 78747,
+    "endMs": 78808,
+    "timestampMs": 78747,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 78808,
+    "endMs": 78830,
+    "timestampMs": 78808,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 78830,
+    "endMs": 78875,
+    "timestampMs": 78830,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 78875,
+    "endMs": 78898,
+    "timestampMs": 78875,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 78898,
+    "endMs": 78920,
+    "timestampMs": 78898,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 78920,
+    "endMs": 78965,
+    "timestampMs": 78920,
+    "confidence": null
+  },
+  {
+    "text": "log",
+    "startMs": 78965,
+    "endMs": 78988,
+    "timestampMs": 78965,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 78988,
+    "endMs": 79010,
+    "timestampMs": 78988,
+    "confidence": null
+  },
+  {
+    "text": "`.copilot-tracking/reviews/{{YYYY-MM-DD}}-<topic>-review.md`",
+    "startMs": 79010,
+    "endMs": 79078,
+    "timestampMs": 79010,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 79078,
+    "endMs": 79108,
+    "timestampMs": 79078,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 79108,
+    "endMs": 79131,
+    "timestampMs": 79108,
+    "confidence": null
+  },
+  {
+    "text": "overall",
+    "startMs": 79131,
+    "endMs": 79183,
+    "timestampMs": 79131,
+    "confidence": null
+  },
+  {
+    "text": "status:",
+    "startMs": 79183,
+    "endMs": 79236,
+    "timestampMs": 79183,
+    "confidence": null
+  },
+  {
+    "text": "Complete,",
+    "startMs": 79236,
+    "endMs": 79303,
+    "timestampMs": 79236,
+    "confidence": null
+  },
+  {
+    "text": "Needs",
+    "startMs": 79303,
+    "endMs": 79341,
+    "timestampMs": 79303,
+    "confidence": null
+  },
+  {
+    "text": "Rework,",
+    "startMs": 79341,
+    "endMs": 79393,
+    "timestampMs": 79341,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 79393,
+    "endMs": 79416,
+    "timestampMs": 79393,
+    "confidence": null
+  },
+  {
+    "text": "Blocked.",
+    "startMs": 79416,
+    "endMs": 79491,
+    "timestampMs": 79416,
+    "confidence": null
+  },
+  {
+    "text": "If",
+    "startMs": 79491,
+    "endMs": 79514,
+    "timestampMs": 79491,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 79514,
+    "endMs": 79536,
+    "timestampMs": 79514,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 79536,
+    "endMs": 79581,
+    "timestampMs": 79536,
+    "confidence": null
+  },
+  {
+    "text": "identifies",
+    "startMs": 79581,
+    "endMs": 79649,
+    "timestampMs": 79581,
+    "confidence": null
+  },
+  {
+    "text": "gaps,",
+    "startMs": 79649,
+    "endMs": 79687,
+    "timestampMs": 79649,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 79687,
+    "endMs": 79709,
+    "timestampMs": 79687,
+    "confidence": null
+  },
+  {
+    "text": "feedback",
+    "startMs": 79709,
+    "endMs": 79769,
+    "timestampMs": 79709,
+    "confidence": null
+  },
+  {
+    "text": "loop",
+    "startMs": 79769,
+    "endMs": 79799,
+    "timestampMs": 79769,
+    "confidence": null
+  },
+  {
+    "text": "returns",
+    "startMs": 79799,
+    "endMs": 79852,
+    "timestampMs": 79799,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 79852,
+    "endMs": 79874,
+    "timestampMs": 79852,
+    "confidence": null
+  },
+  {
+    "text": "Research",
+    "startMs": 79874,
+    "endMs": 79934,
+    "timestampMs": 79874,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 79934,
+    "endMs": 79957,
+    "timestampMs": 79934,
+    "confidence": null
+  },
+  {
+    "text": "Plan",
+    "startMs": 79957,
+    "endMs": 79987,
+    "timestampMs": 79957,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 79987,
+    "endMs": 80009,
+    "timestampMs": 79987,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 80009,
+    "endMs": 80032,
+    "timestampMs": 80009,
+    "confidence": null
+  },
+  {
+    "text": "corrective",
+    "startMs": 80032,
+    "endMs": 80099,
+    "timestampMs": 80032,
+    "confidence": null
+  },
+  {
+    "text": "cycle.",
+    "startMs": 80099,
+    "endMs": 80160,
+    "timestampMs": 80099,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 80160,
+    "endMs": 80544,
+    "timestampMs": 80160,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 80544,
+    "endMs": 80831,
+    "timestampMs": 80544,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 80831,
+    "endMs": 81311,
+    "timestampMs": 80831,
+    "confidence": null
+  },
+  {
+    "text": "lives",
+    "startMs": 81311,
+    "endMs": 81791,
+    "timestampMs": 81311,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 81791,
+    "endMs": 82270,
+    "timestampMs": 81791,
+    "confidence": null
+  },
+  {
+    "text": "`.github/agents/hve-core/`",
+    "startMs": 82270,
+    "endMs": 83134,
+    "timestampMs": 82270,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 83134,
+    "endMs": 83421,
+    "timestampMs": 83134,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 83421,
+    "endMs": 83709,
+    "timestampMs": 83421,
+    "confidence": null
+  },
+  {
+    "text": "repository.",
+    "startMs": 83709,
+    "endMs": 84872,
+    "timestampMs": 83709,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 84872,
+    "endMs": 85160,
+    "timestampMs": 84872,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 85160,
+    "endMs": 85544,
+    "timestampMs": 85160,
+    "confidence": null
+  },
+  {
+    "text": "primary",
+    "startMs": 85544,
+    "endMs": 86215,
+    "timestampMs": 85544,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 86215,
+    "endMs": 86791,
+    "timestampMs": 86215,
+    "confidence": null
+  },
+  {
+    "text": "are:",
+    "startMs": 86791,
+    "endMs": 87175,
+    "timestampMs": 86791,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 87175,
+    "endMs": 87462,
+    "timestampMs": 87175,
+    "confidence": null
+  },
+  {
+    "text": "`task-researcher.agent.md`",
+    "startMs": 87462,
+    "endMs": 88326,
+    "timestampMs": 87462,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 88326,
+    "endMs": 88613,
+    "timestampMs": 88326,
+    "confidence": null
+  },
+  {
+    "text": "\"Task",
+    "startMs": 88613,
+    "endMs": 88997,
+    "timestampMs": 88613,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 88997,
+    "endMs": 89765,
+    "timestampMs": 88997,
+    "confidence": null
+  },
+  {
+    "text": "specialist",
+    "startMs": 89765,
+    "endMs": 90628,
+    "timestampMs": 89765,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 90628,
+    "endMs": 90916,
+    "timestampMs": 90628,
+    "confidence": null
+  },
+  {
+    "text": "comprehensive",
+    "startMs": 90916,
+    "endMs": 91779,
+    "timestampMs": 90916,
+    "confidence": null
+  },
+  {
+    "text": "project",
+    "startMs": 91779,
+    "endMs": 92450,
+    "timestampMs": 91779,
+    "confidence": null
+  },
+  {
+    "text": "analysis\"",
+    "startMs": 92450,
+    "endMs": 93218,
+    "timestampMs": 92450,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 93218,
+    "endMs": 93506,
+    "timestampMs": 93218,
+    "confidence": null
+  },
+  {
+    "text": "`task-planner.agent.md`",
+    "startMs": 93506,
+    "endMs": 94369,
+    "timestampMs": 93506,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 94369,
+    "endMs": 94657,
+    "timestampMs": 94369,
+    "confidence": null
+  },
+  {
+    "text": "\"Implementation",
+    "startMs": 94657,
+    "endMs": 95520,
+    "timestampMs": 94657,
+    "confidence": null
+  },
+  {
+    "text": "planner",
+    "startMs": 95520,
+    "endMs": 96192,
+    "timestampMs": 95520,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 96192,
+    "endMs": 96479,
+    "timestampMs": 96192,
+    "confidence": null
+  },
+  {
+    "text": "creating",
+    "startMs": 96479,
+    "endMs": 97247,
+    "timestampMs": 96479,
+    "confidence": null
+  },
+  {
+    "text": "actionable",
+    "startMs": 97247,
+    "endMs": 98110,
+    "timestampMs": 97247,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 98110,
+    "endMs": 98973,
+    "timestampMs": 98110,
+    "confidence": null
+  },
+  {
+    "text": "plans\"",
+    "startMs": 98973,
+    "endMs": 99453,
+    "timestampMs": 98973,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 99453,
+    "endMs": 99741,
+    "timestampMs": 99453,
+    "confidence": null
+  },
+  {
+    "text": "`task-implementor.agent.md`",
+    "startMs": 99741,
+    "endMs": 100604,
+    "timestampMs": 99741,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 100604,
+    "endMs": 100892,
+    "timestampMs": 100604,
+    "confidence": null
+  },
+  {
+    "text": "\"Executes",
+    "startMs": 100892,
+    "endMs": 101659,
+    "timestampMs": 100892,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 101659,
+    "endMs": 102523,
+    "timestampMs": 101659,
+    "confidence": null
+  },
+  {
+    "text": "plans",
+    "startMs": 102523,
+    "endMs": 103002,
+    "timestampMs": 102523,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 103002,
+    "endMs": 103386,
+    "timestampMs": 103002,
+    "confidence": null
+  },
+  {
+    "text": ".copilot-tracking/plans",
+    "startMs": 103386,
+    "endMs": 104249,
+    "timestampMs": 103386,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 104249,
+    "endMs": 104633,
+    "timestampMs": 104249,
+    "confidence": null
+  },
+  {
+    "text": "progressive",
+    "startMs": 104633,
+    "endMs": 105496,
+    "timestampMs": 104633,
+    "confidence": null
+  },
+  {
+    "text": "tracking",
+    "startMs": 105496,
+    "endMs": 106264,
+    "timestampMs": 105496,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 106264,
+    "endMs": 106552,
+    "timestampMs": 106264,
+    "confidence": null
+  },
+  {
+    "text": "change",
+    "startMs": 106552,
+    "endMs": 107127,
+    "timestampMs": 106552,
+    "confidence": null
+  },
+  {
+    "text": "records\"",
+    "startMs": 107127,
+    "endMs": 107799,
+    "timestampMs": 107127,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 107799,
+    "endMs": 108086,
+    "timestampMs": 107799,
+    "confidence": null
+  },
+  {
+    "text": "`task-reviewer.agent.md`",
+    "startMs": 108086,
+    "endMs": 108950,
+    "timestampMs": 108086,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 108950,
+    "endMs": 109237,
+    "timestampMs": 108950,
+    "confidence": null
+  },
+  {
+    "text": "\"Reviews",
+    "startMs": 109237,
+    "endMs": 109909,
+    "timestampMs": 109237,
+    "confidence": null
+  },
+  {
+    "text": "completed",
+    "startMs": 109909,
+    "endMs": 110772,
+    "timestampMs": 109909,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 110772,
+    "endMs": 111636,
+    "timestampMs": 110772,
+    "confidence": null
+  },
+  {
+    "text": "work",
+    "startMs": 111636,
+    "endMs": 112019,
+    "timestampMs": 111636,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 112019,
+    "endMs": 112307,
+    "timestampMs": 112019,
+    "confidence": null
+  },
+  {
+    "text": "accuracy,",
+    "startMs": 112307,
+    "endMs": 113170,
+    "timestampMs": 112307,
+    "confidence": null
+  },
+  {
+    "text": "completeness,",
+    "startMs": 113170,
+    "endMs": 114130,
+    "timestampMs": 113170,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 114130,
+    "endMs": 114417,
+    "timestampMs": 114130,
+    "confidence": null
+  },
+  {
+    "text": "convention",
+    "startMs": 114417,
+    "endMs": 115281,
+    "timestampMs": 114417,
+    "confidence": null
+  },
+  {
+    "text": "compliance\"",
+    "startMs": 115281,
+    "endMs": 116144,
+    "timestampMs": 115281,
+    "confidence": null
+  },
+  {
+    "text": "These",
+    "startMs": 116144,
+    "endMs": 116624,
+    "timestampMs": 116144,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 116624,
+    "endMs": 117199,
+    "timestampMs": 116624,
+    "confidence": null
+  },
+  {
+    "text": "also",
+    "startMs": 117199,
+    "endMs": 117583,
+    "timestampMs": 117199,
+    "confidence": null
+  },
+  {
+    "text": "have",
+    "startMs": 117583,
+    "endMs": 117967,
+    "timestampMs": 117583,
+    "confidence": null
+  },
+  {
+    "text": "supporting",
+    "startMs": 117967,
+    "endMs": 118830,
+    "timestampMs": 117967,
+    "confidence": null
+  },
+  {
+    "text": "subagents",
+    "startMs": 118830,
+    "endMs": 119693,
+    "timestampMs": 118830,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 119693,
+    "endMs": 120173,
+    "timestampMs": 119693,
+    "confidence": null
+  },
+  {
+    "text": "`.github/agents/hve-core/subagents/`.",
+    "startMs": 120173,
+    "endMs": 121336,
+    "timestampMs": 120173,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 121336,
+    "endMs": 121624,
+    "timestampMs": 121336,
+    "confidence": null
+  },
+  {
+    "text": "`researcher-subagent.agent.md`",
+    "startMs": 121624,
+    "endMs": 122487,
+    "timestampMs": 121624,
+    "confidence": null
+  },
+  {
+    "text": "handles",
+    "startMs": 122487,
+    "endMs": 123159,
+    "timestampMs": 122487,
+    "confidence": null
+  },
+  {
+    "text": "delegated",
+    "startMs": 123159,
+    "endMs": 124022,
+    "timestampMs": 123159,
+    "confidence": null
+  },
+  {
+    "text": "search",
+    "startMs": 124022,
+    "endMs": 124598,
+    "timestampMs": 124022,
+    "confidence": null
+  },
+  {
+    "text": "operations.",
+    "startMs": 124598,
+    "endMs": 125761,
+    "timestampMs": 124598,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 125761,
+    "endMs": 126048,
+    "timestampMs": 125761,
+    "confidence": null
+  },
+  {
+    "text": "`plan-validator.agent.md`",
+    "startMs": 126048,
+    "endMs": 126912,
+    "timestampMs": 126048,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 126912,
+    "endMs": 127775,
+    "timestampMs": 126912,
+    "confidence": null
+  },
+  {
+    "text": "plans",
+    "startMs": 127775,
+    "endMs": 128255,
+    "timestampMs": 127775,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 128255,
+    "endMs": 128926,
+    "timestampMs": 128255,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 128926,
+    "endMs": 129694,
+    "timestampMs": 128926,
+    "confidence": null
+  },
+  {
+    "text": "documents.",
+    "startMs": 129694,
+    "endMs": 130857,
+    "timestampMs": 129694,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 130857,
+    "endMs": 131144,
+    "timestampMs": 130857,
+    "confidence": null
+  },
+  {
+    "text": "`phase-implementor.agent.md`",
+    "startMs": 131144,
+    "endMs": 132008,
+    "timestampMs": 131144,
+    "confidence": null
+  },
+  {
+    "text": "executes",
+    "startMs": 132008,
+    "endMs": 132775,
+    "timestampMs": 132008,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 132775,
+    "endMs": 133639,
+    "timestampMs": 132775,
+    "confidence": null
+  },
+  {
+    "text": "phases.",
+    "startMs": 133639,
+    "endMs": 134514,
+    "timestampMs": 133639,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 134514,
+    "endMs": 134802,
+    "timestampMs": 134514,
+    "confidence": null
+  },
+  {
+    "text": "`implementation-validator.agent.md`",
+    "startMs": 134802,
+    "endMs": 135665,
+    "timestampMs": 134802,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 135665,
+    "endMs": 136528,
+    "timestampMs": 135665,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 136528,
+    "endMs": 137392,
+    "timestampMs": 136528,
+    "confidence": null
+  },
+  {
+    "text": "quality.",
+    "startMs": 137392,
+    "endMs": 138363,
+    "timestampMs": 137392,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 138363,
+    "endMs": 138651,
+    "timestampMs": 138363,
+    "confidence": null
+  },
+  {
+    "text": "`rpi-validator.agent.md`",
+    "startMs": 138651,
+    "endMs": 139514,
+    "timestampMs": 138651,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 139514,
+    "endMs": 140377,
+    "timestampMs": 139514,
+    "confidence": null
+  },
+  {
+    "text": "changes",
+    "startMs": 140377,
+    "endMs": 141049,
+    "timestampMs": 140377,
+    "confidence": null
+  },
+  {
+    "text": "logs",
+    "startMs": 141049,
+    "endMs": 141432,
+    "timestampMs": 141049,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 141432,
+    "endMs": 142104,
+    "timestampMs": 141432,
+    "confidence": null
+  },
+  {
+    "text": "plans",
+    "startMs": 142104,
+    "endMs": 142584,
+    "timestampMs": 142104,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 142584,
+    "endMs": 142871,
+    "timestampMs": 142584,
+    "confidence": null
+  },
+  {
+    "text": "research.",
+    "startMs": 142871,
+    "endMs": 143939,
+    "timestampMs": 142871,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 143939,
+    "endMs": 144226,
+    "timestampMs": 143939,
+    "confidence": null
+  },
+  {
+    "text": "data",
+    "startMs": 144226,
+    "endMs": 144610,
+    "timestampMs": 144226,
+    "confidence": null
+  },
+  {
+    "text": "flow",
+    "startMs": 144610,
+    "endMs": 144994,
+    "timestampMs": 144610,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 144994,
+    "endMs": 145281,
+    "timestampMs": 144994,
+    "confidence": null
+  },
+  {
+    "text": "file-based,",
+    "startMs": 145281,
+    "endMs": 146241,
+    "timestampMs": 145281,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 146241,
+    "endMs": 146529,
+    "timestampMs": 146241,
+    "confidence": null
+  },
+  {
+    "text": "chat-based.",
+    "startMs": 146529,
+    "endMs": 147692,
+    "timestampMs": 146529,
+    "confidence": null
+  },
+  {
+    "text": "Research",
+    "startMs": 147692,
+    "endMs": 148459,
+    "timestampMs": 147692,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 148459,
+    "endMs": 149226,
+    "timestampMs": 148459,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 149226,
+    "endMs": 149514,
+    "timestampMs": 149226,
+    "confidence": null
+  },
+  {
+    "text": "markdown",
+    "startMs": 149514,
+    "endMs": 150282,
+    "timestampMs": 149514,
+    "confidence": null
+  },
+  {
+    "text": "file.",
+    "startMs": 150282,
+    "endMs": 150965,
+    "timestampMs": 150282,
+    "confidence": null
+  },
+  {
+    "text": "Plan",
+    "startMs": 150965,
+    "endMs": 151349,
+    "timestampMs": 150965,
+    "confidence": null
+  },
+  {
+    "text": "reads",
+    "startMs": 151349,
+    "endMs": 151828,
+    "timestampMs": 151349,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 151828,
+    "endMs": 152212,
+    "timestampMs": 151828,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 152212,
+    "endMs": 152596,
+    "timestampMs": 152212,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 152596,
+    "endMs": 152884,
+    "timestampMs": 152596,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 152884,
+    "endMs": 153651,
+    "timestampMs": 152884,
+    "confidence": null
+  },
+  {
+    "text": "two",
+    "startMs": 153651,
+    "endMs": 153939,
+    "timestampMs": 153651,
+    "confidence": null
+  },
+  {
+    "text": "more.",
+    "startMs": 153939,
+    "endMs": 154622,
+    "timestampMs": 153939,
+    "confidence": null
+  },
+  {
+    "text": "Implement",
+    "startMs": 154622,
+    "endMs": 155486,
+    "timestampMs": 154622,
+    "confidence": null
+  },
+  {
+    "text": "reads",
+    "startMs": 155486,
+    "endMs": 155965,
+    "timestampMs": 155486,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 155965,
+    "endMs": 156253,
+    "timestampMs": 155965,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 156253,
+    "endMs": 156637,
+    "timestampMs": 156253,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 156637,
+    "endMs": 157116,
+    "timestampMs": 156637,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 157116,
+    "endMs": 157404,
+    "timestampMs": 157116,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 157404,
+    "endMs": 158171,
+    "timestampMs": 157404,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 158171,
+    "endMs": 158555,
+    "timestampMs": 158171,
+    "confidence": null
+  },
+  {
+    "text": "plus",
+    "startMs": 158555,
+    "endMs": 158939,
+    "timestampMs": 158555,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 158939,
+    "endMs": 159227,
+    "timestampMs": 158939,
+    "confidence": null
+  },
+  {
+    "text": "changes",
+    "startMs": 159227,
+    "endMs": 159898,
+    "timestampMs": 159227,
+    "confidence": null
+  },
+  {
+    "text": "log.",
+    "startMs": 159898,
+    "endMs": 160486,
+    "timestampMs": 159898,
+    "confidence": null
+  },
+  {
+    "text": "Review",
+    "startMs": 160486,
+    "endMs": 161061,
+    "timestampMs": 160486,
+    "confidence": null
+  },
+  {
+    "text": "reads",
+    "startMs": 161061,
+    "endMs": 161541,
+    "timestampMs": 161061,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 161541,
+    "endMs": 161829,
+    "timestampMs": 161541,
+    "confidence": null
+  },
+  {
+    "text": "prior",
+    "startMs": 161829,
+    "endMs": 162308,
+    "timestampMs": 161829,
+    "confidence": null
+  },
+  {
+    "text": "artifacts",
+    "startMs": 162308,
+    "endMs": 163172,
+    "timestampMs": 162308,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 163172,
+    "endMs": 163459,
+    "timestampMs": 163172,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 163459,
+    "endMs": 164227,
+    "timestampMs": 163459,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 164227,
+    "endMs": 164515,
+    "timestampMs": 164227,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 164515,
+    "endMs": 165090,
+    "timestampMs": 164515,
+    "confidence": null
+  },
+  {
+    "text": "log.",
+    "startMs": 165090,
+    "endMs": 165678,
+    "timestampMs": 165090,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 165678,
+    "endMs": 165965,
+    "timestampMs": 165678,
+    "confidence": null
+  },
+  {
+    "text": "`.copilot-tracking/`",
+    "startMs": 165965,
+    "endMs": 166829,
+    "timestampMs": 165965,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 166829,
+    "endMs": 167692,
+    "timestampMs": 166829,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 167692,
+    "endMs": 167980,
+    "timestampMs": 167692,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 167980,
+    "endMs": 168268,
+    "timestampMs": 167980,
+    "confidence": null
+  },
+  {
+    "text": "shared",
+    "startMs": 168268,
+    "endMs": 168843,
+    "timestampMs": 168268,
+    "confidence": null
+  },
+  {
+    "text": "workspace:",
+    "startMs": 168843,
+    "endMs": 169802,
+    "timestampMs": 168843,
+    "confidence": null
+  },
+  {
+    "text": "```text",
+    "startMs": 169802,
+    "endMs": 170186,
+    "timestampMs": 169802,
+    "confidence": null
+  },
+  {
+    "text": ".copilot-tracking/",
+    "startMs": 170186,
+    "endMs": 171050,
+    "timestampMs": 170186,
+    "confidence": null
+  },
+  {
+    "text": "├──",
+    "startMs": 171050,
+    "endMs": 171337,
+    "timestampMs": 171050,
+    "confidence": null
+  },
+  {
+    "text": "research/",
+    "startMs": 171337,
+    "endMs": 172105,
+    "timestampMs": 171337,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 172105,
+    "endMs": 172392,
+    "timestampMs": 172105,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 172392,
+    "endMs": 172776,
+    "timestampMs": 172392,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 172776,
+    "endMs": 173639,
+    "timestampMs": 172776,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 173639,
+    "endMs": 174215,
+    "timestampMs": 173639,
+    "confidence": null
+  },
+  {
+    "text": "├──",
+    "startMs": 174215,
+    "endMs": 174503,
+    "timestampMs": 174215,
+    "confidence": null
+  },
+  {
+    "text": "plans/",
+    "startMs": 174503,
+    "endMs": 174982,
+    "timestampMs": 174503,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 174982,
+    "endMs": 175270,
+    "timestampMs": 174982,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 175270,
+    "endMs": 175654,
+    "timestampMs": 175270,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 175654,
+    "endMs": 176325,
+    "timestampMs": 175654,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 176325,
+    "endMs": 176901,
+    "timestampMs": 176325,
+    "confidence": null
+  },
+  {
+    "text": "(plan",
+    "startMs": 176901,
+    "endMs": 177285,
+    "timestampMs": 176901,
+    "confidence": null
+  },
+  {
+    "text": "+",
+    "startMs": 177285,
+    "endMs": 177572,
+    "timestampMs": 177285,
+    "confidence": null
+  },
+  {
+    "text": "instructions)",
+    "startMs": 177572,
+    "endMs": 178436,
+    "timestampMs": 177572,
+    "confidence": null
+  },
+  {
+    "text": "├──",
+    "startMs": 178436,
+    "endMs": 178724,
+    "timestampMs": 178436,
+    "confidence": null
+  },
+  {
+    "text": "details/",
+    "startMs": 178724,
+    "endMs": 179395,
+    "timestampMs": 178724,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 179395,
+    "endMs": 179683,
+    "timestampMs": 179395,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 179683,
+    "endMs": 180067,
+    "timestampMs": 179683,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 180067,
+    "endMs": 180738,
+    "timestampMs": 180067,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 180738,
+    "endMs": 181314,
+    "timestampMs": 180738,
+    "confidence": null
+  },
+  {
+    "text": "(specifications)",
+    "startMs": 181314,
+    "endMs": 182177,
+    "timestampMs": 181314,
+    "confidence": null
+  },
+  {
+    "text": "├──",
+    "startMs": 182177,
+    "endMs": 182465,
+    "timestampMs": 182177,
+    "confidence": null
+  },
+  {
+    "text": "changes/",
+    "startMs": 182465,
+    "endMs": 183136,
+    "timestampMs": 182465,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 183136,
+    "endMs": 183424,
+    "timestampMs": 183136,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 183424,
+    "endMs": 183808,
+    "timestampMs": 183424,
+    "confidence": null
+  },
+  {
+    "text": "Implementor",
+    "startMs": 183808,
+    "endMs": 184671,
+    "timestampMs": 183808,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 184671,
+    "endMs": 185246,
+    "timestampMs": 184671,
+    "confidence": null
+  },
+  {
+    "text": "└──",
+    "startMs": 185246,
+    "endMs": 185534,
+    "timestampMs": 185246,
+    "confidence": null
+  },
+  {
+    "text": "reviews/",
+    "startMs": 185534,
+    "endMs": 186206,
+    "timestampMs": 185534,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 186206,
+    "endMs": 186494,
+    "timestampMs": 186206,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 186494,
+    "endMs": 186877,
+    "timestampMs": 186494,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer",
+    "startMs": 186877,
+    "endMs": 187645,
+    "timestampMs": 186877,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 187645,
+    "endMs": 188220,
+    "timestampMs": 187645,
+    "confidence": null
+  },
+  {
+    "text": "```",
+    "startMs": 188220,
+    "endMs": 188508,
+    "timestampMs": 188220,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 188508,
+    "endMs": 188796,
+    "timestampMs": 188508,
+    "confidence": null
+  },
+  {
+    "text": "critical",
+    "startMs": 188796,
+    "endMs": 189563,
+    "timestampMs": 188796,
+    "confidence": null
+  },
+  {
+    "text": "operational",
+    "startMs": 189563,
+    "endMs": 190426,
+    "timestampMs": 189563,
+    "confidence": null
+  },
+  {
+    "text": "rule:",
+    "startMs": 190426,
+    "endMs": 190906,
+    "timestampMs": 190426,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 190906,
+    "endMs": 191194,
+    "timestampMs": 190906,
+    "confidence": null
+  },
+  {
+    "text": "`/clear`",
+    "startMs": 191194,
+    "endMs": 191674,
+    "timestampMs": 191194,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 191674,
+    "endMs": 191961,
+    "timestampMs": 191674,
+    "confidence": null
+  },
+  {
+    "text": "start",
+    "startMs": 191961,
+    "endMs": 192441,
+    "timestampMs": 191961,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 192441,
+    "endMs": 192729,
+    "timestampMs": 192441,
+    "confidence": null
+  },
+  {
+    "text": "new",
+    "startMs": 192729,
+    "endMs": 193016,
+    "timestampMs": 192729,
+    "confidence": null
+  },
+  {
+    "text": "chat",
+    "startMs": 193016,
+    "endMs": 193400,
+    "timestampMs": 193016,
+    "confidence": null
+  },
+  {
+    "text": "between",
+    "startMs": 193400,
+    "endMs": 194072,
+    "timestampMs": 193400,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 194072,
+    "endMs": 194551,
+    "timestampMs": 194072,
+    "confidence": null
+  },
+  {
+    "text": "phase.",
+    "startMs": 194551,
+    "endMs": 195331,
+    "timestampMs": 194551,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 195331,
+    "endMs": 195714,
+    "timestampMs": 195331,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 195714,
+    "endMs": 196194,
+    "timestampMs": 195714,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 196194,
+    "endMs": 196482,
+    "timestampMs": 196194,
+    "confidence": null
+  },
+  {
+    "text": "different",
+    "startMs": 196482,
+    "endMs": 197345,
+    "timestampMs": 196482,
+    "confidence": null
+  },
+  {
+    "text": "instructions",
+    "startMs": 197345,
+    "endMs": 198208,
+    "timestampMs": 197345,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 198208,
+    "endMs": 198496,
+    "timestampMs": 198208,
+    "confidence": null
+  },
+  {
+    "text": "behavioral",
+    "startMs": 198496,
+    "endMs": 199360,
+    "timestampMs": 198496,
+    "confidence": null
+  },
+  {
+    "text": "constraints.",
+    "startMs": 199360,
+    "endMs": 200523,
+    "timestampMs": 199360,
+    "confidence": null
+  },
+  {
+    "text": "Accumulated",
+    "startMs": 200523,
+    "endMs": 201386,
+    "timestampMs": 200523,
+    "confidence": null
+  },
+  {
+    "text": "context",
+    "startMs": 201386,
+    "endMs": 202057,
+    "timestampMs": 201386,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 202057,
+    "endMs": 202441,
+    "timestampMs": 202057,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 202441,
+    "endMs": 202729,
+    "timestampMs": 202441,
+    "confidence": null
+  },
+  {
+    "text": "prior",
+    "startMs": 202729,
+    "endMs": 203209,
+    "timestampMs": 202729,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 203209,
+    "endMs": 203688,
+    "timestampMs": 203209,
+    "confidence": null
+  },
+  {
+    "text": "causes",
+    "startMs": 203688,
+    "endMs": 204264,
+    "timestampMs": 203688,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 204264,
+    "endMs": 204552,
+    "timestampMs": 204264,
+    "confidence": null
+  },
+  {
+    "text": "model",
+    "startMs": 204552,
+    "endMs": 205031,
+    "timestampMs": 204552,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 205031,
+    "endMs": 205319,
+    "timestampMs": 205031,
+    "confidence": null
+  },
+  {
+    "text": "ignore",
+    "startMs": 205319,
+    "endMs": 205894,
+    "timestampMs": 205319,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 205894,
+    "endMs": 206182,
+    "timestampMs": 205894,
+    "confidence": null
+  },
+  {
+    "text": "current",
+    "startMs": 206182,
+    "endMs": 206854,
+    "timestampMs": 206182,
+    "confidence": null
+  },
+  {
+    "text": "agent's",
+    "startMs": 206854,
+    "endMs": 207429,
+    "timestampMs": 206854,
+    "confidence": null
+  },
+  {
+    "text": "instructions.",
+    "startMs": 207429,
+    "endMs": 208592,
+    "timestampMs": 207429,
+    "confidence": null
+  },
+  {
+    "text": "Research",
+    "startMs": 208592,
+    "endMs": 209360,
+    "timestampMs": 208592,
+    "confidence": null
+  },
+  {
+    "text": "findings",
+    "startMs": 209360,
+    "endMs": 210127,
+    "timestampMs": 209360,
+    "confidence": null
+  },
+  {
+    "text": "persist",
+    "startMs": 210127,
+    "endMs": 210799,
+    "timestampMs": 210127,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 210799,
+    "endMs": 211086,
+    "timestampMs": 210799,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 211086,
+    "endMs": 211662,
+    "timestampMs": 211086,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 211662,
+    "endMs": 211950,
+    "timestampMs": 211662,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 211950,
+    "endMs": 212238,
+    "timestampMs": 211950,
+    "confidence": null
+  },
+  {
+    "text": "chat",
+    "startMs": 212238,
+    "endMs": 212621,
+    "timestampMs": 212238,
+    "confidence": null
+  },
+  {
+    "text": "history,",
+    "startMs": 212621,
+    "endMs": 213389,
+    "timestampMs": 212621,
+    "confidence": null
+  },
+  {
+    "text": "so",
+    "startMs": 213389,
+    "endMs": 213676,
+    "timestampMs": 213389,
+    "confidence": null
+  },
+  {
+    "text": "clearing",
+    "startMs": 213676,
+    "endMs": 214444,
+    "timestampMs": 213676,
+    "confidence": null
+  },
+  {
+    "text": "context",
+    "startMs": 214444,
+    "endMs": 215115,
+    "timestampMs": 214444,
+    "confidence": null
+  },
+  {
+    "text": "costs",
+    "startMs": 215115,
+    "endMs": 215595,
+    "timestampMs": 215115,
+    "confidence": null
+  },
+  {
+    "text": "nothing",
+    "startMs": 215595,
+    "endMs": 216266,
+    "timestampMs": 215595,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 216266,
+    "endMs": 216554,
+    "timestampMs": 216266,
+    "confidence": null
+  },
+  {
+    "text": "lets",
+    "startMs": 216554,
+    "endMs": 216938,
+    "timestampMs": 216554,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 216938,
+    "endMs": 217322,
+    "timestampMs": 216938,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 217322,
+    "endMs": 217801,
+    "timestampMs": 217322,
+    "confidence": null
+  },
+  {
+    "text": "work",
+    "startMs": 217801,
+    "endMs": 218185,
+    "timestampMs": 217801,
+    "confidence": null
+  },
+  {
+    "text": "optimally.",
+    "startMs": 218185,
+    "endMs": 219348,
+    "timestampMs": 218185,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 219348,
+    "endMs": 219636,
+    "timestampMs": 219348,
+    "confidence": null
+  },
+  {
+    "text": "workflow",
+    "startMs": 219636,
+    "endMs": 220403,
+    "timestampMs": 219636,
+    "confidence": null
+  },
+  {
+    "text": "sequence",
+    "startMs": 220403,
+    "endMs": 221171,
+    "timestampMs": 220403,
+    "confidence": null
+  },
+  {
+    "text": "is:",
+    "startMs": 221171,
+    "endMs": 221554,
+    "timestampMs": 221171,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 221554,
+    "endMs": 221938,
+    "timestampMs": 221554,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 221938,
+    "endMs": 222801,
+    "timestampMs": 221938,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 222801,
+    "endMs": 223089,
+    "timestampMs": 222801,
+    "confidence": null
+  },
+  {
+    "text": "`/clear`",
+    "startMs": 223089,
+    "endMs": 223569,
+    "timestampMs": 223089,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 223569,
+    "endMs": 223857,
+    "timestampMs": 223569,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 223857,
+    "endMs": 224240,
+    "timestampMs": 223857,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 224240,
+    "endMs": 224912,
+    "timestampMs": 224240,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 224912,
+    "endMs": 225200,
+    "timestampMs": 224912,
+    "confidence": null
+  },
+  {
+    "text": "`/clear`",
+    "startMs": 225200,
+    "endMs": 225679,
+    "timestampMs": 225200,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 225679,
+    "endMs": 225967,
+    "timestampMs": 225679,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 225967,
+    "endMs": 226351,
+    "timestampMs": 225967,
+    "confidence": null
+  },
+  {
+    "text": "Implementor",
+    "startMs": 226351,
+    "endMs": 227214,
+    "timestampMs": 226351,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 227214,
+    "endMs": 227502,
+    "timestampMs": 227214,
+    "confidence": null
+  },
+  {
+    "text": "`/clear`",
+    "startMs": 227502,
+    "endMs": 227981,
+    "timestampMs": 227502,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 227981,
+    "endMs": 228269,
+    "timestampMs": 227981,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 228269,
+    "endMs": 228653,
+    "timestampMs": 228269,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer.",
+    "startMs": 228653,
+    "endMs": 229720,
+    "timestampMs": 228653,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 229720,
+    "endMs": 229762,
+    "timestampMs": 229720,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 229762,
+    "endMs": 229814,
+    "timestampMs": 229762,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 229814,
+    "endMs": 229846,
+    "timestampMs": 229814,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 229846,
+    "endMs": 229877,
+    "timestampMs": 229846,
+    "confidence": null
+  },
+  {
+    "text": "corresponding",
+    "startMs": 229877,
+    "endMs": 229971,
+    "timestampMs": 229877,
+    "confidence": null
+  },
+  {
+    "text": "prompt",
+    "startMs": 229971,
+    "endMs": 230034,
+    "timestampMs": 229971,
+    "confidence": null
+  },
+  {
+    "text": "shortcut.",
+    "startMs": 230034,
+    "endMs": 230151,
+    "timestampMs": 230034,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 230151,
+    "endMs": 230182,
+    "timestampMs": 230151,
+    "confidence": null
+  },
+  {
+    "text": "prompt",
+    "startMs": 230182,
+    "endMs": 230245,
+    "timestampMs": 230182,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 230245,
+    "endMs": 230297,
+    "timestampMs": 230245,
+    "confidence": null
+  },
+  {
+    "text": "live",
+    "startMs": 230297,
+    "endMs": 230339,
+    "timestampMs": 230297,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 230339,
+    "endMs": 230392,
+    "timestampMs": 230339,
+    "confidence": null
+  },
+  {
+    "text": "`.github/prompts/hve-core/`:",
+    "startMs": 230392,
+    "endMs": 230496,
+    "timestampMs": 230392,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 230496,
+    "endMs": 230528,
+    "timestampMs": 230496,
+    "confidence": null
+  },
+  {
+    "text": "`/task-research",
+    "startMs": 230528,
+    "endMs": 230622,
+    "timestampMs": 230528,
+    "confidence": null
+  },
+  {
+    "text": "<topic>`",
+    "startMs": 230622,
+    "endMs": 230674,
+    "timestampMs": 230622,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 230674,
+    "endMs": 230706,
+    "timestampMs": 230674,
+    "confidence": null
+  },
+  {
+    "text": "invokes",
+    "startMs": 230706,
+    "endMs": 230779,
+    "timestampMs": 230706,
+    "confidence": null
+  },
+  {
+    "text": "`task-research.prompt.md`,",
+    "startMs": 230779,
+    "endMs": 230884,
+    "timestampMs": 230779,
+    "confidence": null
+  },
+  {
+    "text": "automatically",
+    "startMs": 230884,
+    "endMs": 230978,
+    "timestampMs": 230884,
+    "confidence": null
+  },
+  {
+    "text": "switches",
+    "startMs": 230978,
+    "endMs": 231062,
+    "timestampMs": 230978,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 231062,
+    "endMs": 231093,
+    "timestampMs": 231062,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 231093,
+    "endMs": 231135,
+    "timestampMs": 231093,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 231135,
+    "endMs": 231230,
+    "timestampMs": 231135,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 231230,
+    "endMs": 231261,
+    "timestampMs": 231230,
+    "confidence": null
+  },
+  {
+    "text": "`/task-plan`",
+    "startMs": 231261,
+    "endMs": 231345,
+    "timestampMs": 231261,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 231345,
+    "endMs": 231376,
+    "timestampMs": 231345,
+    "confidence": null
+  },
+  {
+    "text": "invokes",
+    "startMs": 231376,
+    "endMs": 231450,
+    "timestampMs": 231376,
+    "confidence": null
+  },
+  {
+    "text": "`task-plan.prompt.md`,",
+    "startMs": 231450,
+    "endMs": 231554,
+    "timestampMs": 231450,
+    "confidence": null
+  },
+  {
+    "text": "automatically",
+    "startMs": 231554,
+    "endMs": 231649,
+    "timestampMs": 231554,
+    "confidence": null
+  },
+  {
+    "text": "switches",
+    "startMs": 231649,
+    "endMs": 231732,
+    "timestampMs": 231649,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 231732,
+    "endMs": 231764,
+    "timestampMs": 231732,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 231764,
+    "endMs": 231806,
+    "timestampMs": 231764,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 231806,
+    "endMs": 231879,
+    "timestampMs": 231806,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 231879,
+    "endMs": 231910,
+    "timestampMs": 231879,
+    "confidence": null
+  },
+  {
+    "text": "`/task-implement`",
+    "startMs": 231910,
+    "endMs": 232005,
+    "timestampMs": 231910,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 232005,
+    "endMs": 232036,
+    "timestampMs": 232005,
+    "confidence": null
+  },
+  {
+    "text": "invokes",
+    "startMs": 232036,
+    "endMs": 232109,
+    "timestampMs": 232036,
+    "confidence": null
+  },
+  {
+    "text": "`task-implement.prompt.md`,",
+    "startMs": 232109,
+    "endMs": 232214,
+    "timestampMs": 232109,
+    "confidence": null
+  },
+  {
+    "text": "automatically",
+    "startMs": 232214,
+    "endMs": 232308,
+    "timestampMs": 232214,
+    "confidence": null
+  },
+  {
+    "text": "switches",
+    "startMs": 232308,
+    "endMs": 232392,
+    "timestampMs": 232308,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 232392,
+    "endMs": 232424,
+    "timestampMs": 232392,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 232424,
+    "endMs": 232465,
+    "timestampMs": 232424,
+    "confidence": null
+  },
+  {
+    "text": "Implementor",
+    "startMs": 232465,
+    "endMs": 232560,
+    "timestampMs": 232465,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 232560,
+    "endMs": 232591,
+    "timestampMs": 232560,
+    "confidence": null
+  },
+  {
+    "text": "`/task-review`",
+    "startMs": 232591,
+    "endMs": 232685,
+    "timestampMs": 232591,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 232685,
+    "endMs": 232717,
+    "timestampMs": 232685,
+    "confidence": null
+  },
+  {
+    "text": "invokes",
+    "startMs": 232717,
+    "endMs": 232790,
+    "timestampMs": 232717,
+    "confidence": null
+  },
+  {
+    "text": "`task-review.prompt.md`,",
+    "startMs": 232790,
+    "endMs": 232895,
+    "timestampMs": 232790,
+    "confidence": null
+  },
+  {
+    "text": "automatically",
+    "startMs": 232895,
+    "endMs": 232989,
+    "timestampMs": 232895,
+    "confidence": null
+  },
+  {
+    "text": "switches",
+    "startMs": 232989,
+    "endMs": 233073,
+    "timestampMs": 232989,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 233073,
+    "endMs": 233104,
+    "timestampMs": 233073,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 233104,
+    "endMs": 233146,
+    "timestampMs": 233104,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer",
+    "startMs": 233146,
+    "endMs": 233230,
+    "timestampMs": 233146,
+    "confidence": null
+  },
+  {
+    "text": "These",
+    "startMs": 233230,
+    "endMs": 233282,
+    "timestampMs": 233230,
+    "confidence": null
+  },
+  {
+    "text": "shortcuts",
+    "startMs": 233282,
+    "endMs": 233377,
+    "timestampMs": 233282,
+    "confidence": null
+  },
+  {
+    "text": "eliminate",
+    "startMs": 233377,
+    "endMs": 233471,
+    "timestampMs": 233377,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 233471,
+    "endMs": 233502,
+    "timestampMs": 233471,
+    "confidence": null
+  },
+  {
+    "text": "manual",
+    "startMs": 233502,
+    "endMs": 233565,
+    "timestampMs": 233502,
+    "confidence": null
+  },
+  {
+    "text": "step",
+    "startMs": 233565,
+    "endMs": 233607,
+    "timestampMs": 233565,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 233607,
+    "endMs": 233639,
+    "timestampMs": 233607,
+    "confidence": null
+  },
+  {
+    "text": "selecting",
+    "startMs": 233639,
+    "endMs": 233733,
+    "timestampMs": 233639,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 233733,
+    "endMs": 233764,
+    "timestampMs": 233733,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 233764,
+    "endMs": 233817,
+    "timestampMs": 233764,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 233817,
+    "endMs": 233859,
+    "timestampMs": 233817,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 233859,
+    "endMs": 233890,
+    "timestampMs": 233859,
+    "confidence": null
+  },
+  {
+    "text": "picker",
+    "startMs": 233890,
+    "endMs": 233953,
+    "timestampMs": 233890,
+    "confidence": null
+  },
+  {
+    "text": "dropdown.",
+    "startMs": 233953,
+    "endMs": 234069,
+    "timestampMs": 233953,
+    "confidence": null
+  },
+  {
+    "text": "Type",
+    "startMs": 234069,
+    "endMs": 234111,
+    "timestampMs": 234069,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 234111,
+    "endMs": 234143,
+    "timestampMs": 234111,
+    "confidence": null
+  },
+  {
+    "text": "slash",
+    "startMs": 234143,
+    "endMs": 234195,
+    "timestampMs": 234143,
+    "confidence": null
+  },
+  {
+    "text": "command,",
+    "startMs": 234195,
+    "endMs": 234279,
+    "timestampMs": 234195,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 234279,
+    "endMs": 234310,
+    "timestampMs": 234279,
+    "confidence": null
+  },
+  {
+    "text": "Copilot",
+    "startMs": 234310,
+    "endMs": 234384,
+    "timestampMs": 234310,
+    "confidence": null
+  },
+  {
+    "text": "activates",
+    "startMs": 234384,
+    "endMs": 234478,
+    "timestampMs": 234384,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 234478,
+    "endMs": 234509,
+    "timestampMs": 234478,
+    "confidence": null
+  },
+  {
+    "text": "correct",
+    "startMs": 234509,
+    "endMs": 234583,
+    "timestampMs": 234509,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 234583,
+    "endMs": 234635,
+    "timestampMs": 234583,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 234635,
+    "endMs": 234677,
+    "timestampMs": 234635,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 234677,
+    "endMs": 234708,
+    "timestampMs": 234677,
+    "confidence": null
+  },
+  {
+    "text": "prompt's",
+    "startMs": 234708,
+    "endMs": 234782,
+    "timestampMs": 234708,
+    "confidence": null
+  },
+  {
+    "text": "context.",
+    "startMs": 234782,
+    "endMs": 234888,
+    "timestampMs": 234782,
+    "confidence": null
+  },
+  {
+    "text": "For",
+    "startMs": 234888,
+    "endMs": 234919,
+    "timestampMs": 234888,
+    "confidence": null
+  },
+  {
+    "text": "tasks",
+    "startMs": 234919,
+    "endMs": 234971,
+    "timestampMs": 234919,
+    "confidence": null
+  },
+  {
+    "text": "where",
+    "startMs": 234971,
+    "endMs": 235024,
+    "timestampMs": 234971,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 235024,
+    "endMs": 235055,
+    "timestampMs": 235024,
+    "confidence": null
+  },
+  {
+    "text": "want",
+    "startMs": 235055,
+    "endMs": 235097,
+    "timestampMs": 235055,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 235097,
+    "endMs": 235128,
+    "timestampMs": 235097,
+    "confidence": null
+  },
+  {
+    "text": "full",
+    "startMs": 235128,
+    "endMs": 235170,
+    "timestampMs": 235128,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 235170,
+    "endMs": 235202,
+    "timestampMs": 235170,
+    "confidence": null
+  },
+  {
+    "text": "cycle",
+    "startMs": 235202,
+    "endMs": 235254,
+    "timestampMs": 235202,
+    "confidence": null
+  },
+  {
+    "text": "without",
+    "startMs": 235254,
+    "endMs": 235327,
+    "timestampMs": 235254,
+    "confidence": null
+  },
+  {
+    "text": "manual",
+    "startMs": 235327,
+    "endMs": 235390,
+    "timestampMs": 235327,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 235390,
+    "endMs": 235443,
+    "timestampMs": 235390,
+    "confidence": null
+  },
+  {
+    "text": "transitions,",
+    "startMs": 235443,
+    "endMs": 235547,
+    "timestampMs": 235443,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 235547,
+    "endMs": 235579,
+    "timestampMs": 235547,
+    "confidence": null
+  },
+  {
+    "text": "`rpi-agent`",
+    "startMs": 235579,
+    "endMs": 235663,
+    "timestampMs": 235579,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 235663,
+    "endMs": 235694,
+    "timestampMs": 235663,
+    "confidence": null
+  },
+  {
+    "text": "`.github/agents/hve-core/rpi-agent.agent.md`",
+    "startMs": 235694,
+    "endMs": 235788,
+    "timestampMs": 235694,
+    "confidence": null
+  },
+  {
+    "text": "acts",
+    "startMs": 235788,
+    "endMs": 235830,
+    "timestampMs": 235788,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 235830,
+    "endMs": 235862,
+    "timestampMs": 235830,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 235862,
+    "endMs": 235893,
+    "timestampMs": 235862,
+    "confidence": null
+  },
+  {
+    "text": "autonomous",
+    "startMs": 235893,
+    "endMs": 235987,
+    "timestampMs": 235893,
+    "confidence": null
+  },
+  {
+    "text": "orchestrator.",
+    "startMs": 235987,
+    "endMs": 236114,
+    "timestampMs": 235987,
+    "confidence": null
+  },
+  {
+    "text": "Its",
+    "startMs": 236114,
+    "endMs": 236146,
+    "timestampMs": 236114,
+    "confidence": null
+  },
+  {
+    "text": "description",
+    "startMs": 236146,
+    "endMs": 236240,
+    "timestampMs": 236146,
+    "confidence": null
+  },
+  {
+    "text": "reads:",
+    "startMs": 236240,
+    "endMs": 236303,
+    "timestampMs": 236240,
+    "confidence": null
+  },
+  {
+    "text": "\"Autonomous",
+    "startMs": 236303,
+    "endMs": 236397,
+    "timestampMs": 236303,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 236397,
+    "endMs": 236429,
+    "timestampMs": 236397,
+    "confidence": null
+  },
+  {
+    "text": "orchestrator",
+    "startMs": 236429,
+    "endMs": 236523,
+    "timestampMs": 236429,
+    "confidence": null
+  },
+  {
+    "text": "running",
+    "startMs": 236523,
+    "endMs": 236596,
+    "timestampMs": 236523,
+    "confidence": null
+  },
+  {
+    "text": "Research",
+    "startMs": 236596,
+    "endMs": 236680,
+    "timestampMs": 236596,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 236680,
+    "endMs": 236711,
+    "timestampMs": 236680,
+    "confidence": null
+  },
+  {
+    "text": "Plan",
+    "startMs": 236711,
+    "endMs": 236753,
+    "timestampMs": 236711,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 236753,
+    "endMs": 236785,
+    "timestampMs": 236753,
+    "confidence": null
+  },
+  {
+    "text": "Implement",
+    "startMs": 236785,
+    "endMs": 236879,
+    "timestampMs": 236785,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 236879,
+    "endMs": 236910,
+    "timestampMs": 236879,
+    "confidence": null
+  },
+  {
+    "text": "Review",
+    "startMs": 236910,
+    "endMs": 236973,
+    "timestampMs": 236910,
+    "confidence": null
+  },
+  {
+    "text": "→",
+    "startMs": 236973,
+    "endMs": 237005,
+    "timestampMs": 236973,
+    "confidence": null
+  },
+  {
+    "text": "Discover",
+    "startMs": 237005,
+    "endMs": 237088,
+    "timestampMs": 237005,
+    "confidence": null
+  },
+  {
+    "text": "phases,",
+    "startMs": 237088,
+    "endMs": 237162,
+    "timestampMs": 237088,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 237162,
+    "endMs": 237214,
+    "timestampMs": 237162,
+    "confidence": null
+  },
+  {
+    "text": "specialized",
+    "startMs": 237214,
+    "endMs": 237308,
+    "timestampMs": 237214,
+    "confidence": null
+  },
+  {
+    "text": "subagents",
+    "startMs": 237308,
+    "endMs": 237403,
+    "timestampMs": 237308,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 237403,
+    "endMs": 237445,
+    "timestampMs": 237403,
+    "confidence": null
+  },
+  {
+    "text": "task",
+    "startMs": 237445,
+    "endMs": 237486,
+    "timestampMs": 237445,
+    "confidence": null
+  },
+  {
+    "text": "difficulty",
+    "startMs": 237486,
+    "endMs": 237581,
+    "timestampMs": 237486,
+    "confidence": null
+  },
+  {
+    "text": "warrants",
+    "startMs": 237581,
+    "endMs": 237664,
+    "timestampMs": 237581,
+    "confidence": null
+  },
+  {
+    "text": "them.\"",
+    "startMs": 237664,
+    "endMs": 237706,
+    "timestampMs": 237664,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 237706,
+    "endMs": 237738,
+    "timestampMs": 237706,
+    "confidence": null
+  },
+  {
+    "text": "`rpi-agent`",
+    "startMs": 237738,
+    "endMs": 237822,
+    "timestampMs": 237738,
+    "confidence": null
+  },
+  {
+    "text": "manages",
+    "startMs": 237822,
+    "endMs": 237895,
+    "timestampMs": 237822,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 237895,
+    "endMs": 237926,
+    "timestampMs": 237895,
+    "confidence": null
+  },
+  {
+    "text": "full",
+    "startMs": 237926,
+    "endMs": 237968,
+    "timestampMs": 237926,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 237968,
+    "endMs": 238052,
+    "timestampMs": 237968,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 238052,
+    "endMs": 238083,
+    "timestampMs": 238052,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 238083,
+    "endMs": 238115,
+    "timestampMs": 238083,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 238115,
+    "endMs": 238178,
+    "timestampMs": 238115,
+    "confidence": null
+  },
+  {
+    "text": "session,",
+    "startMs": 238178,
+    "endMs": 238262,
+    "timestampMs": 238178,
+    "confidence": null
+  },
+  {
+    "text": "delegating",
+    "startMs": 238262,
+    "endMs": 238356,
+    "timestampMs": 238262,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 238356,
+    "endMs": 238387,
+    "timestampMs": 238356,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 238387,
+    "endMs": 238419,
+    "timestampMs": 238387,
+    "confidence": null
+  },
+  {
+    "text": "phase-specific",
+    "startMs": 238419,
+    "endMs": 238513,
+    "timestampMs": 238419,
+    "confidence": null
+  },
+  {
+    "text": "subagents",
+    "startMs": 238513,
+    "endMs": 238607,
+    "timestampMs": 238513,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 238607,
+    "endMs": 238639,
+    "timestampMs": 238607,
+    "confidence": null
+  },
+  {
+    "text": "needed.",
+    "startMs": 238639,
+    "endMs": 238734,
+    "timestampMs": 238639,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 238734,
+    "endMs": 238766,
+    "timestampMs": 238734,
+    "confidence": null
+  },
+  {
+    "text": "suits",
+    "startMs": 238766,
+    "endMs": 238818,
+    "timestampMs": 238766,
+    "confidence": null
+  },
+  {
+    "text": "tasks",
+    "startMs": 238818,
+    "endMs": 238870,
+    "timestampMs": 238818,
+    "confidence": null
+  },
+  {
+    "text": "where",
+    "startMs": 238870,
+    "endMs": 238923,
+    "timestampMs": 238870,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 238923,
+    "endMs": 238954,
+    "timestampMs": 238923,
+    "confidence": null
+  },
+  {
+    "text": "trust",
+    "startMs": 238954,
+    "endMs": 239006,
+    "timestampMs": 238954,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 239006,
+    "endMs": 239038,
+    "timestampMs": 239006,
+    "confidence": null
+  },
+  {
+    "text": "automation",
+    "startMs": 239038,
+    "endMs": 239132,
+    "timestampMs": 239038,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 239132,
+    "endMs": 239164,
+    "timestampMs": 239132,
+    "confidence": null
+  },
+  {
+    "text": "do",
+    "startMs": 239164,
+    "endMs": 239195,
+    "timestampMs": 239164,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 239195,
+    "endMs": 239226,
+    "timestampMs": 239195,
+    "confidence": null
+  },
+  {
+    "text": "need",
+    "startMs": 239226,
+    "endMs": 239268,
+    "timestampMs": 239226,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 239268,
+    "endMs": 239300,
+    "timestampMs": 239268,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 239300,
+    "endMs": 239363,
+    "timestampMs": 239300,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 239363,
+    "endMs": 239404,
+    "timestampMs": 239363,
+    "confidence": null
+  },
+  {
+    "text": "phase's",
+    "startMs": 239404,
+    "endMs": 239467,
+    "timestampMs": 239404,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 239467,
+    "endMs": 239530,
+    "timestampMs": 239467,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 239530,
+    "endMs": 239593,
+    "timestampMs": 239530,
+    "confidence": null
+  },
+  {
+    "text": "proceeding.",
+    "startMs": 239593,
+    "endMs": 239720,
+    "timestampMs": 239593,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 239720,
+    "endMs": 239959,
+    "timestampMs": 239720,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 239959,
+    "endMs": 240199,
+    "timestampMs": 239959,
+    "confidence": null
+  },
+  {
+    "text": "documentation",
+    "startMs": 240199,
+    "endMs": 240916,
+    "timestampMs": 240199,
+    "confidence": null
+  },
+  {
+    "text": "provides",
+    "startMs": 240916,
+    "endMs": 241555,
+    "timestampMs": 240916,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 241555,
+    "endMs": 241794,
+    "timestampMs": 241555,
+    "confidence": null
+  },
+  {
+    "text": "clear",
+    "startMs": 241794,
+    "endMs": 242193,
+    "timestampMs": 241794,
+    "confidence": null
+  },
+  {
+    "text": "decision",
+    "startMs": 242193,
+    "endMs": 242831,
+    "timestampMs": 242193,
+    "confidence": null
+  },
+  {
+    "text": "table.",
+    "startMs": 242831,
+    "endMs": 243479,
+    "timestampMs": 242831,
+    "confidence": null
+  },
+  {
+    "text": "Use",
+    "startMs": 243479,
+    "endMs": 243718,
+    "timestampMs": 243479,
+    "confidence": null
+  },
+  {
+    "text": "full",
+    "startMs": 243718,
+    "endMs": 244037,
+    "timestampMs": 243718,
+    "confidence": null
+  },
+  {
+    "text": "four-phase",
+    "startMs": 244037,
+    "endMs": 244755,
+    "timestampMs": 244037,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 244755,
+    "endMs": 244994,
+    "timestampMs": 244755,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 244994,
+    "endMs": 245313,
+    "timestampMs": 244994,
+    "confidence": null
+  },
+  {
+    "text": "changes",
+    "startMs": 245313,
+    "endMs": 245872,
+    "timestampMs": 245313,
+    "confidence": null
+  },
+  {
+    "text": "span",
+    "startMs": 245872,
+    "endMs": 246191,
+    "timestampMs": 245872,
+    "confidence": null
+  },
+  {
+    "text": "multiple",
+    "startMs": 246191,
+    "endMs": 246829,
+    "timestampMs": 246191,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 246829,
+    "endMs": 247308,
+    "timestampMs": 246829,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 247308,
+    "endMs": 247627,
+    "timestampMs": 247308,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 247627,
+    "endMs": 247866,
+    "timestampMs": 247627,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 247866,
+    "endMs": 248105,
+    "timestampMs": 247866,
+    "confidence": null
+  },
+  {
+    "text": "learning",
+    "startMs": 248105,
+    "endMs": 248743,
+    "timestampMs": 248105,
+    "confidence": null
+  },
+  {
+    "text": "new",
+    "startMs": 248743,
+    "endMs": 248983,
+    "timestampMs": 248743,
+    "confidence": null
+  },
+  {
+    "text": "patterns",
+    "startMs": 248983,
+    "endMs": 249621,
+    "timestampMs": 248983,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 249621,
+    "endMs": 249860,
+    "timestampMs": 249621,
+    "confidence": null
+  },
+  {
+    "text": "APIs,",
+    "startMs": 249860,
+    "endMs": 250259,
+    "timestampMs": 249860,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 250259,
+    "endMs": 250578,
+    "timestampMs": 250259,
+    "confidence": null
+  },
+  {
+    "text": "external",
+    "startMs": 250578,
+    "endMs": 251216,
+    "timestampMs": 250578,
+    "confidence": null
+  },
+  {
+    "text": "dependencies",
+    "startMs": 251216,
+    "endMs": 251934,
+    "timestampMs": 251216,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 251934,
+    "endMs": 252173,
+    "timestampMs": 251934,
+    "confidence": null
+  },
+  {
+    "text": "involved,",
+    "startMs": 252173,
+    "endMs": 252891,
+    "timestampMs": 252173,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 252891,
+    "endMs": 253130,
+    "timestampMs": 252891,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 253130,
+    "endMs": 253449,
+    "timestampMs": 253130,
+    "confidence": null
+  },
+  {
+    "text": "requirements",
+    "startMs": 253449,
+    "endMs": 254167,
+    "timestampMs": 253449,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 254167,
+    "endMs": 254406,
+    "timestampMs": 254167,
+    "confidence": null
+  },
+  {
+    "text": "unclear.",
+    "startMs": 254406,
+    "endMs": 255214,
+    "timestampMs": 254406,
+    "confidence": null
+  },
+  {
+    "text": "Use",
+    "startMs": 255214,
+    "endMs": 255453,
+    "timestampMs": 255214,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 255453,
+    "endMs": 256171,
+    "timestampMs": 255453,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 256171,
+    "endMs": 256650,
+    "timestampMs": 256171,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 256650,
+    "endMs": 256889,
+    "timestampMs": 256650,
+    "confidence": null
+  },
+  {
+    "text": "quick",
+    "startMs": 256889,
+    "endMs": 257288,
+    "timestampMs": 256889,
+    "confidence": null
+  },
+  {
+    "text": "edits",
+    "startMs": 257288,
+    "endMs": 257687,
+    "timestampMs": 257288,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 257687,
+    "endMs": 258006,
+    "timestampMs": 257687,
+    "confidence": null
+  },
+  {
+    "text": "fixing",
+    "startMs": 258006,
+    "endMs": 258484,
+    "timestampMs": 258006,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 258484,
+    "endMs": 258724,
+    "timestampMs": 258484,
+    "confidence": null
+  },
+  {
+    "text": "typo,",
+    "startMs": 258724,
+    "endMs": 259122,
+    "timestampMs": 258724,
+    "confidence": null
+  },
+  {
+    "text": "adding",
+    "startMs": 259122,
+    "endMs": 259601,
+    "timestampMs": 259122,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 259601,
+    "endMs": 259840,
+    "timestampMs": 259601,
+    "confidence": null
+  },
+  {
+    "text": "log",
+    "startMs": 259840,
+    "endMs": 260080,
+    "timestampMs": 259840,
+    "confidence": null
+  },
+  {
+    "text": "statement,",
+    "startMs": 260080,
+    "endMs": 260877,
+    "timestampMs": 260080,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 260877,
+    "endMs": 261117,
+    "timestampMs": 260877,
+    "confidence": null
+  },
+  {
+    "text": "refactoring",
+    "startMs": 261117,
+    "endMs": 261834,
+    "timestampMs": 261117,
+    "confidence": null
+  },
+  {
+    "text": "fewer",
+    "startMs": 261834,
+    "endMs": 262233,
+    "timestampMs": 261834,
+    "confidence": null
+  },
+  {
+    "text": "than",
+    "startMs": 262233,
+    "endMs": 262552,
+    "timestampMs": 262233,
+    "confidence": null
+  },
+  {
+    "text": "50",
+    "startMs": 262552,
+    "endMs": 262792,
+    "timestampMs": 262552,
+    "confidence": null
+  },
+  {
+    "text": "lines",
+    "startMs": 262792,
+    "endMs": 263190,
+    "timestampMs": 262792,
+    "confidence": null
+  },
+  {
+    "text": "where",
+    "startMs": 263190,
+    "endMs": 263589,
+    "timestampMs": 263190,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 263589,
+    "endMs": 263829,
+    "timestampMs": 263589,
+    "confidence": null
+  },
+  {
+    "text": "change",
+    "startMs": 263829,
+    "endMs": 264307,
+    "timestampMs": 263829,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 264307,
+    "endMs": 264546,
+    "timestampMs": 264307,
+    "confidence": null
+  },
+  {
+    "text": "obvious.",
+    "startMs": 264546,
+    "endMs": 265354,
+    "timestampMs": 264546,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 265354,
+    "endMs": 265593,
+    "timestampMs": 265354,
+    "confidence": null
+  },
+  {
+    "text": "rule",
+    "startMs": 265593,
+    "endMs": 265912,
+    "timestampMs": 265593,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 265912,
+    "endMs": 266152,
+    "timestampMs": 265912,
+    "confidence": null
+  },
+  {
+    "text": "thumb",
+    "startMs": 266152,
+    "endMs": 266550,
+    "timestampMs": 266152,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 266550,
+    "endMs": 266870,
+    "timestampMs": 266550,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 266870,
+    "endMs": 267109,
+    "timestampMs": 266870,
+    "confidence": null
+  },
+  {
+    "text": "docs:",
+    "startMs": 267109,
+    "endMs": 267508,
+    "timestampMs": 267109,
+    "confidence": null
+  },
+  {
+    "text": "if",
+    "startMs": 267508,
+    "endMs": 267747,
+    "timestampMs": 267508,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 267747,
+    "endMs": 267986,
+    "timestampMs": 267747,
+    "confidence": null
+  },
+  {
+    "text": "need",
+    "startMs": 267986,
+    "endMs": 268305,
+    "timestampMs": 267986,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 268305,
+    "endMs": 268545,
+    "timestampMs": 268305,
+    "confidence": null
+  },
+  {
+    "text": "understand",
+    "startMs": 268545,
+    "endMs": 269262,
+    "timestampMs": 268545,
+    "confidence": null
+  },
+  {
+    "text": "something",
+    "startMs": 269262,
+    "endMs": 269980,
+    "timestampMs": 269262,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 269980,
+    "endMs": 270459,
+    "timestampMs": 269980,
+    "confidence": null
+  },
+  {
+    "text": "implementing,",
+    "startMs": 270459,
+    "endMs": 271257,
+    "timestampMs": 270459,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 271257,
+    "endMs": 271496,
+    "timestampMs": 271257,
+    "confidence": null
+  },
+  {
+    "text": "RPI.",
+    "startMs": 271496,
+    "endMs": 271984,
+    "timestampMs": 271496,
+    "confidence": null
+  },
+  {
+    "text": "If",
+    "startMs": 271984,
+    "endMs": 272224,
+    "timestampMs": 271984,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 272224,
+    "endMs": 272463,
+    "timestampMs": 272224,
+    "confidence": null
+  },
+  {
+    "text": "already",
+    "startMs": 272463,
+    "endMs": 273021,
+    "timestampMs": 272463,
+    "confidence": null
+  },
+  {
+    "text": "know",
+    "startMs": 273021,
+    "endMs": 273340,
+    "timestampMs": 273021,
+    "confidence": null
+  },
+  {
+    "text": "exactly",
+    "startMs": 273340,
+    "endMs": 273899,
+    "timestampMs": 273340,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 273899,
+    "endMs": 274218,
+    "timestampMs": 273899,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 274218,
+    "endMs": 274457,
+    "timestampMs": 274218,
+    "confidence": null
+  },
+  {
+    "text": "change,",
+    "startMs": 274457,
+    "endMs": 275015,
+    "timestampMs": 274457,
+    "confidence": null
+  },
+  {
+    "text": "skip",
+    "startMs": 275015,
+    "endMs": 275334,
+    "timestampMs": 275015,
+    "confidence": null
+  },
+  {
+    "text": "directly",
+    "startMs": 275334,
+    "endMs": 275973,
+    "timestampMs": 275334,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 275973,
+    "endMs": 276212,
+    "timestampMs": 275973,
+    "confidence": null
+  },
+  {
+    "text": "implementation.",
+    "startMs": 276212,
+    "endMs": 277179,
+    "timestampMs": 276212,
+    "confidence": null
+  },
+  {
+    "text": "Three",
+    "startMs": 277179,
+    "endMs": 277578,
+    "timestampMs": 277179,
+    "confidence": null
+  },
+  {
+    "text": "options",
+    "startMs": 277578,
+    "endMs": 278136,
+    "timestampMs": 277578,
+    "confidence": null
+  },
+  {
+    "text": "exist",
+    "startMs": 278136,
+    "endMs": 278535,
+    "timestampMs": 278136,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 278535,
+    "endMs": 278774,
+    "timestampMs": 278535,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 278774,
+    "endMs": 279014,
+    "timestampMs": 278774,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 279014,
+    "endMs": 279253,
+    "timestampMs": 279014,
+    "confidence": null
+  },
+  {
+    "text": "spectrum.",
+    "startMs": 279253,
+    "endMs": 280140,
+    "timestampMs": 279253,
+    "confidence": null
+  },
+  {
+    "text": "Full",
+    "startMs": 280140,
+    "endMs": 280459,
+    "timestampMs": 280140,
+    "confidence": null
+  },
+  {
+    "text": "manual",
+    "startMs": 280459,
+    "endMs": 280938,
+    "timestampMs": 280459,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 280938,
+    "endMs": 281177,
+    "timestampMs": 280938,
+    "confidence": null
+  },
+  {
+    "text": "gives",
+    "startMs": 281177,
+    "endMs": 281576,
+    "timestampMs": 281177,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 281576,
+    "endMs": 281815,
+    "timestampMs": 281576,
+    "confidence": null
+  },
+  {
+    "text": "maximum",
+    "startMs": 281815,
+    "endMs": 282374,
+    "timestampMs": 281815,
+    "confidence": null
+  },
+  {
+    "text": "control",
+    "startMs": 282374,
+    "endMs": 282932,
+    "timestampMs": 282374,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 282932,
+    "endMs": 283171,
+    "timestampMs": 282932,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 283171,
+    "endMs": 283410,
+    "timestampMs": 283171,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 283410,
+    "endMs": 283889,
+    "timestampMs": 283410,
+    "confidence": null
+  },
+  {
+    "text": "research",
+    "startMs": 283889,
+    "endMs": 284527,
+    "timestampMs": 283889,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 284527,
+    "endMs": 285006,
+    "timestampMs": 284527,
+    "confidence": null
+  },
+  {
+    "text": "planning,",
+    "startMs": 285006,
+    "endMs": 285724,
+    "timestampMs": 285006,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 285724,
+    "endMs": 286202,
+    "timestampMs": 285724,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 286202,
+    "endMs": 286441,
+    "timestampMs": 286202,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 286441,
+    "endMs": 286761,
+    "timestampMs": 286441,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 286761,
+    "endMs": 287239,
+    "timestampMs": 286761,
+    "confidence": null
+  },
+  {
+    "text": "implementing,",
+    "startMs": 287239,
+    "endMs": 288037,
+    "timestampMs": 287239,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 288037,
+    "endMs": 288276,
+    "timestampMs": 288037,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 288276,
+    "endMs": 288755,
+    "timestampMs": 288276,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 288755,
+    "endMs": 288994,
+    "timestampMs": 288755,
+    "confidence": null
+  },
+  {
+    "text": "implementation",
+    "startMs": 288994,
+    "endMs": 289712,
+    "timestampMs": 288994,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 289712,
+    "endMs": 290190,
+    "timestampMs": 289712,
+    "confidence": null
+  },
+  {
+    "text": "committing.",
+    "startMs": 290190,
+    "endMs": 291158,
+    "timestampMs": 290190,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 291158,
+    "endMs": 291397,
+    "timestampMs": 291158,
+    "confidence": null
+  },
+  {
+    "text": "`rpi-agent`",
+    "startMs": 291397,
+    "endMs": 292035,
+    "timestampMs": 291397,
+    "confidence": null
+  },
+  {
+    "text": "orchestrator",
+    "startMs": 292035,
+    "endMs": 292753,
+    "timestampMs": 292035,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 292753,
+    "endMs": 293072,
+    "timestampMs": 292753,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 293072,
+    "endMs": 293311,
+    "timestampMs": 293072,
+    "confidence": null
+  },
+  {
+    "text": "phases",
+    "startMs": 293311,
+    "endMs": 293790,
+    "timestampMs": 293311,
+    "confidence": null
+  },
+  {
+    "text": "autonomously",
+    "startMs": 293790,
+    "endMs": 294508,
+    "timestampMs": 293790,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 294508,
+    "endMs": 294747,
+    "timestampMs": 294508,
+    "confidence": null
+  },
+  {
+    "text": "medium-complexity",
+    "startMs": 294747,
+    "endMs": 295465,
+    "timestampMs": 294747,
+    "confidence": null
+  },
+  {
+    "text": "tasks",
+    "startMs": 295465,
+    "endMs": 295864,
+    "timestampMs": 295465,
+    "confidence": null
+  },
+  {
+    "text": "where",
+    "startMs": 295864,
+    "endMs": 296262,
+    "timestampMs": 295864,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 296262,
+    "endMs": 296502,
+    "timestampMs": 296262,
+    "confidence": null
+  },
+  {
+    "text": "trust",
+    "startMs": 296502,
+    "endMs": 296900,
+    "timestampMs": 296502,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 296900,
+    "endMs": 297140,
+    "timestampMs": 296900,
+    "confidence": null
+  },
+  {
+    "text": "pipeline.",
+    "startMs": 297140,
+    "endMs": 298027,
+    "timestampMs": 297140,
+    "confidence": null
+  },
+  {
+    "text": "Individual",
+    "startMs": 298027,
+    "endMs": 298745,
+    "timestampMs": 298027,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 298745,
+    "endMs": 299224,
+    "timestampMs": 298745,
+    "confidence": null
+  },
+  {
+    "text": "let",
+    "startMs": 299224,
+    "endMs": 299463,
+    "timestampMs": 299224,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 299463,
+    "endMs": 299702,
+    "timestampMs": 299463,
+    "confidence": null
+  },
+  {
+    "text": "pick",
+    "startMs": 299702,
+    "endMs": 300021,
+    "timestampMs": 299702,
+    "confidence": null
+  },
+  {
+    "text": "only",
+    "startMs": 300021,
+    "endMs": 300340,
+    "timestampMs": 300021,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 300340,
+    "endMs": 300580,
+    "timestampMs": 300340,
+    "confidence": null
+  },
+  {
+    "text": "phase",
+    "startMs": 300580,
+    "endMs": 300978,
+    "timestampMs": 300580,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 300978,
+    "endMs": 301218,
+    "timestampMs": 300978,
+    "confidence": null
+  },
+  {
+    "text": "need",
+    "startMs": 301218,
+    "endMs": 301537,
+    "timestampMs": 301218,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 301537,
+    "endMs": 301776,
+    "timestampMs": 301537,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 301776,
+    "endMs": 302015,
+    "timestampMs": 301776,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 302015,
+    "endMs": 302334,
+    "timestampMs": 302015,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 302334,
+    "endMs": 303052,
+    "timestampMs": 302334,
+    "confidence": null
+  },
+  {
+    "text": "alone",
+    "startMs": 303052,
+    "endMs": 303451,
+    "timestampMs": 303052,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 303451,
+    "endMs": 303690,
+    "timestampMs": 303451,
+    "confidence": null
+  },
+  {
+    "text": "investigate",
+    "startMs": 303690,
+    "endMs": 304408,
+    "timestampMs": 303690,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 304408,
+    "endMs": 304648,
+    "timestampMs": 304408,
+    "confidence": null
+  },
+  {
+    "text": "unfamiliar",
+    "startMs": 304648,
+    "endMs": 305365,
+    "timestampMs": 304648,
+    "confidence": null
+  },
+  {
+    "text": "API,",
+    "startMs": 305365,
+    "endMs": 305684,
+    "timestampMs": 305365,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 305684,
+    "endMs": 305924,
+    "timestampMs": 305684,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 305924,
+    "endMs": 306163,
+    "timestampMs": 305924,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 306163,
+    "endMs": 306482,
+    "timestampMs": 306163,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer",
+    "startMs": 306482,
+    "endMs": 307120,
+    "timestampMs": 306482,
+    "confidence": null
+  },
+  {
+    "text": "alone",
+    "startMs": 307120,
+    "endMs": 307519,
+    "timestampMs": 307120,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 307519,
+    "endMs": 307758,
+    "timestampMs": 307519,
+    "confidence": null
+  },
+  {
+    "text": "validate",
+    "startMs": 307758,
+    "endMs": 308396,
+    "timestampMs": 307758,
+    "confidence": null
+  },
+  {
+    "text": "work",
+    "startMs": 308396,
+    "endMs": 308715,
+    "timestampMs": 308396,
+    "confidence": null
+  },
+  {
+    "text": "you",
+    "startMs": 308715,
+    "endMs": 308955,
+    "timestampMs": 308715,
+    "confidence": null
+  },
+  {
+    "text": "implemented",
+    "startMs": 308955,
+    "endMs": 309673,
+    "timestampMs": 308955,
+    "confidence": null
+  },
+  {
+    "text": "manually.",
+    "startMs": 309673,
+    "endMs": 310560,
+    "timestampMs": 309673,
+    "confidence": null
+  },
+  {
+    "text": "RPI",
+    "startMs": 310560,
+    "endMs": 310793,
+    "timestampMs": 310560,
+    "confidence": null
+  },
+  {
+    "text": "separates",
+    "startMs": 310793,
+    "endMs": 311492,
+    "timestampMs": 310793,
+    "confidence": null
+  },
+  {
+    "text": "AI",
+    "startMs": 311492,
+    "endMs": 311726,
+    "timestampMs": 311492,
+    "confidence": null
+  },
+  {
+    "text": "work",
+    "startMs": 311726,
+    "endMs": 312036,
+    "timestampMs": 311726,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 312036,
+    "endMs": 312347,
+    "timestampMs": 312036,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 312347,
+    "endMs": 312658,
+    "timestampMs": 312347,
+    "confidence": null
+  },
+  {
+    "text": "constrained",
+    "startMs": 312658,
+    "endMs": 313357,
+    "timestampMs": 312658,
+    "confidence": null
+  },
+  {
+    "text": "phases,",
+    "startMs": 313357,
+    "endMs": 313901,
+    "timestampMs": 313357,
+    "confidence": null
+  },
+  {
+    "text": "each",
+    "startMs": 313901,
+    "endMs": 314212,
+    "timestampMs": 313901,
+    "confidence": null
+  },
+  {
+    "text": "handled",
+    "startMs": 314212,
+    "endMs": 314756,
+    "timestampMs": 314212,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 314756,
+    "endMs": 314989,
+    "timestampMs": 314756,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 314989,
+    "endMs": 315222,
+    "timestampMs": 314989,
+    "confidence": null
+  },
+  {
+    "text": "specialized",
+    "startMs": 315222,
+    "endMs": 315922,
+    "timestampMs": 315222,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 315922,
+    "endMs": 316310,
+    "timestampMs": 315922,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 316310,
+    "endMs": 316621,
+    "timestampMs": 316310,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 316621,
+    "endMs": 317243,
+    "timestampMs": 316621,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 317243,
+    "endMs": 317476,
+    "timestampMs": 317243,
+    "confidence": null
+  },
+  {
+    "text": "file-based",
+    "startMs": 317476,
+    "endMs": 318175,
+    "timestampMs": 317476,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 318175,
+    "endMs": 318797,
+    "timestampMs": 318175,
+    "confidence": null
+  },
+  {
+    "text": "consumed",
+    "startMs": 318797,
+    "endMs": 319419,
+    "timestampMs": 318797,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 319419,
+    "endMs": 319652,
+    "timestampMs": 319419,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 319652,
+    "endMs": 319885,
+    "timestampMs": 319652,
+    "confidence": null
+  },
+  {
+    "text": "next",
+    "startMs": 319885,
+    "endMs": 320196,
+    "timestampMs": 319885,
+    "confidence": null
+  },
+  {
+    "text": "phase.",
+    "startMs": 320196,
+    "endMs": 320827,
+    "timestampMs": 320196,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 320827,
+    "endMs": 321138,
+    "timestampMs": 320827,
+    "confidence": null
+  },
+  {
+    "text": "Researcher",
+    "startMs": 321138,
+    "endMs": 321837,
+    "timestampMs": 321138,
+    "confidence": null
+  },
+  {
+    "text": "produces",
+    "startMs": 321837,
+    "endMs": 322459,
+    "timestampMs": 321837,
+    "confidence": null
+  },
+  {
+    "text": "evidence-backed",
+    "startMs": 322459,
+    "endMs": 323158,
+    "timestampMs": 322459,
+    "confidence": null
+  },
+  {
+    "text": "research.",
+    "startMs": 323158,
+    "endMs": 324023,
+    "timestampMs": 323158,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 324023,
+    "endMs": 324334,
+    "timestampMs": 324023,
+    "confidence": null
+  },
+  {
+    "text": "Planner",
+    "startMs": 324334,
+    "endMs": 324878,
+    "timestampMs": 324334,
+    "confidence": null
+  },
+  {
+    "text": "transforms",
+    "startMs": 324878,
+    "endMs": 325577,
+    "timestampMs": 324878,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 325577,
+    "endMs": 325888,
+    "timestampMs": 325577,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 325888,
+    "endMs": 326199,
+    "timestampMs": 325888,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 326199,
+    "endMs": 326432,
+    "timestampMs": 326199,
+    "confidence": null
+  },
+  {
+    "text": "phased",
+    "startMs": 326432,
+    "endMs": 326898,
+    "timestampMs": 326432,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 326898,
+    "endMs": 327209,
+    "timestampMs": 326898,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 327209,
+    "endMs": 327520,
+    "timestampMs": 327209,
+    "confidence": null
+  },
+  {
+    "text": "success",
+    "startMs": 327520,
+    "endMs": 328064,
+    "timestampMs": 327520,
+    "confidence": null
+  },
+  {
+    "text": "criteria.",
+    "startMs": 328064,
+    "endMs": 328928,
+    "timestampMs": 328064,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 328928,
+    "endMs": 329239,
+    "timestampMs": 328928,
+    "confidence": null
+  },
+  {
+    "text": "Implementor",
+    "startMs": 329239,
+    "endMs": 329938,
+    "timestampMs": 329239,
+    "confidence": null
+  },
+  {
+    "text": "executes",
+    "startMs": 329938,
+    "endMs": 330560,
+    "timestampMs": 329938,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 330560,
+    "endMs": 330793,
+    "timestampMs": 330560,
+    "confidence": null
+  },
+  {
+    "text": "plan",
+    "startMs": 330793,
+    "endMs": 331104,
+    "timestampMs": 330793,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 331104,
+    "endMs": 331415,
+    "timestampMs": 331104,
+    "confidence": null
+  },
+  {
+    "text": "change",
+    "startMs": 331415,
+    "endMs": 331881,
+    "timestampMs": 331415,
+    "confidence": null
+  },
+  {
+    "text": "tracking",
+    "startMs": 331881,
+    "endMs": 332503,
+    "timestampMs": 331881,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 332503,
+    "endMs": 332736,
+    "timestampMs": 332503,
+    "confidence": null
+  },
+  {
+    "text": "stop",
+    "startMs": 332736,
+    "endMs": 333047,
+    "timestampMs": 332736,
+    "confidence": null
+  },
+  {
+    "text": "controls.",
+    "startMs": 333047,
+    "endMs": 333911,
+    "timestampMs": 333047,
+    "confidence": null
+  },
+  {
+    "text": "Task",
+    "startMs": 333911,
+    "endMs": 334222,
+    "timestampMs": 333911,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer",
+    "startMs": 334222,
+    "endMs": 334843,
+    "timestampMs": 334222,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 334843,
+    "endMs": 335543,
+    "timestampMs": 334843,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 335543,
+    "endMs": 335776,
+    "timestampMs": 335543,
+    "confidence": null
+  },
+  {
+    "text": "result",
+    "startMs": 335776,
+    "endMs": 336242,
+    "timestampMs": 335776,
+    "confidence": null
+  },
+  {
+    "text": "against",
+    "startMs": 336242,
+    "endMs": 336786,
+    "timestampMs": 336242,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 336786,
+    "endMs": 337019,
+    "timestampMs": 336786,
+    "confidence": null
+  },
+  {
+    "text": "prior",
+    "startMs": 337019,
+    "endMs": 337408,
+    "timestampMs": 337019,
+    "confidence": null
+  },
+  {
+    "text": "artifacts.",
+    "startMs": 337408,
+    "endMs": 338350,
+    "timestampMs": 337408,
+    "confidence": null
+  },
+  {
+    "text": "Module",
+    "startMs": 338350,
+    "endMs": 338816,
+    "timestampMs": 338350,
+    "confidence": null
+  },
+  {
+    "text": "4",
+    "startMs": 338816,
+    "endMs": 339049,
+    "timestampMs": 338816,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 339049,
+    "endMs": 339516,
+    "timestampMs": 339049,
+    "confidence": null
+  },
+  {
+    "text": "collections",
+    "startMs": 339516,
+    "endMs": 340215,
+    "timestampMs": 339516,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 340215,
+    "endMs": 340448,
+    "timestampMs": 340215,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 340448,
+    "endMs": 340681,
+    "timestampMs": 340448,
+    "confidence": null
+  },
+  {
+    "text": "packaging",
+    "startMs": 340681,
+    "endMs": 341381,
+    "timestampMs": 340681,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 341381,
+    "endMs": 341847,
+    "timestampMs": 341381,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 341847,
+    "endMs": 342158,
+    "timestampMs": 341847,
+    "confidence": null
+  },
+  {
+    "text": "bundles",
+    "startMs": 342158,
+    "endMs": 342702,
+    "timestampMs": 342158,
+    "confidence": null
+  },
+  {
+    "text": "these",
+    "startMs": 342702,
+    "endMs": 343090,
+    "timestampMs": 342702,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 343090,
+    "endMs": 343556,
+    "timestampMs": 343090,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 343556,
+    "endMs": 343867,
+    "timestampMs": 343556,
+    "confidence": null
+  },
+  {
+    "text": "prompts,",
+    "startMs": 343867,
+    "endMs": 344489,
+    "timestampMs": 343867,
+    "confidence": null
+  },
+  {
+    "text": "instructions,",
+    "startMs": 344489,
+    "endMs": 345266,
+    "timestampMs": 344489,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 345266,
+    "endMs": 345499,
+    "timestampMs": 345266,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 345499,
+    "endMs": 345965,
+    "timestampMs": 345499,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 345965,
+    "endMs": 346276,
+    "timestampMs": 345965,
+    "confidence": null
+  },
+  {
+    "text": "distributable",
+    "startMs": 346276,
+    "endMs": 346976,
+    "timestampMs": 346276,
+    "confidence": null
+  },
+  {
+    "text": "products.",
+    "startMs": 346976,
+    "endMs": 347840,
+    "timestampMs": 346976,
+    "confidence": null
+  }
+]

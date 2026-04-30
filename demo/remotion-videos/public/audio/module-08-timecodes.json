@@ -1,0 +1,76 @@
+{
+  "moduleNum": 8,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 32840,
+      "durationMs": 32840,
+      "audioFile": "module-08/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 32840,
+      "endMs": 58080,
+      "durationMs": 25240,
+      "audioFile": "module-08/01-objectives.wav"
+    },
+    {
+      "id": "skill-anatomy",
+      "index": 2,
+      "type": "content",
+      "title": "Skill Anatomy",
+      "startMs": 58080,
+      "endMs": 305800,
+      "durationMs": 247720,
+      "audioFile": "module-08/02-skill-anatomy.wav"
+    },
+    {
+      "id": "python-skill-requirements",
+      "index": 3,
+      "type": "content",
+      "title": "Python Skill Requirements",
+      "startMs": 305800,
+      "endMs": 428120,
+      "durationMs": 122320,
+      "audioFile": "module-08/03-python-skill-requirements.wav"
+    },
+    {
+      "id": "cross-platform-scripting",
+      "index": 4,
+      "type": "content",
+      "title": "Cross-Platform Scripting",
+      "startMs": 428120,
+      "endMs": 543400,
+      "durationMs": 115280,
+      "audioFile": "module-08/04-cross-platform-scripting.wav"
+    },
+    {
+      "id": "the-skill-catalog",
+      "index": 5,
+      "type": "content",
+      "title": "The Skill Catalog",
+      "startMs": 543400,
+      "endMs": 753040,
+      "durationMs": 209640,
+      "audioFile": "module-08/05-the-skill-catalog.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 753040,
+      "endMs": 798800,
+      "durationMs": 45760,
+      "audioFile": "module-08/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 798800
+}

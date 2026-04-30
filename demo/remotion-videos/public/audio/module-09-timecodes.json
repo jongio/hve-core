@@ -1,0 +1,96 @@
+{
+  "moduleNum": 9,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 27880,
+      "durationMs": 27880,
+      "audioFile": "module-09/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 27880,
+      "endMs": 51920,
+      "durationMs": 24040,
+      "audioFile": "module-09/01-objectives.wav"
+    },
+    {
+      "id": "the-artifact-system",
+      "index": 2,
+      "type": "content",
+      "title": "The Artifact System",
+      "startMs": 51920,
+      "endMs": 132480,
+      "durationMs": 80560,
+      "audioFile": "module-09/02-the-artifact-system.wav"
+    },
+    {
+      "id": "constructing-instruction-files",
+      "index": 3,
+      "type": "content",
+      "title": "Constructing Instruction Files",
+      "startMs": 132480,
+      "endMs": 250400,
+      "durationMs": 117920,
+      "audioFile": "module-09/03-constructing-instruction-files.wav"
+    },
+    {
+      "id": "defining-agent-files",
+      "index": 4,
+      "type": "content",
+      "title": "Defining Agent Files",
+      "startMs": 250400,
+      "endMs": 376760,
+      "durationMs": 126360,
+      "audioFile": "module-09/04-defining-agent-files.wav"
+    },
+    {
+      "id": "creating-prompt-files",
+      "index": 5,
+      "type": "content",
+      "title": "Creating Prompt Files",
+      "startMs": 376760,
+      "endMs": 470840,
+      "durationMs": 94080,
+      "audioFile": "module-09/05-creating-prompt-files.wav"
+    },
+    {
+      "id": "building-skills",
+      "index": 6,
+      "type": "content",
+      "title": "Building Skills",
+      "startMs": 470840,
+      "endMs": 553960,
+      "durationMs": 83120,
+      "audioFile": "module-09/06-building-skills.wav"
+    },
+    {
+      "id": "collection-manifests-and-validation",
+      "index": 7,
+      "type": "content",
+      "title": "Collection Manifests and Validation",
+      "startMs": 553960,
+      "endMs": 694720,
+      "durationMs": 140760,
+      "audioFile": "module-09/07-collection-manifests-and-validation.wav"
+    },
+    {
+      "id": "outro",
+      "index": 8,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 694720,
+      "endMs": 742120,
+      "durationMs": 47400,
+      "audioFile": "module-09/08-outro.wav"
+    }
+  ],
+  "totalDurationMs": 742120
+}

@@ -1,0 +1,10404 @@
+[
+  {
+    "text": "Skills",
+    "startMs": 0,
+    "endMs": 487,
+    "timestampMs": 0,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 487,
+    "endMs": 731,
+    "timestampMs": 487,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 731,
+    "endMs": 974,
+    "timestampMs": 731,
+    "confidence": null
+  },
+  {
+    "text": "most",
+    "startMs": 974,
+    "endMs": 1299,
+    "timestampMs": 974,
+    "confidence": null
+  },
+  {
+    "text": "structurally",
+    "startMs": 1299,
+    "endMs": 2030,
+    "timestampMs": 1299,
+    "confidence": null
+  },
+  {
+    "text": "complex",
+    "startMs": 2030,
+    "endMs": 2598,
+    "timestampMs": 2030,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 2598,
+    "endMs": 3247,
+    "timestampMs": 2598,
+    "confidence": null
+  },
+  {
+    "text": "type",
+    "startMs": 3247,
+    "endMs": 3572,
+    "timestampMs": 3247,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 3572,
+    "endMs": 3816,
+    "timestampMs": 3572,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 3816,
+    "endMs": 4059,
+    "timestampMs": 3816,
+    "confidence": null
+  },
+  {
+    "text": "Core.",
+    "startMs": 4059,
+    "endMs": 4638,
+    "timestampMs": 4059,
+    "confidence": null
+  },
+  {
+    "text": "Where",
+    "startMs": 4638,
+    "endMs": 5044,
+    "timestampMs": 4638,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 5044,
+    "endMs": 5531,
+    "timestampMs": 5044,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 5531,
+    "endMs": 5774,
+    "timestampMs": 5531,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 5774,
+    "endMs": 6262,
+    "timestampMs": 5774,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 6262,
+    "endMs": 6911,
+    "timestampMs": 6262,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 6911,
+    "endMs": 7317,
+    "timestampMs": 6911,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 7317,
+    "endMs": 7561,
+    "timestampMs": 7317,
+    "confidence": null
+  },
+  {
+    "text": "instructions",
+    "startMs": 7561,
+    "endMs": 8291,
+    "timestampMs": 7561,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 8291,
+    "endMs": 8535,
+    "timestampMs": 8291,
+    "confidence": null
+  },
+  {
+    "text": "single",
+    "startMs": 8535,
+    "endMs": 9022,
+    "timestampMs": 8535,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 9022,
+    "endMs": 9671,
+    "timestampMs": 9022,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 9671,
+    "endMs": 10077,
+    "timestampMs": 9671,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 10077,
+    "endMs": 10402,
+    "timestampMs": 10077,
+    "confidence": null
+  },
+  {
+    "text": "glob",
+    "startMs": 10402,
+    "endMs": 10727,
+    "timestampMs": 10402,
+    "confidence": null
+  },
+  {
+    "text": "patterns,",
+    "startMs": 10727,
+    "endMs": 11457,
+    "timestampMs": 10727,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 11457,
+    "endMs": 11945,
+    "timestampMs": 11457,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 11945,
+    "endMs": 12188,
+    "timestampMs": 11945,
+    "confidence": null
+  },
+  {
+    "text": "entire",
+    "startMs": 12188,
+    "endMs": 12675,
+    "timestampMs": 12188,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 12675,
+    "endMs": 13406,
+    "timestampMs": 12675,
+    "confidence": null
+  },
+  {
+    "text": "trees.",
+    "startMs": 13406,
+    "endMs": 14066,
+    "timestampMs": 13406,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 14066,
+    "endMs": 14390,
+    "timestampMs": 14066,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 14390,
+    "endMs": 14796,
+    "timestampMs": 14390,
+    "confidence": null
+  },
+  {
+    "text": "bundles",
+    "startMs": 14796,
+    "endMs": 15365,
+    "timestampMs": 14796,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 15365,
+    "endMs": 15608,
+    "timestampMs": 15365,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 15608,
+    "endMs": 16176,
+    "timestampMs": 15608,
+    "confidence": null
+  },
+  {
+    "text": "entry",
+    "startMs": 16176,
+    "endMs": 16582,
+    "timestampMs": 16176,
+    "confidence": null
+  },
+  {
+    "text": "point",
+    "startMs": 16582,
+    "endMs": 16988,
+    "timestampMs": 16582,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 16988,
+    "endMs": 17313,
+    "timestampMs": 16988,
+    "confidence": null
+  },
+  {
+    "text": "optional",
+    "startMs": 17313,
+    "endMs": 17963,
+    "timestampMs": 17313,
+    "confidence": null
+  },
+  {
+    "text": "scripts,",
+    "startMs": 17963,
+    "endMs": 18612,
+    "timestampMs": 17963,
+    "confidence": null
+  },
+  {
+    "text": "reference",
+    "startMs": 18612,
+    "endMs": 19343,
+    "timestampMs": 18612,
+    "confidence": null
+  },
+  {
+    "text": "documents,",
+    "startMs": 19343,
+    "endMs": 20155,
+    "timestampMs": 19343,
+    "confidence": null
+  },
+  {
+    "text": "tests,",
+    "startMs": 20155,
+    "endMs": 20642,
+    "timestampMs": 20155,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 20642,
+    "endMs": 20885,
+    "timestampMs": 20642,
+    "confidence": null
+  },
+  {
+    "text": "configuration",
+    "startMs": 20885,
+    "endMs": 21616,
+    "timestampMs": 20885,
+    "confidence": null
+  },
+  {
+    "text": "files.",
+    "startMs": 21616,
+    "endMs": 22276,
+    "timestampMs": 21616,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 22276,
+    "endMs": 22519,
+    "timestampMs": 22276,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 22519,
+    "endMs": 22763,
+    "timestampMs": 22519,
+    "confidence": null
+  },
+  {
+    "text": "Core",
+    "startMs": 22763,
+    "endMs": 23087,
+    "timestampMs": 22763,
+    "confidence": null
+  },
+  {
+    "text": "repository",
+    "startMs": 23087,
+    "endMs": 23818,
+    "timestampMs": 23087,
+    "confidence": null
+  },
+  {
+    "text": "ships",
+    "startMs": 23818,
+    "endMs": 24224,
+    "timestampMs": 23818,
+    "confidence": null
+  },
+  {
+    "text": "18",
+    "startMs": 24224,
+    "endMs": 24468,
+    "timestampMs": 24224,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 24468,
+    "endMs": 24955,
+    "timestampMs": 24468,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 24955,
+    "endMs": 25361,
+    "timestampMs": 24955,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/`,",
+    "startMs": 25361,
+    "endMs": 26173,
+    "timestampMs": 25361,
+    "confidence": null
+  },
+  {
+    "text": "spanning",
+    "startMs": 26173,
+    "endMs": 26822,
+    "timestampMs": 26173,
+    "confidence": null
+  },
+  {
+    "text": "security",
+    "startMs": 26822,
+    "endMs": 27472,
+    "timestampMs": 26822,
+    "confidence": null
+  },
+  {
+    "text": "frameworks,",
+    "startMs": 27472,
+    "endMs": 28283,
+    "timestampMs": 27472,
+    "confidence": null
+  },
+  {
+    "text": "coding",
+    "startMs": 28283,
+    "endMs": 28771,
+    "timestampMs": 28283,
+    "confidence": null
+  },
+  {
+    "text": "standards,",
+    "startMs": 28771,
+    "endMs": 29582,
+    "timestampMs": 28771,
+    "confidence": null
+  },
+  {
+    "text": "platform",
+    "startMs": 29582,
+    "endMs": 30232,
+    "timestampMs": 29582,
+    "confidence": null
+  },
+  {
+    "text": "integrations,",
+    "startMs": 30232,
+    "endMs": 31044,
+    "timestampMs": 30232,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 31044,
+    "endMs": 31287,
+    "timestampMs": 31044,
+    "confidence": null
+  },
+  {
+    "text": "tooling",
+    "startMs": 31287,
+    "endMs": 31856,
+    "timestampMs": 31287,
+    "confidence": null
+  },
+  {
+    "text": "automation.",
+    "startMs": 31856,
+    "endMs": 32840,
+    "timestampMs": 31856,
+    "confidence": null
+  },
+  {
+    "text": "Module",
+    "startMs": 32840,
+    "endMs": 33329,
+    "timestampMs": 32840,
+    "confidence": null
+  },
+  {
+    "text": "8",
+    "startMs": 33329,
+    "endMs": 33574,
+    "timestampMs": 33329,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 33574,
+    "endMs": 34063,
+    "timestampMs": 33574,
+    "confidence": null
+  },
+  {
+    "text": "four",
+    "startMs": 34063,
+    "endMs": 34389,
+    "timestampMs": 34063,
+    "confidence": null
+  },
+  {
+    "text": "areas.",
+    "startMs": 34389,
+    "endMs": 35051,
+    "timestampMs": 34389,
+    "confidence": null
+  },
+  {
+    "text": "First,",
+    "startMs": 35051,
+    "endMs": 35540,
+    "timestampMs": 35051,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 35540,
+    "endMs": 35785,
+    "timestampMs": 35540,
+    "confidence": null
+  },
+  {
+    "text": "anatomy",
+    "startMs": 35785,
+    "endMs": 36355,
+    "timestampMs": 35785,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 36355,
+    "endMs": 36600,
+    "timestampMs": 36355,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 36600,
+    "endMs": 36845,
+    "timestampMs": 36600,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 36845,
+    "endMs": 37252,
+    "timestampMs": 36845,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 37252,
+    "endMs": 37986,
+    "timestampMs": 37252,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 37986,
+    "endMs": 38230,
+    "timestampMs": 37986,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 38230,
+    "endMs": 38801,
+    "timestampMs": 38230,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 38801,
+    "endMs": 39046,
+    "timestampMs": 38801,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 39046,
+    "endMs": 39290,
+    "timestampMs": 39046,
+    "confidence": null
+  },
+  {
+    "text": "entry",
+    "startMs": 39290,
+    "endMs": 39698,
+    "timestampMs": 39290,
+    "confidence": null
+  },
+  {
+    "text": "point",
+    "startMs": 39698,
+    "endMs": 40105,
+    "timestampMs": 39698,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 40105,
+    "endMs": 40350,
+    "timestampMs": 40105,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 40350,
+    "endMs": 40594,
+    "timestampMs": 40350,
+    "confidence": null
+  },
+  {
+    "text": "conventional",
+    "startMs": 40594,
+    "endMs": 41328,
+    "timestampMs": 40594,
+    "confidence": null
+  },
+  {
+    "text": "subdirectories.",
+    "startMs": 41328,
+    "endMs": 42316,
+    "timestampMs": 41328,
+    "confidence": null
+  },
+  {
+    "text": "Second,",
+    "startMs": 42316,
+    "endMs": 42887,
+    "timestampMs": 42316,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 42887,
+    "endMs": 43376,
+    "timestampMs": 42887,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 43376,
+    "endMs": 43784,
+    "timestampMs": 43376,
+    "confidence": null
+  },
+  {
+    "text": "requirements",
+    "startMs": 43784,
+    "endMs": 44517,
+    "timestampMs": 43784,
+    "confidence": null
+  },
+  {
+    "text": "including",
+    "startMs": 44517,
+    "endMs": 45251,
+    "timestampMs": 44517,
+    "confidence": null
+  },
+  {
+    "text": "pyproject.toml,",
+    "startMs": 45251,
+    "endMs": 46066,
+    "timestampMs": 45251,
+    "confidence": null
+  },
+  {
+    "text": "ruff,",
+    "startMs": 46066,
+    "endMs": 46474,
+    "timestampMs": 46066,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 46474,
+    "endMs": 46718,
+    "timestampMs": 46474,
+    "confidence": null
+  },
+  {
+    "text": "pytest.",
+    "startMs": 46718,
+    "endMs": 47462,
+    "timestampMs": 46718,
+    "confidence": null
+  },
+  {
+    "text": "Third,",
+    "startMs": 47462,
+    "endMs": 47951,
+    "timestampMs": 47462,
+    "confidence": null
+  },
+  {
+    "text": "cross-platform",
+    "startMs": 47951,
+    "endMs": 48685,
+    "timestampMs": 47951,
+    "confidence": null
+  },
+  {
+    "text": "scripting",
+    "startMs": 48685,
+    "endMs": 49419,
+    "timestampMs": 48685,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 49419,
+    "endMs": 49745,
+    "timestampMs": 49419,
+    "confidence": null
+  },
+  {
+    "text": "matched",
+    "startMs": 49745,
+    "endMs": 50315,
+    "timestampMs": 49745,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 50315,
+    "endMs": 50641,
+    "timestampMs": 50315,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 50641,
+    "endMs": 50886,
+    "timestampMs": 50641,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 50886,
+    "endMs": 51620,
+    "timestampMs": 50886,
+    "confidence": null
+  },
+  {
+    "text": "scripts.",
+    "startMs": 51620,
+    "endMs": 52445,
+    "timestampMs": 51620,
+    "confidence": null
+  },
+  {
+    "text": "Fourth,",
+    "startMs": 52445,
+    "endMs": 53016,
+    "timestampMs": 52445,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 53016,
+    "endMs": 53260,
+    "timestampMs": 53016,
+    "confidence": null
+  },
+  {
+    "text": "catalog",
+    "startMs": 53260,
+    "endMs": 53831,
+    "timestampMs": 53260,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 53831,
+    "endMs": 54075,
+    "timestampMs": 53831,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 54075,
+    "endMs": 54320,
+    "timestampMs": 54075,
+    "confidence": null
+  },
+  {
+    "text": "actual",
+    "startMs": 54320,
+    "endMs": 54809,
+    "timestampMs": 54320,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 54809,
+    "endMs": 55298,
+    "timestampMs": 54809,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 55298,
+    "endMs": 55543,
+    "timestampMs": 55298,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 55543,
+    "endMs": 55787,
+    "timestampMs": 55543,
+    "confidence": null
+  },
+  {
+    "text": "repository",
+    "startMs": 55787,
+    "endMs": 56521,
+    "timestampMs": 55787,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 56521,
+    "endMs": 56766,
+    "timestampMs": 56521,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 56766,
+    "endMs": 57092,
+    "timestampMs": 56766,
+    "confidence": null
+  },
+  {
+    "text": "they",
+    "startMs": 57092,
+    "endMs": 57418,
+    "timestampMs": 57092,
+    "confidence": null
+  },
+  {
+    "text": "cover.",
+    "startMs": 57418,
+    "endMs": 58080,
+    "timestampMs": 57418,
+    "confidence": null
+  },
+  {
+    "text": "Every",
+    "startMs": 58080,
+    "endMs": 58612,
+    "timestampMs": 58080,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 58612,
+    "endMs": 59144,
+    "timestampMs": 58612,
+    "confidence": null
+  },
+  {
+    "text": "lives",
+    "startMs": 59144,
+    "endMs": 59676,
+    "timestampMs": 59144,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 59676,
+    "endMs": 59995,
+    "timestampMs": 59676,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 59995,
+    "endMs": 60314,
+    "timestampMs": 59995,
+    "confidence": null
+  },
+  {
+    "text": "own",
+    "startMs": 60314,
+    "endMs": 60633,
+    "timestampMs": 60314,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 60633,
+    "endMs": 61590,
+    "timestampMs": 60633,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 61590,
+    "endMs": 61909,
+    "timestampMs": 61590,
+    "confidence": null
+  },
+  {
+    "text": "begins",
+    "startMs": 61909,
+    "endMs": 62547,
+    "timestampMs": 61909,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 62547,
+    "endMs": 62973,
+    "timestampMs": 62547,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 62973,
+    "endMs": 63292,
+    "timestampMs": 62973,
+    "confidence": null
+  },
+  {
+    "text": "`SKILL.md`",
+    "startMs": 63292,
+    "endMs": 64037,
+    "timestampMs": 63292,
+    "confidence": null
+  },
+  {
+    "text": "file.",
+    "startMs": 64037,
+    "endMs": 64795,
+    "timestampMs": 64037,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 64795,
+    "endMs": 65220,
+    "timestampMs": 64795,
+    "confidence": null
+  },
+  {
+    "text": "Markdown",
+    "startMs": 65220,
+    "endMs": 66071,
+    "timestampMs": 65220,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 66071,
+    "endMs": 66496,
+    "timestampMs": 66071,
+    "confidence": null
+  },
+  {
+    "text": "serves",
+    "startMs": 66496,
+    "endMs": 67135,
+    "timestampMs": 66496,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 67135,
+    "endMs": 67454,
+    "timestampMs": 67135,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 67454,
+    "endMs": 67773,
+    "timestampMs": 67454,
+    "confidence": null
+  },
+  {
+    "text": "entry",
+    "startMs": 67773,
+    "endMs": 68305,
+    "timestampMs": 67773,
+    "confidence": null
+  },
+  {
+    "text": "point",
+    "startMs": 68305,
+    "endMs": 68837,
+    "timestampMs": 68305,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 68837,
+    "endMs": 69156,
+    "timestampMs": 68837,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 69156,
+    "endMs": 69475,
+    "timestampMs": 69156,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 69475,
+    "endMs": 69900,
+    "timestampMs": 69475,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 69900,
+    "endMs": 70326,
+    "timestampMs": 69900,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 70326,
+    "endMs": 70964,
+    "timestampMs": 70326,
+    "confidence": null
+  },
+  {
+    "text": "read",
+    "startMs": 70964,
+    "endMs": 71389,
+    "timestampMs": 70964,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 71389,
+    "endMs": 71709,
+    "timestampMs": 71389,
+    "confidence": null
+  },
+  {
+    "text": "understand",
+    "startMs": 71709,
+    "endMs": 72666,
+    "timestampMs": 71709,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 72666,
+    "endMs": 73091,
+    "timestampMs": 72666,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 73091,
+    "endMs": 73410,
+    "timestampMs": 73091,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 73410,
+    "endMs": 73942,
+    "timestampMs": 73410,
+    "confidence": null
+  },
+  {
+    "text": "provides",
+    "startMs": 73942,
+    "endMs": 74793,
+    "timestampMs": 73942,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 74793,
+    "endMs": 75112,
+    "timestampMs": 74793,
+    "confidence": null
+  },
+  {
+    "text": "how",
+    "startMs": 75112,
+    "endMs": 75431,
+    "timestampMs": 75112,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 75431,
+    "endMs": 75751,
+    "timestampMs": 75431,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 75751,
+    "endMs": 76070,
+    "timestampMs": 75751,
+    "confidence": null
+  },
+  {
+    "text": "it.",
+    "startMs": 76070,
+    "endMs": 76721,
+    "timestampMs": 76070,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 76721,
+    "endMs": 77466,
+    "timestampMs": 76721,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 77466,
+    "endMs": 77785,
+    "timestampMs": 77466,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 77785,
+    "endMs": 78210,
+    "timestampMs": 77785,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 78210,
+    "endMs": 79168,
+    "timestampMs": 78210,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 79168,
+    "endMs": 79593,
+    "timestampMs": 79168,
+    "confidence": null
+  },
+  {
+    "text": "fields",
+    "startMs": 79593,
+    "endMs": 80231,
+    "timestampMs": 79593,
+    "confidence": null
+  },
+  {
+    "text": "including",
+    "startMs": 80231,
+    "endMs": 81189,
+    "timestampMs": 80231,
+    "confidence": null
+  },
+  {
+    "text": "`name`,",
+    "startMs": 81189,
+    "endMs": 81721,
+    "timestampMs": 81189,
+    "confidence": null
+  },
+  {
+    "text": "`description`,",
+    "startMs": 81721,
+    "endMs": 82784,
+    "timestampMs": 81721,
+    "confidence": null
+  },
+  {
+    "text": "`license`,",
+    "startMs": 82784,
+    "endMs": 83635,
+    "timestampMs": 82784,
+    "confidence": null
+  },
+  {
+    "text": "`user-invocable`,",
+    "startMs": 83635,
+    "endMs": 84699,
+    "timestampMs": 83635,
+    "confidence": null
+  },
+  {
+    "text": "`compatibility`,",
+    "startMs": 84699,
+    "endMs": 85763,
+    "timestampMs": 84699,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 85763,
+    "endMs": 86082,
+    "timestampMs": 85763,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 86082,
+    "endMs": 86401,
+    "timestampMs": 86082,
+    "confidence": null
+  },
+  {
+    "text": "`metadata`",
+    "startMs": 86401,
+    "endMs": 87252,
+    "timestampMs": 86401,
+    "confidence": null
+  },
+  {
+    "text": "block",
+    "startMs": 87252,
+    "endMs": 87784,
+    "timestampMs": 87252,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 87784,
+    "endMs": 88103,
+    "timestampMs": 87784,
+    "confidence": null
+  },
+  {
+    "text": "authors,",
+    "startMs": 88103,
+    "endMs": 88954,
+    "timestampMs": 88103,
+    "confidence": null
+  },
+  {
+    "text": "spec",
+    "startMs": 88954,
+    "endMs": 89379,
+    "timestampMs": 88954,
+    "confidence": null
+  },
+  {
+    "text": "version,",
+    "startMs": 89379,
+    "endMs": 90230,
+    "timestampMs": 89379,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 90230,
+    "endMs": 90549,
+    "timestampMs": 90230,
+    "confidence": null
+  },
+  {
+    "text": "last",
+    "startMs": 90549,
+    "endMs": 90975,
+    "timestampMs": 90549,
+    "confidence": null
+  },
+  {
+    "text": "updated",
+    "startMs": 90975,
+    "endMs": 91719,
+    "timestampMs": 90975,
+    "confidence": null
+  },
+  {
+    "text": "date.",
+    "startMs": 91719,
+    "endMs": 92477,
+    "timestampMs": 91719,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 92477,
+    "endMs": 92796,
+    "timestampMs": 92477,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 92796,
+    "endMs": 93328,
+    "timestampMs": 92796,
+    "confidence": null
+  },
+  {
+    "text": "Top",
+    "startMs": 93328,
+    "endMs": 93647,
+    "timestampMs": 93328,
+    "confidence": null
+  },
+  {
+    "text": "10",
+    "startMs": 93647,
+    "endMs": 93966,
+    "timestampMs": 93647,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 93966,
+    "endMs": 94498,
+    "timestampMs": 93966,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 94498,
+    "endMs": 94817,
+    "timestampMs": 94498,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/security/owasp-top-10/SKILL.md`",
+    "startMs": 94817,
+    "endMs": 95774,
+    "timestampMs": 94817,
+    "confidence": null
+  },
+  {
+    "text": "demonstrates",
+    "startMs": 95774,
+    "endMs": 96732,
+    "timestampMs": 95774,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 96732,
+    "endMs": 97051,
+    "timestampMs": 96732,
+    "confidence": null
+  },
+  {
+    "text": "pattern.",
+    "startMs": 97051,
+    "endMs": 98128,
+    "timestampMs": 97051,
+    "confidence": null
+  },
+  {
+    "text": "Its",
+    "startMs": 98128,
+    "endMs": 98447,
+    "timestampMs": 98128,
+    "confidence": null
+  },
+  {
+    "text": "frontmatter",
+    "startMs": 98447,
+    "endMs": 99404,
+    "timestampMs": 98447,
+    "confidence": null
+  },
+  {
+    "text": "declares",
+    "startMs": 99404,
+    "endMs": 100255,
+    "timestampMs": 99404,
+    "confidence": null
+  },
+  {
+    "text": "`name:",
+    "startMs": 100255,
+    "endMs": 100787,
+    "timestampMs": 100255,
+    "confidence": null
+  },
+  {
+    "text": "owasp-top-10`,",
+    "startMs": 100787,
+    "endMs": 101851,
+    "timestampMs": 100787,
+    "confidence": null
+  },
+  {
+    "text": "`description:",
+    "startMs": 101851,
+    "endMs": 102915,
+    "timestampMs": 101851,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 102915,
+    "endMs": 103446,
+    "timestampMs": 102915,
+    "confidence": null
+  },
+  {
+    "text": "Top",
+    "startMs": 103446,
+    "endMs": 103765,
+    "timestampMs": 103446,
+    "confidence": null
+  },
+  {
+    "text": "10",
+    "startMs": 103765,
+    "endMs": 104085,
+    "timestampMs": 103765,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 104085,
+    "endMs": 104404,
+    "timestampMs": 104085,
+    "confidence": null
+  },
+  {
+    "text": "Web",
+    "startMs": 104404,
+    "endMs": 104723,
+    "timestampMs": 104404,
+    "confidence": null
+  },
+  {
+    "text": "Applications",
+    "startMs": 104723,
+    "endMs": 105680,
+    "timestampMs": 104723,
+    "confidence": null
+  },
+  {
+    "text": "(2025)",
+    "startMs": 105680,
+    "endMs": 106106,
+    "timestampMs": 105680,
+    "confidence": null
+  },
+  {
+    "text": "vulnerability",
+    "startMs": 106106,
+    "endMs": 107063,
+    "timestampMs": 106106,
+    "confidence": null
+  },
+  {
+    "text": "knowledge",
+    "startMs": 107063,
+    "endMs": 108020,
+    "timestampMs": 107063,
+    "confidence": null
+  },
+  {
+    "text": "base`,",
+    "startMs": 108020,
+    "endMs": 108552,
+    "timestampMs": 108020,
+    "confidence": null
+  },
+  {
+    "text": "`license:",
+    "startMs": 108552,
+    "endMs": 109403,
+    "timestampMs": 108552,
+    "confidence": null
+  },
+  {
+    "text": "CC-BY-SA-4.0`,",
+    "startMs": 109403,
+    "endMs": 110360,
+    "timestampMs": 109403,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 110360,
+    "endMs": 110679,
+    "timestampMs": 110360,
+    "confidence": null
+  },
+  {
+    "text": "`user-invocable:",
+    "startMs": 110679,
+    "endMs": 111743,
+    "timestampMs": 110679,
+    "confidence": null
+  },
+  {
+    "text": "false`.",
+    "startMs": 111743,
+    "endMs": 112607,
+    "timestampMs": 111743,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 112607,
+    "endMs": 112926,
+    "timestampMs": 112607,
+    "confidence": null
+  },
+  {
+    "text": "metadata",
+    "startMs": 112926,
+    "endMs": 113777,
+    "timestampMs": 112926,
+    "confidence": null
+  },
+  {
+    "text": "block",
+    "startMs": 113777,
+    "endMs": 114309,
+    "timestampMs": 113777,
+    "confidence": null
+  },
+  {
+    "text": "includes",
+    "startMs": 114309,
+    "endMs": 115160,
+    "timestampMs": 114309,
+    "confidence": null
+  },
+  {
+    "text": "`authors:",
+    "startMs": 115160,
+    "endMs": 116011,
+    "timestampMs": 115160,
+    "confidence": null
+  },
+  {
+    "text": "\"OWASP",
+    "startMs": 116011,
+    "endMs": 116543,
+    "timestampMs": 116011,
+    "confidence": null
+  },
+  {
+    "text": "Web",
+    "startMs": 116543,
+    "endMs": 116862,
+    "timestampMs": 116543,
+    "confidence": null
+  },
+  {
+    "text": "Application",
+    "startMs": 116862,
+    "endMs": 117819,
+    "timestampMs": 116862,
+    "confidence": null
+  },
+  {
+    "text": "Security",
+    "startMs": 117819,
+    "endMs": 118670,
+    "timestampMs": 117819,
+    "confidence": null
+  },
+  {
+    "text": "Project\"`,",
+    "startMs": 118670,
+    "endMs": 119521,
+    "timestampMs": 118670,
+    "confidence": null
+  },
+  {
+    "text": "`spec_version:",
+    "startMs": 119521,
+    "endMs": 120585,
+    "timestampMs": 119521,
+    "confidence": null
+  },
+  {
+    "text": "\"1.0\"`,",
+    "startMs": 120585,
+    "endMs": 121011,
+    "timestampMs": 120585,
+    "confidence": null
+  },
+  {
+    "text": "`framework_revision:",
+    "startMs": 121011,
+    "endMs": 122074,
+    "timestampMs": 121011,
+    "confidence": null
+  },
+  {
+    "text": "\"1.0.0\"`,",
+    "startMs": 122074,
+    "endMs": 122500,
+    "timestampMs": 122074,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 122500,
+    "endMs": 122819,
+    "timestampMs": 122500,
+    "confidence": null
+  },
+  {
+    "text": "`last_updated:",
+    "startMs": 122819,
+    "endMs": 123882,
+    "timestampMs": 122819,
+    "confidence": null
+  },
+  {
+    "text": "\"2026-02-13\"`.",
+    "startMs": 123882,
+    "endMs": 125066,
+    "timestampMs": 123882,
+    "confidence": null
+  },
+  {
+    "text": "Two",
+    "startMs": 125066,
+    "endMs": 125385,
+    "timestampMs": 125066,
+    "confidence": null
+  },
+  {
+    "text": "additional",
+    "startMs": 125385,
+    "endMs": 126342,
+    "timestampMs": 125385,
+    "confidence": null
+  },
+  {
+    "text": "metadata",
+    "startMs": 126342,
+    "endMs": 127193,
+    "timestampMs": 126342,
+    "confidence": null
+  },
+  {
+    "text": "fields",
+    "startMs": 127193,
+    "endMs": 127831,
+    "timestampMs": 127193,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 127831,
+    "endMs": 128151,
+    "timestampMs": 127831,
+    "confidence": null
+  },
+  {
+    "text": "`skill_based_on`",
+    "startMs": 128151,
+    "endMs": 129108,
+    "timestampMs": 128151,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 129108,
+    "endMs": 129427,
+    "timestampMs": 129108,
+    "confidence": null
+  },
+  {
+    "text": "`content_based_on`",
+    "startMs": 129427,
+    "endMs": 130384,
+    "timestampMs": 129427,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 130384,
+    "endMs": 130703,
+    "timestampMs": 130384,
+    "confidence": null
+  },
+  {
+    "text": "link",
+    "startMs": 130703,
+    "endMs": 131129,
+    "timestampMs": 130703,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 131129,
+    "endMs": 131448,
+    "timestampMs": 131129,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 131448,
+    "endMs": 131767,
+    "timestampMs": 131448,
+    "confidence": null
+  },
+  {
+    "text": "Agnostic",
+    "startMs": 131767,
+    "endMs": 132618,
+    "timestampMs": 131767,
+    "confidence": null
+  },
+  {
+    "text": "Prompt",
+    "startMs": 132618,
+    "endMs": 133256,
+    "timestampMs": 132618,
+    "confidence": null
+  },
+  {
+    "text": "Standard",
+    "startMs": 133256,
+    "endMs": 134107,
+    "timestampMs": 133256,
+    "confidence": null
+  },
+  {
+    "text": "specification",
+    "startMs": 134107,
+    "endMs": 135065,
+    "timestampMs": 134107,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 135065,
+    "endMs": 135384,
+    "timestampMs": 135065,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 135384,
+    "endMs": 135703,
+    "timestampMs": 135384,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 135703,
+    "endMs": 136235,
+    "timestampMs": 135703,
+    "confidence": null
+  },
+  {
+    "text": "source",
+    "startMs": 136235,
+    "endMs": 136873,
+    "timestampMs": 136235,
+    "confidence": null
+  },
+  {
+    "text": "material.",
+    "startMs": 136873,
+    "endMs": 138056,
+    "timestampMs": 136873,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 138056,
+    "endMs": 138375,
+    "timestampMs": 138056,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 138375,
+    "endMs": 139120,
+    "timestampMs": 138375,
+    "confidence": null
+  },
+  {
+    "text": "body",
+    "startMs": 139120,
+    "endMs": 139545,
+    "timestampMs": 139120,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 139545,
+    "endMs": 140396,
+    "timestampMs": 139545,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 140396,
+    "endMs": 140715,
+    "timestampMs": 140396,
+    "confidence": null
+  },
+  {
+    "text": "skill's",
+    "startMs": 140715,
+    "endMs": 141354,
+    "timestampMs": 140715,
+    "confidence": null
+  },
+  {
+    "text": "documentation:",
+    "startMs": 141354,
+    "endMs": 142417,
+    "timestampMs": 141354,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 142417,
+    "endMs": 142736,
+    "timestampMs": 142417,
+    "confidence": null
+  },
+  {
+    "text": "overview",
+    "startMs": 142736,
+    "endMs": 143587,
+    "timestampMs": 142736,
+    "confidence": null
+  },
+  {
+    "text": "explaining",
+    "startMs": 143587,
+    "endMs": 144545,
+    "timestampMs": 143587,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 144545,
+    "endMs": 144970,
+    "timestampMs": 144545,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 144970,
+    "endMs": 145289,
+    "timestampMs": 144970,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 145289,
+    "endMs": 145821,
+    "timestampMs": 145289,
+    "confidence": null
+  },
+  {
+    "text": "encodes,",
+    "startMs": 145821,
+    "endMs": 146672,
+    "timestampMs": 145821,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 146672,
+    "endMs": 146991,
+    "timestampMs": 146672,
+    "confidence": null
+  },
+  {
+    "text": "list",
+    "startMs": 146991,
+    "endMs": 147417,
+    "timestampMs": 146991,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 147417,
+    "endMs": 147736,
+    "timestampMs": 147417,
+    "confidence": null
+  },
+  {
+    "text": "normative",
+    "startMs": 147736,
+    "endMs": 148693,
+    "timestampMs": 147736,
+    "confidence": null
+  },
+  {
+    "text": "references",
+    "startMs": 148693,
+    "endMs": 149650,
+    "timestampMs": 148693,
+    "confidence": null
+  },
+  {
+    "text": "pointing",
+    "startMs": 149650,
+    "endMs": 150501,
+    "timestampMs": 149650,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 150501,
+    "endMs": 150820,
+    "timestampMs": 150501,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 150820,
+    "endMs": 151352,
+    "timestampMs": 150820,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 151352,
+    "endMs": 151671,
+    "timestampMs": 151352,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 151671,
+    "endMs": 151990,
+    "timestampMs": 151671,
+    "confidence": null
+  },
+  {
+    "text": "`references/`",
+    "startMs": 151990,
+    "endMs": 152948,
+    "timestampMs": 151990,
+    "confidence": null
+  },
+  {
+    "text": "directory,",
+    "startMs": 152948,
+    "endMs": 154012,
+    "timestampMs": 152948,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 154012,
+    "endMs": 154331,
+    "timestampMs": 154012,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 154331,
+    "endMs": 154862,
+    "timestampMs": 154331,
+    "confidence": null
+  },
+  {
+    "text": "layout",
+    "startMs": 154862,
+    "endMs": 155501,
+    "timestampMs": 154862,
+    "confidence": null
+  },
+  {
+    "text": "section",
+    "startMs": 155501,
+    "endMs": 156245,
+    "timestampMs": 155501,
+    "confidence": null
+  },
+  {
+    "text": "describing",
+    "startMs": 156245,
+    "endMs": 157203,
+    "timestampMs": 156245,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 157203,
+    "endMs": 157522,
+    "timestampMs": 157203,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 157522,
+    "endMs": 158479,
+    "timestampMs": 157522,
+    "confidence": null
+  },
+  {
+    "text": "structure,",
+    "startMs": 158479,
+    "endMs": 159543,
+    "timestampMs": 158479,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 159543,
+    "endMs": 159862,
+    "timestampMs": 159543,
+    "confidence": null
+  },
+  {
+    "text": "attribution",
+    "startMs": 159862,
+    "endMs": 160819,
+    "timestampMs": 159862,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 160819,
+    "endMs": 161138,
+    "timestampMs": 160819,
+    "confidence": null
+  },
+  {
+    "text": "third-party",
+    "startMs": 161138,
+    "endMs": 162096,
+    "timestampMs": 161138,
+    "confidence": null
+  },
+  {
+    "text": "content.",
+    "startMs": 162096,
+    "endMs": 163173,
+    "timestampMs": 162096,
+    "confidence": null
+  },
+  {
+    "text": "Below",
+    "startMs": 163173,
+    "endMs": 163704,
+    "timestampMs": 163173,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md,",
+    "startMs": 163704,
+    "endMs": 164555,
+    "timestampMs": 163704,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 164555,
+    "endMs": 165194,
+    "timestampMs": 164555,
+    "confidence": null
+  },
+  {
+    "text": "use",
+    "startMs": 165194,
+    "endMs": 165513,
+    "timestampMs": 165194,
+    "confidence": null
+  },
+  {
+    "text": "conventional",
+    "startMs": 165513,
+    "endMs": 166470,
+    "timestampMs": 165513,
+    "confidence": null
+  },
+  {
+    "text": "subdirectories.",
+    "startMs": 166470,
+    "endMs": 167760,
+    "timestampMs": 166470,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 167760,
+    "endMs": 168079,
+    "timestampMs": 167760,
+    "confidence": null
+  },
+  {
+    "text": "`references/`",
+    "startMs": 168079,
+    "endMs": 169036,
+    "timestampMs": 168079,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 169036,
+    "endMs": 169993,
+    "timestampMs": 169036,
+    "confidence": null
+  },
+  {
+    "text": "holds",
+    "startMs": 169993,
+    "endMs": 170525,
+    "timestampMs": 169993,
+    "confidence": null
+  },
+  {
+    "text": "knowledge",
+    "startMs": 170525,
+    "endMs": 171483,
+    "timestampMs": 170525,
+    "confidence": null
+  },
+  {
+    "text": "base",
+    "startMs": 171483,
+    "endMs": 171908,
+    "timestampMs": 171483,
+    "confidence": null
+  },
+  {
+    "text": "documents",
+    "startMs": 171908,
+    "endMs": 172865,
+    "timestampMs": 171908,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 172865,
+    "endMs": 173291,
+    "timestampMs": 172865,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 173291,
+    "endMs": 173929,
+    "timestampMs": 173291,
+    "confidence": null
+  },
+  {
+    "text": "read",
+    "startMs": 173929,
+    "endMs": 174355,
+    "timestampMs": 173929,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 174355,
+    "endMs": 174674,
+    "timestampMs": 174355,
+    "confidence": null
+  },
+  {
+    "text": "domain",
+    "startMs": 174674,
+    "endMs": 175312,
+    "timestampMs": 174674,
+    "confidence": null
+  },
+  {
+    "text": "expertise.",
+    "startMs": 175312,
+    "endMs": 176602,
+    "timestampMs": 175312,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 176602,
+    "endMs": 176921,
+    "timestampMs": 176602,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 176921,
+    "endMs": 177453,
+    "timestampMs": 176921,
+    "confidence": null
+  },
+  {
+    "text": "Top",
+    "startMs": 177453,
+    "endMs": 177772,
+    "timestampMs": 177453,
+    "confidence": null
+  },
+  {
+    "text": "10",
+    "startMs": 177772,
+    "endMs": 178091,
+    "timestampMs": 177772,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 178091,
+    "endMs": 178623,
+    "timestampMs": 178091,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 178623,
+    "endMs": 178942,
+    "timestampMs": 178623,
+    "confidence": null
+  },
+  {
+    "text": "11",
+    "startMs": 178942,
+    "endMs": 179261,
+    "timestampMs": 178942,
+    "confidence": null
+  },
+  {
+    "text": "reference",
+    "startMs": 179261,
+    "endMs": 180218,
+    "timestampMs": 179261,
+    "confidence": null
+  },
+  {
+    "text": "files:",
+    "startMs": 180218,
+    "endMs": 180856,
+    "timestampMs": 180218,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 180856,
+    "endMs": 181175,
+    "timestampMs": 180856,
+    "confidence": null
+  },
+  {
+    "text": "vulnerability",
+    "startMs": 181175,
+    "endMs": 182133,
+    "timestampMs": 181175,
+    "confidence": null
+  },
+  {
+    "text": "index",
+    "startMs": 182133,
+    "endMs": 182665,
+    "timestampMs": 182133,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 182665,
+    "endMs": 182984,
+    "timestampMs": 182665,
+    "confidence": null
+  },
+  {
+    "text": "`00-vulnerability-index.md`",
+    "startMs": 182984,
+    "endMs": 183941,
+    "timestampMs": 182984,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 183941,
+    "endMs": 184260,
+    "timestampMs": 183941,
+    "confidence": null
+  },
+  {
+    "text": "one",
+    "startMs": 184260,
+    "endMs": 184579,
+    "timestampMs": 184260,
+    "confidence": null
+  },
+  {
+    "text": "document",
+    "startMs": 184579,
+    "endMs": 185430,
+    "timestampMs": 184579,
+    "confidence": null
+  },
+  {
+    "text": "per",
+    "startMs": 185430,
+    "endMs": 185749,
+    "timestampMs": 185430,
+    "confidence": null
+  },
+  {
+    "text": "vulnerability",
+    "startMs": 185749,
+    "endMs": 186707,
+    "timestampMs": 185749,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 186707,
+    "endMs": 187132,
+    "timestampMs": 186707,
+    "confidence": null
+  },
+  {
+    "text": "`01-broken-access-control.md`",
+    "startMs": 187132,
+    "endMs": 188089,
+    "timestampMs": 187132,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 188089,
+    "endMs": 188834,
+    "timestampMs": 188089,
+    "confidence": null
+  },
+  {
+    "text": "`10-mishandling-exceptional-conditions.md`.",
+    "startMs": 188834,
+    "endMs": 190124,
+    "timestampMs": 188834,
+    "confidence": null
+  },
+  {
+    "text": "These",
+    "startMs": 190124,
+    "endMs": 190656,
+    "timestampMs": 190124,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 190656,
+    "endMs": 190975,
+    "timestampMs": 190656,
+    "confidence": null
+  },
+  {
+    "text": "structured,",
+    "startMs": 190975,
+    "endMs": 192038,
+    "timestampMs": 190975,
+    "confidence": null
+  },
+  {
+    "text": "machine-readable",
+    "startMs": 192038,
+    "endMs": 192996,
+    "timestampMs": 192038,
+    "confidence": null
+  },
+  {
+    "text": "documents",
+    "startMs": 192996,
+    "endMs": 193953,
+    "timestampMs": 192996,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 193953,
+    "endMs": 194379,
+    "timestampMs": 193953,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 194379,
+    "endMs": 194698,
+    "timestampMs": 194379,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 194698,
+    "endMs": 195229,
+    "timestampMs": 194698,
+    "confidence": null
+  },
+  {
+    "text": "queries",
+    "startMs": 195229,
+    "endMs": 195974,
+    "timestampMs": 195229,
+    "confidence": null
+  },
+  {
+    "text": "during",
+    "startMs": 195974,
+    "endMs": 196612,
+    "timestampMs": 195974,
+    "confidence": null
+  },
+  {
+    "text": "vulnerability",
+    "startMs": 196612,
+    "endMs": 197570,
+    "timestampMs": 196612,
+    "confidence": null
+  },
+  {
+    "text": "assessment.",
+    "startMs": 197570,
+    "endMs": 198859,
+    "timestampMs": 197570,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 198859,
+    "endMs": 199178,
+    "timestampMs": 198859,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/`",
+    "startMs": 199178,
+    "endMs": 199923,
+    "timestampMs": 199178,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 199923,
+    "endMs": 200880,
+    "timestampMs": 199923,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 200880,
+    "endMs": 201731,
+    "timestampMs": 200880,
+    "confidence": null
+  },
+  {
+    "text": "executable",
+    "startMs": 201731,
+    "endMs": 202689,
+    "timestampMs": 201731,
+    "confidence": null
+  },
+  {
+    "text": "automation.",
+    "startMs": 202689,
+    "endMs": 203978,
+    "timestampMs": 202689,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 203978,
+    "endMs": 204297,
+    "timestampMs": 203978,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 204297,
+    "endMs": 205255,
+    "timestampMs": 204297,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 205255,
+    "endMs": 205787,
+    "timestampMs": 205255,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 205787,
+    "endMs": 206106,
+    "timestampMs": 205787,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/experimental/powerpoint/`",
+    "startMs": 206106,
+    "endMs": 207063,
+    "timestampMs": 206106,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 207063,
+    "endMs": 207382,
+    "timestampMs": 207063,
+    "confidence": null
+  },
+  {
+    "text": "15",
+    "startMs": 207382,
+    "endMs": 207701,
+    "timestampMs": 207382,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 207701,
+    "endMs": 208339,
+    "timestampMs": 207701,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 208339,
+    "endMs": 209084,
+    "timestampMs": 208339,
+    "confidence": null
+  },
+  {
+    "text": "including",
+    "startMs": 209084,
+    "endMs": 210041,
+    "timestampMs": 209084,
+    "confidence": null
+  },
+  {
+    "text": "`build_deck.py`,",
+    "startMs": 210041,
+    "endMs": 211105,
+    "timestampMs": 210041,
+    "confidence": null
+  },
+  {
+    "text": "`extract_content.py`,",
+    "startMs": 211105,
+    "endMs": 212169,
+    "timestampMs": 211105,
+    "confidence": null
+  },
+  {
+    "text": "`validate_slides.py`,",
+    "startMs": 212169,
+    "endMs": 213232,
+    "timestampMs": 212169,
+    "confidence": null
+  },
+  {
+    "text": "`export_slides.py`,",
+    "startMs": 213232,
+    "endMs": 214296,
+    "timestampMs": 213232,
+    "confidence": null
+  },
+  {
+    "text": "`render_pdf_images.py`,",
+    "startMs": 214296,
+    "endMs": 215360,
+    "timestampMs": 214296,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 215360,
+    "endMs": 215679,
+    "timestampMs": 215360,
+    "confidence": null
+  },
+  {
+    "text": "supporting",
+    "startMs": 215679,
+    "endMs": 216636,
+    "timestampMs": 215679,
+    "confidence": null
+  },
+  {
+    "text": "modules",
+    "startMs": 216636,
+    "endMs": 217381,
+    "timestampMs": 216636,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 217381,
+    "endMs": 217806,
+    "timestampMs": 217381,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_charts.py`,",
+    "startMs": 217806,
+    "endMs": 218870,
+    "timestampMs": 217806,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_colors.py`,",
+    "startMs": 218870,
+    "endMs": 219934,
+    "timestampMs": 218870,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_fills.py`,",
+    "startMs": 219934,
+    "endMs": 220997,
+    "timestampMs": 219934,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_fonts.py`,",
+    "startMs": 220997,
+    "endMs": 222061,
+    "timestampMs": 220997,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_shapes.py`,",
+    "startMs": 222061,
+    "endMs": 223125,
+    "timestampMs": 222061,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_tables.py`,",
+    "startMs": 223125,
+    "endMs": 224188,
+    "timestampMs": 223125,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_text.py`,",
+    "startMs": 224188,
+    "endMs": 225252,
+    "timestampMs": 224188,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 225252,
+    "endMs": 225571,
+    "timestampMs": 225252,
+    "confidence": null
+  },
+  {
+    "text": "`pptx_utils.py`.",
+    "startMs": 225571,
+    "endMs": 226861,
+    "timestampMs": 225571,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 226861,
+    "endMs": 227180,
+    "timestampMs": 226861,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 227180,
+    "endMs": 228137,
+    "timestampMs": 227180,
+    "confidence": null
+  },
+  {
+    "text": "also",
+    "startMs": 228137,
+    "endMs": 228563,
+    "timestampMs": 228137,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 228563,
+    "endMs": 229414,
+    "timestampMs": 228563,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 229414,
+    "endMs": 229733,
+    "timestampMs": 229414,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 229733,
+    "endMs": 230690,
+    "timestampMs": 229733,
+    "confidence": null
+  },
+  {
+    "text": "orchestration",
+    "startMs": 230690,
+    "endMs": 231648,
+    "timestampMs": 230690,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 231648,
+    "endMs": 232286,
+    "timestampMs": 231648,
+    "confidence": null
+  },
+  {
+    "text": "`Invoke-PptxPipeline.ps1`",
+    "startMs": 232286,
+    "endMs": 233243,
+    "timestampMs": 232286,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 233243,
+    "endMs": 233562,
+    "timestampMs": 233243,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 233562,
+    "endMs": 233881,
+    "timestampMs": 233562,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 233881,
+    "endMs": 234307,
+    "timestampMs": 233881,
+    "confidence": null
+  },
+  {
+    "text": "equivalent",
+    "startMs": 234307,
+    "endMs": 235264,
+    "timestampMs": 234307,
+    "confidence": null
+  },
+  {
+    "text": "`invoke-pptx-pipeline.sh`.",
+    "startMs": 235264,
+    "endMs": 236554,
+    "timestampMs": 235264,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 236554,
+    "endMs": 236873,
+    "timestampMs": 236554,
+    "confidence": null
+  },
+  {
+    "text": "`tests/`",
+    "startMs": 236873,
+    "endMs": 237405,
+    "timestampMs": 236873,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 237405,
+    "endMs": 238362,
+    "timestampMs": 237405,
+    "confidence": null
+  },
+  {
+    "text": "holds",
+    "startMs": 238362,
+    "endMs": 238894,
+    "timestampMs": 238362,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 238894,
+    "endMs": 239851,
+    "timestampMs": 238894,
+    "confidence": null
+  },
+  {
+    "text": "tests.",
+    "startMs": 239851,
+    "endMs": 240715,
+    "timestampMs": 239851,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 240715,
+    "endMs": 241035,
+    "timestampMs": 240715,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 241035,
+    "endMs": 241992,
+    "timestampMs": 241035,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 241992,
+    "endMs": 242524,
+    "timestampMs": 241992,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 242524,
+    "endMs": 242843,
+    "timestampMs": 242524,
+    "confidence": null
+  },
+  {
+    "text": "24",
+    "startMs": 242843,
+    "endMs": 243162,
+    "timestampMs": 242843,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 243162,
+    "endMs": 243587,
+    "timestampMs": 243162,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 243587,
+    "endMs": 244119,
+    "timestampMs": 243587,
+    "confidence": null
+  },
+  {
+    "text": "including",
+    "startMs": 244119,
+    "endMs": 245077,
+    "timestampMs": 244119,
+    "confidence": null
+  },
+  {
+    "text": "unit",
+    "startMs": 245077,
+    "endMs": 245502,
+    "timestampMs": 245077,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 245502,
+    "endMs": 246034,
+    "timestampMs": 245502,
+    "confidence": null
+  },
+  {
+    "text": "(`test_pptx_colors.py`,",
+    "startMs": 246034,
+    "endMs": 247098,
+    "timestampMs": 246034,
+    "confidence": null
+  },
+  {
+    "text": "`test_pptx_shapes.py`,",
+    "startMs": 247098,
+    "endMs": 248161,
+    "timestampMs": 247098,
+    "confidence": null
+  },
+  {
+    "text": "`test_pptx_tables.py`),",
+    "startMs": 248161,
+    "endMs": 249225,
+    "timestampMs": 248161,
+    "confidence": null
+  },
+  {
+    "text": "integration",
+    "startMs": 249225,
+    "endMs": 250182,
+    "timestampMs": 249225,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 250182,
+    "endMs": 250714,
+    "timestampMs": 250182,
+    "confidence": null
+  },
+  {
+    "text": "(`test_extract_content_integration.py`),",
+    "startMs": 250714,
+    "endMs": 251778,
+    "timestampMs": 250714,
+    "confidence": null
+  },
+  {
+    "text": "fuzz",
+    "startMs": 251778,
+    "endMs": 252203,
+    "timestampMs": 251778,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 252203,
+    "endMs": 252735,
+    "timestampMs": 252203,
+    "confidence": null
+  },
+  {
+    "text": "(`test_fuzz_build_deck.py`,",
+    "startMs": 252735,
+    "endMs": 253799,
+    "timestampMs": 252735,
+    "confidence": null
+  },
+  {
+    "text": "`test_fuzz_pptx_colors.py`,",
+    "startMs": 253799,
+    "endMs": 254863,
+    "timestampMs": 253799,
+    "confidence": null
+  },
+  {
+    "text": "`test_fuzz_pptx_tables.py`,",
+    "startMs": 254863,
+    "endMs": 255926,
+    "timestampMs": 254863,
+    "confidence": null
+  },
+  {
+    "text": "`test_fuzz_validate_slides.py`),",
+    "startMs": 255926,
+    "endMs": 256990,
+    "timestampMs": 255926,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 256990,
+    "endMs": 257309,
+    "timestampMs": 256990,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 257309,
+    "endMs": 257628,
+    "timestampMs": 257309,
+    "confidence": null
+  },
+  {
+    "text": "Pester",
+    "startMs": 257628,
+    "endMs": 258266,
+    "timestampMs": 257628,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 258266,
+    "endMs": 258692,
+    "timestampMs": 258266,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 258692,
+    "endMs": 259011,
+    "timestampMs": 258692,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 259011,
+    "endMs": 259330,
+    "timestampMs": 259011,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 259330,
+    "endMs": 260287,
+    "timestampMs": 259330,
+    "confidence": null
+  },
+  {
+    "text": "orchestrator",
+    "startMs": 260287,
+    "endMs": 261245,
+    "timestampMs": 260287,
+    "confidence": null
+  },
+  {
+    "text": "(`Invoke-PptxPipeline.Tests.ps1`).",
+    "startMs": 261245,
+    "endMs": 262534,
+    "timestampMs": 261245,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 262534,
+    "endMs": 262854,
+    "timestampMs": 262534,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 262854,
+    "endMs": 263279,
+    "timestampMs": 262854,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 263279,
+    "endMs": 264236,
+    "timestampMs": 263279,
+    "confidence": null
+  },
+  {
+    "text": "also",
+    "startMs": 264236,
+    "endMs": 264662,
+    "timestampMs": 264236,
+    "confidence": null
+  },
+  {
+    "text": "includes",
+    "startMs": 264662,
+    "endMs": 265513,
+    "timestampMs": 264662,
+    "confidence": null
+  },
+  {
+    "text": "supporting",
+    "startMs": 265513,
+    "endMs": 266470,
+    "timestampMs": 265513,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure:",
+    "startMs": 266470,
+    "endMs": 267534,
+    "timestampMs": 266470,
+    "confidence": null
+  },
+  {
+    "text": "`conftest.py`,",
+    "startMs": 267534,
+    "endMs": 268597,
+    "timestampMs": 267534,
+    "confidence": null
+  },
+  {
+    "text": "`fuzz_harness.py`,",
+    "startMs": 268597,
+    "endMs": 269661,
+    "timestampMs": 268597,
+    "confidence": null
+  },
+  {
+    "text": "`strategies.py`,",
+    "startMs": 269661,
+    "endMs": 270725,
+    "timestampMs": 269661,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 270725,
+    "endMs": 271044,
+    "timestampMs": 270725,
+    "confidence": null
+  },
+  {
+    "text": "`corpus/`",
+    "startMs": 271044,
+    "endMs": 271682,
+    "timestampMs": 271044,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 271682,
+    "endMs": 272001,
+    "timestampMs": 271682,
+    "confidence": null
+  },
+  {
+    "text": "`fixtures/`",
+    "startMs": 272001,
+    "endMs": 272852,
+    "timestampMs": 272001,
+    "confidence": null
+  },
+  {
+    "text": "directories.",
+    "startMs": 272852,
+    "endMs": 274142,
+    "timestampMs": 272852,
+    "confidence": null
+  },
+  {
+    "text": "Not",
+    "startMs": 274142,
+    "endMs": 274461,
+    "timestampMs": 274142,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 274461,
+    "endMs": 274993,
+    "timestampMs": 274461,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 274993,
+    "endMs": 275525,
+    "timestampMs": 274993,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 275525,
+    "endMs": 275950,
+    "timestampMs": 275525,
+    "confidence": null
+  },
+  {
+    "text": "all",
+    "startMs": 275950,
+    "endMs": 276269,
+    "timestampMs": 275950,
+    "confidence": null
+  },
+  {
+    "text": "subdirectories.",
+    "startMs": 276269,
+    "endMs": 277559,
+    "timestampMs": 276269,
+    "confidence": null
+  },
+  {
+    "text": "Reference-only",
+    "startMs": 277559,
+    "endMs": 278516,
+    "timestampMs": 277559,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 278516,
+    "endMs": 279155,
+    "timestampMs": 278516,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 279155,
+    "endMs": 279580,
+    "timestampMs": 279155,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 279580,
+    "endMs": 279899,
+    "timestampMs": 279580,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 279899,
+    "endMs": 280431,
+    "timestampMs": 279899,
+    "confidence": null
+  },
+  {
+    "text": "Top",
+    "startMs": 280431,
+    "endMs": 280750,
+    "timestampMs": 280431,
+    "confidence": null
+  },
+  {
+    "text": "10",
+    "startMs": 280750,
+    "endMs": 281069,
+    "timestampMs": 280750,
+    "confidence": null
+  },
+  {
+    "text": "have",
+    "startMs": 281069,
+    "endMs": 281495,
+    "timestampMs": 281069,
+    "confidence": null
+  },
+  {
+    "text": "just",
+    "startMs": 281495,
+    "endMs": 281920,
+    "timestampMs": 281495,
+    "confidence": null
+  },
+  {
+    "text": "`SKILL.md`",
+    "startMs": 281920,
+    "endMs": 282665,
+    "timestampMs": 281920,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 282665,
+    "endMs": 282984,
+    "timestampMs": 282665,
+    "confidence": null
+  },
+  {
+    "text": "`references/`.",
+    "startMs": 282984,
+    "endMs": 284274,
+    "timestampMs": 282984,
+    "confidence": null
+  },
+  {
+    "text": "Script-heavy",
+    "startMs": 284274,
+    "endMs": 285231,
+    "timestampMs": 284274,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 285231,
+    "endMs": 285869,
+    "timestampMs": 285231,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 285869,
+    "endMs": 286295,
+    "timestampMs": 285869,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 286295,
+    "endMs": 286614,
+    "timestampMs": 286295,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 286614,
+    "endMs": 287571,
+    "timestampMs": 286614,
+    "confidence": null
+  },
+  {
+    "text": "builder",
+    "startMs": 287571,
+    "endMs": 288316,
+    "timestampMs": 287571,
+    "confidence": null
+  },
+  {
+    "text": "have",
+    "startMs": 288316,
+    "endMs": 288741,
+    "timestampMs": 288316,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/`",
+    "startMs": 288741,
+    "endMs": 289486,
+    "timestampMs": 288741,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 289486,
+    "endMs": 289805,
+    "timestampMs": 289486,
+    "confidence": null
+  },
+  {
+    "text": "`tests/`",
+    "startMs": 289805,
+    "endMs": 290337,
+    "timestampMs": 289805,
+    "confidence": null
+  },
+  {
+    "text": "but",
+    "startMs": 290337,
+    "endMs": 290656,
+    "timestampMs": 290337,
+    "confidence": null
+  },
+  {
+    "text": "could",
+    "startMs": 290656,
+    "endMs": 291188,
+    "timestampMs": 290656,
+    "confidence": null
+  },
+  {
+    "text": "also",
+    "startMs": 291188,
+    "endMs": 291613,
+    "timestampMs": 291188,
+    "confidence": null
+  },
+  {
+    "text": "include",
+    "startMs": 291613,
+    "endMs": 292358,
+    "timestampMs": 291613,
+    "confidence": null
+  },
+  {
+    "text": "`references/`.",
+    "startMs": 292358,
+    "endMs": 293647,
+    "timestampMs": 292358,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 293647,
+    "endMs": 293966,
+    "timestampMs": 293647,
+    "confidence": null
+  },
+  {
+    "text": "PR",
+    "startMs": 293966,
+    "endMs": 294286,
+    "timestampMs": 293966,
+    "confidence": null
+  },
+  {
+    "text": "Reference",
+    "startMs": 294286,
+    "endMs": 295243,
+    "timestampMs": 294286,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 295243,
+    "endMs": 295775,
+    "timestampMs": 295243,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 295775,
+    "endMs": 296094,
+    "timestampMs": 295775,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/shared/pr-reference/`",
+    "startMs": 296094,
+    "endMs": 297051,
+    "timestampMs": 296094,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 297051,
+    "endMs": 297370,
+    "timestampMs": 297051,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/`,",
+    "startMs": 297370,
+    "endMs": 298221,
+    "timestampMs": 297370,
+    "confidence": null
+  },
+  {
+    "text": "`references/`,",
+    "startMs": 298221,
+    "endMs": 299285,
+    "timestampMs": 298221,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 299285,
+    "endMs": 299604,
+    "timestampMs": 299285,
+    "confidence": null
+  },
+  {
+    "text": "`tests/`.",
+    "startMs": 299604,
+    "endMs": 300468,
+    "timestampMs": 299604,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 300468,
+    "endMs": 300787,
+    "timestampMs": 300468,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 300787,
+    "endMs": 301745,
+    "timestampMs": 300787,
+    "confidence": null
+  },
+  {
+    "text": "structure",
+    "startMs": 301745,
+    "endMs": 302702,
+    "timestampMs": 301745,
+    "confidence": null
+  },
+  {
+    "text": "adapts",
+    "startMs": 302702,
+    "endMs": 303340,
+    "timestampMs": 302702,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 303340,
+    "endMs": 303659,
+    "timestampMs": 303340,
+    "confidence": null
+  },
+  {
+    "text": "what",
+    "startMs": 303659,
+    "endMs": 304085,
+    "timestampMs": 303659,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 304085,
+    "endMs": 304404,
+    "timestampMs": 304085,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 304404,
+    "endMs": 304936,
+    "timestampMs": 304404,
+    "confidence": null
+  },
+  {
+    "text": "needs.",
+    "startMs": 304936,
+    "endMs": 305800,
+    "timestampMs": 304936,
+    "confidence": null
+  },
+  {
+    "text": "Skills",
+    "startMs": 305800,
+    "endMs": 306289,
+    "timestampMs": 305800,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 306289,
+    "endMs": 306616,
+    "timestampMs": 306289,
+    "confidence": null
+  },
+  {
+    "text": "include",
+    "startMs": 306616,
+    "endMs": 307186,
+    "timestampMs": 306616,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 307186,
+    "endMs": 307676,
+    "timestampMs": 307186,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 307676,
+    "endMs": 308247,
+    "timestampMs": 307676,
+    "confidence": null
+  },
+  {
+    "text": "follow",
+    "startMs": 308247,
+    "endMs": 308736,
+    "timestampMs": 308247,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 308736,
+    "endMs": 308981,
+    "timestampMs": 308736,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 308981,
+    "endMs": 309633,
+    "timestampMs": 308981,
+    "confidence": null
+  },
+  {
+    "text": "toolchain.",
+    "startMs": 309633,
+    "endMs": 310622,
+    "timestampMs": 309633,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 310622,
+    "endMs": 310867,
+    "timestampMs": 310622,
+    "confidence": null
+  },
+  {
+    "text": "`pyproject.toml`",
+    "startMs": 310867,
+    "endMs": 311600,
+    "timestampMs": 310867,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 311600,
+    "endMs": 311927,
+    "timestampMs": 311600,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 311927,
+    "endMs": 312171,
+    "timestampMs": 311927,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 312171,
+    "endMs": 312416,
+    "timestampMs": 312171,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 312416,
+    "endMs": 312824,
+    "timestampMs": 312416,
+    "confidence": null
+  },
+  {
+    "text": "root",
+    "startMs": 312824,
+    "endMs": 313150,
+    "timestampMs": 312824,
+    "confidence": null
+  },
+  {
+    "text": "declares",
+    "startMs": 313150,
+    "endMs": 313802,
+    "timestampMs": 313150,
+    "confidence": null
+  },
+  {
+    "text": "dependencies,",
+    "startMs": 313802,
+    "endMs": 314618,
+    "timestampMs": 313802,
+    "confidence": null
+  },
+  {
+    "text": "build",
+    "startMs": 314618,
+    "endMs": 315026,
+    "timestampMs": 314618,
+    "confidence": null
+  },
+  {
+    "text": "configuration,",
+    "startMs": 315026,
+    "endMs": 315841,
+    "timestampMs": 315026,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 315841,
+    "endMs": 316086,
+    "timestampMs": 315841,
+    "confidence": null
+  },
+  {
+    "text": "tool",
+    "startMs": 316086,
+    "endMs": 316412,
+    "timestampMs": 316086,
+    "confidence": null
+  },
+  {
+    "text": "settings.",
+    "startMs": 316412,
+    "endMs": 317319,
+    "timestampMs": 316412,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 317319,
+    "endMs": 317564,
+    "timestampMs": 317319,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 317564,
+    "endMs": 318298,
+    "timestampMs": 317564,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 318298,
+    "endMs": 318706,
+    "timestampMs": 318298,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 318706,
+    "endMs": 318950,
+    "timestampMs": 318706,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 318950,
+    "endMs": 319195,
+    "timestampMs": 318950,
+    "confidence": null
+  },
+  {
+    "text": "GitLab",
+    "startMs": 319195,
+    "endMs": 319684,
+    "timestampMs": 319195,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 319684,
+    "endMs": 320092,
+    "timestampMs": 319684,
+    "confidence": null
+  },
+  {
+    "text": "both",
+    "startMs": 320092,
+    "endMs": 320418,
+    "timestampMs": 320092,
+    "confidence": null
+  },
+  {
+    "text": "include",
+    "startMs": 320418,
+    "endMs": 320989,
+    "timestampMs": 320418,
+    "confidence": null
+  },
+  {
+    "text": "`pyproject.toml`",
+    "startMs": 320989,
+    "endMs": 321723,
+    "timestampMs": 320989,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 321723,
+    "endMs": 321968,
+    "timestampMs": 321723,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 321968,
+    "endMs": 322213,
+    "timestampMs": 321968,
+    "confidence": null
+  },
+  {
+    "text": "`uv.lock`",
+    "startMs": 322213,
+    "endMs": 322702,
+    "timestampMs": 322213,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 322702,
+    "endMs": 323028,
+    "timestampMs": 322702,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 323028,
+    "endMs": 323273,
+    "timestampMs": 323028,
+    "confidence": null
+  },
+  {
+    "text": "reproducible",
+    "startMs": 323273,
+    "endMs": 324007,
+    "timestampMs": 323273,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 324007,
+    "endMs": 324741,
+    "timestampMs": 324007,
+    "confidence": null
+  },
+  {
+    "text": "resolution.",
+    "startMs": 324741,
+    "endMs": 325730,
+    "timestampMs": 324741,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 325730,
+    "endMs": 325974,
+    "timestampMs": 325730,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 325974,
+    "endMs": 326708,
+    "timestampMs": 325974,
+    "confidence": null
+  },
+  {
+    "text": "skill's",
+    "startMs": 326708,
+    "endMs": 327198,
+    "timestampMs": 326708,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 327198,
+    "endMs": 327768,
+    "timestampMs": 327198,
+    "confidence": null
+  },
+  {
+    "text": "declares",
+    "startMs": 327768,
+    "endMs": 328421,
+    "timestampMs": 327768,
+    "confidence": null
+  },
+  {
+    "text": "its",
+    "startMs": 328421,
+    "endMs": 328666,
+    "timestampMs": 328421,
+    "confidence": null
+  },
+  {
+    "text": "compatibility",
+    "startMs": 328666,
+    "endMs": 329400,
+    "timestampMs": 328666,
+    "confidence": null
+  },
+  {
+    "text": "requirements:",
+    "startMs": 329400,
+    "endMs": 330215,
+    "timestampMs": 329400,
+    "confidence": null
+  },
+  {
+    "text": "\"Requires",
+    "startMs": 330215,
+    "endMs": 330867,
+    "timestampMs": 330215,
+    "confidence": null
+  },
+  {
+    "text": "uv,",
+    "startMs": 330867,
+    "endMs": 331194,
+    "timestampMs": 330867,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 331194,
+    "endMs": 331683,
+    "timestampMs": 331194,
+    "confidence": null
+  },
+  {
+    "text": "3.11+,",
+    "startMs": 331683,
+    "endMs": 332009,
+    "timestampMs": 331683,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 332009,
+    "endMs": 332743,
+    "timestampMs": 332009,
+    "confidence": null
+  },
+  {
+    "text": "7+,",
+    "startMs": 332743,
+    "endMs": 333069,
+    "timestampMs": 332743,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 333069,
+    "endMs": 333314,
+    "timestampMs": 333069,
+    "confidence": null
+  },
+  {
+    "text": "LibreOffice.\"",
+    "startMs": 333314,
+    "endMs": 334048,
+    "timestampMs": 333314,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 334048,
+    "endMs": 334293,
+    "timestampMs": 334048,
+    "confidence": null
+  },
+  {
+    "text": "`uv`",
+    "startMs": 334293,
+    "endMs": 334537,
+    "timestampMs": 334293,
+    "confidence": null
+  },
+  {
+    "text": "tool",
+    "startMs": 334537,
+    "endMs": 334864,
+    "timestampMs": 334537,
+    "confidence": null
+  },
+  {
+    "text": "manages",
+    "startMs": 334864,
+    "endMs": 335434,
+    "timestampMs": 334864,
+    "confidence": null
+  },
+  {
+    "text": "virtual",
+    "startMs": 335434,
+    "endMs": 336005,
+    "timestampMs": 335434,
+    "confidence": null
+  },
+  {
+    "text": "environments",
+    "startMs": 336005,
+    "endMs": 336739,
+    "timestampMs": 336005,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 336739,
+    "endMs": 336984,
+    "timestampMs": 336739,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 336984,
+    "endMs": 337718,
+    "timestampMs": 336984,
+    "confidence": null
+  },
+  {
+    "text": "installation.",
+    "startMs": 337718,
+    "endMs": 338707,
+    "timestampMs": 337718,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 338707,
+    "endMs": 338951,
+    "timestampMs": 338707,
+    "confidence": null
+  },
+  {
+    "text": "orchestration",
+    "startMs": 338951,
+    "endMs": 339685,
+    "timestampMs": 338951,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 339685,
+    "endMs": 340256,
+    "timestampMs": 339685,
+    "confidence": null
+  },
+  {
+    "text": "handle",
+    "startMs": 340256,
+    "endMs": 340746,
+    "timestampMs": 340256,
+    "confidence": null
+  },
+  {
+    "text": "environment",
+    "startMs": 340746,
+    "endMs": 341480,
+    "timestampMs": 340746,
+    "confidence": null
+  },
+  {
+    "text": "setup",
+    "startMs": 341480,
+    "endMs": 341887,
+    "timestampMs": 341480,
+    "confidence": null
+  },
+  {
+    "text": "automatically",
+    "startMs": 341887,
+    "endMs": 342621,
+    "timestampMs": 341887,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 342621,
+    "endMs": 342866,
+    "timestampMs": 342621,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 342866,
+    "endMs": 343111,
+    "timestampMs": 342866,
+    "confidence": null
+  },
+  {
+    "text": "`Invoke-PptxPipeline.ps1`",
+    "startMs": 343111,
+    "endMs": 343845,
+    "timestampMs": 343111,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 343845,
+    "endMs": 344579,
+    "timestampMs": 343845,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 344579,
+    "endMs": 345068,
+    "timestampMs": 344579,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 345068,
+    "endMs": 345394,
+    "timestampMs": 345068,
+    "confidence": null
+  },
+  {
+    "text": "`uv",
+    "startMs": 345394,
+    "endMs": 345639,
+    "timestampMs": 345394,
+    "confidence": null
+  },
+  {
+    "text": "sync`",
+    "startMs": 345639,
+    "endMs": 345965,
+    "timestampMs": 345639,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 345965,
+    "endMs": 346210,
+    "timestampMs": 345965,
+    "confidence": null
+  },
+  {
+    "text": "create",
+    "startMs": 346210,
+    "endMs": 346699,
+    "timestampMs": 346210,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 346699,
+    "endMs": 346944,
+    "timestampMs": 346699,
+    "confidence": null
+  },
+  {
+    "text": "virtual",
+    "startMs": 346944,
+    "endMs": 347515,
+    "timestampMs": 346944,
+    "confidence": null
+  },
+  {
+    "text": "environment",
+    "startMs": 347515,
+    "endMs": 348249,
+    "timestampMs": 347515,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 348249,
+    "endMs": 348493,
+    "timestampMs": 348249,
+    "confidence": null
+  },
+  {
+    "text": "install",
+    "startMs": 348493,
+    "endMs": 349064,
+    "timestampMs": 348493,
+    "confidence": null
+  },
+  {
+    "text": "dependencies",
+    "startMs": 349064,
+    "endMs": 349798,
+    "timestampMs": 349064,
+    "confidence": null
+  },
+  {
+    "text": "before",
+    "startMs": 349798,
+    "endMs": 350287,
+    "timestampMs": 349798,
+    "confidence": null
+  },
+  {
+    "text": "executing",
+    "startMs": 350287,
+    "endMs": 351021,
+    "timestampMs": 350287,
+    "confidence": null
+  },
+  {
+    "text": "any",
+    "startMs": 351021,
+    "endMs": 351266,
+    "timestampMs": 351021,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 351266,
+    "endMs": 351755,
+    "timestampMs": 351266,
+    "confidence": null
+  },
+  {
+    "text": "scripts.",
+    "startMs": 351755,
+    "endMs": 352581,
+    "timestampMs": 351755,
+    "confidence": null
+  },
+  {
+    "text": "Code",
+    "startMs": 352581,
+    "endMs": 352907,
+    "timestampMs": 352581,
+    "confidence": null
+  },
+  {
+    "text": "quality",
+    "startMs": 352907,
+    "endMs": 353478,
+    "timestampMs": 352907,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 353478,
+    "endMs": 353723,
+    "timestampMs": 353478,
+    "confidence": null
+  },
+  {
+    "text": "enforced",
+    "startMs": 353723,
+    "endMs": 354375,
+    "timestampMs": 353723,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 354375,
+    "endMs": 354946,
+    "timestampMs": 354375,
+    "confidence": null
+  },
+  {
+    "text": "ruff",
+    "startMs": 354946,
+    "endMs": 355272,
+    "timestampMs": 354946,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 355272,
+    "endMs": 355517,
+    "timestampMs": 355272,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 355517,
+    "endMs": 355762,
+    "timestampMs": 355517,
+    "confidence": null
+  },
+  {
+    "text": "fast",
+    "startMs": 355762,
+    "endMs": 356088,
+    "timestampMs": 355762,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 356088,
+    "endMs": 356577,
+    "timestampMs": 356088,
+    "confidence": null
+  },
+  {
+    "text": "linter",
+    "startMs": 356577,
+    "endMs": 357067,
+    "timestampMs": 356577,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 357067,
+    "endMs": 357311,
+    "timestampMs": 357067,
+    "confidence": null
+  },
+  {
+    "text": "formatter.",
+    "startMs": 357311,
+    "endMs": 358300,
+    "timestampMs": 357311,
+    "confidence": null
+  },
+  {
+    "text": "Skills",
+    "startMs": 358300,
+    "endMs": 358789,
+    "timestampMs": 358300,
+    "confidence": null
+  },
+  {
+    "text": "configure",
+    "startMs": 358789,
+    "endMs": 359523,
+    "timestampMs": 358789,
+    "confidence": null
+  },
+  {
+    "text": "ruff",
+    "startMs": 359523,
+    "endMs": 359850,
+    "timestampMs": 359523,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 359850,
+    "endMs": 360094,
+    "timestampMs": 359850,
+    "confidence": null
+  },
+  {
+    "text": "their",
+    "startMs": 360094,
+    "endMs": 360502,
+    "timestampMs": 360094,
+    "confidence": null
+  },
+  {
+    "text": "`pyproject.toml`",
+    "startMs": 360502,
+    "endMs": 361236,
+    "timestampMs": 360502,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 361236,
+    "endMs": 361562,
+    "timestampMs": 361236,
+    "confidence": null
+  },
+  {
+    "text": "rules",
+    "startMs": 361562,
+    "endMs": 361970,
+    "timestampMs": 361562,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 361970,
+    "endMs": 362215,
+    "timestampMs": 361970,
+    "confidence": null
+  },
+  {
+    "text": "import",
+    "startMs": 362215,
+    "endMs": 362704,
+    "timestampMs": 362215,
+    "confidence": null
+  },
+  {
+    "text": "ordering,",
+    "startMs": 362704,
+    "endMs": 363438,
+    "timestampMs": 362704,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 363438,
+    "endMs": 363764,
+    "timestampMs": 363438,
+    "confidence": null
+  },
+  {
+    "text": "style,",
+    "startMs": 363764,
+    "endMs": 364253,
+    "timestampMs": 363764,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 364253,
+    "endMs": 364498,
+    "timestampMs": 364253,
+    "confidence": null
+  },
+  {
+    "text": "common",
+    "startMs": 364498,
+    "endMs": 364987,
+    "timestampMs": 364498,
+    "confidence": null
+  },
+  {
+    "text": "error",
+    "startMs": 364987,
+    "endMs": 365395,
+    "timestampMs": 364987,
+    "confidence": null
+  },
+  {
+    "text": "patterns.",
+    "startMs": 365395,
+    "endMs": 366302,
+    "timestampMs": 365395,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 366302,
+    "endMs": 366547,
+    "timestampMs": 366302,
+    "confidence": null
+  },
+  {
+    "text": "pipelines",
+    "startMs": 366547,
+    "endMs": 367281,
+    "timestampMs": 366547,
+    "confidence": null
+  },
+  {
+    "text": "run",
+    "startMs": 367281,
+    "endMs": 367526,
+    "timestampMs": 367281,
+    "confidence": null
+  },
+  {
+    "text": "ruff",
+    "startMs": 367526,
+    "endMs": 367852,
+    "timestampMs": 367526,
+    "confidence": null
+  },
+  {
+    "text": "checks",
+    "startMs": 367852,
+    "endMs": 368341,
+    "timestampMs": 367852,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 368341,
+    "endMs": 368586,
+    "timestampMs": 368341,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 368586,
+    "endMs": 368994,
+    "timestampMs": 368586,
+    "confidence": null
+  },
+  {
+    "text": "pull",
+    "startMs": 368994,
+    "endMs": 369320,
+    "timestampMs": 368994,
+    "confidence": null
+  },
+  {
+    "text": "request",
+    "startMs": 369320,
+    "endMs": 369891,
+    "timestampMs": 369320,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 369891,
+    "endMs": 370217,
+    "timestampMs": 369891,
+    "confidence": null
+  },
+  {
+    "text": "touches",
+    "startMs": 370217,
+    "endMs": 370788,
+    "timestampMs": 370217,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 370788,
+    "endMs": 371196,
+    "timestampMs": 370788,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 371196,
+    "endMs": 371685,
+    "timestampMs": 371196,
+    "confidence": null
+  },
+  {
+    "text": "code.",
+    "startMs": 371685,
+    "endMs": 372266,
+    "timestampMs": 371685,
+    "confidence": null
+  },
+  {
+    "text": "Testing",
+    "startMs": 372266,
+    "endMs": 372837,
+    "timestampMs": 372266,
+    "confidence": null
+  },
+  {
+    "text": "uses",
+    "startMs": 372837,
+    "endMs": 373163,
+    "timestampMs": 372837,
+    "confidence": null
+  },
+  {
+    "text": "pytest",
+    "startMs": 373163,
+    "endMs": 373652,
+    "timestampMs": 373163,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 373652,
+    "endMs": 373897,
+    "timestampMs": 373652,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 373897,
+    "endMs": 374142,
+    "timestampMs": 373897,
+    "confidence": null
+  },
+  {
+    "text": "standard",
+    "startMs": 374142,
+    "endMs": 374794,
+    "timestampMs": 374142,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 374794,
+    "endMs": 375120,
+    "timestampMs": 374794,
+    "confidence": null
+  },
+  {
+    "text": "runner.",
+    "startMs": 375120,
+    "endMs": 375865,
+    "timestampMs": 375120,
+    "confidence": null
+  },
+  {
+    "text": "Test",
+    "startMs": 375865,
+    "endMs": 376191,
+    "timestampMs": 375865,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 376191,
+    "endMs": 376599,
+    "timestampMs": 376191,
+    "confidence": null
+  },
+  {
+    "text": "follow",
+    "startMs": 376599,
+    "endMs": 377088,
+    "timestampMs": 376599,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 377088,
+    "endMs": 377333,
+    "timestampMs": 377088,
+    "confidence": null
+  },
+  {
+    "text": "`test_*.py`",
+    "startMs": 377333,
+    "endMs": 377822,
+    "timestampMs": 377333,
+    "confidence": null
+  },
+  {
+    "text": "naming",
+    "startMs": 377822,
+    "endMs": 378311,
+    "timestampMs": 377822,
+    "confidence": null
+  },
+  {
+    "text": "convention",
+    "startMs": 378311,
+    "endMs": 379045,
+    "timestampMs": 378311,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 379045,
+    "endMs": 379290,
+    "timestampMs": 379045,
+    "confidence": null
+  },
+  {
+    "text": "live",
+    "startMs": 379290,
+    "endMs": 379616,
+    "timestampMs": 379290,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 379616,
+    "endMs": 379861,
+    "timestampMs": 379616,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 379861,
+    "endMs": 380105,
+    "timestampMs": 379861,
+    "confidence": null
+  },
+  {
+    "text": "`tests/`",
+    "startMs": 380105,
+    "endMs": 380513,
+    "timestampMs": 380105,
+    "confidence": null
+  },
+  {
+    "text": "directory.",
+    "startMs": 380513,
+    "endMs": 381502,
+    "timestampMs": 380513,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 381502,
+    "endMs": 381747,
+    "timestampMs": 381502,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 381747,
+    "endMs": 382481,
+    "timestampMs": 381747,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 382481,
+    "endMs": 382888,
+    "timestampMs": 382481,
+    "confidence": null
+  },
+  {
+    "text": "demonstrates",
+    "startMs": 382888,
+    "endMs": 383622,
+    "timestampMs": 382888,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 383622,
+    "endMs": 383867,
+    "timestampMs": 383622,
+    "confidence": null
+  },
+  {
+    "text": "comprehensive",
+    "startMs": 383867,
+    "endMs": 384601,
+    "timestampMs": 383867,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 384601,
+    "endMs": 384927,
+    "timestampMs": 384601,
+    "confidence": null
+  },
+  {
+    "text": "strategy:",
+    "startMs": 384927,
+    "endMs": 385661,
+    "timestampMs": 384927,
+    "confidence": null
+  },
+  {
+    "text": "unit",
+    "startMs": 385661,
+    "endMs": 385987,
+    "timestampMs": 385661,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 385987,
+    "endMs": 386395,
+    "timestampMs": 385987,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 386395,
+    "endMs": 386640,
+    "timestampMs": 386395,
+    "confidence": null
+  },
+  {
+    "text": "individual",
+    "startMs": 386640,
+    "endMs": 387374,
+    "timestampMs": 386640,
+    "confidence": null
+  },
+  {
+    "text": "modules,",
+    "startMs": 387374,
+    "endMs": 388026,
+    "timestampMs": 387374,
+    "confidence": null
+  },
+  {
+    "text": "integration",
+    "startMs": 388026,
+    "endMs": 388760,
+    "timestampMs": 388026,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 388760,
+    "endMs": 389168,
+    "timestampMs": 388760,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 389168,
+    "endMs": 389413,
+    "timestampMs": 389168,
+    "confidence": null
+  },
+  {
+    "text": "end-to-end",
+    "startMs": 389413,
+    "endMs": 390065,
+    "timestampMs": 389413,
+    "confidence": null
+  },
+  {
+    "text": "workflows,",
+    "startMs": 390065,
+    "endMs": 390881,
+    "timestampMs": 390065,
+    "confidence": null
+  },
+  {
+    "text": "fuzz",
+    "startMs": 390881,
+    "endMs": 391207,
+    "timestampMs": 390881,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 391207,
+    "endMs": 391615,
+    "timestampMs": 391207,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 391615,
+    "endMs": 392022,
+    "timestampMs": 391615,
+    "confidence": null
+  },
+  {
+    "text": "Hypothesis-style",
+    "startMs": 392022,
+    "endMs": 392756,
+    "timestampMs": 392022,
+    "confidence": null
+  },
+  {
+    "text": "strategies",
+    "startMs": 392756,
+    "endMs": 393490,
+    "timestampMs": 392756,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 393490,
+    "endMs": 393735,
+    "timestampMs": 393490,
+    "confidence": null
+  },
+  {
+    "text": "property-based",
+    "startMs": 393735,
+    "endMs": 394469,
+    "timestampMs": 393735,
+    "confidence": null
+  },
+  {
+    "text": "testing,",
+    "startMs": 394469,
+    "endMs": 395121,
+    "timestampMs": 394469,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 395121,
+    "endMs": 395366,
+    "timestampMs": 395121,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 395366,
+    "endMs": 396100,
+    "timestampMs": 395366,
+    "confidence": null
+  },
+  {
+    "text": "Pester",
+    "startMs": 396100,
+    "endMs": 396589,
+    "timestampMs": 396100,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 396589,
+    "endMs": 396997,
+    "timestampMs": 396589,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 396997,
+    "endMs": 397242,
+    "timestampMs": 396997,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 397242,
+    "endMs": 397486,
+    "timestampMs": 397242,
+    "confidence": null
+  },
+  {
+    "text": "orchestrator",
+    "startMs": 397486,
+    "endMs": 398220,
+    "timestampMs": 397486,
+    "confidence": null
+  },
+  {
+    "text": "script.",
+    "startMs": 398220,
+    "endMs": 398965,
+    "timestampMs": 398220,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 398965,
+    "endMs": 399209,
+    "timestampMs": 398965,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 399209,
+    "endMs": 399699,
+    "timestampMs": 399209,
+    "confidence": null
+  },
+  {
+    "text": "foundational",
+    "startMs": 399699,
+    "endMs": 400433,
+    "timestampMs": 399699,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 400433,
+    "endMs": 400840,
+    "timestampMs": 400433,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 400840,
+    "endMs": 401085,
+    "timestampMs": 400840,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/coding-standards/python-foundational/`",
+    "startMs": 401085,
+    "endMs": 401819,
+    "timestampMs": 401085,
+    "confidence": null
+  },
+  {
+    "text": "takes",
+    "startMs": 401819,
+    "endMs": 402227,
+    "timestampMs": 401819,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 402227,
+    "endMs": 402471,
+    "timestampMs": 402227,
+    "confidence": null
+  },
+  {
+    "text": "different",
+    "startMs": 402471,
+    "endMs": 403205,
+    "timestampMs": 402471,
+    "confidence": null
+  },
+  {
+    "text": "approach",
+    "startMs": 403205,
+    "endMs": 403858,
+    "timestampMs": 403205,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 403858,
+    "endMs": 404103,
+    "timestampMs": 403858,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 404103,
+    "endMs": 404347,
+    "timestampMs": 404103,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 404347,
+    "endMs": 404592,
+    "timestampMs": 404347,
+    "confidence": null
+  },
+  {
+    "text": "no",
+    "startMs": 404592,
+    "endMs": 404836,
+    "timestampMs": 404592,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 404836,
+    "endMs": 405407,
+    "timestampMs": 404836,
+    "confidence": null
+  },
+  {
+    "text": "or",
+    "startMs": 405407,
+    "endMs": 405652,
+    "timestampMs": 405407,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 405652,
+    "endMs": 406060,
+    "timestampMs": 405652,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 406060,
+    "endMs": 406631,
+    "timestampMs": 406060,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 406631,
+    "endMs": 406875,
+    "timestampMs": 406631,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 406875,
+    "endMs": 407120,
+    "timestampMs": 406875,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 407120,
+    "endMs": 407365,
+    "timestampMs": 407120,
+    "confidence": null
+  },
+  {
+    "text": "reference-only",
+    "startMs": 407365,
+    "endMs": 408099,
+    "timestampMs": 407365,
+    "confidence": null
+  },
+  {
+    "text": "skill.",
+    "startMs": 408099,
+    "endMs": 408761,
+    "timestampMs": 408099,
+    "confidence": null
+  },
+  {
+    "text": "Its",
+    "startMs": 408761,
+    "endMs": 409006,
+    "timestampMs": 408761,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 409006,
+    "endMs": 409577,
+    "timestampMs": 409006,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 409577,
+    "endMs": 410229,
+    "timestampMs": 409577,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 410229,
+    "endMs": 410474,
+    "timestampMs": 410229,
+    "confidence": null
+  },
+  {
+    "text": "checklist",
+    "startMs": 410474,
+    "endMs": 411208,
+    "timestampMs": 410474,
+    "confidence": null
+  },
+  {
+    "text": "of",
+    "startMs": 411208,
+    "endMs": 411453,
+    "timestampMs": 411208,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 411453,
+    "endMs": 411942,
+    "timestampMs": 411453,
+    "confidence": null
+  },
+  {
+    "text": "best",
+    "startMs": 411942,
+    "endMs": 412268,
+    "timestampMs": 411942,
+    "confidence": null
+  },
+  {
+    "text": "practices",
+    "startMs": 412268,
+    "endMs": 413002,
+    "timestampMs": 412268,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 413002,
+    "endMs": 413328,
+    "timestampMs": 413002,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 413328,
+    "endMs": 413573,
+    "timestampMs": 413328,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 413573,
+    "endMs": 413899,
+    "timestampMs": 413573,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 413899,
+    "endMs": 414388,
+    "timestampMs": 413899,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 414388,
+    "endMs": 414796,
+    "timestampMs": 414388,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 414796,
+    "endMs": 415204,
+    "timestampMs": 414796,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 415204,
+    "endMs": 415530,
+    "timestampMs": 415204,
+    "confidence": null
+  },
+  {
+    "text": "reviewing",
+    "startMs": 415530,
+    "endMs": 416264,
+    "timestampMs": 415530,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 416264,
+    "endMs": 416753,
+    "timestampMs": 416264,
+    "confidence": null
+  },
+  {
+    "text": "diffs.",
+    "startMs": 416753,
+    "endMs": 417416,
+    "timestampMs": 416753,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 417416,
+    "endMs": 417661,
+    "timestampMs": 417416,
+    "confidence": null
+  },
+  {
+    "text": "`references/`",
+    "startMs": 417661,
+    "endMs": 418395,
+    "timestampMs": 417661,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 418395,
+    "endMs": 419129,
+    "timestampMs": 418395,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 419129,
+    "endMs": 419373,
+    "timestampMs": 419129,
+    "confidence": null
+  },
+  {
+    "text": "two",
+    "startMs": 419373,
+    "endMs": 419618,
+    "timestampMs": 419373,
+    "confidence": null
+  },
+  {
+    "text": "files:",
+    "startMs": 419618,
+    "endMs": 420107,
+    "timestampMs": 419618,
+    "confidence": null
+  },
+  {
+    "text": "`design-principles.md`",
+    "startMs": 420107,
+    "endMs": 420841,
+    "timestampMs": 420107,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 420841,
+    "endMs": 421086,
+    "timestampMs": 420841,
+    "confidence": null
+  },
+  {
+    "text": "`code-style-patterns.md`.",
+    "startMs": 421086,
+    "endMs": 422075,
+    "timestampMs": 421086,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 422075,
+    "endMs": 422401,
+    "timestampMs": 422075,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 422401,
+    "endMs": 422809,
+    "timestampMs": 422401,
+    "confidence": null
+  },
+  {
+    "text": "functions",
+    "startMs": 422809,
+    "endMs": 423543,
+    "timestampMs": 422809,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 423543,
+    "endMs": 423787,
+    "timestampMs": 423543,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 423787,
+    "endMs": 424032,
+    "timestampMs": 423787,
+    "confidence": null
+  },
+  {
+    "text": "portable",
+    "startMs": 424032,
+    "endMs": 424685,
+    "timestampMs": 424032,
+    "confidence": null
+  },
+  {
+    "text": "knowledge",
+    "startMs": 424685,
+    "endMs": 425419,
+    "timestampMs": 424685,
+    "confidence": null
+  },
+  {
+    "text": "base",
+    "startMs": 425419,
+    "endMs": 425745,
+    "timestampMs": 425419,
+    "confidence": null
+  },
+  {
+    "text": "rather",
+    "startMs": 425745,
+    "endMs": 426234,
+    "timestampMs": 425745,
+    "confidence": null
+  },
+  {
+    "text": "than",
+    "startMs": 426234,
+    "endMs": 426560,
+    "timestampMs": 426234,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 426560,
+    "endMs": 426805,
+    "timestampMs": 426560,
+    "confidence": null
+  },
+  {
+    "text": "executable",
+    "startMs": 426805,
+    "endMs": 427539,
+    "timestampMs": 426805,
+    "confidence": null
+  },
+  {
+    "text": "tool.",
+    "startMs": 427539,
+    "endMs": 428120,
+    "timestampMs": 427539,
+    "confidence": null
+  },
+  {
+    "text": "Skills",
+    "startMs": 428120,
+    "endMs": 428628,
+    "timestampMs": 428120,
+    "confidence": null
+  },
+  {
+    "text": "that",
+    "startMs": 428628,
+    "endMs": 428966,
+    "timestampMs": 428628,
+    "confidence": null
+  },
+  {
+    "text": "include",
+    "startMs": 428966,
+    "endMs": 429559,
+    "timestampMs": 428966,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 429559,
+    "endMs": 430151,
+    "timestampMs": 429559,
+    "confidence": null
+  },
+  {
+    "text": "follow",
+    "startMs": 430151,
+    "endMs": 430659,
+    "timestampMs": 430151,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 430659,
+    "endMs": 430913,
+    "timestampMs": 430659,
+    "confidence": null
+  },
+  {
+    "text": "cross-platform",
+    "startMs": 430913,
+    "endMs": 431675,
+    "timestampMs": 430913,
+    "confidence": null
+  },
+  {
+    "text": "pattern:",
+    "startMs": 431675,
+    "endMs": 432352,
+    "timestampMs": 431675,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 432352,
+    "endMs": 432775,
+    "timestampMs": 432352,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 432775,
+    "endMs": 433114,
+    "timestampMs": 432775,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 433114,
+    "endMs": 433622,
+    "timestampMs": 433114,
+    "confidence": null
+  },
+  {
+    "text": "has",
+    "startMs": 433622,
+    "endMs": 433876,
+    "timestampMs": 433622,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 433876,
+    "endMs": 434129,
+    "timestampMs": 433876,
+    "confidence": null
+  },
+  {
+    "text": "corresponding",
+    "startMs": 434129,
+    "endMs": 434891,
+    "timestampMs": 434129,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 434891,
+    "endMs": 435653,
+    "timestampMs": 434891,
+    "confidence": null
+  },
+  {
+    "text": "script,",
+    "startMs": 435653,
+    "endMs": 436245,
+    "timestampMs": 435653,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 436245,
+    "endMs": 436499,
+    "timestampMs": 436245,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 436499,
+    "endMs": 436753,
+    "timestampMs": 436499,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 436753,
+    "endMs": 437515,
+    "timestampMs": 436753,
+    "confidence": null
+  },
+  {
+    "text": "both.",
+    "startMs": 437515,
+    "endMs": 438118,
+    "timestampMs": 437515,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 438118,
+    "endMs": 438372,
+    "timestampMs": 438118,
+    "confidence": null
+  },
+  {
+    "text": "PR",
+    "startMs": 438372,
+    "endMs": 438626,
+    "timestampMs": 438372,
+    "confidence": null
+  },
+  {
+    "text": "Reference",
+    "startMs": 438626,
+    "endMs": 439388,
+    "timestampMs": 438626,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 439388,
+    "endMs": 439811,
+    "timestampMs": 439388,
+    "confidence": null
+  },
+  {
+    "text": "at",
+    "startMs": 439811,
+    "endMs": 440065,
+    "timestampMs": 439811,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/shared/pr-reference/scripts/`",
+    "startMs": 440065,
+    "endMs": 440827,
+    "timestampMs": 440065,
+    "confidence": null
+  },
+  {
+    "text": "demonstrates",
+    "startMs": 440827,
+    "endMs": 441588,
+    "timestampMs": 440827,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 441588,
+    "endMs": 441927,
+    "timestampMs": 441588,
+    "confidence": null
+  },
+  {
+    "text": "clearly.",
+    "startMs": 441927,
+    "endMs": 442784,
+    "timestampMs": 441927,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 442784,
+    "endMs": 443038,
+    "timestampMs": 442784,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 443038,
+    "endMs": 443715,
+    "timestampMs": 443038,
+    "confidence": null
+  },
+  {
+    "text": "six",
+    "startMs": 443715,
+    "endMs": 443969,
+    "timestampMs": 443715,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 443969,
+    "endMs": 444477,
+    "timestampMs": 443969,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 444477,
+    "endMs": 444900,
+    "timestampMs": 444477,
+    "confidence": null
+  },
+  {
+    "text": "organized",
+    "startMs": 444900,
+    "endMs": 445662,
+    "timestampMs": 444900,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 445662,
+    "endMs": 445916,
+    "timestampMs": 445662,
+    "confidence": null
+  },
+  {
+    "text": "pairs:",
+    "startMs": 445916,
+    "endMs": 446423,
+    "timestampMs": 445916,
+    "confidence": null
+  },
+  {
+    "text": "`generate.sh`",
+    "startMs": 446423,
+    "endMs": 447185,
+    "timestampMs": 446423,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 447185,
+    "endMs": 447439,
+    "timestampMs": 447185,
+    "confidence": null
+  },
+  {
+    "text": "`generate.ps1`,",
+    "startMs": 447439,
+    "endMs": 448286,
+    "timestampMs": 447439,
+    "confidence": null
+  },
+  {
+    "text": "`list-changed-files.sh`",
+    "startMs": 448286,
+    "endMs": 449047,
+    "timestampMs": 448286,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 449047,
+    "endMs": 449301,
+    "timestampMs": 449047,
+    "confidence": null
+  },
+  {
+    "text": "`list-changed-files.ps1`,",
+    "startMs": 449301,
+    "endMs": 450148,
+    "timestampMs": 449301,
+    "confidence": null
+  },
+  {
+    "text": "`read-diff.sh`",
+    "startMs": 450148,
+    "endMs": 450909,
+    "timestampMs": 450148,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 450909,
+    "endMs": 451163,
+    "timestampMs": 450909,
+    "confidence": null
+  },
+  {
+    "text": "`read-diff.ps1`.",
+    "startMs": 451163,
+    "endMs": 452190,
+    "timestampMs": 451163,
+    "confidence": null
+  },
+  {
+    "text": "A",
+    "startMs": 452190,
+    "endMs": 452443,
+    "timestampMs": 452190,
+    "confidence": null
+  },
+  {
+    "text": "shared",
+    "startMs": 452443,
+    "endMs": 452951,
+    "timestampMs": 452443,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 452951,
+    "endMs": 453713,
+    "timestampMs": 452951,
+    "confidence": null
+  },
+  {
+    "text": "module",
+    "startMs": 453713,
+    "endMs": 454221,
+    "timestampMs": 453713,
+    "confidence": null
+  },
+  {
+    "text": "`shared.psm1`",
+    "startMs": 454221,
+    "endMs": 454983,
+    "timestampMs": 454221,
+    "confidence": null
+  },
+  {
+    "text": "provides",
+    "startMs": 454983,
+    "endMs": 455660,
+    "timestampMs": 454983,
+    "confidence": null
+  },
+  {
+    "text": "common",
+    "startMs": 455660,
+    "endMs": 456168,
+    "timestampMs": 455660,
+    "confidence": null
+  },
+  {
+    "text": "functions",
+    "startMs": 456168,
+    "endMs": 456929,
+    "timestampMs": 456168,
+    "confidence": null
+  },
+  {
+    "text": "used",
+    "startMs": 456929,
+    "endMs": 457268,
+    "timestampMs": 456929,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 457268,
+    "endMs": 457522,
+    "timestampMs": 457268,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 457522,
+    "endMs": 457776,
+    "timestampMs": 457522,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 457776,
+    "endMs": 458538,
+    "timestampMs": 457776,
+    "confidence": null
+  },
+  {
+    "text": "scripts.",
+    "startMs": 458538,
+    "endMs": 459395,
+    "timestampMs": 458538,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 459395,
+    "endMs": 459648,
+    "timestampMs": 459395,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 459648,
+    "endMs": 460410,
+    "timestampMs": 459648,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 460410,
+    "endMs": 460833,
+    "timestampMs": 460410,
+    "confidence": null
+  },
+  {
+    "text": "follows",
+    "startMs": 460833,
+    "endMs": 461426,
+    "timestampMs": 460833,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 461426,
+    "endMs": 461680,
+    "timestampMs": 461426,
+    "confidence": null
+  },
+  {
+    "text": "same",
+    "startMs": 461680,
+    "endMs": 462018,
+    "timestampMs": 461680,
+    "confidence": null
+  },
+  {
+    "text": "pattern.",
+    "startMs": 462018,
+    "endMs": 462875,
+    "timestampMs": 462018,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 462875,
+    "endMs": 463129,
+    "timestampMs": 462875,
+    "confidence": null
+  },
+  {
+    "text": "`scripts/`",
+    "startMs": 463129,
+    "endMs": 463722,
+    "timestampMs": 463129,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 463722,
+    "endMs": 464484,
+    "timestampMs": 463722,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 464484,
+    "endMs": 465161,
+    "timestampMs": 464484,
+    "confidence": null
+  },
+  {
+    "text": "`invoke-pptx-pipeline.sh`",
+    "startMs": 465161,
+    "endMs": 465922,
+    "timestampMs": 465161,
+    "confidence": null
+  },
+  {
+    "text": "(Bash)",
+    "startMs": 465922,
+    "endMs": 466261,
+    "timestampMs": 465922,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 466261,
+    "endMs": 466515,
+    "timestampMs": 466261,
+    "confidence": null
+  },
+  {
+    "text": "`Invoke-PptxPipeline.ps1`",
+    "startMs": 466515,
+    "endMs": 467277,
+    "timestampMs": 466515,
+    "confidence": null
+  },
+  {
+    "text": "(PowerShell)",
+    "startMs": 467277,
+    "endMs": 468038,
+    "timestampMs": 467277,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 468038,
+    "endMs": 468292,
+    "timestampMs": 468038,
+    "confidence": null
+  },
+  {
+    "text": "paired",
+    "startMs": 468292,
+    "endMs": 468800,
+    "timestampMs": 468292,
+    "confidence": null
+  },
+  {
+    "text": "orchestration",
+    "startMs": 468800,
+    "endMs": 469562,
+    "timestampMs": 468800,
+    "confidence": null
+  },
+  {
+    "text": "scripts.",
+    "startMs": 469562,
+    "endMs": 470419,
+    "timestampMs": 469562,
+    "confidence": null
+  },
+  {
+    "text": "Both",
+    "startMs": 470419,
+    "endMs": 470758,
+    "timestampMs": 470419,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 470758,
+    "endMs": 471350,
+    "timestampMs": 470758,
+    "confidence": null
+  },
+  {
+    "text": "perform",
+    "startMs": 471350,
+    "endMs": 471942,
+    "timestampMs": 471350,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 471942,
+    "endMs": 472196,
+    "timestampMs": 471942,
+    "confidence": null
+  },
+  {
+    "text": "same",
+    "startMs": 472196,
+    "endMs": 472535,
+    "timestampMs": 472196,
+    "confidence": null
+  },
+  {
+    "text": "operations",
+    "startMs": 472535,
+    "endMs": 473297,
+    "timestampMs": 472535,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 473297,
+    "endMs": 473551,
+    "timestampMs": 473297,
+    "confidence": null
+  },
+  {
+    "text": "environment",
+    "startMs": 473551,
+    "endMs": 474312,
+    "timestampMs": 473551,
+    "confidence": null
+  },
+  {
+    "text": "setup,",
+    "startMs": 474312,
+    "endMs": 474820,
+    "timestampMs": 474312,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 474820,
+    "endMs": 475582,
+    "timestampMs": 474820,
+    "confidence": null
+  },
+  {
+    "text": "installation,",
+    "startMs": 475582,
+    "endMs": 476428,
+    "timestampMs": 475582,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 476428,
+    "endMs": 476682,
+    "timestampMs": 476428,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 476682,
+    "endMs": 477359,
+    "timestampMs": 476682,
+    "confidence": null
+  },
+  {
+    "text": "execution",
+    "startMs": 477359,
+    "endMs": 478121,
+    "timestampMs": 477359,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 478121,
+    "endMs": 478375,
+    "timestampMs": 478121,
+    "confidence": null
+  },
+  {
+    "text": "using",
+    "startMs": 478375,
+    "endMs": 478798,
+    "timestampMs": 478375,
+    "confidence": null
+  },
+  {
+    "text": "platform-native",
+    "startMs": 478798,
+    "endMs": 479560,
+    "timestampMs": 478798,
+    "confidence": null
+  },
+  {
+    "text": "commands.",
+    "startMs": 479560,
+    "endMs": 480502,
+    "timestampMs": 479560,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 480502,
+    "endMs": 480840,
+    "timestampMs": 480502,
+    "confidence": null
+  },
+  {
+    "text": "dual-script",
+    "startMs": 480840,
+    "endMs": 481602,
+    "timestampMs": 480840,
+    "confidence": null
+  },
+  {
+    "text": "requirement",
+    "startMs": 481602,
+    "endMs": 482364,
+    "timestampMs": 481602,
+    "confidence": null
+  },
+  {
+    "text": "exists",
+    "startMs": 482364,
+    "endMs": 482872,
+    "timestampMs": 482364,
+    "confidence": null
+  },
+  {
+    "text": "because",
+    "startMs": 482872,
+    "endMs": 483464,
+    "timestampMs": 482872,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 483464,
+    "endMs": 483718,
+    "timestampMs": 483464,
+    "confidence": null
+  },
+  {
+    "text": "Core",
+    "startMs": 483718,
+    "endMs": 484057,
+    "timestampMs": 483718,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 484057,
+    "endMs": 484395,
+    "timestampMs": 484057,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 484395,
+    "endMs": 484649,
+    "timestampMs": 484395,
+    "confidence": null
+  },
+  {
+    "text": "macOS,",
+    "startMs": 484649,
+    "endMs": 485157,
+    "timestampMs": 484649,
+    "confidence": null
+  },
+  {
+    "text": "Linux,",
+    "startMs": 485157,
+    "endMs": 485665,
+    "timestampMs": 485157,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 485665,
+    "endMs": 485919,
+    "timestampMs": 485665,
+    "confidence": null
+  },
+  {
+    "text": "Windows.",
+    "startMs": 485919,
+    "endMs": 486776,
+    "timestampMs": 485919,
+    "confidence": null
+  },
+  {
+    "text": "Agents",
+    "startMs": 486776,
+    "endMs": 487284,
+    "timestampMs": 486776,
+    "confidence": null
+  },
+  {
+    "text": "invoke",
+    "startMs": 487284,
+    "endMs": 487791,
+    "timestampMs": 487284,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 487791,
+    "endMs": 488215,
+    "timestampMs": 487791,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 488215,
+    "endMs": 488807,
+    "timestampMs": 488215,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 488807,
+    "endMs": 489400,
+    "timestampMs": 488807,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 489400,
+    "endMs": 489653,
+    "timestampMs": 489400,
+    "confidence": null
+  },
+  {
+    "text": "terminal,",
+    "startMs": 489653,
+    "endMs": 490415,
+    "timestampMs": 489653,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 490415,
+    "endMs": 490669,
+    "timestampMs": 490415,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 490669,
+    "endMs": 490923,
+    "timestampMs": 490669,
+    "confidence": null
+  },
+  {
+    "text": "operating",
+    "startMs": 490923,
+    "endMs": 491685,
+    "timestampMs": 490923,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 491685,
+    "endMs": 492193,
+    "timestampMs": 491685,
+    "confidence": null
+  },
+  {
+    "text": "determines",
+    "startMs": 492193,
+    "endMs": 492954,
+    "timestampMs": 492193,
+    "confidence": null
+  },
+  {
+    "text": "which",
+    "startMs": 492954,
+    "endMs": 493378,
+    "timestampMs": 492954,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 493378,
+    "endMs": 493885,
+    "timestampMs": 493378,
+    "confidence": null
+  },
+  {
+    "text": "runs.",
+    "startMs": 493885,
+    "endMs": 494489,
+    "timestampMs": 493885,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 494489,
+    "endMs": 494742,
+    "timestampMs": 494489,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 494742,
+    "endMs": 495081,
+    "timestampMs": 494742,
+    "confidence": null
+  },
+  {
+    "text": "version",
+    "startMs": 495081,
+    "endMs": 495673,
+    "timestampMs": 495081,
+    "confidence": null
+  },
+  {
+    "text": "handles",
+    "startMs": 495673,
+    "endMs": 496266,
+    "timestampMs": 495673,
+    "confidence": null
+  },
+  {
+    "text": "macOS",
+    "startMs": 496266,
+    "endMs": 496689,
+    "timestampMs": 496266,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 496689,
+    "endMs": 496943,
+    "timestampMs": 496689,
+    "confidence": null
+  },
+  {
+    "text": "Linux;",
+    "startMs": 496943,
+    "endMs": 497451,
+    "timestampMs": 496943,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 497451,
+    "endMs": 497705,
+    "timestampMs": 497451,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 497705,
+    "endMs": 498467,
+    "timestampMs": 497705,
+    "confidence": null
+  },
+  {
+    "text": "version",
+    "startMs": 498467,
+    "endMs": 499059,
+    "timestampMs": 498467,
+    "confidence": null
+  },
+  {
+    "text": "handles",
+    "startMs": 499059,
+    "endMs": 499652,
+    "timestampMs": 499059,
+    "confidence": null
+  },
+  {
+    "text": "Windows.",
+    "startMs": 499652,
+    "endMs": 500509,
+    "timestampMs": 499652,
+    "confidence": null
+  },
+  {
+    "text": "Agents",
+    "startMs": 500509,
+    "endMs": 501016,
+    "timestampMs": 500509,
+    "confidence": null
+  },
+  {
+    "text": "do",
+    "startMs": 501016,
+    "endMs": 501270,
+    "timestampMs": 501016,
+    "confidence": null
+  },
+  {
+    "text": "not",
+    "startMs": 501270,
+    "endMs": 501524,
+    "timestampMs": 501270,
+    "confidence": null
+  },
+  {
+    "text": "need",
+    "startMs": 501524,
+    "endMs": 501863,
+    "timestampMs": 501524,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 501863,
+    "endMs": 502117,
+    "timestampMs": 501863,
+    "confidence": null
+  },
+  {
+    "text": "detect",
+    "startMs": 502117,
+    "endMs": 502625,
+    "timestampMs": 502117,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 502625,
+    "endMs": 502878,
+    "timestampMs": 502625,
+    "confidence": null
+  },
+  {
+    "text": "platform",
+    "startMs": 502878,
+    "endMs": 503556,
+    "timestampMs": 502878,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 503556,
+    "endMs": 503810,
+    "timestampMs": 503556,
+    "confidence": null
+  },
+  {
+    "text": "they",
+    "startMs": 503810,
+    "endMs": 504148,
+    "timestampMs": 503810,
+    "confidence": null
+  },
+  {
+    "text": "reference",
+    "startMs": 504148,
+    "endMs": 504910,
+    "timestampMs": 504148,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 504910,
+    "endMs": 505164,
+    "timestampMs": 504910,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 505164,
+    "endMs": 505672,
+    "timestampMs": 505164,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 505672,
+    "endMs": 505926,
+    "timestampMs": 505672,
+    "confidence": null
+  },
+  {
+    "text": "function,",
+    "startMs": 505926,
+    "endMs": 506687,
+    "timestampMs": 505926,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 506687,
+    "endMs": 506941,
+    "timestampMs": 506687,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 506941,
+    "endMs": 507195,
+    "timestampMs": 506941,
+    "confidence": null
+  },
+  {
+    "text": "runtime",
+    "startMs": 507195,
+    "endMs": 507788,
+    "timestampMs": 507195,
+    "confidence": null
+  },
+  {
+    "text": "resolves",
+    "startMs": 507788,
+    "endMs": 508465,
+    "timestampMs": 507788,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 508465,
+    "endMs": 508719,
+    "timestampMs": 508465,
+    "confidence": null
+  },
+  {
+    "text": "correct",
+    "startMs": 508719,
+    "endMs": 509311,
+    "timestampMs": 508719,
+    "confidence": null
+  },
+  {
+    "text": "version.",
+    "startMs": 509311,
+    "endMs": 510168,
+    "timestampMs": 509311,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 510168,
+    "endMs": 510422,
+    "timestampMs": 510168,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 510422,
+    "endMs": 511184,
+    "timestampMs": 510422,
+    "confidence": null
+  },
+  {
+    "text": "both",
+    "startMs": 511184,
+    "endMs": 511522,
+    "timestampMs": 511184,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 511522,
+    "endMs": 512030,
+    "timestampMs": 511522,
+    "confidence": null
+  },
+  {
+    "text": "variants",
+    "startMs": 512030,
+    "endMs": 512707,
+    "timestampMs": 512030,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 512707,
+    "endMs": 512961,
+    "timestampMs": 512707,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 512961,
+    "endMs": 513384,
+    "timestampMs": 512961,
+    "confidence": null
+  },
+  {
+    "text": "pull",
+    "startMs": 513384,
+    "endMs": 513723,
+    "timestampMs": 513384,
+    "confidence": null
+  },
+  {
+    "text": "request.",
+    "startMs": 513723,
+    "endMs": 514580,
+    "timestampMs": 513723,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 514580,
+    "endMs": 514919,
+    "timestampMs": 514580,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 514919,
+    "endMs": 515511,
+    "timestampMs": 514919,
+    "confidence": null
+  },
+  {
+    "text": "must",
+    "startMs": 515511,
+    "endMs": 515850,
+    "timestampMs": 515511,
+    "confidence": null
+  },
+  {
+    "text": "pass",
+    "startMs": 515850,
+    "endMs": 516188,
+    "timestampMs": 515850,
+    "confidence": null
+  },
+  {
+    "text": "ShellCheck",
+    "startMs": 516188,
+    "endMs": 516950,
+    "timestampMs": 516188,
+    "confidence": null
+  },
+  {
+    "text": "analysis",
+    "startMs": 516950,
+    "endMs": 517627,
+    "timestampMs": 516950,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 517627,
+    "endMs": 517881,
+    "timestampMs": 517627,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 517881,
+    "endMs": 518135,
+    "timestampMs": 517881,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 518135,
+    "endMs": 518473,
+    "timestampMs": 518135,
+    "confidence": null
+  },
+  {
+    "text": "instruction",
+    "startMs": 518473,
+    "endMs": 519235,
+    "timestampMs": 518473,
+    "confidence": null
+  },
+  {
+    "text": "file",
+    "startMs": 519235,
+    "endMs": 519574,
+    "timestampMs": 519235,
+    "confidence": null
+  },
+  {
+    "text": "specifies",
+    "startMs": 519574,
+    "endMs": 520336,
+    "timestampMs": 519574,
+    "confidence": null
+  },
+  {
+    "text": "`set",
+    "startMs": 520336,
+    "endMs": 520589,
+    "timestampMs": 520336,
+    "confidence": null
+  },
+  {
+    "text": "-euo",
+    "startMs": 520589,
+    "endMs": 520843,
+    "timestampMs": 520589,
+    "confidence": null
+  },
+  {
+    "text": "pipefail`",
+    "startMs": 520843,
+    "endMs": 521520,
+    "timestampMs": 520843,
+    "confidence": null
+  },
+  {
+    "text": "strict",
+    "startMs": 521520,
+    "endMs": 522028,
+    "timestampMs": 521520,
+    "confidence": null
+  },
+  {
+    "text": "mode,",
+    "startMs": 522028,
+    "endMs": 522452,
+    "timestampMs": 522028,
+    "confidence": null
+  },
+  {
+    "text": "`[[",
+    "startMs": 522452,
+    "endMs": 522705,
+    "timestampMs": 522452,
+    "confidence": null
+  },
+  {
+    "text": "]]`",
+    "startMs": 522705,
+    "endMs": 522959,
+    "timestampMs": 522705,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 522959,
+    "endMs": 523298,
+    "timestampMs": 522959,
+    "confidence": null
+  },
+  {
+    "text": "syntax,",
+    "startMs": 523298,
+    "endMs": 523890,
+    "timestampMs": 523298,
+    "confidence": null
+  },
+  {
+    "text": "quoted",
+    "startMs": 523890,
+    "endMs": 524398,
+    "timestampMs": 523890,
+    "confidence": null
+  },
+  {
+    "text": "variable",
+    "startMs": 524398,
+    "endMs": 525075,
+    "timestampMs": 524398,
+    "confidence": null
+  },
+  {
+    "text": "expansions,",
+    "startMs": 525075,
+    "endMs": 525922,
+    "timestampMs": 525075,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 525922,
+    "endMs": 526176,
+    "timestampMs": 525922,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 526176,
+    "endMs": 526430,
+    "timestampMs": 526176,
+    "confidence": null
+  },
+  {
+    "text": "main",
+    "startMs": 526430,
+    "endMs": 526768,
+    "timestampMs": 526430,
+    "confidence": null
+  },
+  {
+    "text": "function",
+    "startMs": 526768,
+    "endMs": 527445,
+    "timestampMs": 526768,
+    "confidence": null
+  },
+  {
+    "text": "pattern.",
+    "startMs": 527445,
+    "endMs": 528302,
+    "timestampMs": 527445,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 528302,
+    "endMs": 529064,
+    "timestampMs": 528302,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 529064,
+    "endMs": 529657,
+    "timestampMs": 529064,
+    "confidence": null
+  },
+  {
+    "text": "follow",
+    "startMs": 529657,
+    "endMs": 530164,
+    "timestampMs": 529657,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 530164,
+    "endMs": 530418,
+    "timestampMs": 530164,
+    "confidence": null
+  },
+  {
+    "text": "conventions",
+    "startMs": 530418,
+    "endMs": 531180,
+    "timestampMs": 530418,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 531180,
+    "endMs": 531434,
+    "timestampMs": 531180,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 531434,
+    "endMs": 531688,
+    "timestampMs": 531434,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 531688,
+    "endMs": 532450,
+    "timestampMs": 531688,
+    "confidence": null
+  },
+  {
+    "text": "instruction",
+    "startMs": 532450,
+    "endMs": 533211,
+    "timestampMs": 532450,
+    "confidence": null
+  },
+  {
+    "text": "file.",
+    "startMs": 533211,
+    "endMs": 533814,
+    "timestampMs": 533211,
+    "confidence": null
+  },
+  {
+    "text": "Pester",
+    "startMs": 533814,
+    "endMs": 534322,
+    "timestampMs": 533814,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 534322,
+    "endMs": 534746,
+    "timestampMs": 534322,
+    "confidence": null
+  },
+  {
+    "text": "like",
+    "startMs": 534746,
+    "endMs": 535084,
+    "timestampMs": 534746,
+    "confidence": null
+  },
+  {
+    "text": "`Invoke-PptxPipeline.Tests.ps1`",
+    "startMs": 535084,
+    "endMs": 535846,
+    "timestampMs": 535084,
+    "confidence": null
+  },
+  {
+    "text": "validate",
+    "startMs": 535846,
+    "endMs": 536523,
+    "timestampMs": 535846,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 536523,
+    "endMs": 537285,
+    "timestampMs": 536523,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 537285,
+    "endMs": 537793,
+    "timestampMs": 537285,
+    "confidence": null
+  },
+  {
+    "text": "behavior.",
+    "startMs": 537793,
+    "endMs": 538734,
+    "timestampMs": 537793,
+    "confidence": null
+  },
+  {
+    "text": "This",
+    "startMs": 538734,
+    "endMs": 539073,
+    "timestampMs": 538734,
+    "confidence": null
+  },
+  {
+    "text": "ensures",
+    "startMs": 539073,
+    "endMs": 539665,
+    "timestampMs": 539073,
+    "confidence": null
+  },
+  {
+    "text": "neither",
+    "startMs": 539665,
+    "endMs": 540258,
+    "timestampMs": 539665,
+    "confidence": null
+  },
+  {
+    "text": "platform",
+    "startMs": 540258,
+    "endMs": 540935,
+    "timestampMs": 540258,
+    "confidence": null
+  },
+  {
+    "text": "falls",
+    "startMs": 540935,
+    "endMs": 541358,
+    "timestampMs": 540935,
+    "confidence": null
+  },
+  {
+    "text": "behind",
+    "startMs": 541358,
+    "endMs": 541866,
+    "timestampMs": 541358,
+    "confidence": null
+  },
+  {
+    "text": "as",
+    "startMs": 541866,
+    "endMs": 542120,
+    "timestampMs": 541866,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 542120,
+    "endMs": 542628,
+    "timestampMs": 542120,
+    "confidence": null
+  },
+  {
+    "text": "evolve.",
+    "startMs": 542628,
+    "endMs": 543400,
+    "timestampMs": 542628,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 543400,
+    "endMs": 543651,
+    "timestampMs": 543400,
+    "confidence": null
+  },
+  {
+    "text": "18",
+    "startMs": 543651,
+    "endMs": 543901,
+    "timestampMs": 543651,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 543901,
+    "endMs": 544402,
+    "timestampMs": 543901,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 544402,
+    "endMs": 544653,
+    "timestampMs": 544402,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 544653,
+    "endMs": 544903,
+    "timestampMs": 544653,
+    "confidence": null
+  },
+  {
+    "text": "Core",
+    "startMs": 544903,
+    "endMs": 545237,
+    "timestampMs": 544903,
+    "confidence": null
+  },
+  {
+    "text": "organize",
+    "startMs": 545237,
+    "endMs": 545905,
+    "timestampMs": 545237,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 545905,
+    "endMs": 546239,
+    "timestampMs": 545905,
+    "confidence": null
+  },
+  {
+    "text": "five",
+    "startMs": 546239,
+    "endMs": 546573,
+    "timestampMs": 546239,
+    "confidence": null
+  },
+  {
+    "text": "subdirectories",
+    "startMs": 546573,
+    "endMs": 547325,
+    "timestampMs": 546573,
+    "confidence": null
+  },
+  {
+    "text": "under",
+    "startMs": 547325,
+    "endMs": 547742,
+    "timestampMs": 547325,
+    "confidence": null
+  },
+  {
+    "text": "`.github/skills/`.",
+    "startMs": 547742,
+    "endMs": 548755,
+    "timestampMs": 547742,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 548755,
+    "endMs": 549005,
+    "timestampMs": 548755,
+    "confidence": null
+  },
+  {
+    "text": "`security/`",
+    "startMs": 549005,
+    "endMs": 549673,
+    "timestampMs": 549005,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 549673,
+    "endMs": 550425,
+    "timestampMs": 549673,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 550425,
+    "endMs": 550675,
+    "timestampMs": 550425,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 550675,
+    "endMs": 550926,
+    "timestampMs": 550675,
+    "confidence": null
+  },
+  {
+    "text": "largest,",
+    "startMs": 550926,
+    "endMs": 551594,
+    "timestampMs": 550926,
+    "confidence": null
+  },
+  {
+    "text": "containing",
+    "startMs": 551594,
+    "endMs": 552346,
+    "timestampMs": 551594,
+    "confidence": null
+  },
+  {
+    "text": "nine",
+    "startMs": 552346,
+    "endMs": 552680,
+    "timestampMs": 552346,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 552680,
+    "endMs": 553181,
+    "timestampMs": 552680,
+    "confidence": null
+  },
+  {
+    "text": "focused",
+    "startMs": 553181,
+    "endMs": 553765,
+    "timestampMs": 553181,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 553765,
+    "endMs": 554016,
+    "timestampMs": 553765,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 554016,
+    "endMs": 554433,
+    "timestampMs": 554016,
+    "confidence": null
+  },
+  {
+    "text": "frameworks",
+    "startMs": 554433,
+    "endMs": 555185,
+    "timestampMs": 554433,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 555185,
+    "endMs": 555435,
+    "timestampMs": 555185,
+    "confidence": null
+  },
+  {
+    "text": "secure",
+    "startMs": 555435,
+    "endMs": 555936,
+    "timestampMs": 555435,
+    "confidence": null
+  },
+  {
+    "text": "development",
+    "startMs": 555936,
+    "endMs": 556688,
+    "timestampMs": 555936,
+    "confidence": null
+  },
+  {
+    "text": "practices.",
+    "startMs": 556688,
+    "endMs": 557700,
+    "timestampMs": 556688,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 557700,
+    "endMs": 557951,
+    "timestampMs": 557700,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-top-10/`",
+    "startMs": 557951,
+    "endMs": 558702,
+    "timestampMs": 557951,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 558702,
+    "endMs": 559120,
+    "timestampMs": 558702,
+    "confidence": null
+  },
+  {
+    "text": "encodes",
+    "startMs": 559120,
+    "endMs": 559704,
+    "timestampMs": 559120,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 559704,
+    "endMs": 559955,
+    "timestampMs": 559704,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 559955,
+    "endMs": 560372,
+    "timestampMs": 559955,
+    "confidence": null
+  },
+  {
+    "text": "Top",
+    "startMs": 560372,
+    "endMs": 560623,
+    "timestampMs": 560372,
+    "confidence": null
+  },
+  {
+    "text": "10",
+    "startMs": 560623,
+    "endMs": 560873,
+    "timestampMs": 560623,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 560873,
+    "endMs": 561124,
+    "timestampMs": 560873,
+    "confidence": null
+  },
+  {
+    "text": "Web",
+    "startMs": 561124,
+    "endMs": 561375,
+    "timestampMs": 561124,
+    "confidence": null
+  },
+  {
+    "text": "Applications",
+    "startMs": 561375,
+    "endMs": 562126,
+    "timestampMs": 561375,
+    "confidence": null
+  },
+  {
+    "text": "(2025).",
+    "startMs": 562126,
+    "endMs": 562721,
+    "timestampMs": 562126,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 562721,
+    "endMs": 562972,
+    "timestampMs": 562721,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-llm/`",
+    "startMs": 562972,
+    "endMs": 563640,
+    "timestampMs": 562972,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 563640,
+    "endMs": 564057,
+    "timestampMs": 563640,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 564057,
+    "endMs": 564558,
+    "timestampMs": 564057,
+    "confidence": null
+  },
+  {
+    "text": "OWASP",
+    "startMs": 564558,
+    "endMs": 564976,
+    "timestampMs": 564558,
+    "confidence": null
+  },
+  {
+    "text": "vulnerabilities",
+    "startMs": 564976,
+    "endMs": 565727,
+    "timestampMs": 564976,
+    "confidence": null
+  },
+  {
+    "text": "specific",
+    "startMs": 565727,
+    "endMs": 566395,
+    "timestampMs": 565727,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 566395,
+    "endMs": 566646,
+    "timestampMs": 566395,
+    "confidence": null
+  },
+  {
+    "text": "Large",
+    "startMs": 566646,
+    "endMs": 567063,
+    "timestampMs": 566646,
+    "confidence": null
+  },
+  {
+    "text": "Language",
+    "startMs": 567063,
+    "endMs": 567731,
+    "timestampMs": 567063,
+    "confidence": null
+  },
+  {
+    "text": "Model",
+    "startMs": 567731,
+    "endMs": 568149,
+    "timestampMs": 567731,
+    "confidence": null
+  },
+  {
+    "text": "applications.",
+    "startMs": 568149,
+    "endMs": 569161,
+    "timestampMs": 568149,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 569161,
+    "endMs": 569412,
+    "timestampMs": 569161,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-agentic/`",
+    "startMs": 569412,
+    "endMs": 570163,
+    "timestampMs": 569412,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 570163,
+    "endMs": 570581,
+    "timestampMs": 570163,
+    "confidence": null
+  },
+  {
+    "text": "addresses",
+    "startMs": 570581,
+    "endMs": 571333,
+    "timestampMs": 570581,
+    "confidence": null
+  },
+  {
+    "text": "security",
+    "startMs": 571333,
+    "endMs": 572001,
+    "timestampMs": 571333,
+    "confidence": null
+  },
+  {
+    "text": "risks",
+    "startMs": 572001,
+    "endMs": 572418,
+    "timestampMs": 572001,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 572418,
+    "endMs": 572669,
+    "timestampMs": 572418,
+    "confidence": null
+  },
+  {
+    "text": "agentic",
+    "startMs": 572669,
+    "endMs": 573253,
+    "timestampMs": 572669,
+    "confidence": null
+  },
+  {
+    "text": "AI",
+    "startMs": 573253,
+    "endMs": 573504,
+    "timestampMs": 573253,
+    "confidence": null
+  },
+  {
+    "text": "systems.",
+    "startMs": 573504,
+    "endMs": 574349,
+    "timestampMs": 573504,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 574349,
+    "endMs": 574600,
+    "timestampMs": 574349,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-mcp/`",
+    "startMs": 574600,
+    "endMs": 575268,
+    "timestampMs": 574600,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 575268,
+    "endMs": 575685,
+    "timestampMs": 575268,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 575685,
+    "endMs": 576186,
+    "timestampMs": 575685,
+    "confidence": null
+  },
+  {
+    "text": "Model",
+    "startMs": 576186,
+    "endMs": 576604,
+    "timestampMs": 576186,
+    "confidence": null
+  },
+  {
+    "text": "Context",
+    "startMs": 576604,
+    "endMs": 577188,
+    "timestampMs": 576604,
+    "confidence": null
+  },
+  {
+    "text": "Protocol",
+    "startMs": 577188,
+    "endMs": 577856,
+    "timestampMs": 577188,
+    "confidence": null
+  },
+  {
+    "text": "security.",
+    "startMs": 577856,
+    "endMs": 578785,
+    "timestampMs": 577856,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 578785,
+    "endMs": 579036,
+    "timestampMs": 578785,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-infrastructure/`",
+    "startMs": 579036,
+    "endMs": 579787,
+    "timestampMs": 579036,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 579787,
+    "endMs": 580205,
+    "timestampMs": 579787,
+    "confidence": null
+  },
+  {
+    "text": "addresses",
+    "startMs": 580205,
+    "endMs": 580956,
+    "timestampMs": 580205,
+    "confidence": null
+  },
+  {
+    "text": "infrastructure",
+    "startMs": 580956,
+    "endMs": 581708,
+    "timestampMs": 580956,
+    "confidence": null
+  },
+  {
+    "text": "security.",
+    "startMs": 581708,
+    "endMs": 582637,
+    "timestampMs": 581708,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 582637,
+    "endMs": 582888,
+    "timestampMs": 582637,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-cicd/`",
+    "startMs": 582888,
+    "endMs": 583639,
+    "timestampMs": 582888,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 583639,
+    "endMs": 584057,
+    "timestampMs": 583639,
+    "confidence": null
+  },
+  {
+    "text": "covers",
+    "startMs": 584057,
+    "endMs": 584558,
+    "timestampMs": 584057,
+    "confidence": null
+  },
+  {
+    "text": "CI/CD",
+    "startMs": 584558,
+    "endMs": 584892,
+    "timestampMs": 584558,
+    "confidence": null
+  },
+  {
+    "text": "pipeline",
+    "startMs": 584892,
+    "endMs": 585560,
+    "timestampMs": 584892,
+    "confidence": null
+  },
+  {
+    "text": "security.",
+    "startMs": 585560,
+    "endMs": 586489,
+    "timestampMs": 585560,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 586489,
+    "endMs": 586739,
+    "timestampMs": 586489,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-docker/`",
+    "startMs": 586739,
+    "endMs": 587491,
+    "timestampMs": 586739,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 587491,
+    "endMs": 587908,
+    "timestampMs": 587491,
+    "confidence": null
+  },
+  {
+    "text": "addresses",
+    "startMs": 587908,
+    "endMs": 588660,
+    "timestampMs": 587908,
+    "confidence": null
+  },
+  {
+    "text": "container",
+    "startMs": 588660,
+    "endMs": 589411,
+    "timestampMs": 588660,
+    "confidence": null
+  },
+  {
+    "text": "security.",
+    "startMs": 589411,
+    "endMs": 590340,
+    "timestampMs": 589411,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 590340,
+    "endMs": 590591,
+    "timestampMs": 590340,
+    "confidence": null
+  },
+  {
+    "text": "`secure-by-design/`",
+    "startMs": 590591,
+    "endMs": 591342,
+    "timestampMs": 590591,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 591342,
+    "endMs": 591760,
+    "timestampMs": 591342,
+    "confidence": null
+  },
+  {
+    "text": "provides",
+    "startMs": 591760,
+    "endMs": 592428,
+    "timestampMs": 591760,
+    "confidence": null
+  },
+  {
+    "text": "secure-by-design",
+    "startMs": 592428,
+    "endMs": 593180,
+    "timestampMs": 592428,
+    "confidence": null
+  },
+  {
+    "text": "development",
+    "startMs": 593180,
+    "endMs": 593931,
+    "timestampMs": 593180,
+    "confidence": null
+  },
+  {
+    "text": "patterns.",
+    "startMs": 593931,
+    "endMs": 594860,
+    "timestampMs": 593931,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 594860,
+    "endMs": 595111,
+    "timestampMs": 594860,
+    "confidence": null
+  },
+  {
+    "text": "`security-reviewer-formats/`",
+    "startMs": 595111,
+    "endMs": 595862,
+    "timestampMs": 595111,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 595862,
+    "endMs": 596280,
+    "timestampMs": 595862,
+    "confidence": null
+  },
+  {
+    "text": "defines",
+    "startMs": 596280,
+    "endMs": 596864,
+    "timestampMs": 596280,
+    "confidence": null
+  },
+  {
+    "text": "output",
+    "startMs": 596864,
+    "endMs": 597365,
+    "timestampMs": 596864,
+    "confidence": null
+  },
+  {
+    "text": "formats",
+    "startMs": 597365,
+    "endMs": 597950,
+    "timestampMs": 597365,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 597950,
+    "endMs": 598200,
+    "timestampMs": 597950,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 598200,
+    "endMs": 598451,
+    "timestampMs": 598200,
+    "confidence": null
+  },
+  {
+    "text": "security",
+    "startMs": 598451,
+    "endMs": 599119,
+    "timestampMs": 598451,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 599119,
+    "endMs": 599620,
+    "timestampMs": 599119,
+    "confidence": null
+  },
+  {
+    "text": "agent.",
+    "startMs": 599620,
+    "endMs": 600298,
+    "timestampMs": 599620,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 600298,
+    "endMs": 600549,
+    "timestampMs": 600298,
+    "confidence": null
+  },
+  {
+    "text": "Security",
+    "startMs": 600549,
+    "endMs": 601217,
+    "timestampMs": 600549,
+    "confidence": null
+  },
+  {
+    "text": "Reviewer",
+    "startMs": 601217,
+    "endMs": 601885,
+    "timestampMs": 601217,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 601885,
+    "endMs": 602303,
+    "timestampMs": 601885,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 602303,
+    "endMs": 602720,
+    "timestampMs": 602303,
+    "confidence": null
+  },
+  {
+    "text": "these",
+    "startMs": 602720,
+    "endMs": 603138,
+    "timestampMs": 602720,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 603138,
+    "endMs": 603639,
+    "timestampMs": 603138,
+    "confidence": null
+  },
+  {
+    "text": "dynamically",
+    "startMs": 603639,
+    "endMs": 604390,
+    "timestampMs": 603639,
+    "confidence": null
+  },
+  {
+    "text": "based",
+    "startMs": 604390,
+    "endMs": 604808,
+    "timestampMs": 604390,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 604808,
+    "endMs": 605058,
+    "timestampMs": 604808,
+    "confidence": null
+  },
+  {
+    "text": "codebase",
+    "startMs": 605058,
+    "endMs": 605726,
+    "timestampMs": 605058,
+    "confidence": null
+  },
+  {
+    "text": "profiling.",
+    "startMs": 605726,
+    "endMs": 606739,
+    "timestampMs": 605726,
+    "confidence": null
+  },
+  {
+    "text": "When",
+    "startMs": 606739,
+    "endMs": 607073,
+    "timestampMs": 606739,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 607073,
+    "endMs": 607323,
+    "timestampMs": 607073,
+    "confidence": null
+  },
+  {
+    "text": "scans",
+    "startMs": 607323,
+    "endMs": 607741,
+    "timestampMs": 607323,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 607741,
+    "endMs": 607991,
+    "timestampMs": 607741,
+    "confidence": null
+  },
+  {
+    "text": "web",
+    "startMs": 607991,
+    "endMs": 608242,
+    "timestampMs": 607991,
+    "confidence": null
+  },
+  {
+    "text": "application,",
+    "startMs": 608242,
+    "endMs": 609077,
+    "timestampMs": 608242,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 609077,
+    "endMs": 609327,
+    "timestampMs": 609077,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 609327,
+    "endMs": 609745,
+    "timestampMs": 609327,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-top-10`.",
+    "startMs": 609745,
+    "endMs": 610757,
+    "timestampMs": 609745,
+    "confidence": null
+  },
+  {
+    "text": "When",
+    "startMs": 610757,
+    "endMs": 611091,
+    "timestampMs": 610757,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 611091,
+    "endMs": 611342,
+    "timestampMs": 611091,
+    "confidence": null
+  },
+  {
+    "text": "scans",
+    "startMs": 611342,
+    "endMs": 611760,
+    "timestampMs": 611342,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 611760,
+    "endMs": 612010,
+    "timestampMs": 611760,
+    "confidence": null
+  },
+  {
+    "text": "LLM-powered",
+    "startMs": 612010,
+    "endMs": 612762,
+    "timestampMs": 612010,
+    "confidence": null
+  },
+  {
+    "text": "application,",
+    "startMs": 612762,
+    "endMs": 613597,
+    "timestampMs": 612762,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 613597,
+    "endMs": 613847,
+    "timestampMs": 613597,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 613847,
+    "endMs": 614265,
+    "timestampMs": 613847,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-llm`.",
+    "startMs": 614265,
+    "endMs": 615194,
+    "timestampMs": 614265,
+    "confidence": null
+  },
+  {
+    "text": "When",
+    "startMs": 615194,
+    "endMs": 615528,
+    "timestampMs": 615194,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 615528,
+    "endMs": 615778,
+    "timestampMs": 615528,
+    "confidence": null
+  },
+  {
+    "text": "finds",
+    "startMs": 615778,
+    "endMs": 616196,
+    "timestampMs": 615778,
+    "confidence": null
+  },
+  {
+    "text": "Docker",
+    "startMs": 616196,
+    "endMs": 616697,
+    "timestampMs": 616196,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 616697,
+    "endMs": 617198,
+    "timestampMs": 616697,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 617198,
+    "endMs": 617448,
+    "timestampMs": 617198,
+    "confidence": null
+  },
+  {
+    "text": "loads",
+    "startMs": 617448,
+    "endMs": 617866,
+    "timestampMs": 617448,
+    "confidence": null
+  },
+  {
+    "text": "`owasp-docker`.",
+    "startMs": 617866,
+    "endMs": 618878,
+    "timestampMs": 617866,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 618878,
+    "endMs": 619212,
+    "timestampMs": 618878,
+    "confidence": null
+  },
+  {
+    "text": "skill's",
+    "startMs": 619212,
+    "endMs": 619713,
+    "timestampMs": 619212,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 619713,
+    "endMs": 620298,
+    "timestampMs": 619713,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 620298,
+    "endMs": 620966,
+    "timestampMs": 620298,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 620966,
+    "endMs": 621216,
+    "timestampMs": 620966,
+    "confidence": null
+  },
+  {
+    "text": "structured",
+    "startMs": 621216,
+    "endMs": 621968,
+    "timestampMs": 621216,
+    "confidence": null
+  },
+  {
+    "text": "knowledge",
+    "startMs": 621968,
+    "endMs": 622720,
+    "timestampMs": 621968,
+    "confidence": null
+  },
+  {
+    "text": "base",
+    "startMs": 622720,
+    "endMs": 623054,
+    "timestampMs": 622720,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 623054,
+    "endMs": 623304,
+    "timestampMs": 623054,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 623304,
+    "endMs": 623722,
+    "timestampMs": 623304,
+    "confidence": null
+  },
+  {
+    "text": "needs",
+    "startMs": 623722,
+    "endMs": 624139,
+    "timestampMs": 623722,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 624139,
+    "endMs": 624390,
+    "timestampMs": 624139,
+    "confidence": null
+  },
+  {
+    "text": "vulnerability",
+    "startMs": 624390,
+    "endMs": 625141,
+    "timestampMs": 624390,
+    "confidence": null
+  },
+  {
+    "text": "descriptions,",
+    "startMs": 625141,
+    "endMs": 625976,
+    "timestampMs": 625141,
+    "confidence": null
+  },
+  {
+    "text": "detection",
+    "startMs": 625976,
+    "endMs": 626728,
+    "timestampMs": 625976,
+    "confidence": null
+  },
+  {
+    "text": "heuristics,",
+    "startMs": 626728,
+    "endMs": 627563,
+    "timestampMs": 626728,
+    "confidence": null
+  },
+  {
+    "text": "remediation",
+    "startMs": 627563,
+    "endMs": 628314,
+    "timestampMs": 627563,
+    "confidence": null
+  },
+  {
+    "text": "guidance,",
+    "startMs": 628314,
+    "endMs": 629066,
+    "timestampMs": 628314,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 629066,
+    "endMs": 629316,
+    "timestampMs": 629066,
+    "confidence": null
+  },
+  {
+    "text": "severity",
+    "startMs": 629316,
+    "endMs": 629985,
+    "timestampMs": 629316,
+    "confidence": null
+  },
+  {
+    "text": "rubrics.",
+    "startMs": 629985,
+    "endMs": 630830,
+    "timestampMs": 629985,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 630830,
+    "endMs": 631081,
+    "timestampMs": 630830,
+    "confidence": null
+  },
+  {
+    "text": "`coding-standards/`",
+    "startMs": 631081,
+    "endMs": 631832,
+    "timestampMs": 631081,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 631832,
+    "endMs": 632584,
+    "timestampMs": 631832,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 632584,
+    "endMs": 633252,
+    "timestampMs": 632584,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 633252,
+    "endMs": 633502,
+    "timestampMs": 633252,
+    "confidence": null
+  },
+  {
+    "text": "`python-foundational/`",
+    "startMs": 633502,
+    "endMs": 634254,
+    "timestampMs": 633502,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 634254,
+    "endMs": 634671,
+    "timestampMs": 634254,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 634671,
+    "endMs": 634922,
+    "timestampMs": 634671,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 634922,
+    "endMs": 635172,
+    "timestampMs": 634922,
+    "confidence": null
+  },
+  {
+    "text": "foundational",
+    "startMs": 635172,
+    "endMs": 635924,
+    "timestampMs": 635172,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 635924,
+    "endMs": 636425,
+    "timestampMs": 635924,
+    "confidence": null
+  },
+  {
+    "text": "best",
+    "startMs": 636425,
+    "endMs": 636759,
+    "timestampMs": 636425,
+    "confidence": null
+  },
+  {
+    "text": "practices",
+    "startMs": 636759,
+    "endMs": 637510,
+    "timestampMs": 636759,
+    "confidence": null
+  },
+  {
+    "text": "checklist",
+    "startMs": 637510,
+    "endMs": 638262,
+    "timestampMs": 637510,
+    "confidence": null
+  },
+  {
+    "text": "loaded",
+    "startMs": 638262,
+    "endMs": 638763,
+    "timestampMs": 638262,
+    "confidence": null
+  },
+  {
+    "text": "during",
+    "startMs": 638763,
+    "endMs": 639264,
+    "timestampMs": 638763,
+    "confidence": null
+  },
+  {
+    "text": "code",
+    "startMs": 639264,
+    "endMs": 639598,
+    "timestampMs": 639264,
+    "confidence": null
+  },
+  {
+    "text": "reviews.",
+    "startMs": 639598,
+    "endMs": 640444,
+    "timestampMs": 639598,
+    "confidence": null
+  },
+  {
+    "text": "Its",
+    "startMs": 640444,
+    "endMs": 640694,
+    "timestampMs": 640444,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 640694,
+    "endMs": 641279,
+    "timestampMs": 640694,
+    "confidence": null
+  },
+  {
+    "text": "explains",
+    "startMs": 641279,
+    "endMs": 641947,
+    "timestampMs": 641279,
+    "confidence": null
+  },
+  {
+    "text": "why",
+    "startMs": 641947,
+    "endMs": 642197,
+    "timestampMs": 641947,
+    "confidence": null
+  },
+  {
+    "text": "this",
+    "startMs": 642197,
+    "endMs": 642531,
+    "timestampMs": 642197,
+    "confidence": null
+  },
+  {
+    "text": "content",
+    "startMs": 642531,
+    "endMs": 643116,
+    "timestampMs": 642531,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 643116,
+    "endMs": 643366,
+    "timestampMs": 643116,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 643366,
+    "endMs": 643617,
+    "timestampMs": 643366,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 643617,
+    "endMs": 644034,
+    "timestampMs": 643617,
+    "confidence": null
+  },
+  {
+    "text": "rather",
+    "startMs": 644034,
+    "endMs": 644535,
+    "timestampMs": 644034,
+    "confidence": null
+  },
+  {
+    "text": "than",
+    "startMs": 644535,
+    "endMs": 644869,
+    "timestampMs": 644535,
+    "confidence": null
+  },
+  {
+    "text": "an",
+    "startMs": 644869,
+    "endMs": 645120,
+    "timestampMs": 644869,
+    "confidence": null
+  },
+  {
+    "text": "instruction",
+    "startMs": 645120,
+    "endMs": 645871,
+    "timestampMs": 645120,
+    "confidence": null
+  },
+  {
+    "text": "file:",
+    "startMs": 645871,
+    "endMs": 646289,
+    "timestampMs": 645871,
+    "confidence": null
+  },
+  {
+    "text": "\"skills",
+    "startMs": 646289,
+    "endMs": 646790,
+    "timestampMs": 646289,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 646790,
+    "endMs": 647040,
+    "timestampMs": 646790,
+    "confidence": null
+  },
+  {
+    "text": "distributed",
+    "startMs": 647040,
+    "endMs": 647792,
+    "timestampMs": 647040,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 647792,
+    "endMs": 648377,
+    "timestampMs": 647792,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 648377,
+    "endMs": 648627,
+    "timestampMs": 648377,
+    "confidence": null
+  },
+  {
+    "text": "CLI",
+    "startMs": 648627,
+    "endMs": 648878,
+    "timestampMs": 648627,
+    "confidence": null
+  },
+  {
+    "text": "plugin",
+    "startMs": 648878,
+    "endMs": 649379,
+    "timestampMs": 648878,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 649379,
+    "endMs": 649629,
+    "timestampMs": 649379,
+    "confidence": null
+  },
+  {
+    "text": "VS",
+    "startMs": 649629,
+    "endMs": 649880,
+    "timestampMs": 649629,
+    "confidence": null
+  },
+  {
+    "text": "Code",
+    "startMs": 649880,
+    "endMs": 650214,
+    "timestampMs": 649880,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 650214,
+    "endMs": 650965,
+    "timestampMs": 650214,
+    "confidence": null
+  },
+  {
+    "text": "without",
+    "startMs": 650965,
+    "endMs": 651550,
+    "timestampMs": 650965,
+    "confidence": null
+  },
+  {
+    "text": "requiring",
+    "startMs": 651550,
+    "endMs": 652301,
+    "timestampMs": 651550,
+    "confidence": null
+  },
+  {
+    "text": "consumers",
+    "startMs": 652301,
+    "endMs": 653053,
+    "timestampMs": 652301,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 653053,
+    "endMs": 653303,
+    "timestampMs": 653053,
+    "confidence": null
+  },
+  {
+    "text": "copy",
+    "startMs": 653303,
+    "endMs": 653637,
+    "timestampMs": 653303,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 653637,
+    "endMs": 654055,
+    "timestampMs": 653637,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 654055,
+    "endMs": 654389,
+    "timestampMs": 654055,
+    "confidence": null
+  },
+  {
+    "text": "their",
+    "startMs": 654389,
+    "endMs": 654806,
+    "timestampMs": 654389,
+    "confidence": null
+  },
+  {
+    "text": "repo;",
+    "startMs": 654806,
+    "endMs": 655224,
+    "timestampMs": 654806,
+    "confidence": null
+  },
+  {
+    "text": "new",
+    "startMs": 655224,
+    "endMs": 655475,
+    "timestampMs": 655224,
+    "confidence": null
+  },
+  {
+    "text": "language",
+    "startMs": 655475,
+    "endMs": 656143,
+    "timestampMs": 655475,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 656143,
+    "endMs": 656644,
+    "timestampMs": 656143,
+    "confidence": null
+  },
+  {
+    "text": "can",
+    "startMs": 656644,
+    "endMs": 656894,
+    "timestampMs": 656644,
+    "confidence": null
+  },
+  {
+    "text": "be",
+    "startMs": 656894,
+    "endMs": 657145,
+    "timestampMs": 656894,
+    "confidence": null
+  },
+  {
+    "text": "added",
+    "startMs": 657145,
+    "endMs": 657562,
+    "timestampMs": 657145,
+    "confidence": null
+  },
+  {
+    "text": "without",
+    "startMs": 657562,
+    "endMs": 658147,
+    "timestampMs": 657562,
+    "confidence": null
+  },
+  {
+    "text": "modifying",
+    "startMs": 658147,
+    "endMs": 658898,
+    "timestampMs": 658147,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 658898,
+    "endMs": 659149,
+    "timestampMs": 658898,
+    "confidence": null
+  },
+  {
+    "text": "review",
+    "startMs": 659149,
+    "endMs": 659650,
+    "timestampMs": 659149,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 659650,
+    "endMs": 660067,
+    "timestampMs": 659650,
+    "confidence": null
+  },
+  {
+    "text": "itself;",
+    "startMs": 660067,
+    "endMs": 660652,
+    "timestampMs": 660067,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 660652,
+    "endMs": 660902,
+    "timestampMs": 660652,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 660902,
+    "endMs": 661403,
+    "timestampMs": 660902,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 661403,
+    "endMs": 661654,
+    "timestampMs": 661403,
+    "confidence": null
+  },
+  {
+    "text": "loaded",
+    "startMs": 661654,
+    "endMs": 662155,
+    "timestampMs": 661654,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 662155,
+    "endMs": 662405,
+    "timestampMs": 662155,
+    "confidence": null
+  },
+  {
+    "text": "demand,",
+    "startMs": 662405,
+    "endMs": 662990,
+    "timestampMs": 662405,
+    "confidence": null
+  },
+  {
+    "text": "keeping",
+    "startMs": 662990,
+    "endMs": 663575,
+    "timestampMs": 662990,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 663575,
+    "endMs": 663825,
+    "timestampMs": 663575,
+    "confidence": null
+  },
+  {
+    "text": "context",
+    "startMs": 663825,
+    "endMs": 664410,
+    "timestampMs": 663825,
+    "confidence": null
+  },
+  {
+    "text": "window",
+    "startMs": 664410,
+    "endMs": 664911,
+    "timestampMs": 664410,
+    "confidence": null
+  },
+  {
+    "text": "small",
+    "startMs": 664911,
+    "endMs": 665328,
+    "timestampMs": 664911,
+    "confidence": null
+  },
+  {
+    "text": "when",
+    "startMs": 665328,
+    "endMs": 665662,
+    "timestampMs": 665328,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 665662,
+    "endMs": 665913,
+    "timestampMs": 665662,
+    "confidence": null
+  },
+  {
+    "text": "diff",
+    "startMs": 665913,
+    "endMs": 666247,
+    "timestampMs": 665913,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 666247,
+    "endMs": 666915,
+    "timestampMs": 666247,
+    "confidence": null
+  },
+  {
+    "text": "no",
+    "startMs": 666915,
+    "endMs": 667165,
+    "timestampMs": 666915,
+    "confidence": null
+  },
+  {
+    "text": "Python.\"",
+    "startMs": 667165,
+    "endMs": 667666,
+    "timestampMs": 667165,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 667666,
+    "endMs": 667917,
+    "timestampMs": 667666,
+    "confidence": null
+  },
+  {
+    "text": "`experimental/`",
+    "startMs": 667917,
+    "endMs": 668668,
+    "timestampMs": 667917,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 668668,
+    "endMs": 669420,
+    "timestampMs": 668668,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 669420,
+    "endMs": 670088,
+    "timestampMs": 669420,
+    "confidence": null
+  },
+  {
+    "text": "three",
+    "startMs": 670088,
+    "endMs": 670505,
+    "timestampMs": 670088,
+    "confidence": null
+  },
+  {
+    "text": "skills.",
+    "startMs": 670505,
+    "endMs": 671267,
+    "timestampMs": 670505,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 671267,
+    "endMs": 671518,
+    "timestampMs": 671267,
+    "confidence": null
+  },
+  {
+    "text": "`powerpoint/`",
+    "startMs": 671518,
+    "endMs": 672270,
+    "timestampMs": 671518,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 672270,
+    "endMs": 672687,
+    "timestampMs": 672270,
+    "confidence": null
+  },
+  {
+    "text": "is",
+    "startMs": 672687,
+    "endMs": 672938,
+    "timestampMs": 672687,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 672938,
+    "endMs": 673188,
+    "timestampMs": 672938,
+    "confidence": null
+  },
+  {
+    "text": "most",
+    "startMs": 673188,
+    "endMs": 673522,
+    "timestampMs": 673188,
+    "confidence": null
+  },
+  {
+    "text": "complex",
+    "startMs": 673522,
+    "endMs": 674107,
+    "timestampMs": 673522,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 674107,
+    "endMs": 674357,
+    "timestampMs": 674107,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 674357,
+    "endMs": 674608,
+    "timestampMs": 674357,
+    "confidence": null
+  },
+  {
+    "text": "repository",
+    "startMs": 674608,
+    "endMs": 675359,
+    "timestampMs": 674608,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 675359,
+    "endMs": 675610,
+    "timestampMs": 675359,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 675610,
+    "endMs": 675860,
+    "timestampMs": 675610,
+    "confidence": null
+  },
+  {
+    "text": "full",
+    "startMs": 675860,
+    "endMs": 676194,
+    "timestampMs": 675860,
+    "confidence": null
+  },
+  {
+    "text": "PowerPoint",
+    "startMs": 676194,
+    "endMs": 676946,
+    "timestampMs": 676194,
+    "confidence": null
+  },
+  {
+    "text": "generation",
+    "startMs": 676946,
+    "endMs": 677697,
+    "timestampMs": 676946,
+    "confidence": null
+  },
+  {
+    "text": "system",
+    "startMs": 677697,
+    "endMs": 678198,
+    "timestampMs": 677697,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 678198,
+    "endMs": 678532,
+    "timestampMs": 678198,
+    "confidence": null
+  },
+  {
+    "text": "15",
+    "startMs": 678532,
+    "endMs": 678783,
+    "timestampMs": 678532,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 678783,
+    "endMs": 679284,
+    "timestampMs": 678783,
+    "confidence": null
+  },
+  {
+    "text": "scripts,",
+    "startMs": 679284,
+    "endMs": 679952,
+    "timestampMs": 679284,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 679952,
+    "endMs": 680203,
+    "timestampMs": 679952,
+    "confidence": null
+  },
+  {
+    "text": "pyproject.toml,",
+    "startMs": 680203,
+    "endMs": 681038,
+    "timestampMs": 680203,
+    "confidence": null
+  },
+  {
+    "text": "paired",
+    "startMs": 681038,
+    "endMs": 681539,
+    "timestampMs": 681038,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 681539,
+    "endMs": 681873,
+    "timestampMs": 681539,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 681873,
+    "endMs": 682123,
+    "timestampMs": 681873,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 682123,
+    "endMs": 682875,
+    "timestampMs": 682123,
+    "confidence": null
+  },
+  {
+    "text": "orchestrators,",
+    "startMs": 682875,
+    "endMs": 683710,
+    "timestampMs": 682875,
+    "confidence": null
+  },
+  {
+    "text": "24",
+    "startMs": 683710,
+    "endMs": 683960,
+    "timestampMs": 683710,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 683960,
+    "endMs": 684294,
+    "timestampMs": 683960,
+    "confidence": null
+  },
+  {
+    "text": "files,",
+    "startMs": 684294,
+    "endMs": 684795,
+    "timestampMs": 684294,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 684795,
+    "endMs": 685046,
+    "timestampMs": 684795,
+    "confidence": null
+  },
+  {
+    "text": "YAML",
+    "startMs": 685046,
+    "endMs": 685380,
+    "timestampMs": 685046,
+    "confidence": null
+  },
+  {
+    "text": "template",
+    "startMs": 685380,
+    "endMs": 686048,
+    "timestampMs": 685380,
+    "confidence": null
+  },
+  {
+    "text": "definitions",
+    "startMs": 686048,
+    "endMs": 686799,
+    "timestampMs": 686048,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 686799,
+    "endMs": 687050,
+    "timestampMs": 686799,
+    "confidence": null
+  },
+  {
+    "text": "content",
+    "startMs": 687050,
+    "endMs": 687634,
+    "timestampMs": 687050,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 687634,
+    "endMs": 687885,
+    "timestampMs": 687634,
+    "confidence": null
+  },
+  {
+    "text": "styling.",
+    "startMs": 687885,
+    "endMs": 688730,
+    "timestampMs": 687885,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 688730,
+    "endMs": 688981,
+    "timestampMs": 688730,
+    "confidence": null
+  },
+  {
+    "text": "`customer-card-render/`",
+    "startMs": 688981,
+    "endMs": 689733,
+    "timestampMs": 688981,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 689733,
+    "endMs": 690150,
+    "timestampMs": 689733,
+    "confidence": null
+  },
+  {
+    "text": "renders",
+    "startMs": 690150,
+    "endMs": 690735,
+    "timestampMs": 690150,
+    "confidence": null
+  },
+  {
+    "text": "customer",
+    "startMs": 690735,
+    "endMs": 691403,
+    "timestampMs": 690735,
+    "confidence": null
+  },
+  {
+    "text": "card",
+    "startMs": 691403,
+    "endMs": 691737,
+    "timestampMs": 691403,
+    "confidence": null
+  },
+  {
+    "text": "visualizations.",
+    "startMs": 691737,
+    "endMs": 692749,
+    "timestampMs": 691737,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 692749,
+    "endMs": 693000,
+    "timestampMs": 692749,
+    "confidence": null
+  },
+  {
+    "text": "`video-to-gif/`",
+    "startMs": 693000,
+    "endMs": 693751,
+    "timestampMs": 693000,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 693751,
+    "endMs": 694169,
+    "timestampMs": 693751,
+    "confidence": null
+  },
+  {
+    "text": "converts",
+    "startMs": 694169,
+    "endMs": 694837,
+    "timestampMs": 694169,
+    "confidence": null
+  },
+  {
+    "text": "video",
+    "startMs": 694837,
+    "endMs": 695254,
+    "timestampMs": 694837,
+    "confidence": null
+  },
+  {
+    "text": "files",
+    "startMs": 695254,
+    "endMs": 695672,
+    "timestampMs": 695254,
+    "confidence": null
+  },
+  {
+    "text": "to",
+    "startMs": 695672,
+    "endMs": 695922,
+    "timestampMs": 695672,
+    "confidence": null
+  },
+  {
+    "text": "GIF",
+    "startMs": 695922,
+    "endMs": 696173,
+    "timestampMs": 695922,
+    "confidence": null
+  },
+  {
+    "text": "format.",
+    "startMs": 696173,
+    "endMs": 696935,
+    "timestampMs": 696173,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 696935,
+    "endMs": 697185,
+    "timestampMs": 696935,
+    "confidence": null
+  },
+  {
+    "text": "`vscode-playwright/`",
+    "startMs": 697185,
+    "endMs": 697937,
+    "timestampMs": 697185,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 697937,
+    "endMs": 698354,
+    "timestampMs": 697937,
+    "confidence": null
+  },
+  {
+    "text": "provides",
+    "startMs": 698354,
+    "endMs": 699023,
+    "timestampMs": 698354,
+    "confidence": null
+  },
+  {
+    "text": "VS",
+    "startMs": 699023,
+    "endMs": 699273,
+    "timestampMs": 699023,
+    "confidence": null
+  },
+  {
+    "text": "Code",
+    "startMs": 699273,
+    "endMs": 699607,
+    "timestampMs": 699273,
+    "confidence": null
+  },
+  {
+    "text": "Playwright",
+    "startMs": 699607,
+    "endMs": 700359,
+    "timestampMs": 699607,
+    "confidence": null
+  },
+  {
+    "text": "browser",
+    "startMs": 700359,
+    "endMs": 700943,
+    "timestampMs": 700359,
+    "confidence": null
+  },
+  {
+    "text": "automation.",
+    "startMs": 700943,
+    "endMs": 701956,
+    "timestampMs": 700943,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 701956,
+    "endMs": 702206,
+    "timestampMs": 701956,
+    "confidence": null
+  },
+  {
+    "text": "`gitlab/`",
+    "startMs": 702206,
+    "endMs": 702707,
+    "timestampMs": 702206,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 702707,
+    "endMs": 703459,
+    "timestampMs": 702707,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 703459,
+    "endMs": 704127,
+    "timestampMs": 703459,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 704127,
+    "endMs": 704377,
+    "timestampMs": 704127,
+    "confidence": null
+  },
+  {
+    "text": "`gitlab/`",
+    "startMs": 704377,
+    "endMs": 704878,
+    "timestampMs": 704377,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 704878,
+    "endMs": 705296,
+    "timestampMs": 704878,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 705296,
+    "endMs": 705546,
+    "timestampMs": 705296,
+    "confidence": null
+  },
+  {
+    "text": "GitLab",
+    "startMs": 705546,
+    "endMs": 706047,
+    "timestampMs": 705546,
+    "confidence": null
+  },
+  {
+    "text": "platform",
+    "startMs": 706047,
+    "endMs": 706715,
+    "timestampMs": 706047,
+    "confidence": null
+  },
+  {
+    "text": "integration,",
+    "startMs": 706715,
+    "endMs": 707550,
+    "timestampMs": 706715,
+    "confidence": null
+  },
+  {
+    "text": "including",
+    "startMs": 707550,
+    "endMs": 708302,
+    "timestampMs": 707550,
+    "confidence": null
+  },
+  {
+    "text": "Python",
+    "startMs": 708302,
+    "endMs": 708803,
+    "timestampMs": 708302,
+    "confidence": null
+  },
+  {
+    "text": "scripts,",
+    "startMs": 708803,
+    "endMs": 709471,
+    "timestampMs": 708803,
+    "confidence": null
+  },
+  {
+    "text": "tests,",
+    "startMs": 709471,
+    "endMs": 709972,
+    "timestampMs": 709471,
+    "confidence": null
+  },
+  {
+    "text": "pyproject.toml,",
+    "startMs": 709972,
+    "endMs": 710807,
+    "timestampMs": 709972,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 710807,
+    "endMs": 711058,
+    "timestampMs": 710807,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 711058,
+    "endMs": 711308,
+    "timestampMs": 711058,
+    "confidence": null
+  },
+  {
+    "text": "uv.lock",
+    "startMs": 711308,
+    "endMs": 711809,
+    "timestampMs": 711308,
+    "confidence": null
+  },
+  {
+    "text": "file.",
+    "startMs": 711809,
+    "endMs": 712404,
+    "timestampMs": 711809,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 712404,
+    "endMs": 712655,
+    "timestampMs": 712404,
+    "confidence": null
+  },
+  {
+    "text": "`installer/`",
+    "startMs": 712655,
+    "endMs": 713406,
+    "timestampMs": 712655,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 713406,
+    "endMs": 714158,
+    "timestampMs": 713406,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 714158,
+    "endMs": 714826,
+    "timestampMs": 714158,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 714826,
+    "endMs": 715076,
+    "timestampMs": 714826,
+    "confidence": null
+  },
+  {
+    "text": "`hve-core-installer/`",
+    "startMs": 715076,
+    "endMs": 715828,
+    "timestampMs": 715076,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 715828,
+    "endMs": 716245,
+    "timestampMs": 715828,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 716245,
+    "endMs": 716496,
+    "timestampMs": 716245,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 716496,
+    "endMs": 716747,
+    "timestampMs": 716496,
+    "confidence": null
+  },
+  {
+    "text": "decision-driven",
+    "startMs": 716747,
+    "endMs": 717498,
+    "timestampMs": 716747,
+    "confidence": null
+  },
+  {
+    "text": "installer",
+    "startMs": 717498,
+    "endMs": 718250,
+    "timestampMs": 717498,
+    "confidence": null
+  },
+  {
+    "text": "with",
+    "startMs": 718250,
+    "endMs": 718584,
+    "timestampMs": 718250,
+    "confidence": null
+  },
+  {
+    "text": "environment",
+    "startMs": 718584,
+    "endMs": 719335,
+    "timestampMs": 718584,
+    "confidence": null
+  },
+  {
+    "text": "detection,",
+    "startMs": 719335,
+    "endMs": 720170,
+    "timestampMs": 719335,
+    "confidence": null
+  },
+  {
+    "text": "six",
+    "startMs": 720170,
+    "endMs": 720421,
+    "timestampMs": 720170,
+    "confidence": null
+  },
+  {
+    "text": "clone-based",
+    "startMs": 720421,
+    "endMs": 721172,
+    "timestampMs": 720421,
+    "confidence": null
+  },
+  {
+    "text": "installation",
+    "startMs": 721172,
+    "endMs": 721924,
+    "timestampMs": 721172,
+    "confidence": null
+  },
+  {
+    "text": "methods,",
+    "startMs": 721924,
+    "endMs": 722592,
+    "timestampMs": 721924,
+    "confidence": null
+  },
+  {
+    "text": "extension",
+    "startMs": 722592,
+    "endMs": 723343,
+    "timestampMs": 722592,
+    "confidence": null
+  },
+  {
+    "text": "quick-install,",
+    "startMs": 723343,
+    "endMs": 724178,
+    "timestampMs": 723343,
+    "confidence": null
+  },
+  {
+    "text": "validation,",
+    "startMs": 724178,
+    "endMs": 725014,
+    "timestampMs": 724178,
+    "confidence": null
+  },
+  {
+    "text": "MCP",
+    "startMs": 725014,
+    "endMs": 725264,
+    "timestampMs": 725014,
+    "confidence": null
+  },
+  {
+    "text": "configuration,",
+    "startMs": 725264,
+    "endMs": 726099,
+    "timestampMs": 725264,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 726099,
+    "endMs": 726350,
+    "timestampMs": 726099,
+    "confidence": null
+  },
+  {
+    "text": "agent",
+    "startMs": 726350,
+    "endMs": 726767,
+    "timestampMs": 726350,
+    "confidence": null
+  },
+  {
+    "text": "customization",
+    "startMs": 726767,
+    "endMs": 727519,
+    "timestampMs": 726767,
+    "confidence": null
+  },
+  {
+    "text": "workflows.",
+    "startMs": 727519,
+    "endMs": 728531,
+    "timestampMs": 727519,
+    "confidence": null
+  },
+  {
+    "text": "Its",
+    "startMs": 728531,
+    "endMs": 728782,
+    "timestampMs": 728531,
+    "confidence": null
+  },
+  {
+    "text": "SKILL.md",
+    "startMs": 728782,
+    "endMs": 729366,
+    "timestampMs": 728782,
+    "confidence": null
+  },
+  {
+    "text": "includes",
+    "startMs": 729366,
+    "endMs": 730034,
+    "timestampMs": 729366,
+    "confidence": null
+  },
+  {
+    "text": "examples,",
+    "startMs": 730034,
+    "endMs": 730786,
+    "timestampMs": 730034,
+    "confidence": null
+  },
+  {
+    "text": "a",
+    "startMs": 730786,
+    "endMs": 731036,
+    "timestampMs": 730786,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 731036,
+    "endMs": 731621,
+    "timestampMs": 731036,
+    "confidence": null
+  },
+  {
+    "text": "directory,",
+    "startMs": 731621,
+    "endMs": 732456,
+    "timestampMs": 731621,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 732456,
+    "endMs": 732706,
+    "timestampMs": 732456,
+    "confidence": null
+  },
+  {
+    "text": "test",
+    "startMs": 732706,
+    "endMs": 733040,
+    "timestampMs": 732706,
+    "confidence": null
+  },
+  {
+    "text": "files.",
+    "startMs": 733040,
+    "endMs": 733719,
+    "timestampMs": 733040,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 733719,
+    "endMs": 733969,
+    "timestampMs": 733719,
+    "confidence": null
+  },
+  {
+    "text": "`jira/`",
+    "startMs": 733969,
+    "endMs": 734304,
+    "timestampMs": 733969,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 734304,
+    "endMs": 735055,
+    "timestampMs": 734304,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 735055,
+    "endMs": 735723,
+    "timestampMs": 735055,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 735723,
+    "endMs": 735974,
+    "timestampMs": 735723,
+    "confidence": null
+  },
+  {
+    "text": "`jira/`",
+    "startMs": 735974,
+    "endMs": 736308,
+    "timestampMs": 735974,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 736308,
+    "endMs": 736725,
+    "timestampMs": 736308,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 736725,
+    "endMs": 736976,
+    "timestampMs": 736725,
+    "confidence": null
+  },
+  {
+    "text": "Jira",
+    "startMs": 736976,
+    "endMs": 737310,
+    "timestampMs": 736976,
+    "confidence": null
+  },
+  {
+    "text": "integration.",
+    "startMs": 737310,
+    "endMs": 738322,
+    "timestampMs": 737310,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 738322,
+    "endMs": 738573,
+    "timestampMs": 738322,
+    "confidence": null
+  },
+  {
+    "text": "`shared/`",
+    "startMs": 738573,
+    "endMs": 739074,
+    "timestampMs": 738573,
+    "confidence": null
+  },
+  {
+    "text": "directory",
+    "startMs": 739074,
+    "endMs": 739825,
+    "timestampMs": 739074,
+    "confidence": null
+  },
+  {
+    "text": "contains",
+    "startMs": 739825,
+    "endMs": 740493,
+    "timestampMs": 739825,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 740493,
+    "endMs": 740744,
+    "timestampMs": 740493,
+    "confidence": null
+  },
+  {
+    "text": "`pr-reference/`",
+    "startMs": 740744,
+    "endMs": 741495,
+    "timestampMs": 740744,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 741495,
+    "endMs": 741913,
+    "timestampMs": 741495,
+    "confidence": null
+  },
+  {
+    "text": "used",
+    "startMs": 741913,
+    "endMs": 742247,
+    "timestampMs": 741913,
+    "confidence": null
+  },
+  {
+    "text": "by",
+    "startMs": 742247,
+    "endMs": 742497,
+    "timestampMs": 742247,
+    "confidence": null
+  },
+  {
+    "text": "multiple",
+    "startMs": 742497,
+    "endMs": 743166,
+    "timestampMs": 742497,
+    "confidence": null
+  },
+  {
+    "text": "agents",
+    "startMs": 743166,
+    "endMs": 743667,
+    "timestampMs": 743166,
+    "confidence": null
+  },
+  {
+    "text": "for",
+    "startMs": 743667,
+    "endMs": 743917,
+    "timestampMs": 743667,
+    "confidence": null
+  },
+  {
+    "text": "generating",
+    "startMs": 743917,
+    "endMs": 744669,
+    "timestampMs": 743917,
+    "confidence": null
+  },
+  {
+    "text": "PR",
+    "startMs": 744669,
+    "endMs": 744919,
+    "timestampMs": 744669,
+    "confidence": null
+  },
+  {
+    "text": "reference",
+    "startMs": 744919,
+    "endMs": 745671,
+    "timestampMs": 744919,
+    "confidence": null
+  },
+  {
+    "text": "documents",
+    "startMs": 745671,
+    "endMs": 746422,
+    "timestampMs": 745671,
+    "confidence": null
+  },
+  {
+    "text": "from",
+    "startMs": 746422,
+    "endMs": 746756,
+    "timestampMs": 746422,
+    "confidence": null
+  },
+  {
+    "text": "git",
+    "startMs": 746756,
+    "endMs": 747007,
+    "timestampMs": 746756,
+    "confidence": null
+  },
+  {
+    "text": "diffs.",
+    "startMs": 747007,
+    "endMs": 747685,
+    "timestampMs": 747007,
+    "confidence": null
+  },
+  {
+    "text": "It",
+    "startMs": 747685,
+    "endMs": 747936,
+    "timestampMs": 747685,
+    "confidence": null
+  },
+  {
+    "text": "provides",
+    "startMs": 747936,
+    "endMs": 748604,
+    "timestampMs": 747936,
+    "confidence": null
+  },
+  {
+    "text": "paired",
+    "startMs": 748604,
+    "endMs": 749105,
+    "timestampMs": 748604,
+    "confidence": null
+  },
+  {
+    "text": "Bash",
+    "startMs": 749105,
+    "endMs": 749439,
+    "timestampMs": 749105,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 749439,
+    "endMs": 749689,
+    "timestampMs": 749439,
+    "confidence": null
+  },
+  {
+    "text": "PowerShell",
+    "startMs": 749689,
+    "endMs": 750441,
+    "timestampMs": 749689,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 750441,
+    "endMs": 751025,
+    "timestampMs": 750441,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 751025,
+    "endMs": 751276,
+    "timestampMs": 751025,
+    "confidence": null
+  },
+  {
+    "text": "reference",
+    "startMs": 751276,
+    "endMs": 752027,
+    "timestampMs": 751276,
+    "confidence": null
+  },
+  {
+    "text": "documentation.",
+    "startMs": 752027,
+    "endMs": 753040,
+    "timestampMs": 752027,
+    "confidence": null
+  },
+  {
+    "text": "Skills",
+    "startMs": 753040,
+    "endMs": 753514,
+    "timestampMs": 753040,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 753514,
+    "endMs": 753751,
+    "timestampMs": 753514,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 753751,
+    "endMs": 753989,
+    "timestampMs": 753751,
+    "confidence": null
+  },
+  {
+    "text": "most",
+    "startMs": 753989,
+    "endMs": 754305,
+    "timestampMs": 753989,
+    "confidence": null
+  },
+  {
+    "text": "self-contained",
+    "startMs": 754305,
+    "endMs": 755016,
+    "timestampMs": 754305,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 755016,
+    "endMs": 755649,
+    "timestampMs": 755016,
+    "confidence": null
+  },
+  {
+    "text": "type",
+    "startMs": 755649,
+    "endMs": 755965,
+    "timestampMs": 755649,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 755965,
+    "endMs": 756202,
+    "timestampMs": 755965,
+    "confidence": null
+  },
+  {
+    "text": "HVE",
+    "startMs": 756202,
+    "endMs": 756439,
+    "timestampMs": 756202,
+    "confidence": null
+  },
+  {
+    "text": "Core.",
+    "startMs": 756439,
+    "endMs": 757002,
+    "timestampMs": 756439,
+    "confidence": null
+  },
+  {
+    "text": "Each",
+    "startMs": 757002,
+    "endMs": 757319,
+    "timestampMs": 757002,
+    "confidence": null
+  },
+  {
+    "text": "skill",
+    "startMs": 757319,
+    "endMs": 757714,
+    "timestampMs": 757319,
+    "confidence": null
+  },
+  {
+    "text": "bundles",
+    "startMs": 757714,
+    "endMs": 758267,
+    "timestampMs": 757714,
+    "confidence": null
+  },
+  {
+    "text": "everything",
+    "startMs": 758267,
+    "endMs": 758979,
+    "timestampMs": 758267,
+    "confidence": null
+  },
+  {
+    "text": "it",
+    "startMs": 758979,
+    "endMs": 759216,
+    "timestampMs": 758979,
+    "confidence": null
+  },
+  {
+    "text": "needs",
+    "startMs": 759216,
+    "endMs": 759611,
+    "timestampMs": 759216,
+    "confidence": null
+  },
+  {
+    "text": "-",
+    "startMs": 759611,
+    "endMs": 759848,
+    "timestampMs": 759611,
+    "confidence": null
+  },
+  {
+    "text": "knowledge",
+    "startMs": 759848,
+    "endMs": 760560,
+    "timestampMs": 759848,
+    "confidence": null
+  },
+  {
+    "text": "base",
+    "startMs": 760560,
+    "endMs": 760876,
+    "timestampMs": 760560,
+    "confidence": null
+  },
+  {
+    "text": "documents",
+    "startMs": 760876,
+    "endMs": 761587,
+    "timestampMs": 760876,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 761587,
+    "endMs": 761824,
+    "timestampMs": 761587,
+    "confidence": null
+  },
+  {
+    "text": "references,",
+    "startMs": 761824,
+    "endMs": 762615,
+    "timestampMs": 761824,
+    "confidence": null
+  },
+  {
+    "text": "executable",
+    "startMs": 762615,
+    "endMs": 763326,
+    "timestampMs": 762615,
+    "confidence": null
+  },
+  {
+    "text": "automation",
+    "startMs": 763326,
+    "endMs": 764038,
+    "timestampMs": 763326,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 764038,
+    "endMs": 764275,
+    "timestampMs": 764038,
+    "confidence": null
+  },
+  {
+    "text": "scripts,",
+    "startMs": 764275,
+    "endMs": 764907,
+    "timestampMs": 764275,
+    "confidence": null
+  },
+  {
+    "text": "validation",
+    "startMs": 764907,
+    "endMs": 765619,
+    "timestampMs": 764907,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 765619,
+    "endMs": 765856,
+    "timestampMs": 765619,
+    "confidence": null
+  },
+  {
+    "text": "tests,",
+    "startMs": 765856,
+    "endMs": 766330,
+    "timestampMs": 765856,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 766330,
+    "endMs": 766567,
+    "timestampMs": 766330,
+    "confidence": null
+  },
+  {
+    "text": "dependency",
+    "startMs": 766567,
+    "endMs": 767279,
+    "timestampMs": 766567,
+    "confidence": null
+  },
+  {
+    "text": "management",
+    "startMs": 767279,
+    "endMs": 767990,
+    "timestampMs": 767279,
+    "confidence": null
+  },
+  {
+    "text": "in",
+    "startMs": 767990,
+    "endMs": 768227,
+    "timestampMs": 767990,
+    "confidence": null
+  },
+  {
+    "text": "pyproject.toml.",
+    "startMs": 768227,
+    "endMs": 769186,
+    "timestampMs": 768227,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 769186,
+    "endMs": 769423,
+    "timestampMs": 769186,
+    "confidence": null
+  },
+  {
+    "text": "18",
+    "startMs": 769423,
+    "endMs": 769660,
+    "timestampMs": 769423,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 769660,
+    "endMs": 770135,
+    "timestampMs": 769660,
+    "confidence": null
+  },
+  {
+    "text": "span",
+    "startMs": 770135,
+    "endMs": 770451,
+    "timestampMs": 770135,
+    "confidence": null
+  },
+  {
+    "text": "security",
+    "startMs": 770451,
+    "endMs": 771083,
+    "timestampMs": 770451,
+    "confidence": null
+  },
+  {
+    "text": "frameworks,",
+    "startMs": 771083,
+    "endMs": 771874,
+    "timestampMs": 771083,
+    "confidence": null
+  },
+  {
+    "text": "coding",
+    "startMs": 771874,
+    "endMs": 772348,
+    "timestampMs": 771874,
+    "confidence": null
+  },
+  {
+    "text": "standards,",
+    "startMs": 772348,
+    "endMs": 773138,
+    "timestampMs": 772348,
+    "confidence": null
+  },
+  {
+    "text": "platform",
+    "startMs": 773138,
+    "endMs": 773771,
+    "timestampMs": 773138,
+    "confidence": null
+  },
+  {
+    "text": "integrations,",
+    "startMs": 773771,
+    "endMs": 774561,
+    "timestampMs": 773771,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 774561,
+    "endMs": 774798,
+    "timestampMs": 774561,
+    "confidence": null
+  },
+  {
+    "text": "specialized",
+    "startMs": 774798,
+    "endMs": 775510,
+    "timestampMs": 774798,
+    "confidence": null
+  },
+  {
+    "text": "tooling.",
+    "startMs": 775510,
+    "endMs": 776310,
+    "timestampMs": 775510,
+    "confidence": null
+  },
+  {
+    "text": "Cross-platform",
+    "startMs": 776310,
+    "endMs": 777022,
+    "timestampMs": 776310,
+    "confidence": null
+  },
+  {
+    "text": "scripts",
+    "startMs": 777022,
+    "endMs": 777575,
+    "timestampMs": 777022,
+    "confidence": null
+  },
+  {
+    "text": "ensure",
+    "startMs": 777575,
+    "endMs": 778049,
+    "timestampMs": 777575,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 778049,
+    "endMs": 778524,
+    "timestampMs": 778049,
+    "confidence": null
+  },
+  {
+    "text": "work",
+    "startMs": 778524,
+    "endMs": 778840,
+    "timestampMs": 778524,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 778840,
+    "endMs": 779077,
+    "timestampMs": 778840,
+    "confidence": null
+  },
+  {
+    "text": "macOS,",
+    "startMs": 779077,
+    "endMs": 779551,
+    "timestampMs": 779077,
+    "confidence": null
+  },
+  {
+    "text": "Linux,",
+    "startMs": 779551,
+    "endMs": 780026,
+    "timestampMs": 779551,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 780026,
+    "endMs": 780263,
+    "timestampMs": 780026,
+    "confidence": null
+  },
+  {
+    "text": "Windows.",
+    "startMs": 780263,
+    "endMs": 781063,
+    "timestampMs": 780263,
+    "confidence": null
+  },
+  {
+    "text": "CI",
+    "startMs": 781063,
+    "endMs": 781300,
+    "timestampMs": 781063,
+    "confidence": null
+  },
+  {
+    "text": "validates",
+    "startMs": 781300,
+    "endMs": 782012,
+    "timestampMs": 781300,
+    "confidence": null
+  },
+  {
+    "text": "both",
+    "startMs": 782012,
+    "endMs": 782328,
+    "timestampMs": 782012,
+    "confidence": null
+  },
+  {
+    "text": "script",
+    "startMs": 782328,
+    "endMs": 782802,
+    "timestampMs": 782328,
+    "confidence": null
+  },
+  {
+    "text": "variants",
+    "startMs": 782802,
+    "endMs": 783435,
+    "timestampMs": 782802,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 783435,
+    "endMs": 783672,
+    "timestampMs": 783435,
+    "confidence": null
+  },
+  {
+    "text": "runs",
+    "startMs": 783672,
+    "endMs": 783988,
+    "timestampMs": 783672,
+    "confidence": null
+  },
+  {
+    "text": "tests",
+    "startMs": 783988,
+    "endMs": 784383,
+    "timestampMs": 783988,
+    "confidence": null
+  },
+  {
+    "text": "on",
+    "startMs": 784383,
+    "endMs": 784620,
+    "timestampMs": 784383,
+    "confidence": null
+  },
+  {
+    "text": "every",
+    "startMs": 784620,
+    "endMs": 785016,
+    "timestampMs": 784620,
+    "confidence": null
+  },
+  {
+    "text": "pull",
+    "startMs": 785016,
+    "endMs": 785332,
+    "timestampMs": 785016,
+    "confidence": null
+  },
+  {
+    "text": "request.",
+    "startMs": 785332,
+    "endMs": 786132,
+    "timestampMs": 785332,
+    "confidence": null
+  },
+  {
+    "text": "Together,",
+    "startMs": 786132,
+    "endMs": 786844,
+    "timestampMs": 786132,
+    "confidence": null
+  },
+  {
+    "text": "agents,",
+    "startMs": 786844,
+    "endMs": 787397,
+    "timestampMs": 786844,
+    "confidence": null
+  },
+  {
+    "text": "instructions,",
+    "startMs": 787397,
+    "endMs": 788188,
+    "timestampMs": 787397,
+    "confidence": null
+  },
+  {
+    "text": "prompts,",
+    "startMs": 788188,
+    "endMs": 788820,
+    "timestampMs": 788188,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 788820,
+    "endMs": 789057,
+    "timestampMs": 788820,
+    "confidence": null
+  },
+  {
+    "text": "skills",
+    "startMs": 789057,
+    "endMs": 789531,
+    "timestampMs": 789057,
+    "confidence": null
+  },
+  {
+    "text": "form",
+    "startMs": 789531,
+    "endMs": 789848,
+    "timestampMs": 789531,
+    "confidence": null
+  },
+  {
+    "text": "the",
+    "startMs": 789848,
+    "endMs": 790085,
+    "timestampMs": 789848,
+    "confidence": null
+  },
+  {
+    "text": "complete",
+    "startMs": 790085,
+    "endMs": 790717,
+    "timestampMs": 790085,
+    "confidence": null
+  },
+  {
+    "text": "artifact",
+    "startMs": 790717,
+    "endMs": 791350,
+    "timestampMs": 790717,
+    "confidence": null
+  },
+  {
+    "text": "system.",
+    "startMs": 791350,
+    "endMs": 792071,
+    "timestampMs": 791350,
+    "confidence": null
+  },
+  {
+    "text": "The",
+    "startMs": 792071,
+    "endMs": 792308,
+    "timestampMs": 792071,
+    "confidence": null
+  },
+  {
+    "text": "next",
+    "startMs": 792308,
+    "endMs": 792624,
+    "timestampMs": 792308,
+    "confidence": null
+  },
+  {
+    "text": "modules",
+    "startMs": 792624,
+    "endMs": 793178,
+    "timestampMs": 792624,
+    "confidence": null
+  },
+  {
+    "text": "cover",
+    "startMs": 793178,
+    "endMs": 793573,
+    "timestampMs": 793178,
+    "confidence": null
+  },
+  {
+    "text": "how",
+    "startMs": 793573,
+    "endMs": 793810,
+    "timestampMs": 793573,
+    "confidence": null
+  },
+  {
+    "text": "these",
+    "startMs": 793810,
+    "endMs": 794205,
+    "timestampMs": 793810,
+    "confidence": null
+  },
+  {
+    "text": "artifacts",
+    "startMs": 794205,
+    "endMs": 794917,
+    "timestampMs": 794205,
+    "confidence": null
+  },
+  {
+    "text": "are",
+    "startMs": 794917,
+    "endMs": 795154,
+    "timestampMs": 794917,
+    "confidence": null
+  },
+  {
+    "text": "packaged",
+    "startMs": 795154,
+    "endMs": 795786,
+    "timestampMs": 795154,
+    "confidence": null
+  },
+  {
+    "text": "into",
+    "startMs": 795786,
+    "endMs": 796102,
+    "timestampMs": 795786,
+    "confidence": null
+  },
+  {
+    "text": "collections",
+    "startMs": 796102,
+    "endMs": 796814,
+    "timestampMs": 796102,
+    "confidence": null
+  },
+  {
+    "text": "and",
+    "startMs": 796814,
+    "endMs": 797051,
+    "timestampMs": 796814,
+    "confidence": null
+  },
+  {
+    "text": "validated",
+    "startMs": 797051,
+    "endMs": 797762,
+    "timestampMs": 797051,
+    "confidence": null
+  },
+  {
+    "text": "through",
+    "startMs": 797762,
+    "endMs": 798316,
+    "timestampMs": 797762,
+    "confidence": null
+  },
+  {
+    "text": "CI.",
+    "startMs": 798316,
+    "endMs": 798800,
+    "timestampMs": 798316,
+    "confidence": null
+  }
+]

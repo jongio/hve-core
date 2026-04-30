@@ -1,0 +1,96 @@
+{
+  "moduleNum": 10,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 30320,
+      "durationMs": 30320,
+      "audioFile": "module-10/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 30320,
+      "endMs": 51280,
+      "durationMs": 20960,
+      "audioFile": "module-10/01-objectives.wav"
+    },
+    {
+      "id": "the-nine-method-sequence",
+      "index": 2,
+      "type": "content",
+      "title": "The Nine-Method Sequence",
+      "startMs": 51280,
+      "endMs": 185920,
+      "durationMs": 134640,
+      "audioFile": "module-10/02-the-nine-method-sequence.wav"
+    },
+    {
+      "id": "the-dt-coach-agent",
+      "index": 3,
+      "type": "content",
+      "title": "The DT Coach Agent",
+      "startMs": 185920,
+      "endMs": 390560,
+      "durationMs": 204640,
+      "audioFile": "module-10/03-the-dt-coach-agent.wav"
+    },
+    {
+      "id": "coaching-state-management",
+      "index": 4,
+      "type": "content",
+      "title": "Coaching State Management",
+      "startMs": 390560,
+      "endMs": 513840,
+      "durationMs": 123280,
+      "audioFile": "module-10/04-coaching-state-management.wav"
+    },
+    {
+      "id": "two-tier-instruction-architecture",
+      "index": 5,
+      "type": "content",
+      "title": "Two-Tier Instruction Architecture",
+      "startMs": 513840,
+      "endMs": 671200,
+      "durationMs": 157360,
+      "audioFile": "module-10/05-two-tier-instruction-architecture.wav"
+    },
+    {
+      "id": "industry-context-and-domain-adaptation",
+      "index": 6,
+      "type": "content",
+      "title": "Industry Context and Domain Adaptation",
+      "startMs": 671200,
+      "endMs": 789440,
+      "durationMs": 118240,
+      "audioFile": "module-10/06-industry-context-and-domain-adaptation.wav"
+    },
+    {
+      "id": "dt-to-rpi-handoff",
+      "index": 7,
+      "type": "content",
+      "title": "DT-to-RPI Handoff",
+      "startMs": 789440,
+      "endMs": 957160,
+      "durationMs": 167720,
+      "audioFile": "module-10/07-dt-to-rpi-handoff.wav"
+    },
+    {
+      "id": "outro",
+      "index": 8,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 957160,
+      "endMs": 1011880,
+      "durationMs": 54720,
+      "audioFile": "module-10/08-outro.wav"
+    }
+  ],
+  "totalDurationMs": 1011880
+}

@@ -1,0 +1,76 @@
+{
+  "moduleNum": 6,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 32440,
+      "durationMs": 32440,
+      "audioFile": "module-06/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 32440,
+      "endMs": 55800,
+      "durationMs": 23360,
+      "audioFile": "module-06/01-objectives.wav"
+    },
+    {
+      "id": "the-auto-apply-mechanism",
+      "index": 2,
+      "type": "content",
+      "title": "The Auto-Apply Mechanism",
+      "startMs": 55800,
+      "endMs": 214240,
+      "durationMs": 158440,
+      "audioFile": "module-06/02-the-auto-apply-mechanism.wav"
+    },
+    {
+      "id": "directory-organization",
+      "index": 3,
+      "type": "content",
+      "title": "Directory Organization",
+      "startMs": 214240,
+      "endMs": 404160,
+      "durationMs": 189920,
+      "audioFile": "module-06/03-directory-organization.wav"
+    },
+    {
+      "id": "pattern-composition-and-layering",
+      "index": 4,
+      "type": "content",
+      "title": "Pattern Composition and Layering",
+      "startMs": 404160,
+      "endMs": 543200,
+      "durationMs": 139040,
+      "audioFile": "module-06/04-pattern-composition-and-layering.wav"
+    },
+    {
+      "id": "frontmatter-schema-and-ci-validation",
+      "index": 5,
+      "type": "content",
+      "title": "Frontmatter Schema and CI Validation",
+      "startMs": 543200,
+      "endMs": 648520,
+      "durationMs": 105320,
+      "audioFile": "module-06/05-frontmatter-schema-and-ci-validation.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 648520,
+      "endMs": 686800,
+      "durationMs": 38280,
+      "audioFile": "module-06/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 686800
+}

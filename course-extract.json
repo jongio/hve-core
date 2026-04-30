@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "title": "What Is HVE Core?",
+    "semester": 1,
+    "semesterName": "Foundations",
+    "objectives": [
+      "Identify the problem HVE Core solves for teams using GitHub Copilot",
+      "Distinguish the four artifact types that compose the HVE Core library",
+      "Describe collection-driven architecture and how it organizes artifacts into distributable products",
+      "Recognize the range of teams and workflows HVE Core supports"
+    ],
+    "sections": [
+      "The Problem HVE Core Solves",
+      "The Four Artifact Types",
+      "architecture-overview",
+      "Collection-Driven Architecture",
+      "Who Uses HVE Core"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Installation and First Workflow",
+    "semester": 1,
+    "semesterName": "Foundations",
+    "objectives": [
+      "Compare the two VS Code extension options and select the appropriate one for your team",
+      "Execute a complete installation from the VS Code Marketplace",
+      "Launch a first agent conversation in Copilot Chat and observe artifact activation",
+      "Explain what happens behind the scenes when HVE Core loads into a workspace"
+    ],
+    "sections": [
+      "Two Extension Options",
+      "Step-by-Step Installation",
+      "Your First Agent Conversation",
+      "installation-flow",
+      "What Happens Behind the Scenes",
+      "Verifying the Installation"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "GitHub Copilot Extension Points",
+    "semester": 1,
+    "semesterName": "Foundations",
+    "objectives": [
+      "Explain the file format and frontmatter schema for each of the four Copilot extension point types",
+      "Describe how the `applyTo` glob mechanism enables automatic instruction binding",
+      "Differentiate agents, instructions, prompts, and skills by their activation model and output characteristics",
+      "Trace how Copilot discovers and loads each extension point type at runtime"
+    ],
+    "sections": [
+      "Custom Agents ΓÇö .agent.md Files",
+      "Instructions ΓÇö .instructions.md Files",
+      "extension-points-overview",
+      "Prompts ΓÇö .prompt.md Files",
+      "Skills ΓÇö SKILL.md Packages",
+      "Discovery and Loading at Runtime"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The RPI Methodology",
+    "semester": 1,
+    "semesterName": "Foundations",
+    "objectives": [
+      "Define the three phases of the RPI methodology and the output each phase produces",
+      "Trace the data flow between the Task Researcher, Task Planner, and Task Implementor agents",
+      "Explain how the Task Reviewer closes the feedback loop and enables iterative refinement",
+      "Identify when to use the full RPI cycle versus individual phase agents"
+    ],
+    "sections": [
+      "The Research Phase",
+      "The Plan Phase",
+      "rpi-workflow-flow",
+      "The Implement Phase",
+      "The Review Phase and Feedback Loop",
+      "The RPI Agent ΓÇö Full Orchestration"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Collections ΓÇö The Product Boundary",
+    "semester": 1,
+    "semesterName": "Foundations",
+    "objectives": [
+      "Define what a collection is and identify its two required files",
+      "Map the 13 collections to their functional domains and target audiences",
+      "Trace the packaging pipeline from collection manifest through extension output",
+      "Distinguish stable, preview, and experimental maturity levels and their implications for distribution"
+    ],
+    "sections": [
+      "What a Collection Is",
+      "The 13 Collections",
+      "collection-packaging-pipeline",
+      "The Packaging Pipeline",
+      "The Maturity Model",
+      "Collection Manifest Structure"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Agents ΓÇö Specialized AI Assistants",
+    "semester": 2,
+    "semesterName": "Core Components",
+    "objectives": [
+      "Distinguish agents from base Copilot and explain how agent files extend AI capabilities with persistent personas",
+      "Identify the 10 collection groupings and locate agent files within the `.github/agents/` directory structure",
+      "Describe the subagent architecture and how parent agents reference subagents through glob paths and frontmatter declarations"
+    ],
+    "sections": [
+      "What Agents Are",
+      "The Agent File Format",
+      "agent-hierarchy",
+      "The Ten Collection Groupings",
+      "Subagent Architecture"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Instructions ΓÇö Auto-Applied Coding Guidelines",
+    "semester": 2,
+    "semesterName": "Core Components",
+    "objectives": [
+      "Explain how instructions auto-apply to Copilot context through `applyTo` glob patterns matched against open files",
+      "Map the shared instruction layer and language-specific coding standards to their directory locations",
+      "Trace how multiple instruction files can match a single file and how schema validation enforces frontmatter correctness"
+    ],
+    "sections": [
+      "The Auto-Apply Mechanism",
+      "instruction-flow",
+      "Directory Organization",
+      "Overlapping Pattern Matches",
+      "Language-Specific Coding Standards",
+      "Schema Validation"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Prompts ΓÇö Reusable Task Templates",
+    "semester": 2,
+    "semesterName": "Core Components",
+    "objectives": [
+      "Define prompts as reusable task templates and distinguish their role from agents and instructions",
+      "Identify the prompt file format, frontmatter fields, and collection grouping conventions",
+      "Describe how prompts integrate with Copilot Chat through slash commands and the `agent` field"
+    ],
+    "sections": [
+      "Prompts vs Agents vs Instructions",
+      "The Prompt File Format",
+      "Collection Groupings",
+      "artifact-comparison",
+      "How Prompts Work with Slash Commands"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Skills ΓÇö Self-Contained Packages",
+    "semester": 2,
+    "semesterName": "Core Components",
+    "objectives": [
+      "Describe skill anatomy including the SKILL.md entry point, scripts, references, tests, and assets directories",
+      "Explain the Python skill requirements including pyproject.toml, ruff configuration, fuzz harness, and pytest integration",
+      "Trace the cross-platform scripting pattern where skills provide both Bash and PowerShell implementations validated by CI"
+    ],
+    "sections": [
+      "Skill Anatomy",
+      "skill-package-structure",
+      "Python Skill Requirements",
+      "Cross-Platform Scripting",
+      "Skill Validation Rules",
+      "Deep Dive ΓÇö The pr-reference Skill",
+      "Deep Dive ΓÇö The secure-by-design Skill"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Extension Packaging and Distribution",
+    "semester": 2,
+    "semesterName": "Core Components",
+    "objectives": [
+      "Describe the two-step packaging pipeline and how Prepare discovers artifacts while Package bundles them into a VSIX",
+      "Explain collection-scoped versus full builds and how maturity filtering controls what ships to production",
+      "Identify the two VS Code extension kinds and how workspace plus UI configuration supports remote development scenarios"
+    ],
+    "sections": [
+      "The Two-Step Pipeline",
+      "Artifact Discovery and Resolution",
+      "packaging-flow",
+      "Collection-Scoped vs Full Builds",
+      "Extension Kind ΓÇö Workspace and UI",
+      "Marketplace Publishing Automation"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The Validation Infrastructure",
+    "semester": 2,
+    "semesterName": "Core Components",
+    "objectives": [
+      "Enumerate the fifteen-plus specialized linters and describe what each validates across the artifact library",
+      "Explain the frontmatter schema validation system including schema mapping, JSON Schemas, and the validation script pipeline",
+      "Describe how `npm run lint:all` chains validation passes and how the infrastructure prevents structural entropy in a large prompt library"
+    ],
+    "sections": [
+      "The Linter Inventory",
+      "validation-tools",
+      "Frontmatter Schema Validation",
+      "Collection Metadata Validation",
+      "Preventing Structural Entropy"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Writing Custom Instructions",
+    "semester": 3,
+    "semesterName": "Building and Customizing",
+    "objectives": [
+      "Construct instruction files with valid frontmatter and body content",
+      "Configure applyTo glob patterns to target specific file types and directories",
+      "Layer shared and language-specific instructions for consistent Copilot behavior",
+      "Validate instruction files using schema validation and collection manifest updates"
+    ],
+    "sections": [
+      "Instruction File Anatomy",
+      "The applyTo Glob Pattern System",
+      "instruction-creation-flow",
+      "Shared vs Language-Specific Instruction Layers",
+      "Writing Effective Instruction Content",
+      "Schema Validation and Collection Manifests"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Building Custom Agents",
+    "semester": 3,
+    "semesterName": "Building and Customizing",
+    "objectives": [
+      "Define agent files with correct frontmatter fields including description, tools, model, and agents",
+      "Write system prompts that produce consistent, scoped agent behavior",
+      "Architect multi-agent systems using subagent references and glob-based resolution",
+      "Integrate agents into collection manifests and regenerate plugin outputs"
+    ],
+    "sections": [
+      "Agent File Anatomy",
+      "Writing Effective System Prompts",
+      "agent-subagent-architecture",
+      "Subagent Architecture and Glob-Based References",
+      "Testing Agents in Copilot Chat",
+      "Plugin Generation After Changes"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Creating Skills with Scripts and Tests",
+    "semester": 3,
+    "semesterName": "Building and Customizing",
+    "objectives": [
+      "Build skill packages with correct directory structure, SKILL.md frontmatter, and reference documents",
+      "Configure Python skills with pyproject.toml, ruff linting, pytest integration, and fuzz harness requirements",
+      "Implement cross-platform scripting patterns using both Bash and PowerShell",
+      "Validate skill packages using `npm run validate:skills` and manage maturity levels"
+    ],
+    "sections": [
+      "Skill Directory Structure and SKILL.md Anatomy",
+      "skill-package-structure",
+      "Python Skill Requirements",
+      "Cross-Platform Scripting Patterns",
+      "Reference Documents and Asset Management",
+      "Skill Validation and Maturity Levels"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "The Design Thinking Framework",
+    "semester": 3,
+    "semesterName": "Building and Customizing",
+    "objectives": [
+      "Trace the nine-method Design Thinking sequence through Problem Space, Solution Space, and Implementation Space",
+      "Distinguish method-tier and deep-tier instruction architecture for on-demand knowledge loading",
+      "Apply industry context files to adapt coaching for Manufacturing, Healthcare, and Energy domains",
+      "Configure coaching state persistence for session recovery and method progress tracking"
+    ],
+    "sections": [
+      "The Nine-Method Coaching System",
+      "dt-nine-methods-flow",
+      "Method-Tier vs Deep-Tier Instruction Architecture",
+      "Industry Context Files",
+      "Coaching State Persistence and Session Recovery",
+      "Integration with RPI for Implementation Handoff"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Security and RAI Planning Agents",
+    "semester": 3,
+    "semesterName": "Building and Customizing",
+    "objectives": [
+      "Trace the Security Planner's six-phase STRIDE-based threat modeling workflow",
+      "Describe the RAI Planner's six-phase Responsible AI assessment against NIST AI RMF 1.0",
+      "Explain the SSSC Planner's supply chain security assessment against OpenSSF Scorecard, SLSA, and Sigstore",
+      "Map the phased workflow architecture with state persistence and dual-format backlog handoff"
+    ],
+    "sections": [
+      "Security Planner ΓÇö STRIDE-Based Threat Modeling",
+      "RAI Planner ΓÇö Responsible AI Assessment",
+      "SSSC Planner ΓÇö Supply Chain Security",
+      "three-planners-phase-workflows",
+      "Phased Workflow Architecture and State Persistence",
+      "OWASP Skills and the Secure-by-Design Knowledge Base",
+      "Backlog Handoff ΓÇö From Findings to Work Items"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Supply Chain Security Deep Dive",
+    "semester": 4,
+    "semesterName": "Mastery",
+    "objectives": [
+      "Identify the threat model for prompt engineering repositories and explain why supply chain attacks apply to non-compiled artifacts",
+      "Trace the SHA pinning enforcement pipeline from commit through release, including Test-DependencyPinning.ps1, staleness detection, and version consistency checks",
+      "Evaluate how HVE Core integrates Gitleaks, CodeQL, SBOM generation, artifact attestation, and OpenSSF Scorecard into a layered security posture"
+    ],
+    "sections": [
+      "The Threat Model for Prompt Engineering Repos",
+      "SHA Pinning Enforcement",
+      "supply-chain-security-pipeline",
+      "SHA Staleness Detection and Automated Updates",
+      "Workflow Permissions and Secret Scanning",
+      "SBOM Generation and Artifact Attestation",
+      "OpenSSF Scorecard and Best Practices"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "CI/CD Pipeline Architecture",
+    "semester": 4,
+    "semesterName": "Mastery",
+    "objectives": [
+      "Map the orchestrator-to-reusable-workflow composition pattern used across HVE Core's 48 workflow files",
+      "Trace a pull request through the full validation fan-out, identifying which checks block merge and which are informational",
+      "Explain how the release pipeline chains release-please, extension packaging, SBOM generation, attestation, and marketplace publishing into an automated release flow"
+    ],
+    "sections": [
+      "Organizational Principles",
+      "The Orchestrator Pattern",
+      "cicd-pipeline-architecture",
+      "PR Validation Fan-Out",
+      "Release Automation with release-please",
+      "Marketplace Publishing",
+      "Test Integration"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Scaling HVE to Enterprise Teams",
+    "semester": 4,
+    "semesterName": "Mastery",
+    "objectives": [
+      "Design a collection-scoped deployment strategy that gives teams only the artifacts relevant to their technology stack and workflow",
+      "Apply the governance model ΓÇö maintainer roles, decision tiers, inactivity policies ΓÇö to manage HVE Core adoption across multiple teams",
+      "Assess HVE Core's current strengths and limitations honestly to set realistic expectations for enterprise adoption"
+    ],
+    "sections": [
+      "Collection-Scoped Installation",
+      "Governance Model",
+      "Label Taxonomy and Issue Templates",
+      "enterprise-deployment-topology",
+      "Maturity Model and Instruction Scoping",
+      "Honest Assessment"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Contributing to HVE Core",
+    "semester": 4,
+    "semesterName": "Mastery",
+    "objectives": [
+      "Configure a complete development environment using the DevContainer or manual toolchain and verify it against the full validation suite",
+      "Execute the contribution pipeline from fork through collection manifest updates, plugin regeneration, and pull request submission",
+      "Apply Conventional Commit conventions, understand the PR review process, and navigate the project's current contributor community"
+    ],
+    "sections": [
+      "Development Environment Setup",
+      "The Contribution Workflow",
+      "Running the Full Validation Suite",
+      "Collection Manifest and Plugin Management",
+      "contribution-pipeline",
+      "Commit Conventions and PR Expectations",
+      "The Contributor Community"
+    ]
+  }
+]

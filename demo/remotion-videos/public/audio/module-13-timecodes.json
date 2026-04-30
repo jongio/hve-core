@@ -1,0 +1,76 @@
+{
+  "moduleNum": 13,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 26600,
+      "durationMs": 26600,
+      "audioFile": "module-13/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 26600,
+      "endMs": 62520,
+      "durationMs": 35920,
+      "audioFile": "module-13/01-objectives.wav"
+    },
+    {
+      "id": "the-prepare-and-package-pipeline",
+      "index": 2,
+      "type": "content",
+      "title": "The Prepare and Package Pipeline",
+      "startMs": 62520,
+      "endMs": 205960,
+      "durationMs": 143440,
+      "audioFile": "module-13/02-the-prepare-and-package-pipeline.wav"
+    },
+    {
+      "id": "collection-scoped-and-full-builds",
+      "index": 3,
+      "type": "content",
+      "title": "Collection-Scoped and Full Builds",
+      "startMs": 205960,
+      "endMs": 338680,
+      "durationMs": 132720,
+      "audioFile": "module-13/03-collection-scoped-and-full-builds.wav"
+    },
+    {
+      "id": "cicd-workflow-categories",
+      "index": 4,
+      "type": "content",
+      "title": "CI/CD Workflow Categories",
+      "startMs": 338680,
+      "endMs": 595520,
+      "durationMs": 256840,
+      "audioFile": "module-13/04-cicd-workflow-categories.wav"
+    },
+    {
+      "id": "the-stable-release-pipeline",
+      "index": 5,
+      "type": "content",
+      "title": "The Stable Release Pipeline",
+      "startMs": 595520,
+      "endMs": 800560,
+      "durationMs": 205040,
+      "audioFile": "module-13/05-the-stable-release-pipeline.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 800560,
+      "endMs": 869600,
+      "durationMs": 69040,
+      "audioFile": "module-13/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 869600
+}

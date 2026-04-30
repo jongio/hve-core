@@ -1,0 +1,76 @@
+{
+  "moduleNum": 2,
+  "sections": [
+    {
+      "id": "intro",
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "startMs": 0,
+      "endMs": 17920,
+      "durationMs": 17920,
+      "audioFile": "module-02/00-intro.wav"
+    },
+    {
+      "id": "objectives",
+      "index": 1,
+      "type": "objectives",
+      "title": "Objectives",
+      "startMs": 17920,
+      "endMs": 38520,
+      "durationMs": 20600,
+      "audioFile": "module-02/01-objectives.wav"
+    },
+    {
+      "id": "three-installation-paths",
+      "index": 2,
+      "type": "content",
+      "title": "Three Installation Paths",
+      "startMs": 38520,
+      "endMs": 226720,
+      "durationMs": 188200,
+      "audioFile": "module-02/02-three-installation-paths.wav"
+    },
+    {
+      "id": "step-by-step-marketplace-install",
+      "index": 3,
+      "type": "content",
+      "title": "Step-by-Step Marketplace Install",
+      "startMs": 226720,
+      "endMs": 325080,
+      "durationMs": 98360,
+      "audioFile": "module-02/03-step-by-step-marketplace-install.wav"
+    },
+    {
+      "id": "verification-checklist",
+      "index": 4,
+      "type": "content",
+      "title": "Verification Checklist",
+      "startMs": 325080,
+      "endMs": 434680,
+      "durationMs": 109600,
+      "audioFile": "module-02/04-verification-checklist.wav"
+    },
+    {
+      "id": "first-agent-conversation",
+      "index": 5,
+      "type": "content",
+      "title": "First Agent Conversation",
+      "startMs": 434680,
+      "endMs": 540400,
+      "durationMs": 105720,
+      "audioFile": "module-02/05-first-agent-conversation.wav"
+    },
+    {
+      "id": "outro",
+      "index": 6,
+      "type": "outro",
+      "title": "Outro",
+      "startMs": 540400,
+      "endMs": 575080,
+      "durationMs": 34680,
+      "audioFile": "module-02/06-outro.wav"
+    }
+  ],
+  "totalDurationMs": 575080
+}

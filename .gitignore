@@ -473,3 +473,9 @@ dependency-pinning-artifacts/
 docs/docusaurus/build/
 docs/docusaurus/.docusaurus/
 docs/docusaurus/node_modules/
+
+# Course video/audio artifacts (large binary files)
+demo/site/videos/*.mp4
+demo/remotion-videos/public/audio/*.wav
+demo/remotion-videos/public/audio/module-*/
+.playwright-mcp/
