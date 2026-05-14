@@ -23,17 +23,17 @@ evals/
 
 ```bash
 # Lint all eval specs (no execution, fast)
-npm run eval:lint
+vally lint --eval evals/
 
 # Run all evals
-npm run eval
+vally eval
 
 # Run a specific suite
-npm run eval -- --suite skill-quality
-npm run eval -- --suite deterministic
+vally eval --suite skill-quality
+vally eval --suite deterministic
 
 # Compare results against baseline
-npm run eval:compare
+vally compare
 ```
 
 ## Adding new evals
@@ -43,7 +43,7 @@ npm run eval:compare
    - `copilot-sdk` for testing skill/agent behavior (non-deterministic, use `runs: 3`+).
    - `mock` for testing scripts/validators (deterministic, use `runs: 1`).
 3. Write per-stimulus graders (one stimulus per test case).
-4. Run `npm run eval:lint` to validate the spec.
+4. Run `vally lint --eval evals/` to validate the spec.
 5. Tag stimuli with `category` matching a suite filter in `.vally.yaml`.
 
 ## Anti-patterns
