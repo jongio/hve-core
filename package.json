@@ -45,10 +45,14 @@
     "clean:logs": "pwsh -NoProfile -Command \"Get-ChildItem -Path logs -File -Recurse -Exclude .gitkeep | Remove-Item -Force\"",
     "docs:build": "npm --prefix docs/docusaurus run build",
     "docs:test": "npm --prefix docs/docusaurus test",
-    "docs:serve": "npm --prefix docs/docusaurus run serve"
+    "docs:serve": "npm --prefix docs/docusaurus run serve",
+    "eval": "vally eval",
+    "eval:lint": "vally lint --eval evals/",
+    "eval:compare": "vally compare"
   },
   "devDependencies": {
     "@cspell/cspell-json-reporter": "10.0.0",
+    "@microsoft/vally-cli": "0.4.0",
     "@vscode/vsce": "3.9.1",
     "audit-ci": "7.1.0",
     "cspell": "10.0.0",

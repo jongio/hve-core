@@ -1,0 +1,22 @@
+paths:
+  evals: evals
+  results: results/
+
+suites:
+  skill-quality:
+    description: Evaluate skill behavior via copilot-sdk agent conversations
+    filter:
+      tags:
+        category: skill-quality
+
+  agent-behavior:
+    description: Evaluate agent routing and response quality
+    filter:
+      tags:
+        category: agent-behavior
+
+  deterministic:
+    description: Validate deterministic script correctness via mock executor
+    filter:
+      tags:
+        category: deterministic
