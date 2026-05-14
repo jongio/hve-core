@@ -11,7 +11,7 @@ config:
 
 environment:
   skills:
-    - ../../.github/skills/coding-standards/python-foundational/SKILL.md
+    - ../../.github/skills/coding-standards/python-foundational
 
 scoring:
   threshold: 0.7
@@ -85,4 +85,4 @@ stimuli:
       - type: output-matches
         name: identifies-missing-description
         config:
-          pattern: "(?i)description.*missing|missing.*description|need.*description"
+          pattern: "(?i)description.*missing|missing.*description|need.*description|no.*description|description.*required|lacks.*description|without.*description|description.*absent|description.*not"

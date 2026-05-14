@@ -11,8 +11,8 @@ config:
 
 environment:
   skills:
-    - ../../.github/skills/security/owasp-top-10/SKILL.md
-    - ../../.github/skills/coding-standards/python-foundational/SKILL.md
+    - ../../.github/skills/security/owasp-top-10
+    - ../../.github/skills/coding-standards/python-foundational
 
 scoring:
   threshold: 0.7
