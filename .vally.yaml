@@ -1,6 +1,6 @@
 paths:
   evals: evals
-  results: results/
+  results: evals/results/
 
 suites:
   skill-quality:
@@ -15,8 +15,8 @@ suites:
       tags:
         category: agent-behavior
 
-  deterministic:
-    description: Validate deterministic script correctness via mock executor
+  script-validation:
+    description: Validate script correctness via copilot-sdk conversations
     filter:
       tags:
-        category: deterministic
+        category: script-validation

@@ -31,7 +31,7 @@ stimuli:
       Does this follow valid skill structure conventions? What required
       elements are present?
     tags:
-      category: deterministic
+      category: script-validation
       script: skill-validation
     graders:
       - type: output-matches
@@ -56,7 +56,7 @@ stimuli:
       ```
       Is this a valid skill structure? What's missing?
     tags:
-      category: deterministic
+      category: script-validation
       script: skill-validation
     graders:
       - type: output-matches
@@ -79,7 +79,7 @@ stimuli:
       Is this frontmatter complete for a skill file? What fields
       are missing according to skill conventions?
     tags:
-      category: deterministic
+      category: script-validation
       script: frontmatter-validation
     graders:
       - type: output-matches

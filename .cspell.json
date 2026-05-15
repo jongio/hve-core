@@ -24,7 +24,8 @@
     "**/Cargo.lock",
     "CHANGELOG.md",
     "logs/**",
-    "docs/docusaurus/build/**"
+    "docs/docusaurus/build/**",
+    "evals/**/*.yaml"
   ],
   "ignoreRegExpList": [
     "/#.*/g",
@@ -77,7 +78,10 @@
     "whiteboarding",
     "ˈpræksɪs",
     "πρᾶξις",
-    "agentic"
+    "agentic",
+    "evals",
+    "skillmd",
+    "vally"
   ],
   "reporters": [
     "default",
