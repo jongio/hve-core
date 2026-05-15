@@ -34,7 +34,7 @@ stimuli:
       - type: output-matches
         name: references-parameterized-queries
         config:
-          pattern: "(?i)parameterized|prepared.statement|input.validation"
+          pattern: "(?i)parameterized|prepared.statement"
 
   - name: owasp-top10-identify-broken-access
     prompt: |
@@ -51,6 +51,7 @@ stimuli:
       - type: output-matches
         name: suggests-authorization-check
         config:
+          # cspell:disable-next-line
           pattern: "(?i)authori[sz]ation|access.control|ownership.check|server.side"
 
   - name: owasp-cicd-pipeline-poisoning

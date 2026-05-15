@@ -1,8 +1,10 @@
 name: agent-behavior
 description: >
-  Evaluate hve-core agent behavior via copilot-sdk. Tests that agents
-  respond with correct structure, apply their specialized perspectives,
-  and stay within defined boundaries.
+  Evaluate hve-core skill+agent behavior via copilot-sdk. Tests that the
+  combination of skills loaded in an agent context produces correct structure,
+  applies specialized perspectives, and stays within defined boundaries.
+  Note: Tests skill behavior under agent-style prompts rather than invoking
+  a specific .agent.md file directly (Vally does not yet support agent routing).
 type: capability
 config:
   runs: 3
@@ -35,7 +37,7 @@ stimuli:
       - type: output-matches
         name: identifies-sql-injection
         config:
-          pattern: "(?i)sql.injection|parameterized|sql.concat"
+          pattern: "(?i)\\bsql\\s*injection\\b|\\binjection\\b"
       - type: output-matches
         name: provides-remediation
         config:
@@ -61,4 +63,5 @@ stimuli:
       - type: output-matches
         name: identifies-missing-validation
         config:
+          # cspell:disable-next-line
           pattern: "(?i)validat|check|verify|amount|negative"

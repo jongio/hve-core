@@ -2,7 +2,8 @@ name: script-validation
 description: >
   Validate that agents correctly identify valid and invalid skill
   structures when presented with file listings. Uses copilot-sdk
-  to test real agent reasoning about validation rules.
+  to test real agent reasoning about validation rules. Will migrate
+  to the mock executor when the deterministic plugin ships.
 type: capability
 config:
   runs: 3

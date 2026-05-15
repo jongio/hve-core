@@ -1,6 +1,6 @@
 paths:
   evals: evals
-  results: evals/results/
+  results: evals/results
 
 suites:
   skill-quality:
