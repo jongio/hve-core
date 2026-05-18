@@ -58,5 +58,3 @@ npx vally compare
 * Don't use `output-contains` as the sole grader for qualitative agent output.
 * Don't bundle multiple test cases into one stimulus with an aggregate grader.
 * Don't pin models in eval specs.
-
-🤖 Crafted with precision by ✨Copilot following brilliant human instruction, then carefully refined by our team of discerning human reviewers.
